@@ -1,0 +1,819 @@
+{
+    "type": "Pro Tour Team Series",
+    "coverage": "https://magic.wizards.com/en/events/protour/teamseries/2017-18-leaderboard",
+    "date": "July 31, 2017 - September 23, 2018",
+    "formats": [
+        "Standard, Modern, Legacy, Draft, Team Sealed"
+    ],
+    "id": "pro-tour-team-series-2017-18",
+    "logo": "ptlogo.png",
+    "name": "Pro Tour Team Series 2017-18",
+    "standings": [
+        {
+            "money": 17000,
+            "name": "Andrew Cuneo"
+        },
+        {
+            "money": 17000,
+            "name": "Reid Duke"
+        },
+        {
+            "money": 17000,
+            "name": "Jon Finkel"
+        },
+        {
+            "money": 17000,
+            "name": "William Jensen"
+        },
+        {
+            "money": 17000,
+            "name": "Paul Rietzl"
+        },
+        {
+            "money": 17000,
+            "name": "Owen Turtenwald"
+        },
+        {
+            "money": 8500,
+            "name": "Lucas Esper Berthoud"
+        },
+        {
+            "money": 8500,
+            "name": "Marcio Carvalho"
+        },
+        {
+            "money": 8500,
+            "name": "Sebastian Pozzo"
+        },
+        {
+            "money": 8500,
+            "name": "Carlos Romao"
+        },
+        {
+            "money": 8500,
+            "name": "Luis Salvatto"
+        },
+        {
+            "money": 8500,
+            "name": "Thiago Saporito"
+        },
+        {
+            "money": 4000,
+            "name": "Paulo Vitor Damo da Rosa"
+        },
+        {
+            "money": 4000,
+            "name": "Martin Juza"
+        },
+        {
+            "money": 4000,
+            "name": "Luis Scott-Vargas"
+        },
+        {
+            "money": 4000,
+            "name": "Mike Sigrist"
+        },
+        {
+            "money": 4000,
+            "name": "Ben Stark"
+        },
+        {
+            "money": 4000,
+            "name": "Josh Utter-Leyton"
+        },
+        {
+            "money": 4000,
+            "name": "Brandon Ayers"
+        },
+        {
+            "money": 4000,
+            "name": "Tom Martell"
+        },
+        {
+            "money": 4000,
+            "name": "Mattia Rizzi"
+        },
+        {
+            "money": 4000,
+            "name": "John Rolf"
+        },
+        {
+            "money": 4000,
+            "name": "Shahar Shenhar"
+        },
+        {
+            "money": 4000,
+            "name": "Jacob Wilson"
+        },
+        {
+            "name": "Corey Baumeister"
+        },
+        {
+            "name": "Lukas Blohon"
+        },
+        {
+            "name": "Brian Braun-Duin"
+        },
+        {
+            "name": "Seth Manfield"
+        },
+        {
+            "name": "Martin Muller"
+        },
+        {
+            "name": "Brad Nelson"
+        },
+        {
+            "name": "Christian Calcano"
+        },
+        {
+            "name": "Jeremy Dezani"
+        },
+        {
+            "name": "Javier Dominguez"
+        },
+        {
+            "name": "Raphael Levy"
+        },
+        {
+            "name": "Andrea Mengucci"
+        },
+        {
+            "name": "Tomoharu Saito"
+        },
+        {
+            "name": "Yuuki Ichikawa"
+        },
+        {
+            "name": "Teruya Kakumae"
+        },
+        {
+            "name": "Yuuya Watanabe"
+        },
+        {
+            "name": "Kentaro Yamamoto"
+        },
+        {
+            "name": "Shota Yasooka"
+        },
+        {
+            "name": "Ken Yukuhiro"
+        },
+        {
+            "name": "Kelvin Chew"
+        },
+        {
+            "name": "Jason Chung"
+        },
+        {
+            "name": "Hao-Shan Huang"
+        },
+        {
+            "name": "Lee Shi Tian"
+        },
+        {
+            "name": "Eduardo Sajgalik"
+        },
+        {
+            "name": "Wing Chun Yam"
+        },
+        {
+            "name": "Patrick Dickmann"
+        },
+        {
+            "name": "Steve Hatto"
+        },
+        {
+            "name": "Elias Klocker"
+        },
+        {
+            "name": "Valentin Mackl"
+        },
+        {
+            "name": "Panagiotis Papadopoulos"
+        },
+        {
+            "name": "Aleksa Telarov"
+        },
+        {
+            "name": "Corey Burkhart"
+        },
+        {
+            "name": "Eric Froehlich"
+        },
+        {
+            "name": "Richard Hoaen"
+        },
+        {
+            "name": "Gabriel Nassif"
+        },
+        {
+            "name": "Ben Rubin"
+        },
+        {
+            "name": "David Williams"
+        },
+        {
+            "name": "Samuel Black"
+        },
+        {
+            "name": "Ivan Floch"
+        },
+        {
+            "name": "Alexander Hayne"
+        },
+        {
+            "name": "Matthew Nass"
+        },
+        {
+            "name": "Samuel Pardee"
+        },
+        {
+            "name": "Steve Rubin"
+        },
+        {
+            "name": "Joshua Cho"
+        },
+        {
+            "name": "Ben Friedman"
+        },
+        {
+            "name": "Ondrej Strasky"
+        },
+        {
+            "name": "Matthew Severa"
+        },
+        {
+            "name": "Gerry Thompson"
+        },
+        {
+            "name": "Oliver Tiu"
+        },
+        {
+            "name": "Martin Dang"
+        },
+        {
+            "name": "Paul Dean"
+        },
+        {
+            "name": "Thomas Hendriks"
+        },
+        {
+            "name": "Christoffer Larsen"
+        },
+        {
+            "name": "Joel Larsson"
+        },
+        {
+            "name": "Petr Sochurek"
+        },
+        {
+            "name": "Michael Cochran"
+        },
+        {
+            "name": "William Craddock"
+        },
+        {
+            "name": "Jonathan Morawski"
+        },
+        {
+            "name": "Jacob Nagro"
+        },
+        {
+            "name": "Collin Rountree"
+        },
+        {
+            "name": "Jonathan Sukenik"
+        },
+        {
+            "name": "Kazuaki Fujimura"
+        },
+        {
+            "name": "Riku Kumagai"
+        },
+        {
+            "name": "Toru Inoue"
+        },
+        {
+            "name": "Shuhei Nakamura"
+        },
+        {
+            "name": "Kazuyuki Takimura"
+        },
+        {
+            "name": "Yuta Takahashi"
+        },
+        {
+            "name": "Pascal Maynard"
+        },
+        {
+            "name": "Shaun McLaren"
+        },
+        {
+            "name": "Rob Pisano"
+        },
+        {
+            "name": "Eric Severson"
+        },
+        {
+            "name": "Jon Stern"
+        },
+        {
+            "name": "Benjamin Weitz"
+        },
+        {
+            "name": "Thoralf Severin"
+        },
+        {
+            "name": "Jasper Grimmer"
+        },
+        {
+            "name": "Martin Hrycej"
+        },
+        {
+            "name": "Arne Huschenbeth"
+        },
+        {
+            "name": "Leon Van Der Linden"
+        },
+        {
+            "name": "Pascal Vieren"
+        },
+        {
+            "name": "Tsuyoshi Fujita"
+        },
+        {
+            "name": "Yuuta Hirosawa"
+        },
+        {
+            "name": "Yuki Matsumoto"
+        },
+        {
+            "name": "Makihito Mihara"
+        },
+        {
+            "name": "Ryoichi Tamada"
+        },
+        {
+            "name": "Kenji Tsumura"
+        },
+        {
+            "name": "Michael Bonde"
+        },
+        {
+            "name": "Bill Chronopoulos"
+        },
+        {
+            "name": "Ryan Cubit"
+        },
+        {
+            "name": "Vitor Grassato"
+        },
+        {
+            "name": "Grzegorz Kowalski"
+        },
+        {
+            "name": "Makis Matsoukas"
+        },
+        {
+            "name": "Thomas Ashton"
+        },
+        {
+            "name": "Mark Jacobson"
+        },
+        {
+            "name": "Ari Lax"
+        },
+        {
+            "name": "Scott Lipp"
+        },
+        {
+            "name": "Timothy Wu"
+        },
+        {
+            "name": "Jarvis Yu"
+        },
+        {
+            "name": "Robert Graves"
+        },
+        {
+            "name": "Eli Kassis"
+        },
+        {
+            "name": "Jack Kiefer"
+        },
+        {
+            "name": "Joe Lossett"
+        },
+        {
+            "name": "Shaheen Soorani"
+        },
+        {
+            "name": "Noah Walker"
+        },
+        {
+            "name": "Pierre Dagen"
+        },
+        {
+            "name": "Niels Molle"
+        },
+        {
+            "name": "Niels Noorlander"
+        },
+        {
+            "name": "Oliver Polak-Rottmann"
+        },
+        {
+            "name": "Marc Tobiasch"
+        },
+        {
+            "name": "Peter Vieren"
+        },
+        {
+            "name": "Marcos Paulo de Jesus Freitas"
+        },
+        {
+            "name": "Willy Edel"
+        },
+        {
+            "name": "Jonathan Melamed"
+        },
+        {
+            "name": "Guilherme Merjam"
+        },
+        {
+            "name": "Bernardo Santos"
+        },
+        {
+            "name": "Eduardo dos Santos Vieira"
+        },
+        {
+            "name": "Gerard Fabiano"
+        },
+        {
+            "name": "Anthony Lee"
+        },
+        {
+            "name": "David Mines"
+        },
+        {
+            "name": "Simon Nielsen"
+        },
+        {
+            "name": "Samuel Tharmaratnam"
+        },
+        {
+            "name": "Zen Takahashi"
+        },
+        {
+            "name": "Felix Leong"
+        },
+        {
+            "name": "Fabien Li"
+        },
+        {
+            "name": "Ernest Lim"
+        },
+        {
+            "name": "Zhong Yi Lim"
+        },
+        {
+            "name": "Jun Hao Tay"
+        },
+        {
+            "name": "Zhijian Yang"
+        },
+        {
+            "name": "Torsten Anders"
+        },
+        {
+            "name": "Joshua Bausch"
+        },
+        {
+            "name": "Christian Hauck"
+        },
+        {
+            "name": "Florian Koch"
+        },
+        {
+            "name": "Benjamin Luft"
+        },
+        {
+            "name": "Michael Steinecke"
+        },
+        {
+            "name": "Jackson Hicks"
+        },
+        {
+            "name": "Samuel Ihlenfeldt"
+        },
+        {
+            "name": "Alex Johnson"
+        },
+        {
+            "name": "Matt Sikkink Johnson"
+        },
+        {
+            "name": "Scott Markeson"
+        },
+        {
+            "name": "Daniel Weiser"
+        },
+        {
+            "name": "Bolun Zhang"
+        },
+        {
+            "name": "Yuchen Liu"
+        },
+        {
+            "name": "Qi Wentao"
+        },
+        {
+            "name": "Chuan Sun"
+        },
+        {
+            "name": "Zile Yao"
+        },
+        {
+            "name": "Ding Yi"
+        },
+        {
+            "name": "Tyler Hill"
+        },
+        {
+            "name": "Ben Hull"
+        },
+        {
+            "name": "Adam Jansen"
+        },
+        {
+            "name": "Stephen Neal"
+        },
+        {
+            "name": "Greg Orange"
+        },
+        {
+            "name": "Andrejs Prost"
+        },
+        {
+            "name": "Alexandre Aurejac"
+        },
+        {
+            "name": "Eliott Boussaud"
+        },
+        {
+            "name": "Alexandre Habert"
+        },
+        {
+            "name": "Guillaume Perbet"
+        },
+        {
+            "name": "Florian Trotte"
+        },
+        {
+            "name": "Samuel Vuillot"
+        },
+        {
+            "name": "Federico del Basso"
+        },
+        {
+            "name": "Marco Cammilluzzi"
+        },
+        {
+            "name": "Carmine D'Aniello"
+        },
+        {
+            "name": "Carlos Alexandre dos Santos Esteves"
+        },
+        {
+            "name": "Alessandro Lippi"
+        },
+        {
+            "name": "Matteo Moure"
+        },
+        {
+            "name": "Andrew Baeckstrom"
+        },
+        {
+            "name": "Ricky Chin"
+        },
+        {
+            "name": "Patrick Cox"
+        },
+        {
+            "name": "Alex Majlaton"
+        },
+        {
+            "name": "Willy Edel"
+        },
+        {
+            "name": "Alex Majlaton"
+        },
+        {
+            "name": "David Ochoa"
+        },
+        {
+            "name": "Gaudenis Vidugiris"
+        },
+        {
+            "name": "Daniel Cathro"
+        },
+        {
+            "name": "Andreas Ganz"
+        },
+        {
+            "name": "Michael Hinderaker"
+        },
+        {
+            "name": "David Irvine"
+        },
+        {
+            "name": "Anand Khare"
+        },
+        {
+            "name": "Alex Sittner"
+        },
+        {
+            "name": "Ralph Betesh"
+        },
+        {
+            "name": "Evan Esposito"
+        },
+        {
+            "name": "Ryan Hare"
+        },
+        {
+            "name": "Joey Manner"
+        },
+        {
+            "name": "Jeff Pyka"
+        },
+        {
+            "name": "Adam Ragsdale"
+        },
+        {
+            "name": "Robert Anderson"
+        },
+        {
+            "name": "Daniel Fournier"
+        },
+        {
+            "name": "Mathew Kelly"
+        },
+        {
+            "name": "Dean McLaren"
+        },
+        {
+            "name": "Doug Potter"
+        },
+        {
+            "name": "Vidianto Wijaya"
+        },
+        {
+            "name": "Luke Feeney"
+        },
+        {
+            "name": "Ethan Gaieski"
+        },
+        {
+            "name": "Zack Kanner"
+        },
+        {
+            "name": "Evan Petre"
+        },
+        {
+            "name": "Ray Tautic"
+        },
+        {
+            "name": "Oliver Tomajko"
+        },
+        {
+            "name": "Maxime Auger"
+        },
+        {
+            "name": "Brandon Goe"
+        },
+        {
+            "name": "Sam Harwood"
+        },
+        {
+            "name": "Brendon Johnson"
+        },
+        {
+            "name": "Nate Kahovec"
+        },
+        {
+            "name": "Alexander Wilson"
+        },
+        {
+            "name": "Ryder Aguilera"
+        },
+        {
+            "name": "Kristopher Mccord"
+        },
+        {
+            "name": "Collins Mullen"
+        },
+        {
+            "name": "Avenash Pernankil"
+        },
+        {
+            "name": "Patrick Tierney"
+        },
+        {
+            "name": "Trey Van Cleave"
+        },
+        {
+            "name": "Jean-Francois Betit"
+        },
+        {
+            "name": "Tzu-Mainn Chen"
+        },
+        {
+            "name": "Slater Claudel"
+        },
+        {
+            "name": "Benjamin Coursey"
+        },
+        {
+            "name": "Ryan Schumacher"
+        },
+        {
+            "name": "Christian Trudel"
+        },
+        {
+            "name": "Jose Cabezas Munoz"
+        },
+        {
+            "name": "Antonio Del Moral Leon"
+        },
+        {
+            "name": "Sergio Ferrer Rozalen"
+        },
+        {
+            "name": "Alberto Galicia"
+        },
+        {
+            "name": "Fernando Gueler Berdasco"
+        },
+        {
+            "name": "Ivan Ojeda"
+        },
+        {
+            "name": "Joseph Kambourakis"
+        },
+        {
+            "name": "Alex Lloyd"
+        },
+        {
+            "name": "Kei Rong"
+        },
+        {
+            "name": "Neal Sacks"
+        },
+        {
+            "name": "Seth Spinner"
+        },
+        {
+            "name": "Nathaniel Walker"
+        },
+        {
+            "name": "Hoi Chick"
+        },
+        {
+            "name": "Jake Hart"
+        },
+        {
+            "name": "Farand Lee"
+        },
+        {
+            "name": "Lee Wing Tat"
+        },
+        {
+            "name": "Joe Lam"
+        },
+        {
+            "name": "Syndy Sum Chung"
+        },
+        {
+            "name": "Nathan Basser"
+        },
+        {
+            "name": "Raphael Coors"
+        },
+        {
+            "name": "Karl Eyre"
+        },
+        {
+            "name": "Micheal Maurici"
+        },
+        {
+            "name": "Jarron Puszet"
+        },
+        {
+            "name": "Joe Soh"
+        }
+    ],
+    "teamsize": 6
+    
+}
