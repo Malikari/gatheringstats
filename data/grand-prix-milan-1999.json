@@ -1,0 +1,56 @@
+{
+    "type": "Grand Prix",
+    "coverage": "https://magic.wizards.com/en/events/coverage/gpmilan99",
+    "date": "November 6-7, 1999",
+    "formats": [
+        "Block Constructed"
+    ],
+    "id": "grand-prix-milan-1999",
+    "location": "Milan, Italy",
+    "logo": "gplogo.png",
+    "name": "Grand Prix Milan 1999",
+    "standings": [
+        {
+            "money": 2000,
+            "name": "Ziga Fritz",
+            "propoints": 6
+        },
+        {
+            "money": 1600,
+            "name": "Raphael Gennari",
+            "propoints": 5
+        },
+        {
+            "money": 1300,
+            "name": "William Cavaglieri",
+            "propoints": 4
+        },
+        {
+            "money": 1300,
+            "name": "Mario Delucis",
+            "propoints": 4
+        },
+        {
+            "money": 500,
+            "name": "Ivan Solaja",
+            "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Micha Schulte-Middelich",
+            "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Ivan Curina",
+            "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Sasha Zorc",
+            "propoints": 3
+        }
+    ],
+    "teamsize": 1
+    
+}

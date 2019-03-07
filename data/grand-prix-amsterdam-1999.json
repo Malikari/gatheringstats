@@ -1,0 +1,57 @@
+{
+    "type": "Grand Prix",
+    "coverage": "https://magic.wizards.com/en/events/coverage/gpams99",
+    "date": "May 15-16, 1999",
+    "formats": [
+        "Sealed Deck",
+        "Booster Draft"
+    ],
+    "id": "grand-prix-amsterdam-1999",
+    "location": "Amsterdam, Netherlands",
+    "logo": "gplogo.png",
+    "name": "Grand Prix Amsterdam 1999",
+    "standings": [
+        {
+            "money": 2000,
+            "name": "Kai Budde",
+            "propoints": 6
+        },
+        {
+            "money": 1600,
+            "name": "Dirk Baberowski",
+            "propoints": 5
+        },
+        {
+            "money": 1300,
+            "name": "Andre Konstanczer",
+            "propoints": 4
+        },
+        {
+            "money": 1300,
+            "name": "Guido Pacifici",
+            "propoints": 4
+        },
+        {
+            "money": 500,
+            "name": "Bram Snepvangers",
+            "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Janosch Kühn",
+            "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Daniel Steinsdörfer",
+            "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Vincent Gieling",
+            "propoints": 3
+        }
+    ],
+    "teamsize": 1
+    
+}

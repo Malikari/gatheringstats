@@ -1,0 +1,57 @@
+{
+    "type": "Grand Prix",
+    "coverage": "https://magic.wizards.com/en/events/coverage/gposl99",
+    "date": "April 10-11, 1999",
+    "formats": [
+        "Sealed Deck",
+        "Booster Draft"
+    ],
+    "id": "grand-prix-oslo-1999",
+    "location": "Oslo, Norway",
+    "logo": "gplogo.png",
+    "name": "Grand Prix Oslo 1999",
+    "standings": [
+        {
+            "money": 2000,
+            "name": "Jim Herold",
+            "propoints": 6
+        },
+        {
+            "money": 1600,
+            "name": "Mikko Lintamo",
+            "propoints": 5
+        },
+        {
+            "money": 1300,
+            "name": "Christer Ljones",
+            "propoints": 4
+        },
+        {
+            "money": 1300,
+            "name": "Bjorn Skogseth",
+            "propoints": 4
+        },
+        {
+            "money": 500,
+            "name": "Seppo Toikka",
+            "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Steven O'Mahoney-Schwartz",
+            "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Andre Konstanczer",
+            "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Jonathan Brown",
+            "propoints": 3
+        }
+    ],
+    "teamsize": 1
+    
+}

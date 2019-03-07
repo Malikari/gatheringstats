@@ -1,0 +1,57 @@
+{
+    "type": "Grand Prix",
+    "coverage": "https://magic.wizards.com/en/events/coverage/gpsp00",
+    "date": "November 6-7, 1999",
+    "formats": [
+        "Sealed Deck",
+        "Booster Draft"
+    ],
+    "id": "grand-prix-sao-paulo-1999",
+    "location": "Sao Paulo, Brazil",
+    "logo": "gplogo.png",
+    "name": "Grand Prix Sao Paulo 1999",
+    "standings": [
+        {
+            "money": 2100,
+            "name": "Rafael Alvarenga",
+            "propoints": 6
+        },
+        {
+            "money": 1500,
+            "name": "Douglas Maioli",
+            "propoints": 5
+        },
+        {
+            "money": 1000,
+            "name": "Carlos Mao",
+            "propoints": 4
+        },
+        {
+            "money": 1000,
+            "name": "Alex Shvartsman",
+            "propoints": 4
+        },
+        {
+            "money": 500,
+            "name": "Carlos Romao",
+            "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Eduardo Teixeira",
+            "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Fernando Moreira Bandeira",
+            "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Rodrigo Constanza",
+            "propoints": 3
+        }
+    ],
+    "teamsize": 1
+    
+}
