@@ -48,7 +48,7 @@ const Tournament = props => {
               <tr className={t.getPlayerClassName(index)} key={p.id}>
                 <td>{p.rank || t.getPlayerIndex(index) + 1}</td>
                 <td>
-                  <PlayerLink player={Players.byID(p.id)} />{' '}
+                  <PlayerLink player={Players.byID(p.id)} countryOverrides={t.getNationalityInfo(index)}/>{' '}
                   {p.report ? <a href={p.report}>(report)</a> : null}
                 </td>
                 <td>{p.propoints}</td>

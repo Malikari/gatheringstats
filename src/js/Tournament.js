@@ -43,4 +43,11 @@ export default class Tournament {
   getPlayerClassName(index) {
     return this.getResultClassName(this.getPlayerIndex(index) + 1);
   }
+
+  getNationalityInfo(index) {
+    if (this.standings[index].nationality) {
+      return {flag: this.standings[index].flag, nationality: this.standings[index].nationality};
+    }
+    return null;
+  }
 }

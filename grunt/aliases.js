@@ -18,6 +18,7 @@ module.exports = function(grunt) {
       return _tournaments;
     }
     _tournaments = {};
+    var countries = loadCountries();
     grunt.file.recurse('./data/', function(abspath, rootdir, subdir, filename) {
       if (
         filename.endsWith('.json') &&
@@ -30,6 +31,22 @@ module.exports = function(grunt) {
           _tournaments[tid].standings,
           function(p) {
             p.id = nameToID(p.name);
+            if (p.nationality) {
+                if (!countries[p.nationality]) {
+                  grunt.log.writeln(
+                    'Invalid country code: ' +
+                    p.nationality +
+                    ' for player ' +
+                    p.id
+                  );
+                } else {
+                  p.flag = countries[p.nationality][
+                    'alpha-2'
+                    ].toLowerCase();
+                  // Show the full name instead of the short code.
+                  p.nationality = countries[p.nationality].name;
+              }
+            }
             return p;
           }
         );
