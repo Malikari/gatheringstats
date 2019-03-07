@@ -1,0 +1,57 @@
+{
+    "type": "Grand Prix",
+    "coverage": "https://magic.wizards.com/en/events/coverage/gptaipei99",
+    "date": "April 24-25, 1999",
+    "formats": [
+        "Sealed Deck",
+        "Booster Draft"
+    ],
+    "id": "grand-prix-taipei-1999",
+    "location": "Taipei, Taiwan",
+    "logo": "gplogo.png",
+    "name": "Grand Prix Taipei 1999",
+    "standings": [
+        {
+            "money": 2100,
+            "name": "Ken'ichi Fujita",
+            "propoints": 6
+        },
+        {
+            "money": 1500,
+            "name": "Iwao Takemasa",
+            "propoints": 5
+        },
+        {
+            "money": 1000,
+            "name": "Tobey Tamber",
+            "propoints": 4
+        },
+        {
+            "money": 1000,
+            "name": "Itaru Ishida",
+            "propoints": 4
+        },
+        {
+            "money": 500,
+            "name": "Chi Fai Ng",
+            "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Kai Cheong Tang",
+            "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Alex Shvartsman",
+            "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Miller Tsai",
+            "propoints": 3
+        }
+    ],
+    "teamsize": 1
+    
+}

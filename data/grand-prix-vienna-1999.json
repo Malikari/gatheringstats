@@ -1,0 +1,56 @@
+{
+    "type": "Grand Prix",
+    "coverage": "https://magic.wizards.com/en/events/coverage/gpvienna99",
+    "date": "March 13-14, 1999",
+    "formats": [
+        "Extended"
+    ],
+    "id": "grand-prix-vienna-1999",
+    "location": "Vienna, Austria",
+    "logo": "gplogo.png",
+    "name": "Grand Prix Vienna 1999",
+    "standings": [
+        {
+            "money": 2000,
+            "name": "Kai Budde",
+            "propoints": 6
+        },
+        {
+            "money": 1600,
+            "name": "Christian Gregorich",
+            "propoints": 5
+        },
+        {
+            "money": 1300,
+            "name": "Jon Finkel",
+            "propoints": 4
+        },
+        {
+            "money": 1300,
+            "name": "Erik Lauer",
+            "propoints": 4
+        },
+        {
+            "money": 500,
+            "name": "Randy Buehler",
+            "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Jakub Slemr",
+            "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Dirk Hein",
+            "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Peer Kröger",
+            "propoints": 3
+        }
+    ],
+    "teamsize": 1
+    
+}

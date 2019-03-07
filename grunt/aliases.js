@@ -22,6 +22,7 @@ module.exports = function(grunt) {
     grunt.file.recurse('./data/', function(abspath, rootdir, subdir, filename) {
       if (
         filename.endsWith('.json') &&
+        !filename.startsWith('grand-prix') && // Excluding grand prix for now.
         filename !== 'players.json' &&
         filename !== 'countries.json'
       ) {

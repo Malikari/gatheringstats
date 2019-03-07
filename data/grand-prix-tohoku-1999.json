@@ -1,0 +1,57 @@
+{
+    "type": "Grand Prix",
+    "coverage": "https://magic.wizards.com/en/events/coverage/gptoh99",
+    "date": "September 11-12, 1999",
+    "formats": [
+        "Sealed Deck",
+        "Booster Draft"
+    ],
+    "id": "grand-prix-tohoku-1999",
+    "location": "Tohoku, Japan",
+    "logo": "gplogo.png",
+    "name": "Grand Prix Tohoku 1999",
+    "standings": [
+        {
+            "money": 2400,
+            "name": "Masayuki Higashino",
+            "propoints": 6
+        },
+        {
+            "money": 1700,
+            "name": "Kazuyuki Momose",
+            "propoints": 5
+        },
+        {
+            "money": 1200,
+            "name": "Satoshi Nakamura",
+            "propoints": 4
+        },
+        {
+            "money": 1000,
+            "name": "Itaru Ishida",
+            "propoints": 4
+        },
+        {
+            "money": 800,
+            "name": "Toshiki Tsukamoto",
+            "propoints": 3
+        },
+        {
+            "money": 800,
+            "name": "Ayumi Hidaka",
+            "propoints": 3
+        },
+        {
+            "money": 800,
+            "name": "Hiroshi Harada",
+            "propoints": 3
+        },
+        {
+            "money": 800,
+            "name": "Yuichi Taguchi",
+            "propoints": 3
+        }
+    ],
+    "teamsize": 1
+    
+}
