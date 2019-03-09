@@ -1,0 +1,57 @@
+{
+    "type": "Grand Prix",
+    "coverage": "https://magic.wizards.com/en/events/coverage/gpcop00",
+    "date": "June 17-18, 2000",
+    "formats": [
+        "Sealed Deck",
+        "Rochester Draft"
+    ],
+    "id": "grand-prix-copenhagen-2000",
+    "location": "Copenhagen, Denmark",
+    "logo": "gplogo.png",
+    "name": "Grand Prix Copenhagen 2000",
+    "standings": [
+        {
+            "money": 2000,
+            "name": "Niels Sanders Jensen",
+            "propoints": 6
+        },
+        {
+            "money": 1600,
+            "name": "Daniel O'Mahoney-Schwartz",
+            "propoints": 5
+        },
+        {
+            "money": 1300,
+            "name": "Franck Canu",
+            "propoints": 4
+        },
+        {
+            "money": 1300,
+            "name": "Noah Boeken",
+            "propoints": 4
+        },
+        {
+            "money": 500,
+            "name": "Gottlieb Yeh",
+            "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Gunnar Refsdal",
+            "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Tom van de Logt",
+            "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Peter Gysemans",
+            "propoints": 3
+        }
+    ],
+    "teamsize": 1
+    
+}

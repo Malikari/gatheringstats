@@ -1,0 +1,49 @@
+{
+    "type": "Grand Prix",
+    "coverage": "https://magic.wizards.com/en/events/coverage/gptokyo97",
+    "date": "May 3-5, 1997",
+    "formats": [
+        "Sealed Deck",
+        "Booster Draft"
+    ],
+    "id": "grand-prix-toyko-1997",
+    "location": "Tokyo, Japan",
+    "logo": "gplogo.png",
+    "name": "Grand Prix Tokyo 1997",
+    "standings": [
+        {
+            "money": 1700,
+            "name": "Ken'ichi Fujita"
+        },
+        {
+            "money": 1200,
+            "name": "Toshiki Tsukamoto"
+        },
+        {
+            "money": 600,
+            "name": "Yoshiyuki Tsuruta"
+        },
+        {
+            "money": 600,
+            "name": "Yoshikazu Ishii"
+        },
+        {
+            "money": 375,
+            "name": "Goro Matsuo"
+        },
+        {
+            "money": 375,
+            "name": "Masami Ibamoto"
+        },
+        {
+            "money": 375,
+            "name": "Satoshi Nakamura"
+        },
+        {
+            "money": 375,
+            "name": "Takashi Niwa"
+        }
+    ],
+    "teamsize": 1
+    
+}

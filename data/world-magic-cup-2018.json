@@ -1,13 +1,15 @@
 {
+    "type": "WMC",
     "coverage": "https://magic.wizards.com/en/events/coverage/2018WMC",
     "date": "December 14-16, 2018",
     "formats": [
-        "Team Sealed, Team Unified Standard"
+        "Team Sealed",
+        "Team Unified Standard"
     ],
     "id": "world-magic-cup-2018",
     "location": "Barcelona, Spain",
     "logo": "wmc.png",
-    "name": "World Magic Cup",
+    "name": "World Magic Cup 2018",
     "standings": [
         {
             "money": 15000,
@@ -1123,6 +1125,6 @@
         }
     ],
     "teamsize": 3,
-    "topn": 8
+    "topn": 6
     
 }

@@ -1,0 +1,981 @@
+{
+    "type": "European Championship",
+    "coverage": "https://magic.wizards.com/en/events/coverage/euro00",
+    "date": "July 14-16, 2000",
+    "formats": [
+        "Standard",
+        "Booster Draft"
+    ],
+    "id": "european-championship-2000",
+    "location": "Paris, France",
+    "logo": "mtg-yellow.png",
+    "name": "European Championship 2000",
+    "standings": [
+        {
+            "money": 11500,
+            "name": "Noah Boeken"
+        },
+        {
+            "money": 7000,
+            "name": "Raphael Levy"
+        },
+        {
+            "money": 4600,
+            "name": "Loic Dobrigna"
+        },
+        {
+            "money": 3700,
+            "name": "Rickard Österberg"
+        },
+        {
+            "money": 3035,
+            "name": "Joost Winter"
+        },
+        {
+            "money": 2555,
+            "name": "Wolfgang Eder"
+        },
+        {
+            "money": 2225,
+            "name": "Johan Franzen"
+        },
+        {
+            "money": 2000,
+            "name": "Gert Coeckelbergh"
+        },
+        {
+            "money": 1845,
+            "name": "Frank Karsten"
+        },
+        {
+            "money": 1715,
+            "name": "Christoph Lippert"
+        },
+        {
+            "money": 1600,
+            "name": "Carlos Barrado"
+        },
+        {
+            "money": 1495,
+            "name": "Jean-Louis D'Hondt"
+        },
+        {
+            "money": 1400,
+            "name": "Jakub Slemr"
+        },
+        {
+            "money": 1315,
+            "name": "David Brucker"
+        },
+        {
+            "money": 1235,
+            "name": "Sigurd Eskeland"
+        },
+        {
+            "money": 1160,
+            "name": "Nicolas Olivieri"
+        },
+        {
+            "money": 1090,
+            "name": "Ben Ronaldson"
+        },
+        {
+            "money": 1025,
+            "name": "Christian Lührs"
+        },
+        {
+            "money": 965,
+            "name": "Stewart Shinkins"
+        },
+        {
+            "money": 910,
+            "name": "Timme Nyegaard"
+        },
+        {
+            "money": 860,
+            "name": "Thomas Gundersen"
+        },
+        {
+            "money": 815,
+            "name": "Dominik Hothow"
+        },
+        {
+            "money": 770,
+            "name": "Ondrej Baudys"
+        },
+        {
+            "money": 730,
+            "name": "Luca Chiera"
+        },
+        {
+            "money": 695,
+            "name": "Markus Bell"
+        },
+        {
+            "money": 660,
+            "name": "Hector Fuentes"
+        },
+        {
+            "money": 630,
+            "name": "Olivier Ruel"
+        },
+        {
+            "money": 600,
+            "name": "Tomi Walamies"
+        },
+        {
+            "money": 575,
+            "name": "Mike Wall"
+        },
+        {
+            "money": 550,
+            "name": "Adolfo Martinez"
+        },
+        {
+            "money": 525,
+            "name": "Haakon Monsen"
+        },
+        {
+            "money": 505,
+            "name": "Bjorn Gausdal"
+        },
+        {
+            "money": 485,
+            "name": "Warren Marsh"
+        },
+        {
+            "money": 465,
+            "name": "Anthony Goh"
+        },
+        {
+            "money": 445,
+            "name": "Vladimir Komanicky"
+        },
+        {
+            "money": 430,
+            "name": "Vincent Gieling"
+        },
+        {
+            "money": 415,
+            "name": "Daniel Hidalgo"
+        },
+        {
+            "money": 400,
+            "name": "John Larkin"
+        },
+        {
+            "money": 385,
+            "name": "Pierre Girodroux"
+        },
+        {
+            "money": 370,
+            "name": "Bas Postema"
+        },
+        {
+            "money": 355,
+            "name": "Stefano Fiore"
+        },
+        {
+            "money": 345,
+            "name": "Anton Lunau"
+        },
+        {
+            "money": 335,
+            "name": "Nicolai Herzog"
+        },
+        {
+            "money": 325,
+            "name": "Daniel Paskins"
+        },
+        {
+            "money": 315,
+            "name": "Dan Holden"
+        },
+        {
+            "money": 305,
+            "name": "Frederico Bastos"
+        },
+        {
+            "money": 295,
+            "name": "Niels Sanders Jensen"
+        },
+        {
+            "money": 285,
+            "name": "Frederic Courtois"
+        },
+        {
+            "money": 275,
+            "name": "Peter Bero"
+        },
+        {
+            "money": 270,
+            "name": "Felix Schneiders"
+        },
+        {
+            "money": 265,
+            "name": "Tuomo Nieminen"
+        },
+        {
+            "money": 260,
+            "name": "Andreas Jonsson"
+        },
+        {
+            "money": 255,
+            "name": "Eivind Nitter"
+        },
+        {
+            "money": 250,
+            "name": "Kai Budde"
+        },
+        {
+            "money": 245,
+            "name": "Loic Degrou"
+        },
+        {
+            "money": 240,
+            "name": "Gabor Papp"
+        },
+        {
+            "money": 235,
+            "name": "Helmut Summersberger"
+        },
+        {
+            "money": 230,
+            "name": "Nicolas Labarre"
+        },
+        {
+            "money": 225,
+            "name": "Yann Hamon"
+        },
+        {
+            "money": 220,
+            "name": "Sam Waller"
+        },
+        {
+            "money": 215,
+            "name": "Libor Marek"
+        },
+        {
+            "money": 210,
+            "name": "Andre Konstanczer"
+        },
+        {
+            "money": 205,
+            "name": "Fabrice Rabhi"
+        },
+        {
+            "money": 200,
+            "name": "Robert Jurkovic"
+        },
+        {
+            "name": "Martin Cedercrantz"
+        },
+        {
+            "name": "John Ormerod"
+        },
+        {
+            "name": "Rosario Maij"
+        },
+        {
+            "name": "Christer Ljones"
+        },
+        {
+            "name": "Jens Thoren"
+        },
+        {
+            "name": "Matthieu Oldfield"
+        },
+        {
+            "name": "Orr Bildner"
+        },
+        {
+            "name": "Vedat Ozfresko"
+        },
+        {
+            "name": "Daniel Brickwell"
+        },
+        {
+            "name": "Tom Harle"
+        },
+        {
+            "name": "David Kearney"
+        },
+        {
+            "name": "Blagoj Jakimov"
+        },
+        {
+            "name": "Sturla Bingen"
+        },
+        {
+            "name": "Mattias Jorstedt"
+        },
+        {
+            "name": "Lucien Bui"
+        },
+        {
+            "name": "Yngvi Omar Sighvatsson"
+        },
+        {
+            "name": "Øyvind Ødegaard"
+        },
+        {
+            "name": "Aras Senyuz"
+        },
+        {
+            "name": "Rui Mariani"
+        },
+        {
+            "name": "Thomas Preyer"
+        },
+        {
+            "name": "Thomas Didierjean"
+        },
+        {
+            "name": "Jorge Costa"
+        },
+        {
+            "name": "Filipe Jirao"
+        },
+        {
+            "name": "Marcell Kardos"
+        },
+        {
+            "name": "Onur Konuralp"
+        },
+        {
+            "name": "Ivan Stanoev"
+        },
+        {
+            "name": "Gottlieb Yeh"
+        },
+        {
+            "name": "Petr Tejnsky"
+        },
+        {
+            "name": "Antoine Menard"
+        },
+        {
+            "name": "Trey Van Cleave"
+        },
+        {
+            "name": "Erno Ekebom"
+        },
+        {
+            "name": "Rune Espenhein"
+        },
+        {
+            "name": "Arto Hiltunen"
+        },
+        {
+            "name": "Matej Brezavscek"
+        },
+        {
+            "name": "Jimmy Ohman"
+        },
+        {
+            "name": "Niklaus Hugi"
+        },
+        {
+            "name": "Svend Geertsen"
+        },
+        {
+            "name": "Richard Edbury"
+        },
+        {
+            "name": "Zsolt Tokoli"
+        },
+        {
+            "name": "Hugo Machado"
+        },
+        {
+            "name": "Oliver Schneider"
+        },
+        {
+            "name": "Marc Hernandez"
+        },
+        {
+            "name": "Markus Jobstl"
+        },
+        {
+            "name": "Sonia Oliveira"
+        },
+        {
+            "name": "Sven Dijt"
+        },
+        {
+            "name": "Pierre Cools"
+        },
+        {
+            "name": "Giammaria Muratori"
+        },
+        {
+            "name": "Petr Ustohal"
+        },
+        {
+            "name": "Tadej Cikac"
+        },
+        {
+            "name": "Rob Brooks"
+        },
+        {
+            "name": "Bjorn Jocumsen"
+        },
+        {
+            "name": "Tony Dobson"
+        },
+        {
+            "name": "Jan Tomcani"
+        },
+        {
+            "name": "Thomas Dall Jensen"
+        },
+        {
+            "name": "Johan Cedercrantz"
+        },
+        {
+            "name": "Mikko Punakallio"
+        },
+        {
+            "name": "Martin Beck"
+        },
+        {
+            "name": "Kamiel Cornelissen"
+        },
+        {
+            "name": "Seppo Toikka"
+        },
+        {
+            "name": "Andrew Donaldson"
+        },
+        {
+            "name": "Ellis Romero"
+        },
+        {
+            "name": "Christian Gregorich"
+        },
+        {
+            "name": "Basar Coskunoglu"
+        },
+        {
+            "name": "Gregor Wollny"
+        },
+        {
+            "name": "Martin Laznovsky"
+        },
+        {
+            "name": "Philip Verdoodt"
+        },
+        {
+            "name": "Mikko Snygg"
+        },
+        {
+            "name": "Chris Llewellyn"
+        },
+        {
+            "name": "Lovro Gasparac"
+        },
+        {
+            "name": "Sados Marcin"
+        },
+        {
+            "name": "Justin Walsh"
+        },
+        {
+            "name": "Pavel Matousek"
+        },
+        {
+            "name": "Bora Davran"
+        },
+        {
+            "name": "Gero Maier"
+        },
+        {
+            "name": "Stephane Gentric"
+        },
+        {
+            "name": "Stephen Newberry"
+        },
+        {
+            "name": "Vincent Guilleux"
+        },
+        {
+            "name": "Helder Coelho"
+        },
+        {
+            "name": "Bram Snepvangers"
+        },
+        {
+            "name": "Dirk Roth"
+        },
+        {
+            "name": "Kort Foket"
+        },
+        {
+            "name": "Joao Osorio"
+        },
+        {
+            "name": "Michal Jedlicka"
+        },
+        {
+            "name": "Robert Mckeon"
+        },
+        {
+            "name": "Jean-Paul Peretti"
+        },
+        {
+            "name": "Maurizio Vergendo"
+        },
+        {
+            "name": "Tom van de Logt"
+        },
+        {
+            "name": "Thomas Didierjean"
+        },
+        {
+            "name": "Edward Ross"
+        },
+        {
+            "name": "Daniel Gulyas"
+        },
+        {
+            "name": "Nikolai Skokov"
+        },
+        {
+            "name": "Jim Herold"
+        },
+        {
+            "name": "Alessandro Vegna"
+        },
+        {
+            "name": "Ben J Martin"
+        },
+        {
+            "name": "Christian Fehr"
+        },
+        {
+            "name": "Erwin Cetl"
+        },
+        {
+            "name": "Romuald Coueffe"
+        },
+        {
+            "name": "Jörn Hajek"
+        },
+        {
+            "name": "Marko Cikos"
+        },
+        {
+            "name": "Oliver Brigmann"
+        },
+        {
+            "name": "Pedro Maccos"
+        },
+        {
+            "name": "Torarinn Sugurdsson"
+        },
+        {
+            "name": "Peer Kröger"
+        },
+        {
+            "name": "Patrick Mello"
+        },
+        {
+            "name": "Julian Haigh"
+        },
+        {
+            "name": "Jeroen Remie"
+        },
+        {
+            "name": "Wilfried Ranque"
+        },
+        {
+            "name": "Benedikt Klauser"
+        },
+        {
+            "name": "Gregoire Soubrie"
+        },
+        {
+            "name": "Vasco Grossmann"
+        },
+        {
+            "name": "Matteo Magnani"
+        },
+        {
+            "name": "Michael Diezel"
+        },
+        {
+            "name": "Jürg Häberli"
+        },
+        {
+            "name": "Stephan Valkyser"
+        },
+        {
+            "name": "Tommi Lindgren"
+        },
+        {
+            "name": "Yuri Bagashev"
+        },
+        {
+            "name": "Ragnar Mar Kjartansson"
+        },
+        {
+            "name": "Tobias Radesater"
+        },
+        {
+            "name": "Antoine Ruel"
+        },
+        {
+            "name": "Nicola Rebagliati"
+        },
+        {
+            "name": "Tiago Chan"
+        },
+        {
+            "name": "Ralph Martin"
+        },
+        {
+            "name": "Andras Suveges"
+        },
+        {
+            "name": "Ralph Ristedt"
+        },
+        {
+            "name": "Alexander Blumke"
+        },
+        {
+            "name": "Holger Meinecke"
+        },
+        {
+            "name": "Marcio Rodrigues"
+        },
+        {
+            "name": "Michael Nessler"
+        },
+        {
+            "name": "Janosch Kühn"
+        },
+        {
+            "name": "Michael Debard"
+        },
+        {
+            "name": "Andrea Redi"
+        },
+        {
+            "name": "Marcin Goral Horecki"
+        },
+        {
+            "name": "Jeremie Bonte"
+        },
+        {
+            "name": "Markus Hietala"
+        },
+        {
+            "name": "Philippe Jean"
+        },
+        {
+            "name": "Allan Mortensen"
+        },
+        {
+            "name": "Adrian Ciszek"
+        },
+        {
+            "name": "Madog Williams"
+        },
+        {
+            "name": "Steve Queroub"
+        },
+        {
+            "name": "Alexander Witt"
+        },
+        {
+            "name": "Kristoffer Apollo"
+        },
+        {
+            "name": "Jain Marko Cicin"
+        },
+        {
+            "name": "Jelger Wiegersma"
+        },
+        {
+            "name": "Ivan Aranzana"
+        },
+        {
+            "name": "Ladislav Zupancic"
+        },
+        {
+            "name": "Manuel Bevand"
+        },
+        {
+            "name": "Marco Makuz"
+        },
+        {
+            "name": "Regis Lavoisier"
+        },
+        {
+            "name": "Laurent Pagorek"
+        },
+        {
+            "name": "Benjamin Sanders"
+        },
+        {
+            "name": "Sigurdur Orn Gunnarsson"
+        },
+        {
+            "name": "Alexander Strakhov"
+        },
+        {
+            "name": "David Gray"
+        },
+        {
+            "name": "Xavier Petit"
+        },
+        {
+            "name": "Jan Brinkmann"
+        },
+        {
+            "name": "Sergey Norin"
+        },
+        {
+            "name": "Andrej Renko"
+        },
+        {
+            "name": "Antti Koskimaki"
+        },
+        {
+            "name": "Gabor Papp 4932"
+        },
+        {
+            "name": "Tomek Goral Horecki"
+        },
+        {
+            "name": "Rickard Soderberg"
+        },
+        {
+            "name": "Shadi Torbey"
+        },
+        {
+            "name": "Nicolas Berthos"
+        },
+        {
+            "name": "Andre Egli"
+        },
+        {
+            "name": "Bill Johnson"
+        },
+        {
+            "name": "Frantisek Zokbal"
+        },
+        {
+            "name": "Juraj Smrek"
+        },
+        {
+            "name": "Ernst Schipper"
+        },
+        {
+            "name": "Gary Campbell"
+        },
+        {
+            "name": "Jesse Cornelissen"
+        },
+        {
+            "name": "Michael Sochon"
+        },
+        {
+            "name": "Stephane Gaudron"
+        },
+        {
+            "name": "Sylvain Lauriol"
+        },
+        {
+            "name": "Mauro Corti"
+        },
+        {
+            "name": "Guido Pacifici"
+        },
+        {
+            "name": "Piotr Chabalowski"
+        },
+        {
+            "name": "Gabriel Nassif"
+        },
+        {
+            "name": "Przemek Oberbek"
+        },
+        {
+            "name": "Ioan Llwyd"
+        },
+        {
+            "name": "Michiel Horemans"
+        },
+        {
+            "name": "Mattias Kettil"
+        },
+        {
+            "name": "Gilles Poussiere"
+        },
+        {
+            "name": "Luka Gasparac"
+        },
+        {
+            "name": "Jean-Baptiste Mathieu"
+        },
+        {
+            "name": "Peter Machala"
+        },
+        {
+            "name": "Riccardo Cavallaro"
+        },
+        {
+            "name": "Ziga Skrbec"
+        },
+        {
+            "name": "Eugeny Petrov"
+        },
+        {
+            "name": "Mark Roy Burgess"
+        },
+        {
+            "name": "Dario Parazzoli"
+        },
+        {
+            "name": "Richard Ozsvald"
+        },
+        {
+            "name": "Juhan Kaldre"
+        },
+        {
+            "name": "Christophe Torng"
+        },
+        {
+            "name": "Burcak Caner"
+        },
+        {
+            "name": "Valentin Urziceanu"
+        },
+        {
+            "name": "Nigel Jefferson"
+        },
+        {
+            "name": "Mario Pascoli"
+        },
+        {
+            "name": "Bojan Bajsic"
+        },
+        {
+            "name": "Franck Canu"
+        },
+        {
+            "name": "Tommaso Natale"
+        },
+        {
+            "name": "Khanh Quan Tran"
+        },
+        {
+            "name": "Styfen Batten"
+        },
+        {
+            "name": "Stuart Cresswell"
+        },
+        {
+            "name": "Igor Mazierski"
+        },
+        {
+            "name": "Dirk Baberowski"
+        },
+        {
+            "name": "Pawel Karaszewski"
+        },
+        {
+            "name": "Min Shin"
+        },
+        {
+            "name": "Roc Herms"
+        },
+        {
+            "name": "Beligiannis Taelpxhe"
+        },
+        {
+            "name": "Scott Wills"
+        },
+        {
+            "name": "Neil Rigby"
+        },
+        {
+            "name": "Philipp Cetl"
+        },
+        {
+            "name": "Roy Williams"
+        },
+        {
+            "name": "Jakob Tomse"
+        },
+        {
+            "name": "Thorir Thorgeirsson"
+        },
+        {
+            "name": "Marcus Cooper"
+        },
+        {
+            "name": "Martin Deery"
+        },
+        {
+            "name": "Francisco Tebar"
+        },
+        {
+            "name": "Julius Einarsson"
+        },
+        {
+            "name": "Paco Francisco Llopis"
+        },
+        {
+            "name": "Alen Magdic"
+        },
+        {
+            "name": "William Cavaglieri"
+        },
+        {
+            "name": "Risto Aaver"
+        },
+        {
+            "name": "Terry Matthews"
+        },
+        {
+            "name": "Mark Wraith"
+        },
+        {
+            "name": "Marin Kumorek"
+        },
+        {
+            "name": "Sasha Zorc"
+        },
+        {
+            "name": "Arelius Areliusson"
+        },
+        {
+            "name": "Alexis Dumay"
+        },
+        {
+            "name": "Evan Van Lissum"
+        },
+        {
+            "name": "Massimo De Matteo"
+        },
+        {
+            "name": "Andrea Vitali"
+        },
+        {
+            "name": "Mikael Magnusson"
+        },
+        {
+            "name": "Barry Brown"
+        },
+        {
+            "name": "Marco Benifei"
+        },
+        {
+            "name": "Philippe Mongauze"
+        }
+    ],
+    "teamsize": 1
+    
+}
