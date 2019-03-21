@@ -64,12 +64,15 @@
         {
             "money": 4000,
             "name": "Francesco Giorgio",
-            "propoints": 6
+            "propoints": 6,
+            "nationality": "ENG"
+    
         },
         {
             "money": 4000,
             "name": "Riccardo Reale",
-            "propoints": 6
+            "propoints": 6,
+            "nationality": "ENG"
         },
         {
             "money": 4000,
@@ -93,7 +96,7 @@
         },
         {
             "money": 2000,
-            "name": "Sung Wook Nam",
+            "name": "Nam Sung Wook",
             "propoints": 5
         },
         {
@@ -129,7 +132,8 @@
         {
             "money": 2000,
             "name": "Miodrag Kitanovic",
-            "propoints": 5
+            "propoints": 5,
+            "nationality": "SRB"
         },
         {
             "money": 2000,
@@ -284,7 +288,8 @@
         {
             "money": 1500,
             "name": "Meng Qiu Zhang",
-            "propoints": 4
+            "propoints": 4,
+            "nationality": "HKG"
         },
         {
             "money": 1500,
@@ -663,7 +668,8 @@
             "money": 1000,
             "name": "Evgeniy Zakharenkov",
             "propoints": 3,
-            "rank": 32
+            "rank": 32,
+            "nationality": "BLR"
         },
         {
             "money": 1000,
@@ -756,7 +762,8 @@
         {
             "name": "Ville Schalin",
             "propoints": 2,
-            "rank": 36
+            "rank": 36,
+            "nationality": "FIN"
         },
         {
             "name": "Sami Tuomi",
@@ -786,7 +793,8 @@
         {
             "name": "Ivan Oro",
             "propoints": 2,
-            "rank": 38
+            "rank": 38,
+            "nationality": "PAN"
         },
         {
             "name": "Sergio Bonilla",
@@ -1086,12 +1094,14 @@
         {
             "name": "Nicolas Cuenca",
             "propoints": 2,
-            "rank": 53
+            "rank": 53,
+            "nationality": "PRI"
         },
         {
             "name": "Gabriel Nieves",
             "propoints": 2,
-            "rank": 53
+            "rank": 53,
+            "nationality": "PRI"
         },
         {
             "name": "Alberto Pagan",
