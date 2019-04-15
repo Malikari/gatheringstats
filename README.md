@@ -57,6 +57,10 @@ Install dependencies:
 
     $ npm install
 
+### List available grunt tasks
+
+    $ grunt --help
+
 ### Build
 
 Create a local build:
@@ -71,3 +75,9 @@ Start a local web server in the build folder:
 
 You can then test your changes in your browser, at `localhost:8000`.
 Once you have verified your change looks good, submit the pull request.
+
+### Deploy
+
+    $ npm run deploy
+
+This creates a production build, then commits and pushes the result to the `gh-pages` branch.
