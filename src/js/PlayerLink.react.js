@@ -5,6 +5,7 @@ import {Link} from 'react-router';
 
 import Flag from './Flag.react.js';
 import HallOfFameIcon from './HallOfFameIcon.react.js';
+import MPLIcon from './MPLIcon.react';
 
 const PlayerLink = ({player, hideFlag, countryOverrides}) => (
   <span>
@@ -15,6 +16,7 @@ const PlayerLink = ({player, hideFlag, countryOverrides}) => (
     ) : null}
     <Link to={'/player/' + player.id}>{player.name}</Link>
     {player.hof ? <HallOfFameIcon /> : null}
+    {player.mpl ? <MPLIcon /> : null}
   </span>
 );
 export default PlayerLink;

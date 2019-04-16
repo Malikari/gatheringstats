@@ -9,6 +9,7 @@ export default class Player {
     this.name = data.name;
     this.nationality = data.nationality;
     this.hof = data.hof;
+    this.mpl = data.mpl;
     this.stats = data.stats;
     this.tournaments = data.tournaments;
   }
