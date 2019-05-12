@@ -1,6 +1,6 @@
 {
     "nicolai-herzog": {
-        "hof": 2007,
+        "hof": {"year": 2007, "rank": 4},
         "nationality": "NOR"
     },
     "osamu-fujita": {
@@ -8,15 +8,15 @@
         "nationality": "JPN"
     },
     "anton-jonsson": {
-        "hof": 2011,
+        "hof": {"year":  2011, "rank": 2},
         "nationality": "SWE"
     },
     "olivier-ruel": {
-        "hof": 2008,
+        "hof": {"year": 2008, "rank": 4},
         "nationality": "FRA"
     },
     "kamiel-cornelissen": {
-        "hof": 2009,
+        "hof": {"year": 2009, "rank": 2},
         "nationality": "NLD"
     },
     "aeo-paquette": {
@@ -26,7 +26,7 @@
         "nationality": "FRA"
     },
     "michael-turian": {
-        "hof": 2008,
+        "hof": {"year": 2008, "rank":  2},
         "nationality": "USA"
     },
     "david-brucker": {
@@ -52,7 +52,7 @@
         "nationality": "JPN"
     },
     "kai-budde": {
-        "hof": 2007,
+        "hof": {"year": 2007, "rank": 1},
         "nationality": "DEU",
         "teams": [
             {"season": 2018, "team" : "Good Luck High Five"}
@@ -74,7 +74,7 @@
         "nationality": "NOR"
     },
     "ben-rubin": {
-        "hof": 2008,
+        "hof": {"year": 2008, "rank": 5},
         "nationality": "USA",
         "teams": [
             {"season": 2016, "team" : "D3 Go!"},
@@ -101,7 +101,7 @@
         "nationality": "ARG"
     },
     "david-humpherys": {
-        "hof": 2006,
+        "hof": {"year": 2006, "rank": 2},
         "nationality": "USA"
     },
     "kim-lund": {
@@ -160,7 +160,7 @@
         "nationality": "SGP"
     },
     "frank-karsten": {
-        "hof": 2009,
+        "hof": {"year": 2009, "rank": 3},
         "nationality": "NLD"
     },
     "douglas-conway": {
@@ -173,7 +173,7 @@
         "nationality": "USA"
     },
     "ben-stark": {
-        "hof": 2013,
+        "hof": {"year": 2013, "rank": 3},
         "nationality": "USA",
         "mpl": [2019],
         "teams": [
@@ -189,7 +189,7 @@
         "nationality": "USA"
     },
     "antoine-ruel": {
-        "hof": 2009,
+        "hof": {"year": 2009, "rank": 1},
         "nationality": "FRA",
         "teams": [
             {"season": 2018, "team" : "Baguette"}
@@ -235,7 +235,7 @@
         "nationality": "FRA"
     },
     "jelger-wiegersma": {
-        "hof": 2008,
+        "hof": {"year": 2008, "rank": 3},
         "nationality": "NLD",
         "teams": [
             {"season": 2016, "team" : "D3 Go!"},
@@ -318,7 +318,7 @@
         "nationality": "JPN"
     },
     "gary-wise": {
-        "hof": 2006,
+        "hof": {"year": 2006, "rank": 4},
         "nationality": "CAN"
     },
     "giulio-barra": {
@@ -501,7 +501,7 @@
     },
     "masashi-oiso": {
         "natname": "大礒 正嗣",
-        "hof": 2012,
+        "hof": {"year": 2012, "rank": 3},
         "nationality": "JPN",
         "teams": [
             {"season": 2016, "team" : "Last Samurai"}
@@ -511,7 +511,7 @@
         "nationality": "USA"
     },
     "brian-kibler": {
-        "hof": 2010,
+        "hof": {"year": 2010, "rank": 2},
         "nationality": "USA"
     },
     "vladimir-vetrov": {
@@ -521,7 +521,7 @@
         "nationality": "USA"
     },
     "gabriel-nassif": {
-        "hof": 2010,
+        "hof": {"year": 2010, "rank": 1},
         "nationality": "FRA",
         "teams": [
             {"season": 2016, "team" : "Opportunity"},
@@ -594,7 +594,7 @@
         "nationality": "JPN"
     },
     "robert-maher": {
-        "hof": 2006,
+        "hof": {"year": 2006, "rank": 1},
         "nationality": "USA"
     },
     "sigurd-eskeland": {
@@ -719,7 +719,7 @@
         "nationality": "DEU"
     },
     "tommi-hovi": {
-        "hof": 2005,
+        "hof": {"year": 2005, "rank": 4},
         "nationality": "FIN"
     },
     "markus-panteleit": {
@@ -830,7 +830,7 @@
         "nationality": "ITA"
     },
     "william-jensen": {
-        "hof": 2013,
+        "hof": {"year": 2013, "rank": 2},
         "nationality": "USA",
         "mpl": [2019],
         "teams": [
@@ -894,7 +894,7 @@
         "nationality": "BRA"
     },
     "bram-snepvangers": {
-        "hof": 2010,
+        "hof": {"year": 2010, "rank": 4},
         "nationality": "NLD"
     },
     "mike-labeau": {
@@ -979,7 +979,7 @@
         "nationality": "ENG"
     },
     "jon-finkel": {
-        "hof": 2005,
+        "hof": {"year": 2005, "rank": 1},
         "nationality": "USA",
         "teams": [
             {"season": 2016, "team" : "Puzzle Quest"},
@@ -1027,7 +1027,7 @@
         "nationality": "DNK"
     },
     "darwin-kastle": {
-        "hof": 2005,
+        "hof": {"year": 2005, "rank": 2},
         "nationality": "USA"
     },
     "florent-jeudon": {
@@ -1037,7 +1037,7 @@
         "nationality": "USA"
     },
     "dirk-baberowski": {
-        "hof": 2008,
+        "hof": {"year": 2008, "rank": 1},
         "nationality": "DEU",
         "teams": [
             {"season": 2018, "team" : "Good Luck High Five"}
@@ -1110,7 +1110,7 @@
         "nationality": "USA"
     },
     "raphael-levy": {
-        "hof": 2006,
+        "hof": {"year": 2006, "rank": 3},
         "nationality": "FRA",
         "teams": [
             {"season": 2016, "team" : "Top Level"},
@@ -1158,7 +1158,7 @@
         "nationality": "ENG"
     },
     "paul-rietzl": {
-        "hof": 2014,
+        "hof": {"year": 2014, "rank": 2},
         "nationality": "USA",
         "teams": [
             {"season": 2016, "team" : "Puzzle Quest"},
@@ -1182,7 +1182,7 @@
         "nationality": "BEL"
     },
     "guillaume-wafo-tapa": {
-        "hof": 2014,
+        "hof": {"year": 2014, "rank": 3},
         "nationality": "FRA",
         "teams": [
             {"season": 2018, "team" : "Baguette"}
@@ -1198,7 +1198,7 @@
         "nationality": "MYS"
     },
     "luis-scott-vargas": {
-        "hof": 2013,
+        "hof": {"year": 2013, "rank": 1},
         "nationality": "USA"
     },
     "william-postlethwait": {
@@ -1262,9 +1262,7 @@
     },
     "yuuya-watanabe": {
         "natname": "渡辺 雄也",
-        "hof": 2016,
         "nationality": "JPN",
-        "mpl": [2019],
         "teams": [
             {"season": 2016, "team" : "Musashi"},
             {"season": 2017, "team" : "Musashi"},
@@ -1313,6 +1311,7 @@
         "nationality": "SWE"
     },
     "lee-shi-tian": {
+        "hof": {"year": 2019, "rank": 2},
         "nationality": "HKG",
         "mpl": [2019],
         "teams": [
@@ -1332,7 +1331,7 @@
     },
     "shuhei-nakamura": {
         "natname": "中村 修平",
-        "hof": 2011,
+        "hof": {"year": 2011, "rank": 1},
         "nationality": "JPN",
         "teams": [
             {"season": 2016, "team" : "Hareruya"},
@@ -1394,7 +1393,7 @@
     },
     "shota-yasooka": {
         "natname": "八十岡 翔太",
-        "hof": 2015,
+        "hof": {"year": 2015, "rank": 2},
         "nationality": "JPN",
         "mpl": [2019],
         "teams": [
@@ -1568,7 +1567,7 @@
         "nationality": "NLD"
     },
     "martin-juza": {
-        "hof": 2017,
+        "hof": {"year": 2017, "rank": 2},
         "nationality": "CZE",
         "mpl": [2019],
         "teams": [
@@ -1722,7 +1721,7 @@
     },
     "kenji-tsumura": {
         "natname": "津村 健志",
-        "hof": 2012,
+        "hof": {"year": 2012, "rank": 2},
         "nationality": "JPN",
         "teams": [
             {"season": 2016, "team" : "Last Samurai"},
@@ -1767,7 +1766,7 @@
         "nationality": "USA"
     },
     "paulo-vitor-damo-da-rosa": {
-        "hof": 2012,
+        "hof": {"year": 2012, "rank": 1},
         "nationality": "BRA",
         "mpl": [2019],
         "teams": [
@@ -1789,7 +1788,7 @@
         "nationality": "USA"
     },
     "patrick-chapin": {
-        "hof": 2012,
+        "hof": {"year": 2012, "rank": 4},
         "nationality": "USA",
         "teams": [
             {"season": 2016, "team" : "Top Level"}
@@ -1866,7 +1865,7 @@
         "nationality": "USA"
     },
     "eric-froehlich": {
-        "hof": 2015,
+        "hof": {"year": 2015, "rank": 1},
         "nationality": "USA",
         "mpl": [2019],
         "teams": [
@@ -1969,7 +1968,7 @@
         "nationality": "USA"
     },
     "owen-turtenwald": {
-        "hof": 2016,
+        "hof": {"year": 2016, "rank": 2},
         "nationality": "USA",
         "mpl": [2019],
         "teams": [
@@ -3042,7 +3041,7 @@
         "nationality": "JPN"
     },
     "zvi-mowshowitz": {
-        "hof": 2007,
+        "hof": {"year": 2007, "rank": 2},
         "nationality": "USA"
     },
     "ronald-van-zutphen": {
@@ -3320,7 +3319,7 @@
     },
     "tsuyoshi-fujita": {
         "natname": "藤田 剛史",
-        "hof": 2007,
+        "hof": {"year": 2007, "rank": 3},
         "nationality": "JPN",
         "teams": [
             {"season": 2016, "team" : "Last Samurai"},
@@ -3496,7 +3495,7 @@
         "nationality": "USA"
     },
     "alan-comer": {
-        "hof": 2005,
+        "hof": {"year": 2005, "rank": 3},
         "nationality": "USA"
     },
     "david-korejtko": {
@@ -3515,7 +3514,7 @@
         "nationality": "USA"
     },
     "olle-rade": {
-        "hof": 2005,
+        "hof": {"year": 2005, "rank": 5},
         "nationality": "SWE"
     },
     "scott-johns": {
@@ -3786,7 +3785,7 @@
         "nationality": "FIN"
     },
     "steven-o-mahoney-schwartz": {
-        "hof": 2011,
+        "hof": {"year": 2011, "rank": 3},
         "nationality": "USA"
     },
     "andrew-sutherland": {
@@ -3983,7 +3982,7 @@
         "nationality": "GRC"
     },
     "robert-dougherty": {
-        "hof": 2006,
+        "hof": {"year": 2006, "rank": 5},
         "nationality": "USA"
     },
     "john-paul-kelly": {
@@ -4028,7 +4027,7 @@
         "nationality": "CAN"
     },
     "josh-utter-leyton": {
-        "hof": 2017,
+        "hof": {"year": 2017, "rank": 1},
         "nationality": "USA",
         "teams": [
             {"season": 2016, "team" : "Channel Fireball Fire"},
@@ -4065,7 +4064,7 @@
     },
     "makihito-mihara": {
         "natname": "三原槙仁",
-        "hof": 2014,
+        "hof": {"year": 2014, "rank": 1},
         "nationality": "JPN",
         "teams": [
             {"season": 2016, "team" : "Last Samurai"},
@@ -4140,7 +4139,7 @@
         "nationality": "NOR"
     },
     "willy-edel": {
-        "hof": 2015,
+        "hof": {"year": 2015, "rank": 3},
         "nationality": "BRA",
         "teams": [
             {"season": 2016, "team" : "DEX Army"},
@@ -6267,6 +6266,7 @@
     },
     "autumn-burchett": {
         "nationality": "ENG",
+        "mpl": [2019]
         "teams": [
             {"season": 2018, "team" : "Axion Now"}
         ]
@@ -6307,6 +6307,7 @@
         ]
     },
     "seth-manfield": {
+        "hof": {"year": 2019, "rank": 1},
         "nationality": "USA",
         "mpl": [2019],
         "teams": [
@@ -10274,7 +10275,7 @@
         "nationality": "USA"
     },
     "randy-buehler": {
-        "hof": 2007,
+        "hof": {"year": 2007, "rank": 5},
         "nationality": "USA"
     },
     "david-mills": {

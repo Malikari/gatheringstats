@@ -18,6 +18,7 @@ import Tournament from './Tournament.react.js';
 import Rankings from './Rankings.react.js';
 import RecentTournaments from './RecentTournaments.react.js';
 import { OtherTournaments } from './RecentTournaments.react.js';
+import HallOfFame from "./HallOfFame.react";
 
 render(
   <Router history={browserHistory} render={applyRouterMiddleware(useScroll())}>
@@ -27,6 +28,7 @@ render(
       <Route path="/tournament/:id" component={Tournament} />
       <Route path="/rankings/:col" component={Rankings} />
       <Route path="/other-tournaments" component={OtherTournaments} />
+      <Route path="/hall-of-fame/:col" component={HallOfFame} />
       <Route path="*" component={NotFound} />
     </Route>
   </Router>,
