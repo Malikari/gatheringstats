@@ -53,7 +53,7 @@
         },
         {
             "money": 6000,
-            "name": "Wo Kon Fai",
+            "name": "Kon Fai Wu",
             "propoints": 6
         },
         {
@@ -204,7 +204,8 @@
         {
             "money": 2000,
             "name": "Evgeniy Zakharenkov",
-            "propoints": 4
+            "propoints": 4,
+            "nationality": "BLR"
         },
         {
             "money": 2000,
@@ -349,7 +350,8 @@
         {
             "money": 1000,
             "name": "Dylan Brown",
-            "propoints": 3
+            "propoints": 3,
+            "nationality": "USA"
         },
         {
             "money": 1000,
@@ -363,7 +365,7 @@
         },
         {
             "money": 1000,
-            "name": "Han Hojae",
+            "name": "Hojae Han",
             "propoints": 3
         },
         {
@@ -425,7 +427,7 @@
         },
         {
             "money": 1000,
-            "name": "Dagoberto Silva",
+            "name": "Dagoberto Israel Silva Aranda",
             "propoints": 3
         },
         {
@@ -451,7 +453,8 @@
         {
             "money": 1000,
             "name": "Jose R Neris",
-            "propoints": 3
+            "propoints": 3,
+            "nationality": "PRI"
         },
         {
             "money": 1000,
@@ -460,17 +463,18 @@
         },
         {
             "money": 1000,
-            "name": "Luis Prieto",
+            "name": "Luis Delfin Prieto",
             "propoints": 3
         },
         {
             "money": 1000,
             "name": "Raul Porojan",
-            "propoints": 3
+            "propoints": 3,
+            "nationality": "ROU"
         },
         {
             "money": 1000,
-            "name": "Mircea Posoiu",
+            "name": "Mircea Adrian Posoiu",
             "propoints": 3
         },
         {
@@ -549,7 +553,7 @@
             "rank": 36
         },
         {
-            "name": "Michael Mills",
+            "name": "Michael Milis",
             "propoints": 2,
             "rank": 36
         },
@@ -629,32 +633,32 @@
             "rank": 41
         },
         {
-            "name": "Jose Alvarez",
+            "name": "Vladimir Trajcevski",
             "propoints": 2,
             "rank": 42
         },
         {
-            "name": "Gregroy Medina",
+            "name": "Petar Georgiev",
             "propoints": 2,
             "rank": 42
+        },
+        {
+            "name": "Samoil Petreski",
+            "propoints": 2,
+            "rank": 42
+        },
+        {
+            "name": "Jose Alvarez",
+            "propoints": 2,
+            "rank": 43
+        },
+        {
+            "name": "Gregory Medina",
+            "propoints": 2,
+            "rank": 43
         },
         {
             "name": "Victor Nicolas",
-            "propoints": 2,
-            "rank": 42
-        },
-        {
-            "name": "Sigtryggur Oskar Hrafnkelsson",
-            "propoints": 2,
-            "rank": 43
-        },
-        {
-            "name": "Ragnar Sigurdsson",
-            "propoints": 2,
-            "rank": 43
-        },
-        {
-            "name": "Vilhjalmur Thorhallson",
             "propoints": 2,
             "rank": 43
         },
@@ -674,47 +678,48 @@
             "rank": 44
         },
         {
-            "name": "Vladimir Trajcevski",
+            "name": "Sigtryggur Oskar Hrafnkelsson",
             "propoints": 2,
             "rank": 45
         },
         {
-            "name": "Petar Georgiev",
+            "name": "Ragnar Sigurdsson",
             "propoints": 2,
             "rank": 45
         },
         {
-            "name": "Samoil Petreski",
+            "name": "Vilhjalmur Thorhallson",
             "propoints": 2,
             "rank": 45
-        },
-        {
-            "name": "Chih-Cheng Yeh",
-            "propoints": 2,
-            "rank": 46
-        },
-        {
-            "name": "Yu Hung Yi",
-            "propoints": 2,
-            "rank": 46
-        },
-        {
-            "name": "Hung Hsun Hao",
-            "propoints": 2,
-            "rank": 46
         },
         {
             "name": "Daniel Antoniou",
             "propoints": 2,
-            "rank": 47
+            "rank": 46
         },
         {
             "name": "Simos Xalaris",
             "propoints": 2,
-            "rank": 47
+            "rank": 46
         },
         {
             "name": "George Pericleous",
+            "propoints": 2,
+            "rank": 47
+        },
+        {
+            "name": "Chih-Cheng Yeh",
+            "propoints": 2,
+            "rank": 47,
+            "nationality": "TWN"
+        },
+        {
+            "name": "Yu Hung Yi",
+            "propoints": 2,
+            "rank": 47
+        },
+        {
+            "name": "Hung Hsun Hao",
             "propoints": 2,
             "rank": 47
         },
@@ -734,32 +739,33 @@
             "rank": 48
         },
         {
-            "name": "Dmitriy Butakov",
-            "propoints": 2,
-            "rank": 49
-        },
-        {
-            "name": "Evgenii Dushinin",
-            "propoints": 2,
-            "rank": 49
-        },
-        {
-            "name": "Denis Andreichikov",
-            "propoints": 2,
-            "rank": 49
-        },
-        {
             "name": "Francesco Giorgio",
             "propoints": 2,
-            "rank": 50
+            "rank": 49,
+            "nationality": "ENG"
         },
         {
             "name": "Autumn Burchett",
             "propoints": 2,
-            "rank": 50
+            "rank": 49
         },
         {
             "name": "Chris Orchard",
+            "propoints": 2,
+            "rank": 49
+        },
+        {
+            "name": "Dmitriy Butakov",
+            "propoints": 2,
+            "rank": 50
+        },
+        {
+            "name": "Evgenii Dushinin",
+            "propoints": 2,
+            "rank": 50
+        },
+        {
+            "name": "Denis Andreichikov",
             "propoints": 2,
             "rank": 50
         },
@@ -839,77 +845,77 @@
             "rank": 55
         },
         {
-            "name": "Yusuf Kemal Vefa",
-            "propoints": 2,
-            "rank": 56
-        },
-        {
-            "name": "Yagiz Akgun",
-            "propoints": 2,
-            "rank": 56
-        },
-        {
-            "name": "Aras Senyuz",
-            "propoints": 2,
-            "rank": 56
-        },
-        {
             "name": "Makis Matsoukas",
             "propoints": 2,
-            "rank": 57
+            "rank": 56
         },
         {
             "name": "Franck Pappas",
             "propoints": 2,
-            "rank": 57
+            "rank": 56
         },
         {
             "name": "Michalis Foukarakis",
             "propoints": 2,
-            "rank": 57
-        },
-        {
-            "name": "Jason Chung",
-            "propoints": 2,
-            "rank": 58
-        },
-        {
-            "name": "Dan McKay",
-            "propoints": 2,
-            "rank": 58
-        },
-        {
-            "name": "Christian Lee",
-            "propoints": 2,
-            "rank": 58
+            "rank": 56
         },
         {
             "name": "Carlos Pal",
             "propoints": 2,
-            "rank": 59
+            "rank": 57
         },
         {
             "name": "Jun Rong Feng",
             "propoints": 2,
-            "rank": 59
+            "rank": 57
         },
         {
             "name": "Rodolfo Nunez",
             "propoints": 2,
-            "rank": 59
+            "rank": 57
+        },
+        {
+            "name": "Yusuf Kemal Vefa",
+            "propoints": 2,
+            "rank": 58
+        },
+        {
+            "name": "Yagiz Akgun",
+            "propoints": 2,
+            "rank": 58
+        },
+        {
+            "name": "Aras Senyuz",
+            "propoints": 2,
+            "rank": 58
         },
         {
             "name": "Martin Juza",
             "propoints": 2,
-            "rank": 60
+            "rank": 59
         },
         {
             "name": "Tomas Hanousek",
             "propoints": 2,
-            "rank": 60
+            "rank": 59
         },
         {
             "name": "Martin Hrycej",
+            "propoints": 2,
+            "rank": 59
+        },
+        {
+            "name": "Jason Chung",
+            "propoints": 2,
+            "rank": 60
+        },
+        {
+            "name": "Dan McKay",
+            "propoints": 2,
+            "rank": 60
+        },
+        {
+            "name": "Christian Lee",
             "propoints": 2,
             "rank": 60
         },
@@ -1009,12 +1015,12 @@
             "rank": 67
         },
         {
-            "name": "Tan Chin Heng",
+            "name": "Chin Heng Tan",
             "propoints": 2,
             "rank": 67
         },
         {
-            "name": "Teng Kong Chong",
+            "name": "Chong Teng Kong",
             "propoints": 2,
             "rank": 67
         },
@@ -1034,32 +1040,32 @@
             "rank": 68
         },
         {
-            "name": "Javier Dominguez",
-            "propoints": 2,
-            "rank": 69
-        },
-        {
-            "name": "Toni Ramis Pascual",
-            "propoints": 2,
-            "rank": 69
-        },
-        {
-            "name": "Alexander Callado",
-            "propoints": 2,
-            "rank": 69
-        },
-        {
             "name": "Thomas Hendriks",
             "propoints": 2,
-            "rank": 70
+            "rank": 69
         },
         {
             "name": "Daan Pruijt",
             "propoints": 2,
-            "rank": 70
+            "rank": 69
         },
         {
             "name": "Tijmen Blankevoort",
+            "propoints": 2,
+            "rank": 69
+        },
+        {
+            "name": "Javier Dominguez",
+            "propoints": 2,
+            "rank": 70
+        },
+        {
+            "name": "Toni Ramis Pascual",
+            "propoints": 2,
+            "rank": 70
+        },
+        {
+            "name": "Alexander Callado",
             "propoints": 2,
             "rank": 70
         },
@@ -1081,7 +1087,8 @@
         {
             "name": "Robert Castro",
             "propoints": 2,
-            "rank": 72
+            "rank": 72,
+            "nationality": "SLV"
         },
         {
             "name": "Kevin Aguilar",

@@ -1,5 +1,6 @@
 {
     "type": "European Championship",
+    "coverage": "https://magic.wizards.com/en/events/coverage/eurch01",
     "date": "June 29 - July 1, 2001",
     "formats": [
         "Standard",
@@ -44,7 +45,7 @@
         },
         {
             "money": 1000,
-            "name": "Svend Geertsen"
+            "name": "Svend Sparre Geertsen"
         },
         {
             "money": 800,
@@ -84,7 +85,7 @@
         },
         {
             "money": 250,
-            "name": "Nobary Poya"
+            "name": "Poya Nobari"
         },
         {
             "money": 250,
@@ -151,7 +152,7 @@
             "name": "Helder Coelho"
         },
         {
-            "name": "Noerberto Giusti"
+            "name": "Norberto Giusti"
         },
         {
             "name": "Mattias Kettil"
@@ -160,7 +161,7 @@
             "name": "Marcus Angelin"
         },
         {
-            "name": "Joos Vollebregt"
+            "name": "Joost Vollebregt"
         },
         {
             "name": "Peter Gysemans"
@@ -331,7 +332,7 @@
             "name": "Scott Wills"
         },
         {
-            "name": "Laurent Pagorek"
+            "name": "Laurent Pagoreck"
         },
         {
             "name": "Robert Plachy"
@@ -439,7 +440,7 @@
             "name": "Jan Mechura"
         },
         {
-            "name": "Craig Jones"
+            "name": "Craig A Jones"
         },
         {
             "name": "Sergey Norin"
@@ -469,7 +470,7 @@
             "name": "Richard Edbury"
         },
         {
-            "name": "Daniel Bertelesen"
+            "name": "Daniel Smits Bertelsen"
         },
         {
             "name": "Antoine Rottiers"
@@ -634,7 +635,7 @@
             "name": "Stewart Walker"
         },
         {
-            "name": "Patrik Häggstrom"
+            "name": "Patrik Häggström"
         },
         {
             "name": "Stuart Cresswell"
@@ -730,7 +731,7 @@
             "name": "Michal Jedlicka"
         },
         {
-            "name": "Johan Johannesson"
+            "name": "Johan Johanneson"
         },
         {
             "name": "Jerome Vilm"
@@ -781,7 +782,7 @@
             "name": "Tommy Hammer"
         },
         {
-            "name": "Dimitrios Petridis"
+            "name": "Dimitrio Petridis"
         },
         {
             "name": "Zeljko Vasic"
@@ -848,6 +849,10 @@
         },
         {
             "name": "Liran Bar"
+        },
+        {
+            "name": "Arto Hiltunen",
+            "rank": "DQ"
         }
     ],
     "teamsize": 1
