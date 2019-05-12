@@ -125,6 +125,10 @@
   tbody > tr > td:nth-child(1) {
     text-align: right;
   }
+
+  tbody.hallOfFame > tr > td:nth-child(1) {
+    text-align: left !important;
+  }
 }
 
 .jumbotron.notFound {

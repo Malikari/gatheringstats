@@ -4,7 +4,7 @@ import React from 'react';
 import DocumentTitle from 'react-document-title';
 
 const NotFound = () => (
-  <DocumentTitle title="MTG Pro Tour Results | Not Found">
+  <DocumentTitle title="Gathering Stats | Not Found">
     <div className="col-md-offset-3 col-md-6 container">
       <div className="jumbotron notFound">
         <h1>Not Found</h1>
