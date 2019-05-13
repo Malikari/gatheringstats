@@ -11,7 +11,7 @@ const Page = props => (
       <div className="container-fluid">
         <div className="navbar-header">
           <IndexLink className="navbar-brand" to="/">
-            MTG Pro Tour Results
+            Gathering Stats
           </IndexLink>
         </div>
         <ul className="nav navbar-nav">

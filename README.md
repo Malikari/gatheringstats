@@ -1,9 +1,4 @@
-# WARNING
-
-This project is no longer actively maintained. If you are interested in becoming
-the primary maintainer, please [e-mail me](https://github.com/czarandy).
-
-# MTG PT Results
+# Gathering Stats
 
 A static site showing results for every MTG Pro Tour (as much as we've been able
 to find). The display code is fairly simple – most of the work was in data
@@ -13,8 +8,7 @@ gathering.
 
 We are open for community contributions. You have multiple possibilities:
 
-* Tweet us [@mtgptresults](https://twitter.com/mtgptresults)
-* [Raise an issue](https://github.com/czarandy/mtgptresults/issues)
+* [Raise an issue](https://github.com/Malikari/gatheringstats/issues)
 * [Create a pull request](#pull-requests)
 
 ## Pull Requests
