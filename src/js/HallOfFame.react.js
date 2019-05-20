@@ -55,6 +55,10 @@ const HallOfFame = props => {
             {col === 'points' ? sortImage : null}
           </th>
           <th className="sortableHeader">
+            <Link to="/hall-of-fame/mythicpoints">Mythic Points</Link>
+            {col === 'mythicpoints' ? sortImage : null}
+          </th>
+          <th className="sortableHeader">
             <Link to="/hall-of-fame/money">Money</Link>
             {col === 'money' ? sortImage : null}
           </th>
@@ -78,12 +82,13 @@ const HallOfFame = props => {
               <td>
                 <PlayerLink player={Players.byID(player.id)} />
               </td>
-              <td>{player.hof.year}</td>
-              <td>{player.hof.rank}</td>
+              <td>{player.stats.year}</td>
+              <td>{player.stats.rank}</td>
               <td>{player.stats.total}</td>
               <td>{player.stats.t1}</td>
               <td>{player.stats.t8}</td>
               <td>{player.stats.points}</td>
+              <td>{player.stats.mythicpoints}</td>
               <td>{accounting.formatMoney(player.stats.money, '$', 0)}</td>
               <td>{player.stats.t8pct}</td>
             </tr>

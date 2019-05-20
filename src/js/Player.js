@@ -12,6 +12,11 @@ export default class Player {
     this.mpl = data.mpl;
     this.stats = data.stats;
     this.tournaments = data.tournaments;
+
+    if (this.hof) {
+      this.stats.year = this.hof.year;
+      this.stats.rank = this.hof.rank;
+    }
   }
 
   getMoney() {
