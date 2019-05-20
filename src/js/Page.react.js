@@ -21,6 +21,11 @@ const Page = props => (
             </Link>
           </li>
           <li>
+            <Link to="/hall-of-fame/year" activeClassName="activeLink">
+              Hall of Fame
+            </Link>
+          </li>
+          <li>
             <Link to="/other-tournaments" activeClassName="activeLink">
               Other Tournaments
             </Link>

@@ -110,6 +110,7 @@ module.exports = function(grunt) {
             stats: {
               money: 0,
               points: 0,
+              mythicpoints: 0,
               total: 0,
               t1: 0,
               t8: 0,
@@ -121,6 +122,7 @@ module.exports = function(grunt) {
         var t = {
           finish: finish,
           propoints: standing.propoints,
+          mythicpoints: standing.mythicpoints,
           tid: tournament.id,
           money: standing.money,
           type: tournament.type || ''
@@ -131,6 +133,7 @@ module.exports = function(grunt) {
         players[standing.id].tournaments.push(t);
         players[standing.id].stats.money += standing.money || 0;
         players[standing.id].stats.points += standing.propoints || 0;
+        players[standing.id].stats.mythicpoints += standing.mythicpoints || 0;
 
         // Only PTs are included in the stats below (count, T1, T8, T16)
         if (tournament.type !== 'Pro Tour') {

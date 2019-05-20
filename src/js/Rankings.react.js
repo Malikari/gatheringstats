@@ -57,6 +57,10 @@ const Rankings = props => {
               {col === 'points' ? sortImage : null}
             </th>
             <th className="sortableHeader">
+              <Link to="/rankings/mythicpoints">Mythic Points</Link>
+              {col === 'mythicpoints' ? sortImage : null}
+            </th>
+            <th className="sortableHeader">
               <Link to="/rankings/money">Money</Link>
               {col === 'money' ? sortImage : null}
             </th>
@@ -86,6 +90,7 @@ const Rankings = props => {
                 <td>{player.stats.t8}</td>
                 <td>{player.stats.t16}</td>
                 <td>{player.stats.points}</td>
+                <td>{player.stats.mythicpoints}</td>
                 <td>{accounting.formatMoney(player.stats.money, '$', 0)}</td>
                 <td>{player.stats.t8pct}</td>
               </tr>
