@@ -1,6 +1,9 @@
 {
     "nicolai-herzog": {
-        "hof": {"year": 2007, "rank": 4},
+        "hof": {
+            "year": 2007,
+            "rank": 4
+        },
         "nationality": "NOR"
     },
     "osamu-fujita": {
@@ -8,15 +11,24 @@
         "nationality": "JPN"
     },
     "anton-jonsson": {
-        "hof": {"year":  2011, "rank": 2},
+        "hof": {
+            "year": 2011,
+            "rank": 2
+        },
         "nationality": "SWE"
     },
     "olivier-ruel": {
-        "hof": {"year": 2008, "rank": 4},
+        "hof": {
+            "year": 2008,
+            "rank": 4
+        },
         "nationality": "FRA"
     },
     "kamiel-cornelissen": {
-        "hof": {"year": 2009, "rank": 2},
+        "hof": {
+            "year": 2009,
+            "rank": 2
+        },
         "nationality": "NLD"
     },
     "aeo-paquette": {
@@ -26,7 +38,10 @@
         "nationality": "FRA"
     },
     "michael-turian": {
-        "hof": {"year": 2008, "rank":  2},
+        "hof": {
+            "year": 2008,
+            "rank": 2
+        },
         "nationality": "USA"
     },
     "david-brucker": {
@@ -35,8 +50,14 @@
     "richard-hoaen": {
         "nationality": "CAN",
         "teams": [
-            {"season": 2017, "team" : "Face to Face Games"},
-            {"season": 2018, "team" : ""}
+            {
+                "season": 2017,
+                "team": "Face to Face Games"
+            },
+            {
+                "season": 2018,
+                "team": ""
+            }
         ]
     },
     "andrii-alieksieiev": {
@@ -52,10 +73,16 @@
         "nationality": "JPN"
     },
     "kai-budde": {
-        "hof": {"year": 2007, "rank": 1},
+        "hof": {
+            "year": 2007,
+            "rank": 1
+        },
         "nationality": "DEU",
         "teams": [
-            {"season": 2018, "team" : "Good Luck High Five"}
+            {
+                "season": 2018,
+                "team": "Good Luck High Five"
+            }
         ]
     },
     "gert-coeckelbergh": {
@@ -74,11 +101,20 @@
         "nationality": "NOR"
     },
     "ben-rubin": {
-        "hof": {"year": 2008, "rank": 5},
+        "hof": {
+            "year": 2008,
+            "rank": 5
+        },
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "D3 Go!"},
-            {"season": 2017, "team" : "Face to Face Games"}
+            {
+                "season": 2016,
+                "team": "D3 Go!"
+            },
+            {
+                "season": 2017,
+                "team": "Face to Face Games"
+            }
         ]
     },
     "david-linder": {
@@ -101,7 +137,10 @@
         "nationality": "ARG"
     },
     "david-humpherys": {
-        "hof": {"year": 2006, "rank": 2},
+        "hof": {
+            "year": 2006,
+            "rank": 2
+        },
         "nationality": "USA"
     },
     "kim-lund": {
@@ -116,7 +155,10 @@
     "brock-parker": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "D3 Go!"}
+            {
+                "season": 2016,
+                "team": "D3 Go!"
+            }
         ]
     },
     "adam-horvath": {
@@ -130,11 +172,22 @@
     },
     "andrew-cuneo": {
         "nationality": "USA",
-        "mpl": [2019],
+        "mpl": [
+            2019
+        ],
         "teams": [
-            {"season": 2016, "team" : "Puzzle Quest"},
-            {"season": 2017, "team" : "Ultimate Guard Pro Team"},
-            {"season": 2018, "team" : "Ultimate Guard Pro Team"}
+            {
+                "season": 2016,
+                "team": "Puzzle Quest"
+            },
+            {
+                "season": 2017,
+                "team": "Ultimate Guard Pro Team"
+            },
+            {
+                "season": 2018,
+                "team": "Ultimate Guard Pro Team"
+            }
         ]
     },
     "itaru-ishida": {
@@ -160,7 +213,10 @@
         "nationality": "SGP"
     },
     "frank-karsten": {
-        "hof": {"year": 2009, "rank": 3},
+        "hof": {
+            "year": 2009,
+            "rank": 3
+        },
         "nationality": "NLD"
     },
     "douglas-conway": {
@@ -173,13 +229,27 @@
         "nationality": "USA"
     },
     "ben-stark": {
-        "hof": {"year": 2013, "rank": 3},
+        "hof": {
+            "year": 2013,
+            "rank": 3
+        },
         "nationality": "USA",
-        "mpl": [2019],
+        "mpl": [
+            2019
+        ],
         "teams": [
-            {"season": 2016, "team" : "Channel Fireball Ice"},
-            {"season": 2017, "team" : "ChannelFireball"},
-            {"season": 2018, "team" : "ChannelFireball"}
+            {
+                "season": 2016,
+                "team": "Channel Fireball Ice"
+            },
+            {
+                "season": 2017,
+                "team": "ChannelFireball"
+            },
+            {
+                "season": 2018,
+                "team": "ChannelFireball"
+            }
         ]
     },
     "jonathan-cassidy": {
@@ -189,10 +259,16 @@
         "nationality": "USA"
     },
     "antoine-ruel": {
-        "hof": {"year": 2009, "rank": 1},
+        "hof": {
+            "year": 2009,
+            "rank": 1
+        },
         "nationality": "FRA",
         "teams": [
-            {"season": 2018, "team" : "Baguette"}
+            {
+                "season": 2018,
+                "team": "Baguette"
+            }
         ]
     },
     "markus-jobstl": {
@@ -204,7 +280,10 @@
     "christopher-fennell": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Lingering Souls"}
+            {
+                "season": 2016,
+                "team": "Lingering Souls"
+            }
         ]
     },
     "kyle-felter": {
@@ -235,11 +314,20 @@
         "nationality": "FRA"
     },
     "jelger-wiegersma": {
-        "hof": {"year": 2008, "rank": 3},
+        "hof": {
+            "year": 2008,
+            "rank": 3
+        },
         "nationality": "NLD",
         "teams": [
-            {"season": 2016, "team" : "D3 Go!"},
-            {"season": 2018, "team" : "Good Luck High Five"}
+            {
+                "season": 2016,
+                "team": "D3 Go!"
+            },
+            {
+                "season": 2018,
+                "team": "Good Luck High Five"
+            }
         ]
     },
     "robert-allbright": {
@@ -290,9 +378,18 @@
     "gerry-thompson": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Mutiny"},
-            {"season": 2017, "team" : "Legion"},
-            {"season": 2018, "team" : "Legion"}
+            {
+                "season": 2016,
+                "team": "Mutiny"
+            },
+            {
+                "season": 2017,
+                "team": "Legion"
+            },
+            {
+                "season": 2018,
+                "team": "Legion"
+            }
         ]
     },
     "armin-birner": {
@@ -317,7 +414,10 @@
         "nationality": "JPN"
     },
     "gary-wise": {
-        "hof": {"year": 2006, "rank": 4},
+        "hof": {
+            "year": 2006,
+            "rank": 4
+        },
         "nationality": "CAN"
     },
     "giulio-barra": {
@@ -336,9 +436,18 @@
         "natname": "齋藤 友晴",
         "nationality": "JPN",
         "teams": [
-            {"season": 2016, "team" : "Hareruya"},
-            {"season": 2017, "team" : "Connected Company"},
-            {"season": 2018, "team" : "Hareruya Axe"}
+            {
+                "season": 2016,
+                "team": "Hareruya"
+            },
+            {
+                "season": 2017,
+                "team": "Connected Company"
+            },
+            {
+                "season": 2018,
+                "team": "Hareruya Axe"
+            }
         ]
     },
     "christophe-haim": {
@@ -433,11 +542,22 @@
     },
     "carlos-romao": {
         "nationality": "BRA",
-        "mpl": [2019],
+        "mpl": [
+            2019
+        ],
         "teams": [
-            {"season": 2016, "team" : "DEX Army"},
-            {"season": 2017, "team" : "Hareruya Latin"},
-            {"season": 2018, "team" : "Hareruya Latin"}
+            {
+                "season": 2016,
+                "team": "DEX Army"
+            },
+            {
+                "season": 2017,
+                "team": "Hareruya Latin"
+            },
+            {
+                "season": 2018,
+                "team": "Hareruya Latin"
+            }
         ]
     },
     "dario-parazzoli": {
@@ -482,8 +602,14 @@
     "david-williams": {
         "nationality": "USA",
         "teams": [
-            {"season": 2017, "team" : "Face to Face Games"},
-            {"season": 2018, "team" : "Greater Good"}
+            {
+                "season": 2017,
+                "team": "Face to Face Games"
+            },
+            {
+                "season": 2018,
+                "team": "Greater Good"
+            }
         ]
     },
     "adam-koska": {
@@ -500,17 +626,26 @@
     },
     "masashi-oiso": {
         "natname": "大礒 正嗣",
-        "hof": {"year": 2012, "rank": 3},
+        "hof": {
+            "year": 2012,
+            "rank": 3
+        },
         "nationality": "JPN",
         "teams": [
-            {"season": 2016, "team" : "Last Samurai"}
+            {
+                "season": 2016,
+                "team": "Last Samurai"
+            }
         ]
     },
     "michael-krumb": {
         "nationality": "USA"
     },
     "brian-kibler": {
-        "hof": {"year": 2010, "rank": 2},
+        "hof": {
+            "year": 2010,
+            "rank": 2
+        },
         "nationality": "USA"
     },
     "vladimir-vetrov": {
@@ -520,12 +655,24 @@
         "nationality": "USA"
     },
     "gabriel-nassif": {
-        "hof": {"year": 2010, "rank": 1},
+        "hof": {
+            "year": 2010,
+            "rank": 1
+        },
         "nationality": "FRA",
         "teams": [
-            {"season": 2016, "team" : "Opportunity"},
-            {"season": 2017, "team" : "Face to Face Games"},
-            {"season": 2018, "team" : "FacetoFacegames"}
+            {
+                "season": 2016,
+                "team": "Opportunity"
+            },
+            {
+                "season": 2017,
+                "team": "Face to Face Games"
+            },
+            {
+                "season": 2018,
+                "team": "FacetoFacegames"
+            }
         ]
     },
     "akira-asahara": {
@@ -593,7 +740,10 @@
         "nationality": "JPN"
     },
     "robert-maher": {
-        "hof": {"year": 2006, "rank": 1},
+        "hof": {
+            "year": 2006,
+            "rank": 1
+        },
         "nationality": "USA"
     },
     "sigurd-eskeland": {
@@ -718,7 +868,10 @@
         "nationality": "DEU"
     },
     "tommi-hovi": {
-        "hof": {"year": 2005, "rank": 4},
+        "hof": {
+            "year": 2005,
+            "rank": 4
+        },
         "nationality": "FIN"
     },
     "markus-panteleit": {
@@ -818,8 +971,14 @@
     "gerard-fabiano": {
         "nationality": "USA",
         "teams": [
-            {"season": 2017, "team" : "Child's Play"},
-            {"season": 2018, "team" : "Good Luck High Five"}
+            {
+                "season": 2017,
+                "team": "Child's Play"
+            },
+            {
+                "season": 2018,
+                "team": "Good Luck High Five"
+            }
         ]
     },
     "elijah-pollock": {
@@ -829,13 +988,27 @@
         "nationality": "ITA"
     },
     "william-jensen": {
-        "hof": {"year": 2013, "rank": 2},
+        "hof": {
+            "year": 2013,
+            "rank": 2
+        },
         "nationality": "USA",
-        "mpl": [2019],
+        "mpl": [
+            2019
+        ],
         "teams": [
-            {"season": 2016, "team" : "Puzzle Quest"},
-            {"season": 2017, "team" : "Ultimate Guard Pro Team"},
-            {"season": 2018, "team" : "Ultimate Guard Pro Team"}
+            {
+                "season": 2016,
+                "team": "Puzzle Quest"
+            },
+            {
+                "season": 2017,
+                "team": "Ultimate Guard Pro Team"
+            },
+            {
+                "season": 2018,
+                "team": "Ultimate Guard Pro Team"
+            }
         ]
     },
     "george-theologitis": {
@@ -893,7 +1066,10 @@
         "nationality": "BRA"
     },
     "bram-snepvangers": {
-        "hof": {"year": 2010, "rank": 4},
+        "hof": {
+            "year": 2010,
+            "rank": 4
+        },
         "nationality": "NLD"
     },
     "mike-labeau": {
@@ -971,19 +1147,34 @@
     "guillaume-perbet": {
         "nationality": "FRA",
         "teams": [
-            {"season": 2017, "team" : "Magic Corsairs Crew"}
+            {
+                "season": 2017,
+                "team": "Magic Corsairs Crew"
+            }
         ]
     },
     "dan-jenkins": {
         "nationality": "ENG"
     },
     "jon-finkel": {
-        "hof": {"year": 2005, "rank": 1},
+        "hof": {
+            "year": 2005,
+            "rank": 1
+        },
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Puzzle Quest"},
-            {"season": 2017, "team" : "Ultimate Guard Pro Team"},
-            {"season": 2018, "team" : "Ultimate Guard Pro Team"}
+            {
+                "season": 2016,
+                "team": "Puzzle Quest"
+            },
+            {
+                "season": 2017,
+                "team": "Ultimate Guard Pro Team"
+            },
+            {
+                "season": 2018,
+                "team": "Ultimate Guard Pro Team"
+            }
         ]
     },
     "omar-alvarez-leoni": {
@@ -1023,7 +1214,10 @@
         "nationality": "DNK"
     },
     "darwin-kastle": {
-        "hof": {"year": 2005, "rank": 2},
+        "hof": {
+            "year": 2005,
+            "rank": 2
+        },
         "nationality": "USA"
     },
     "florent-jeudon": {
@@ -1033,10 +1227,16 @@
         "nationality": "USA"
     },
     "dirk-baberowski": {
-        "hof": {"year": 2008, "rank": 1},
+        "hof": {
+            "year": 2008,
+            "rank": 1
+        },
         "nationality": "DEU",
         "teams": [
-            {"season": 2018, "team" : "Good Luck High Five"}
+            {
+                "season": 2018,
+                "team": "Good Luck High Five"
+            }
         ]
     },
     "jaime-marrero-negrin": {
@@ -1106,11 +1306,20 @@
         "nationality": "USA"
     },
     "raphael-levy": {
-        "hof": {"year": 2006, "rank": 3},
+        "hof": {
+            "year": 2006,
+            "rank": 3
+        },
         "nationality": "FRA",
         "teams": [
-            {"season": 2016, "team" : "Top Level"},
-            {"season": 2018, "team" : "Hareruya Axe"}
+            {
+                "season": 2016,
+                "team": "Top Level"
+            },
+            {
+                "season": 2018,
+                "team": "Hareruya Axe"
+            }
         ]
     },
     "daniele-canavesi": {
@@ -1154,21 +1363,44 @@
         "nationality": "ENG"
     },
     "paul-rietzl": {
-        "hof": {"year": 2014, "rank": 2},
+        "hof": {
+            "year": 2014,
+            "rank": 2
+        },
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Puzzle Quest"},
-            {"season": 2017, "team" : "Ultimate Guard Pro Team"},
-            {"season": 2018, "team" : "Ultimate Guard Pro Team"}
+            {
+                "season": 2016,
+                "team": "Puzzle Quest"
+            },
+            {
+                "season": 2017,
+                "team": "Ultimate Guard Pro Team"
+            },
+            {
+                "season": 2018,
+                "team": "Ultimate Guard Pro Team"
+            }
         ]
     },
     "brad-nelson": {
         "nationality": "USA",
-        "mpl": [2019],
+        "mpl": [
+            2019
+        ],
         "teams": [
-            {"season": 2016, "team" : "Genesis"},
-            {"season": 2017, "team" : "Genesis"},
-            {"season": 2018, "team" : "KMC-Genesis"}
+            {
+                "season": 2016,
+                "team": "Genesis"
+            },
+            {
+                "season": 2017,
+                "team": "Genesis"
+            },
+            {
+                "season": 2018,
+                "team": "KMC-Genesis"
+            }
         ]
     },
     "michael-jacob": {
@@ -1178,10 +1410,16 @@
         "nationality": "BEL"
     },
     "guillaume-wafo-tapa": {
-        "hof": {"year": 2014, "rank": 3},
+        "hof": {
+            "year": 2014,
+            "rank": 3
+        },
         "nationality": "FRA",
         "teams": [
-            {"season": 2018, "team" : "Baguette"}
+            {
+                "season": 2018,
+                "team": "Baguette"
+            }
         ]
     },
     "thomas-ma": {
@@ -1194,7 +1432,10 @@
         "nationality": "MYS"
     },
     "luis-scott-vargas": {
-        "hof": {"year": 2013, "rank": 1},
+        "hof": {
+            "year": 2013,
+            "rank": 1
+        },
         "nationality": "USA"
     },
     "william-postlethwait": {
@@ -1217,17 +1458,31 @@
     },
     "marcio-carvalho": {
         "nationality": "PRT",
-        "mpl": [2019],
+        "mpl": [
+            2019
+        ],
         "teams": [
-            {"season": 2016, "team" : "DEX Army"},
-            {"season": 2017, "team" : "Hareruya Latin"},
-            {"season": 2018, "team" : "Hareruya Latin"}
+            {
+                "season": 2016,
+                "team": "DEX Army"
+            },
+            {
+                "season": 2017,
+                "team": "Hareruya Latin"
+            },
+            {
+                "season": 2018,
+                "team": "Hareruya Latin"
+            }
         ]
     },
     "guillaume-matignon": {
         "nationality": "FRA",
         "teams": [
-            {"season": 2018, "team" : "Baguette"}
+            {
+                "season": 2018,
+                "team": "Baguette"
+            }
         ]
     },
     "conley-woods": {
@@ -1236,9 +1491,18 @@
     "shaheen-soorani": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Lingering Souls"},
-            {"season": 2017, "team" : "Cardhoarder"},
-            {"season": 2018, "team" : "FacetoFacegames"}
+            {
+                "season": 2016,
+                "team": "Lingering Souls"
+            },
+            {
+                "season": 2017,
+                "team": "Cardhoarder"
+            },
+            {
+                "season": 2018,
+                "team": "FacetoFacegames"
+            }
         ]
     },
     "francesco-cipolleschi": {
@@ -1250,7 +1514,10 @@
     "gaudenis-vidugiris": {
         "nationality": "LTU",
         "teams": [
-            {"season": 2017, "team" : "ManaTraders"}
+            {
+                "season": 2017,
+                "team": "ManaTraders"
+            }
         ]
     },
     "davide-brambilla": {
@@ -1260,9 +1527,18 @@
         "natname": "渡辺 雄也",
         "nationality": "JPN",
         "teams": [
-            {"season": 2016, "team" : "Musashi"},
-            {"season": 2017, "team" : "Musashi"},
-            {"season": 2018, "team" : "Musashi"}
+            {
+                "season": 2016,
+                "team": "Musashi"
+            },
+            {
+                "season": 2017,
+                "team": "Musashi"
+            },
+            {
+                "season": 2018,
+                "team": "Musashi"
+            }
         ]
     },
     "kazuto-kawakami": {
@@ -1277,9 +1553,18 @@
     "christian-calcano": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "MTG Bent Card"},
-            {"season": 2017, "team" : "Connected Company"},
-            {"season": 2018, "team" : "Hareruya Axe"}
+            {
+                "season": 2016,
+                "team": "MTG Bent Card"
+            },
+            {
+                "season": 2017,
+                "team": "Connected Company"
+            },
+            {
+                "season": 2018,
+                "team": "Hareruya Axe"
+            }
         ]
     },
     "hunter-burton": {
@@ -1307,13 +1592,27 @@
         "nationality": "SWE"
     },
     "lee-shi-tian": {
-        "hof": {"year": 2019, "rank": 2},
+        "hof": {
+            "year": 2019,
+            "rank": 2
+        },
         "nationality": "HKG",
-        "mpl": [2019],
+        "mpl": [
+            2019
+        ],
         "teams": [
-            {"season": 2016, "team" : "MTG Mint Card"},
-            {"season": 2017, "team" : "MTG Mint Card"},
-            {"season": 2018, "team" : "Hareruya Sword"}
+            {
+                "season": 2016,
+                "team": "MTG Mint Card"
+            },
+            {
+                "season": 2017,
+                "team": "MTG Mint Card"
+            },
+            {
+                "season": 2018,
+                "team": "Hareruya Sword"
+            }
         ]
     },
     "adam-yurchick": {
@@ -1327,20 +1626,38 @@
     },
     "shuhei-nakamura": {
         "natname": "中村 修平",
-        "hof": {"year": 2011, "rank": 1},
+        "hof": {
+            "year": 2011,
+            "rank": 1
+        },
         "nationality": "JPN",
         "teams": [
-            {"season": 2016, "team" : "Hareruya"},
-            {"season": 2017, "team" : "Kusemono"},
-            {"season": 2018, "team" : "Kusemono"}
+            {
+                "season": 2016,
+                "team": "Hareruya"
+            },
+            {
+                "season": 2017,
+                "team": "Kusemono"
+            },
+            {
+                "season": 2018,
+                "team": "Kusemono"
+            }
         ]
     },
     "yuchen-liu": {
         "natname": "刘宇晨",
         "nationality": "CHN",
         "teams": [
-            {"season": 2017, "team" : "MTGSheep"},
-            {"season": 2018, "team" : "MTGSheep"}
+            {
+                "season": 2017,
+                "team": "MTGSheep"
+            },
+            {
+                "season": 2018,
+                "team": "MTGSheep"
+            }
         ]
     },
     "tobias-wolff": {
@@ -1376,26 +1693,52 @@
     "ari-lax": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Massdrop West"},
-            {"season": 2017, "team" : "Massdrop East"},
-            {"season": 2018, "team" : "Team RIW"}
+            {
+                "season": 2016,
+                "team": "Massdrop West"
+            },
+            {
+                "season": 2017,
+                "team": "Massdrop East"
+            },
+            {
+                "season": 2018,
+                "team": "Team RIW"
+            }
         ]
     },
     "zhiyang-zhang": {
         "nationality": "CHN",
         "teams": [
-            {"season": 2018, "team" : "MTGSheep"}
+            {
+                "season": 2018,
+                "team": "MTGSheep"
+            }
         ]
     },
     "shota-yasooka": {
         "natname": "八十岡 翔太",
-        "hof": {"year": 2015, "rank": 2},
+        "hof": {
+            "year": 2015,
+            "rank": 2
+        },
         "nationality": "JPN",
-        "mpl": [2019],
+        "mpl": [
+            2019
+        ],
         "teams": [
-            {"season": 2016, "team" : "Musashi"},
-            {"season": 2017, "team" : "Musashi"},
-            {"season": 2018, "team" : "Musashi"}
+            {
+                "season": 2016,
+                "team": "Musashi"
+            },
+            {
+                "season": 2017,
+                "team": "Musashi"
+            },
+            {
+                "season": 2018,
+                "team": "Musashi"
+            }
         ]
     },
     "katsuhiro-mori": {
@@ -1420,7 +1763,10 @@
     "travis-woo": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Lingering Souls"}
+            {
+                "season": 2016,
+                "team": "Lingering Souls"
+            }
         ]
     },
     "jun-ya-iyanaga": {
@@ -1433,7 +1779,10 @@
     "peter-ingram": {
         "nationality": "USA",
         "teams": [
-            {"season": 2018, "team" : "FacetoFacegames"}
+            {
+                "season": 2018,
+                "team": "FacetoFacegames"
+            }
         ]
     },
     "blaine-hatab": {
@@ -1455,8 +1804,14 @@
     "lukas-blohon": {
         "nationality": "CZE",
         "teams": [
-            {"season": 2016, "team" : "Genesis"},
-            {"season": 2017, "team" : "Genesis"}
+            {
+                "season": 2016,
+                "team": "Genesis"
+            },
+            {
+                "season": 2017,
+                "team": "Genesis"
+            }
         ]
     },
     "kyle-lewis": {
@@ -1465,8 +1820,14 @@
     "paul-dean": {
         "nationality": "CAN",
         "teams": [
-            {"season": 2016, "team" : "Massdrop West"},
-            {"season": 2017, "team" : "Revelation"}
+            {
+                "season": 2016,
+                "team": "Massdrop West"
+            },
+            {
+                "season": 2017,
+                "team": "Revelation"
+            }
         ]
     },
     "emanuel-schleinzer": {
@@ -1484,9 +1845,18 @@
     "samuel-black": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Mutiny"},
-            {"season": 2017, "team" : "Ultra Pro"},
-            {"season": 2018, "team" : "Greater Good"}
+            {
+                "season": 2016,
+                "team": "Mutiny"
+            },
+            {
+                "season": 2017,
+                "team": "Ultra Pro"
+            },
+            {
+                "season": 2018,
+                "team": "Greater Good"
+            }
         ]
     },
     "lukas-vozdecky": {
@@ -1498,16 +1868,31 @@
     "tom-martell": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "D3 Go!"},
-            {"season": 2017, "team" : "MTGOTraders"}
+            {
+                "season": 2016,
+                "team": "D3 Go!"
+            },
+            {
+                "season": 2017,
+                "team": "MTGOTraders"
+            }
         ]
     },
     "thiago-saporito": {
         "nationality": "BRA",
         "teams": [
-            {"season": 2016, "team" : "DEX Army"},
-            {"season": 2017, "team" : "Hareruya Latin"},
-            {"season": 2018, "team" : "Hareruya Latin"}
+            {
+                "season": 2016,
+                "team": "DEX Army"
+            },
+            {
+                "season": 2017,
+                "team": "Hareruya Latin"
+            },
+            {
+                "season": 2018,
+                "team": "Hareruya Latin"
+            }
         ]
     },
     "peamwut-saowarattithada": {
@@ -1532,7 +1917,10 @@
     "micheal-maurici": {
         "nationality": "AUS",
         "teams": [
-            {"season": 2017, "team" : "Blitz"}
+            {
+                "season": 2017,
+                "team": "Blitz"
+            }
         ]
     },
     "adam-barnett": {
@@ -1563,13 +1951,27 @@
         "nationality": "NLD"
     },
     "martin-juza": {
-        "hof": {"year": 2017, "rank": 2},
+        "hof": {
+            "year": 2017,
+            "rank": 2
+        },
         "nationality": "CZE",
-        "mpl": [2019],
+        "mpl": [
+            2019
+        ],
         "teams": [
-            {"season": 2016, "team" : "Channel Fireball Fire"},
-            {"season": 2017, "team" : "ChannelFireball"},
-            {"season": 2018, "team" : "ChannelFireball"}
+            {
+                "season": 2016,
+                "team": "Channel Fireball Fire"
+            },
+            {
+                "season": 2017,
+                "team": "ChannelFireball"
+            },
+            {
+                "season": 2018,
+                "team": "ChannelFireball"
+            }
         ]
     },
     "jan-doise": {
@@ -1663,9 +2065,18 @@
         "natname": "黄皓善",
         "nationality": "TWN",
         "teams": [
-            {"season": 2016, "team" : "MTG Mint Card"},
-            {"season": 2017, "team" : "MTG Mint Card"},
-            {"season": 2018, "team" : "Myst"}
+            {
+                "season": 2016,
+                "team": "MTG Mint Card"
+            },
+            {
+                "season": 2017,
+                "team": "MTG Mint Card"
+            },
+            {
+                "season": 2018,
+                "team": "Myst"
+            }
         ]
     },
     "samuel-arevalo-godoy": {
@@ -1680,9 +2091,18 @@
     "ivan-floch": {
         "nationality": "SVK",
         "teams": [
-            {"season": 2016, "team" : "Face to Face Games"},
-            {"season": 2017, "team" : "Ultra Pro"},
-            {"season": 2018, "team" : "Ultra Pro"}
+            {
+                "season": 2016,
+                "team": "Face to Face Games"
+            },
+            {
+                "season": 2017,
+                "team": "Ultra Pro"
+            },
+            {
+                "season": 2018,
+                "team": "Ultra Pro"
+            }
         ]
     },
     "stefan-steiner": {
@@ -1717,12 +2137,24 @@
     },
     "kenji-tsumura": {
         "natname": "津村 健志",
-        "hof": {"year": 2012, "rank": 2},
+        "hof": {
+            "year": 2012,
+            "rank": 2
+        },
         "nationality": "JPN",
         "teams": [
-            {"season": 2016, "team" : "Last Samurai"},
-            {"season": 2017, "team" : "Final Last Samurai"},
-            {"season": 2018, "team" : "Hareruya Axe"}
+            {
+                "season": 2016,
+                "team": "Last Samurai"
+            },
+            {
+                "season": 2017,
+                "team": "Final Last Samurai"
+            },
+            {
+                "season": 2018,
+                "team": "Hareruya Axe"
+            }
         ]
     },
     "derrick-steele": {
@@ -1762,13 +2194,27 @@
         "nationality": "USA"
     },
     "paulo-vitor-damo-da-rosa": {
-        "hof": {"year": 2012, "rank": 1},
+        "hof": {
+            "year": 2012,
+            "rank": 1
+        },
         "nationality": "BRA",
-        "mpl": [2019],
+        "mpl": [
+            2019
+        ],
         "teams": [
-            {"season": 2016, "team" : "Channel Fireball Ice"},
-            {"season": 2017, "team" : "ChannelFireball"},
-            {"season": 2018, "team" : "ChannelFireball"}
+            {
+                "season": 2016,
+                "team": "Channel Fireball Ice"
+            },
+            {
+                "season": 2017,
+                "team": "ChannelFireball"
+            },
+            {
+                "season": 2018,
+                "team": "ChannelFireball"
+            }
         ]
     },
     "nick-wise": {
@@ -1784,10 +2230,16 @@
         "nationality": "USA"
     },
     "patrick-chapin": {
-        "hof": {"year": 2012, "rank": 4},
+        "hof": {
+            "year": 2012,
+            "rank": 4
+        },
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Top Level"}
+            {
+                "season": 2016,
+                "team": "Top Level"
+            }
         ]
     },
     "paolo-buchignani": {
@@ -1796,7 +2248,10 @@
     "christophe-gregoir": {
         "nationality": "BEL",
         "teams": [
-            {"season": 2018, "team" : "Belgic Magic by Hareruya"}
+            {
+                "season": 2018,
+                "team": "Belgic Magic by Hareruya"
+            }
         ]
     },
     "yutaro-yamagata": {
@@ -1820,9 +2275,18 @@
         "natname": "高橋優太",
         "nationality": "JPN",
         "teams": [
-            {"season": 2016, "team" : "Hareruya"},
-            {"season": 2017, "team" : "Kusemono"},
-            {"season": 2018, "team" : "Kusemono"}
+            {
+                "season": 2016,
+                "team": "Hareruya"
+            },
+            {
+                "season": 2017,
+                "team": "Kusemono"
+            },
+            {
+                "season": 2018,
+                "team": "Kusemono"
+            }
         ]
     },
     "leon-star": {
@@ -1836,10 +2300,18 @@
     },
     "christian-hauck": {
         "nationality": "DEU",
-        "mpl": [2019],
+        "mpl": [
+            2019
+        ],
         "teams": [
-            {"season": 2017, "team" : "Phoenix: 404"},
-            {"season": 2018, "team" : "Phoenix: New Dawn"}
+            {
+                "season": 2017,
+                "team": "Phoenix: 404"
+            },
+            {
+                "season": 2018,
+                "team": "Phoenix: New Dawn"
+            }
         ]
     },
     "andrea-nediani": {
@@ -1851,7 +2323,10 @@
     "davy-loeb": {
         "nationality": "FRA",
         "teams": [
-            {"season": 2018, "team" : "Baguette"}
+            {
+                "season": 2018,
+                "team": "Baguette"
+            }
         ]
     },
     "yuuta-sasaki": {
@@ -1861,13 +2336,27 @@
         "nationality": "USA"
     },
     "eric-froehlich": {
-        "hof": {"year": 2015, "rank": 1},
+        "hof": {
+            "year": 2015,
+            "rank": 1
+        },
         "nationality": "USA",
-        "mpl": [2019],
+        "mpl": [
+            2019
+        ],
         "teams": [
-            {"season": 2016, "team" : "Channel Fireball Ice"},
-            {"season": 2017, "team" : "Face to Face Games"},
-            {"season": 2018, "team" : "Greater Good"}
+            {
+                "season": 2016,
+                "team": "Channel Fireball Ice"
+            },
+            {
+                "season": 2017,
+                "team": "Face to Face Games"
+            },
+            {
+                "season": 2018,
+                "team": "Greater Good"
+            }
         ]
     },
     "sebastian-thaler": {
@@ -1902,10 +2391,18 @@
     },
     "john-rolf": {
         "nationality": "USA",
-        "mpl": [2019],
+        "mpl": [
+            2019
+        ],
         "teams": [
-            {"season": 2017, "team" : "MTGOTraders"},
-            {"season": 2018, "team" : "Hareruya North America"}
+            {
+                "season": 2017,
+                "team": "MTGOTraders"
+            },
+            {
+                "season": 2018,
+                "team": "Hareruya North America"
+            }
         ]
     },
     "chris-mofflin": {
@@ -1935,8 +2432,14 @@
     "peter-vieren": {
         "nationality": "BEL",
         "teams": [
-            {"season": 2017, "team" : "Catharsis"},
-            {"season": 2018, "team" : "Belgic Magic by Hareruya"}
+            {
+                "season": 2017,
+                "team": "Catharsis"
+            },
+            {
+                "season": 2018,
+                "team": "Belgic Magic by Hareruya"
+            }
         ]
     },
     "adrian-saredo": {
@@ -1944,11 +2447,22 @@
     },
     "matthew-nass": {
         "nationality": "USA",
-        "mpl": [2019],
+        "mpl": [
+            2019
+        ],
         "teams": [
-            {"season": 2016, "team" : "Channel Fireball Fire"},
-            {"season": 2017, "team" : "Ultra Pro"},
-            {"season": 2018, "team" : "Ultra Pro"}
+            {
+                "season": 2016,
+                "team": "Channel Fireball Fire"
+            },
+            {
+                "season": 2017,
+                "team": "Ultra Pro"
+            },
+            {
+                "season": 2018,
+                "team": "Ultra Pro"
+            }
         ]
     },
     "boris-bajgo": {
@@ -1964,13 +2478,27 @@
         "nationality": "USA"
     },
     "owen-turtenwald": {
-        "hof": {"year": 2016, "rank": 2},
+        "hof": {
+            "year": 2016,
+            "rank": 2
+        },
         "nationality": "USA",
-        "mpl": [2019],
+        "mpl": [
+            2019
+        ],
         "teams": [
-            {"season": 2016, "team" : "Puzzle Quest"},
-            {"season": 2017, "team" : "Ultimate Guard Pro Team"},
-            {"season": 2018, "team" : "Ultimate Guard Pro Team"}
+            {
+                "season": 2016,
+                "team": "Puzzle Quest"
+            },
+            {
+                "season": 2017,
+                "team": "Ultimate Guard Pro Team"
+            },
+            {
+                "season": 2018,
+                "team": "Ultimate Guard Pro Team"
+            }
         ]
     },
     "tommi-lindgren": {
@@ -2012,11 +2540,22 @@
     "ken-yukuhiro": {
         "natname": "行弘賢",
         "nationality": "JPN",
-        "mpl": [2019],
+        "mpl": [
+            2019
+        ],
         "teams": [
-            {"season": 2016, "team" : "Musashi"},
-            {"season": 2017, "team" : "Musashi"},
-            {"season": 2018, "team" : "Musashi"}
+            {
+                "season": 2016,
+                "team": "Musashi"
+            },
+            {
+                "season": 2017,
+                "team": "Musashi"
+            },
+            {
+                "season": 2018,
+                "team": "Musashi"
+            }
         ]
     },
     "chi-hoi-yim": {
@@ -2028,14 +2567,23 @@
     "robert-anderson": {
         "nationality": "CAN",
         "teams": [
-            {"season": 2017, "team" : "First Strike"}
+            {
+                "season": 2017,
+                "team": "First Strike"
+            }
         ]
     },
     "stephen-neal": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Hotsauce Games"},
-            {"season": 2017, "team" : "Hotsauce Games"}
+            {
+                "season": 2016,
+                "team": "Hotsauce Games"
+            },
+            {
+                "season": 2017,
+                "team": "Hotsauce Games"
+            }
         ]
     },
     "james-beltz": {
@@ -2048,8 +2596,14 @@
     "matti-kuisma": {
         "nationality": "FIN",
         "teams": [
-            {"season": 2016, "team" : "Almost Finnished"},
-            {"season": 2018, "team" : "Bolt the Bird"}
+            {
+                "season": 2016,
+                "team": "Almost Finnished"
+            },
+            {
+                "season": 2018,
+                "team": "Bolt the Bird"
+            }
         ]
     },
     "daniel-perez": {
@@ -2073,9 +2627,18 @@
     "brandon-ayers": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Fire Squad"},
-            {"season": 2017, "team" : "MTGOTraders"},
-            {"season": 2018, "team" : "Hareruya North America"}
+            {
+                "season": 2016,
+                "team": "Fire Squad"
+            },
+            {
+                "season": 2017,
+                "team": "MTGOTraders"
+            },
+            {
+                "season": 2018,
+                "team": "Hareruya North America"
+            }
         ]
     },
     "cedric-merlet": {
@@ -2111,7 +2674,10 @@
     "thomas-enevoldsen": {
         "nationality": "DNK",
         "teams": [
-            {"season": 2018, "team" : "Snapcardster X MTGMintcard"}
+            {
+                "season": 2018,
+                "team": "Snapcardster X MTGMintcard"
+            }
         ]
     },
     "jun-ya-takahashi": {
@@ -2133,15 +2699,27 @@
     "david-ochoa": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Mutiny"},
-            {"season": 2017, "team" : "ManaTraders"}
+            {
+                "season": 2016,
+                "team": "Mutiny"
+            },
+            {
+                "season": 2017,
+                "team": "ManaTraders"
+            }
         ]
     },
     "andreas-ganz": {
         "nationality": "CHE",
         "teams": [
-            {"season": 2016, "team" : "Lingering Souls"},
-            {"season": 2017, "team" : "Lingering Souls"}
+            {
+                "season": 2016,
+                "team": "Lingering Souls"
+            },
+            {
+                "season": 2017,
+                "team": "Lingering Souls"
+            }
         ]
     },
     "benjamin-lundquist": {
@@ -2165,7 +2743,10 @@
     "dean-mclaren": {
         "nationality": "CAN",
         "teams": [
-            {"season": 2017, "team" : "First Strike"}
+            {
+                "season": 2017,
+                "team": "First Strike"
+            }
         ]
     },
     "eric-twarog": {
@@ -2210,7 +2791,10 @@
     "branco-neirynck": {
         "nationality": "BEL",
         "teams": [
-            {"season": 2018, "team" : "Belgic Magic by Hareruya"}
+            {
+                "season": 2018,
+                "team": "Belgic Magic by Hareruya"
+            }
         ]
     },
     "michal-havlik": {
@@ -2222,8 +2806,14 @@
     "craig-wescoe": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Top Level"},
-            {"season": 2018, "team" : "Good Luck High Five"}
+            {
+                "season": 2016,
+                "team": "Top Level"
+            },
+            {
+                "season": 2018,
+                "team": "Good Luck High Five"
+            }
         ]
     },
     "zaiem-beg": {
@@ -2238,7 +2828,10 @@
     "florian-koch": {
         "nationality": "DEU",
         "teams": [
-            {"season": 2017, "team" : "Phoenix: 404"}
+            {
+                "season": 2017,
+                "team": "Phoenix: 404"
+            }
         ]
     },
     "orie-guo": {
@@ -2292,8 +2885,14 @@
     "thomas-ashton": {
         "nationality": "USA",
         "teams": [
-            {"season": 2017, "team" : "Massdrop East"},
-            {"season": 2018, "team" : ""}
+            {
+                "season": 2017,
+                "team": "Massdrop East"
+            },
+            {
+                "season": 2018,
+                "team": ""
+            }
         ]
     },
     "robbert-menten": {
@@ -2311,7 +2910,10 @@
     "jamie-archdekin": {
         "nationality": "CAN",
         "teams": [
-            {"season": 2016, "team" : "Basic"}
+            {
+                "season": 2016,
+                "team": "Basic"
+            }
         ]
     },
     "travis-turning": {
@@ -2389,8 +2991,14 @@
     "robert-graves": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Cardhoarder"},
-            {"season": 2017, "team" : "Cardhoarder"}
+            {
+                "season": 2016,
+                "team": "Cardhoarder"
+            },
+            {
+                "season": 2017,
+                "team": "Cardhoarder"
+            }
         ]
     },
     "benjamin-rozhon": {
@@ -2442,9 +3050,18 @@
     "ben-friedman": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Mox Box Bowl"},
-            {"season": 2017, "team" : "Legion"},
-            {"season": 2018, "team" : "Legion"}
+            {
+                "season": 2016,
+                "team": "Mox Box Bowl"
+            },
+            {
+                "season": 2017,
+                "team": "Legion"
+            },
+            {
+                "season": 2018,
+                "team": "Legion"
+            }
         ]
     },
     "nico-bohny": {
@@ -2498,7 +3115,10 @@
     "niels-noorlander": {
         "nationality": "NLD",
         "teams": [
-            {"season": 2017, "team" : "Catharsis"}
+            {
+                "season": 2017,
+                "team": "Catharsis"
+            }
         ]
     },
     "oytun-erden": {
@@ -2528,15 +3148,27 @@
     "shaun-mclaren": {
         "nationality": "CAN",
         "teams": [
-            {"season": 2017, "team" : "Massdrop West"}
+            {
+                "season": 2017,
+                "team": "Massdrop West"
+            }
         ]
     },
     "guilherme-merjam": {
         "nationality": "BRA",
         "teams": [
-            {"season": 2016, "team" : "Ligamagic"},
-            {"season": 2017, "team" : "Cardhoarder Brazil"},
-            {"season": 2018, "team" : "Magicsur"}
+            {
+                "season": 2016,
+                "team": "Ligamagic"
+            },
+            {
+                "season": 2017,
+                "team": "Cardhoarder Brazil"
+            },
+            {
+                "season": 2018,
+                "team": "Magicsur"
+            }
         ]
     },
     "daan-smets": {
@@ -2565,11 +3197,22 @@
     },
     "reid-duke": {
         "nationality": "USA",
-        "mpl": [2019],
+        "mpl": [
+            2019
+        ],
         "teams": [
-            {"season": 2016, "team" : "Puzzle Quest"},
-            {"season": 2017, "team" : "Ultimate Guard Pro Team"},
-            {"season": 2018, "team" : "Ultimate Guard Pro Team"}
+            {
+                "season": 2016,
+                "team": "Puzzle Quest"
+            },
+            {
+                "season": 2017,
+                "team": "Ultimate Guard Pro Team"
+            },
+            {
+                "season": 2018,
+                "team": "Ultimate Guard Pro Team"
+            }
         ]
     },
     "pedro-dores": {
@@ -2612,9 +3255,18 @@
         "natname": "玉田遼一",
         "nationality": "JPN",
         "teams": [
-            {"season": 2016, "team" : "Last Samurai"},
-            {"season": 2017, "team" : "Final Last Samurai"},
-            {"season": 2018, "team" : "Final Last Samurai"}
+            {
+                "season": 2016,
+                "team": "Last Samurai"
+            },
+            {
+                "season": 2017,
+                "team": "Final Last Samurai"
+            },
+            {
+                "season": 2018,
+                "team": "Final Last Samurai"
+            }
         ]
     },
     "masaya-kitayama": {
@@ -2677,8 +3329,14 @@
     "marco-cammilluzzi": {
         "nationality": "ITA",
         "teams": [
-            {"season": 2016, "team" : "Opportunity"},
-            {"season": 2017, "team" : "La Perla Nera"}
+            {
+                "season": 2016,
+                "team": "Opportunity"
+            },
+            {
+                "season": 2017,
+                "team": "La Perla Nera"
+            }
         ]
     },
     "michael-stanfar": {
@@ -2924,11 +3582,22 @@
     "julius-heywood": {},
     "mike-sigrist": {
         "nationality": "USA",
-        "mpl": [2019],
+        "mpl": [
+            2019
+        ],
         "teams": [
-            {"season": 2016, "team" : "Channel Fireball Ice"},
-            {"season": 2017, "team" : "ChannelFireball"},
-            {"season": 2018, "team" : "ChannelFireball"}
+            {
+                "season": 2016,
+                "team": "Channel Fireball Ice"
+            },
+            {
+                "season": 2017,
+                "team": "ChannelFireball"
+            },
+            {
+                "season": 2018,
+                "team": "ChannelFireball"
+            }
         ]
     },
     "joshua-smith": {
@@ -2986,7 +3655,10 @@
     "joe-soh": {
         "nationality": "MYS",
         "teams": [
-            {"season": 2017, "team" : "Blitz"}
+            {
+                "season": 2017,
+                "team": "Blitz"
+            }
         ]
     },
     "daniele-d-aversa": {
@@ -3034,7 +3706,10 @@
         "nationality": "JPN"
     },
     "zvi-mowshowitz": {
-        "hof": {"year": 2007, "rank": 2},
+        "hof": {
+            "year": 2007,
+            "rank": 2
+        },
         "nationality": "USA"
     },
     "ronald-van-zutphen": {
@@ -3201,8 +3876,14 @@
     "oliver-polak-rottmann": {
         "nationality": "AUT",
         "teams": [
-            {"season": 2016, "team" : "Hareruya"},
-            {"season": 2017, "team" : "Catharsis"}
+            {
+                "season": 2016,
+                "team": "Hareruya"
+            },
+            {
+                "season": 2017,
+                "team": "Catharsis"
+            }
         ]
     },
     "philippe-prosper": {
@@ -3244,8 +3925,14 @@
     "eli-kassis": {
         "nationality": "USA",
         "teams": [
-            {"season": 2017, "team" : "Cardhoarder"},
-            {"season": 2018, "team" : "FacetoFacegames"}
+            {
+                "season": 2017,
+                "team": "Cardhoarder"
+            },
+            {
+                "season": 2018,
+                "team": "FacetoFacegames"
+            }
         ]
     },
     "seneca-hobler": {
@@ -3312,11 +3999,20 @@
     },
     "tsuyoshi-fujita": {
         "natname": "藤田 剛史",
-        "hof": {"year": 2007, "rank": 3},
+        "hof": {
+            "year": 2007,
+            "rank": 3
+        },
         "nationality": "JPN",
         "teams": [
-            {"season": 2016, "team" : "Last Samurai"},
-            {"season": 2017, "team" : "Final Last Samurai"}
+            {
+                "season": 2016,
+                "team": "Last Samurai"
+            },
+            {
+                "season": 2017,
+                "team": "Final Last Samurai"
+            }
         ]
     },
     "pierre-canali": {
@@ -3488,7 +4184,10 @@
         "nationality": "USA"
     },
     "alan-comer": {
-        "hof": {"year": 2005, "rank": 3},
+        "hof": {
+            "year": 2005,
+            "rank": 3
+        },
         "nationality": "USA"
     },
     "david-korejtko": {
@@ -3507,7 +4206,10 @@
         "nationality": "USA"
     },
     "olle-rade": {
-        "hof": {"year": 2005, "rank": 5},
+        "hof": {
+            "year": 2005,
+            "rank": 5
+        },
         "nationality": "SWE"
     },
     "scott-johns": {
@@ -3778,7 +4480,10 @@
         "nationality": "FIN"
     },
     "steven-o-mahoney-schwartz": {
-        "hof": {"year": 2011, "rank": 3},
+        "hof": {
+            "year": 2011,
+            "rank": 3
+        },
         "nationality": "USA"
     },
     "andrew-sutherland": {
@@ -3895,8 +4600,14 @@
     "adam-jansen": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Hotsauce Games"},
-            {"season": 2017, "team" : "Hotsauce Games"}
+            {
+                "season": 2016,
+                "team": "Hotsauce Games"
+            },
+            {
+                "season": 2017,
+                "team": "Hotsauce Games"
+            }
         ]
     },
     "steve-easton": {
@@ -3975,7 +4686,10 @@
         "nationality": "GRC"
     },
     "robert-dougherty": {
-        "hof": {"year": 2006, "rank": 5},
+        "hof": {
+            "year": 2006,
+            "rank": 5
+        },
         "nationality": "USA"
     },
     "john-paul-kelly": {
@@ -3987,7 +4701,10 @@
     "jonathan-melamed": {
         "nationality": "BRA",
         "teams": [
-            {"season": 2017, "team" : "Cardhoarder Brazil"}
+            {
+                "season": 2017,
+                "team": "Cardhoarder Brazil"
+            }
         ]
     },
     "kazuya-hirabayashi": {
@@ -4008,9 +4725,18 @@
     "corey-baumeister": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "MTG Bent Card"},
-            {"season": 2017, "team" : "Genesis"},
-            {"season": 2018, "team" : "KMC-Genesis"}
+            {
+                "season": 2016,
+                "team": "MTG Bent Card"
+            },
+            {
+                "season": 2017,
+                "team": "Genesis"
+            },
+            {
+                "season": 2018,
+                "team": "KMC-Genesis"
+            }
         ]
     },
     "kuan-tian": {
@@ -4020,12 +4746,24 @@
         "nationality": "CAN"
     },
     "josh-utter-leyton": {
-        "hof": {"year": 2017, "rank": 1},
+        "hof": {
+            "year": 2017,
+            "rank": 1
+        },
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Channel Fireball Fire"},
-            {"season": 2017, "team" : "ChannelFireball"},
-            {"season": 2018, "team" : "ChannelFireball"}
+            {
+                "season": 2016,
+                "team": "Channel Fireball Fire"
+            },
+            {
+                "season": 2017,
+                "team": "ChannelFireball"
+            },
+            {
+                "season": 2018,
+                "team": "ChannelFireball"
+            }
         ]
     },
     "vagner-casatti": {
@@ -4057,12 +4795,24 @@
     },
     "makihito-mihara": {
         "natname": "三原槙仁",
-        "hof": {"year": 2014, "rank": 1},
+        "hof": {
+            "year": 2014,
+            "rank": 1
+        },
         "nationality": "JPN",
         "teams": [
-            {"season": 2016, "team" : "Last Samurai"},
-            {"season": 2017, "team" : "Final Last Samurai"},
-            {"season": 2018, "team" : "Final Last Samurai"}
+            {
+                "season": 2016,
+                "team": "Last Samurai"
+            },
+            {
+                "season": 2017,
+                "team": "Final Last Samurai"
+            },
+            {
+                "season": 2018,
+                "team": "Final Last Samurai"
+            }
         ]
     },
     "jeremy-jackson": {
@@ -4095,7 +4845,10 @@
     "seth-spinner": {
         "nationality": "USA",
         "teams": [
-            {"season": 2017, "team" : "Mutility"}
+            {
+                "season": 2017,
+                "team": "Mutility"
+            }
         ]
     },
     "jeremy-polonia": {
@@ -4132,11 +4885,20 @@
         "nationality": "NOR"
     },
     "willy-edel": {
-        "hof": {"year": 2015, "rank": 3},
+        "hof": {
+            "year": 2015,
+            "rank": 3
+        },
         "nationality": "BRA",
         "teams": [
-            {"season": 2016, "team" : "DEX Army"},
-            {"season": 2017, "team" : "Cardhoarder Brazil"}
+            {
+                "season": 2016,
+                "team": "DEX Army"
+            },
+            {
+                "season": 2017,
+                "team": "Cardhoarder Brazil"
+            }
         ]
     },
     "ryou-tasaki": {
@@ -4160,7 +4922,10 @@
     "remi-fortier": {
         "nationality": "FRA",
         "teams": [
-            {"season": 2018, "team" : "Waaagh Taverne Paris"}
+            {
+                "season": 2018,
+                "team": "Waaagh Taverne Paris"
+            }
         ]
     },
     "eugeni-sanchez": {
@@ -4361,7 +5126,10 @@
     "pedro-carvalho": {
         "nationality": "BRA",
         "teams": [
-            {"season": 2016, "team" : "Ligamagic"}
+            {
+                "season": 2016,
+                "team": "Ligamagic"
+            }
         ]
     },
     "john-kolos": {
@@ -4442,8 +5210,14 @@
     "pascal-vieren": {
         "nationality": "BEL",
         "teams": [
-            {"season": 2017, "team" : "Cardmarket"},
-            {"season": 2018, "team" : "Belgic Magic by Hareruya"}
+            {
+                "season": 2017,
+                "team": "Cardmarket"
+            },
+            {
+                "season": 2018,
+                "team": "Belgic Magic by Hareruya"
+            }
         ]
     },
     "tony-martins": {
@@ -4494,7 +5268,10 @@
     "david-irvine": {
         "nationality": "USA",
         "teams": [
-            {"season": 2017, "team" : "Lingering Souls"}
+            {
+                "season": 2017,
+                "team": "Lingering Souls"
+            }
         ]
     },
     "tim-michels": {
@@ -4599,8 +5376,14 @@
     "eduardo-dos-santos-vieira": {
         "nationality": "BRA",
         "teams": [
-            {"season": 2016, "team" : "Ligamagic"},
-            {"season": 2017, "team" : "Cardhoarder Brazil"}
+            {
+                "season": 2016,
+                "team": "Ligamagic"
+            },
+            {
+                "season": 2017,
+                "team": "Cardhoarder Brazil"
+            }
         ]
     },
     "axel-jensen": {
@@ -4657,7 +5440,10 @@
     "dan-lanthier": {
         "nationality": "CAN",
         "teams": [
-            {"season": 2016, "team" : "Top Level"}
+            {
+                "season": 2016,
+                "team": "Top Level"
+            }
         ]
     },
     "jon-swearingen": {
@@ -4812,18 +5598,35 @@
     },
     "alexander-hayne": {
         "nationality": "CAN",
-        "mpl": [2019],
+        "mpl": [
+            2019
+        ],
         "teams": [
-            {"season": 2016, "team" : "Face to Face Games"},
-            {"season": 2017, "team" : "Ultra Pro"},
-            {"season": 2018, "team" : "The Comic Book Store"}
+            {
+                "season": 2016,
+                "team": "Face to Face Games"
+            },
+            {
+                "season": 2017,
+                "team": "Ultra Pro"
+            },
+            {
+                "season": 2018,
+                "team": "The Comic Book Store"
+            }
         ]
     },
     "joshua-cho": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Mutiny"},
-            {"season": 2017, "team" : "Legion"}
+            {
+                "season": 2016,
+                "team": "Mutiny"
+            },
+            {
+                "season": 2017,
+                "team": "Legion"
+            }
         ]
     },
     "denniz-rachid": {
@@ -4843,11 +5646,22 @@
     },
     "shahar-shenhar": {
         "nationality": "ISR",
-        "mpl": [2019],
+        "mpl": [
+            2019
+        ],
         "teams": [
-            {"season": 2016, "team" : "D3 Go!"},
-            {"season": 2017, "team" : "MTGOTraders"},
-            {"season": 2018, "team" : "KMC-Genesis"}
+            {
+                "season": 2016,
+                "team": "D3 Go!"
+            },
+            {
+                "season": 2017,
+                "team": "MTGOTraders"
+            },
+            {
+                "season": 2018,
+                "team": "KMC-Genesis"
+            }
         ]
     },
     "tamas-nagy": {
@@ -4859,7 +5673,10 @@
     "andrejs-prost": {
         "nationality": "LVA",
         "teams": [
-            {"season": 2017, "team" : "Hotsauce Games"}
+            {
+                "season": 2017,
+                "team": "Hotsauce Games"
+            }
         ]
     },
     "justin-plocher": {
@@ -4874,9 +5691,18 @@
     "alex-majlaton": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Mox Box Bowl"},
-            {"season": 2017, "team" : "ManaTraders"},
-            {"season": 2018, "team" : "Dice City Games"}
+            {
+                "season": 2016,
+                "team": "Mox Box Bowl"
+            },
+            {
+                "season": 2017,
+                "team": "ManaTraders"
+            },
+            {
+                "season": 2018,
+                "team": "Dice City Games"
+            }
         ]
     },
     "richard-parker": {
@@ -4924,7 +5750,10 @@
     "pierre-sommen": {
         "nationality": "FRA",
         "teams": [
-            {"season": 2016, "team" : "Magic Corsairs Crew"}
+            {
+                "season": 2016,
+                "team": "Magic Corsairs Crew"
+            }
         ]
     },
     "sutti-lee": {
@@ -4984,7 +5813,10 @@
     "doug-potter": {
         "nationality": "CAN",
         "teams": [
-            {"season": 2017, "team" : "First Strike"}
+            {
+                "season": 2017,
+                "team": "First Strike"
+            }
         ]
     },
     "martin-berlin": {
@@ -4993,7 +5825,10 @@
     "dave-shiels": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Fire Squad"}
+            {
+                "season": 2016,
+                "team": "Fire Squad"
+            }
         ]
     },
     "mikk-kaasik": {
@@ -5008,16 +5843,31 @@
     "jason-chung": {
         "nationality": "NZL",
         "teams": [
-            {"season": 2016, "team" : "MTG Mint Card"},
-            {"season": 2017, "team" : "MTG Mint Card"},
-            {"season": 2018, "team" : "Hareruya Axe"}
+            {
+                "season": 2016,
+                "team": "MTG Mint Card"
+            },
+            {
+                "season": 2017,
+                "team": "MTG Mint Card"
+            },
+            {
+                "season": 2018,
+                "team": "Hareruya Axe"
+            }
         ]
     },
     "joel-larsson": {
         "nationality": "SWE",
         "teams": [
-            {"season": 2016, "team" : "Channel Fireball Ice"},
-            {"season": 2017, "team" : "Revelation"}
+            {
+                "season": 2016,
+                "team": "Channel Fireball Ice"
+            },
+            {
+                "season": 2017,
+                "team": "Revelation"
+            }
         ]
     },
     "max-sjoblom": {
@@ -5053,9 +5903,18 @@
     "patrick-cox": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Channel Fireball Fire"},
-            {"season": 2017, "team" : "ManaTraders"},
-            {"season": 2018, "team" : "Good Luck High Five"}
+            {
+                "season": 2016,
+                "team": "Channel Fireball Fire"
+            },
+            {
+                "season": 2017,
+                "team": "ManaTraders"
+            },
+            {
+                "season": 2018,
+                "team": "Good Luck High Five"
+            }
         ]
     },
     "humberto-patarca": {
@@ -5082,7 +5941,10 @@
     "matthew-costa": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "D3 Go!"}
+            {
+                "season": 2016,
+                "team": "D3 Go!"
+            }
         ]
     },
     "jonathon-loucks": {
@@ -5103,9 +5965,18 @@
     "jacob-wilson": {
         "nationality": "CAN",
         "teams": [
-            {"season": 2016, "team" : "Face to Face Games"},
-            {"season": 2017, "team" : "MTGOTraders"},
-            {"season": 2018, "team" : "Legion"}
+            {
+                "season": 2016,
+                "team": "Face to Face Games"
+            },
+            {
+                "season": 2017,
+                "team": "MTGOTraders"
+            },
+            {
+                "season": 2018,
+                "team": "Legion"
+            }
         ]
     },
     "nick-gold": {
@@ -5126,8 +5997,14 @@
     "jonathan-morawski": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Fire Squad"},
-            {"season": 2017, "team" : "The Comic Book Store"}
+            {
+                "season": 2016,
+                "team": "Fire Squad"
+            },
+            {
+                "season": 2017,
+                "team": "The Comic Book Store"
+            }
         ]
     },
     "marco-dolazza": {
@@ -5148,9 +6025,18 @@
     "pascal-maynard": {
         "nationality": "CAN",
         "teams": [
-            {"season": 2016, "team" : "Massdrop East"},
-            {"season": 2017, "team" : "Massdrop West"},
-            {"season": 2018, "team" : "Massdrop MTG"}
+            {
+                "season": 2016,
+                "team": "Massdrop East"
+            },
+            {
+                "season": 2017,
+                "team": "Massdrop West"
+            },
+            {
+                "season": 2018,
+                "team": "Massdrop MTG"
+            }
         ]
     },
     "brandon-montoya": {
@@ -5210,8 +6096,14 @@
     "jarvis-yu": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Massdrop East"},
-            {"season": 2017, "team" : "Massdrop East"}
+            {
+                "season": 2016,
+                "team": "Massdrop East"
+            },
+            {
+                "season": 2017,
+                "team": "Massdrop East"
+            }
         ]
     },
     "armel-primot": {
@@ -5370,7 +6262,10 @@
     "qi-wentao": {
         "nationality": "CHN",
         "teams": [
-            {"season": 2017, "team" : "MTGSheep"}
+            {
+                "season": 2017,
+                "team": "MTGSheep"
+            }
         ]
     },
     "nicholas-lassen": {
@@ -5481,9 +6376,18 @@
     "greg-orange": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Hotsauce Games"},
-            {"season": 2017, "team" : "Hotsauce Games"},
-            {"season": 2018, "team" : "Hareruya North America"}
+            {
+                "season": 2016,
+                "team": "Hotsauce Games"
+            },
+            {
+                "season": 2017,
+                "team": "Hotsauce Games"
+            },
+            {
+                "season": 2018,
+                "team": "Hareruya North America"
+            }
         ]
     },
     "alex-ahia": {
@@ -5627,7 +6531,10 @@
     "trey-van-cleave": {
         "nationality": "USA",
         "teams": [
-            {"season": 2017, "team" : "Goon Squad"}
+            {
+                "season": 2017,
+                "team": "Goon Squad"
+            }
         ]
     },
     "peter-leiher": {
@@ -5636,9 +6543,18 @@
     "matthew-severa": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Mutiny"},
-            {"season": 2017, "team" : "Legion"},
-            {"season": 2018, "team" : "Ultra Pro"}
+            {
+                "season": 2016,
+                "team": "Mutiny"
+            },
+            {
+                "season": 2017,
+                "team": "Legion"
+            },
+            {
+                "season": 2018,
+                "team": "Ultra Pro"
+            }
         ]
     },
     "oyvind-odegaard": {
@@ -5800,7 +6716,10 @@
     "mike-hron": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Top Level"}
+            {
+                "season": 2016,
+                "team": "Top Level"
+            }
         ]
     },
     "fidel-vazquez-fernandez": {
@@ -6115,7 +7034,10 @@
     "gary-campbell": {
         "nationality": "SCO",
         "teams": [
-            {"season": 2018, "team" : "Geekgear"}
+            {
+                "season": 2018,
+                "team": "Geekgear"
+            }
         ]
     },
     "nathan-godsey": {
@@ -6228,47 +7150,93 @@
         "natname": "瀧村和幸",
         "nationality": "JPN",
         "teams": [
-            {"season": 2016, "team" : "Last Samurai"},
-            {"season": 2017, "team" : "Kusemono"},
-            {"season": 2018, "team" : "Kusemono"}
+            {
+                "season": 2016,
+                "team": "Last Samurai"
+            },
+            {
+                "season": 2017,
+                "team": "Kusemono"
+            },
+            {
+                "season": 2018,
+                "team": "Kusemono"
+            }
         ]
     },
     "ricky-chin": {
         "nationality": "CAN",
         "teams": [
-            {"season": 2016, "team" : "Massdrop East"},
-            {"season": 2017, "team" : "ManaTraders"}
+            {
+                "season": 2016,
+                "team": "Massdrop East"
+            },
+            {
+                "season": 2017,
+                "team": "ManaTraders"
+            }
         ]
     },
     "martin-muller": {
         "nationality": "DNK",
         "teams": [
-            {"season": 2016, "team" : "Genesis"},
-            {"season": 2017, "team" : "Genesis"},
-            {"season": 2018, "team" : "Snapcardster X MTGMintcard"}
+            {
+                "season": 2016,
+                "team": "Genesis"
+            },
+            {
+                "season": 2017,
+                "team": "Genesis"
+            },
+            {
+                "season": 2018,
+                "team": "Snapcardster X MTGMintcard"
+            }
         ]
     },
     "javier-dominguez": {
         "nationality": "ESP",
-        "mpl": [2019],
+        "mpl": [
+            2019
+        ],
         "teams": [
-            {"season": 2016, "team" : "MTG Bent Card"},
-            {"season": 2017, "team" : "Connected Company"},
-            {"season": 2018, "team" : "Hareruya Sword"}
+            {
+                "season": 2016,
+                "team": "MTG Bent Card"
+            },
+            {
+                "season": 2017,
+                "team": "Connected Company"
+            },
+            {
+                "season": 2018,
+                "team": "Hareruya Sword"
+            }
         ]
     },
     "autumn-burchett": {
         "nationality": "ENG",
-        "mpl": [2019],
+        "mpl": [
+            2019
+        ],
         "teams": [
-            {"season": 2018, "team" : "Axion Now"}
+            {
+                "season": 2018,
+                "team": "Axion Now"
+            }
         ]
     },
     "samuel-tharmaratnam": {
         "nationality": "CAN",
         "teams": [
-            {"season": 2016, "team" : "Almost Finnished"},
-            {"season": 2017, "team" : "Child's Play"}
+            {
+                "season": 2016,
+                "team": "Almost Finnished"
+            },
+            {
+                "season": 2017,
+                "team": "Child's Play"
+            }
         ]
     },
     "will-erker": {
@@ -6277,9 +7245,18 @@
     "jon-stern": {
         "nationality": "CAN",
         "teams": [
-            {"season": 2016, "team" : "Massdrop East"},
-            {"season": 2017, "team" : "Massdrop West"},
-            {"season": 2018, "team" : "Massdrop MTG"}
+            {
+                "season": 2016,
+                "team": "Massdrop East"
+            },
+            {
+                "season": 2017,
+                "team": "Massdrop West"
+            },
+            {
+                "season": 2018,
+                "team": "Massdrop MTG"
+            }
         ]
     },
     "brandon-burton": {
@@ -6288,33 +7265,68 @@
     "corey-burkhart": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Channel Fireball Fire"},
-            {"season": 2017, "team" : "Face to Face Games"},
-            {"season": 2018, "team" : "Team RIW"}
+            {
+                "season": 2016,
+                "team": "Channel Fireball Fire"
+            },
+            {
+                "season": 2017,
+                "team": "Face to Face Games"
+            },
+            {
+                "season": 2018,
+                "team": "Team RIW"
+            }
         ]
     },
     "donald-smith": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Lingering Souls"}
+            {
+                "season": 2016,
+                "team": "Lingering Souls"
+            }
         ]
     },
     "seth-manfield": {
-        "hof": {"year": 2019, "rank": 1},
+        "hof": {
+            "year": 2019,
+            "rank": 1
+        },
         "nationality": "USA",
-        "mpl": [2019],
+        "mpl": [
+            2019
+        ],
         "teams": [
-            {"season": 2016, "team" : "Genesis"},
-            {"season": 2017, "team" : "Genesis"},
-            {"season": 2018, "team" : "KMC-Genesis"}
+            {
+                "season": 2016,
+                "team": "Genesis"
+            },
+            {
+                "season": 2017,
+                "team": "Genesis"
+            },
+            {
+                "season": 2018,
+                "team": "KMC-Genesis"
+            }
         ]
     },
     "timothy-wu": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Massdrop East"},
-            {"season": 2017, "team" : "Massdrop East"},
-            {"season": 2018, "team" : "Massdrop MTG"}
+            {
+                "season": 2016,
+                "team": "Massdrop East"
+            },
+            {
+                "season": 2017,
+                "team": "Massdrop East"
+            },
+            {
+                "season": 2018,
+                "team": "Massdrop MTG"
+            }
         ]
     },
     "fabrizio-anteri": {
@@ -6323,38 +7335,74 @@
     "antonio-del-moral-leon": {
         "nationality": "ESP",
         "teams": [
-            {"season": 2016, "team" : "DEX Army"},
-            {"season": 2017, "team" : "Musashos"},
-            {"season": 2018, "team" : "MTG Manager"}
+            {
+                "season": 2016,
+                "team": "DEX Army"
+            },
+            {
+                "season": 2017,
+                "team": "Musashos"
+            },
+            {
+                "season": 2018,
+                "team": "MTG Manager"
+            }
         ]
     },
     "petr-sochurek": {
         "nationality": "CZE",
         "teams": [
-            {"season": 2016, "team" : "Hareruya"},
-            {"season": 2017, "team" : "Revelation"},
-            {"season": 2018, "team" : "Hareruya Axe"}
+            {
+                "season": 2016,
+                "team": "Hareruya"
+            },
+            {
+                "season": 2017,
+                "team": "Revelation"
+            },
+            {
+                "season": 2018,
+                "team": "Hareruya Axe"
+            }
         ]
     },
     "justin-cohen": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Mutiny"}
+            {
+                "season": 2016,
+                "team": "Mutiny"
+            }
         ]
     },
     "eric-severson": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Massdrop East"},
-            {"season": 2017, "team" : "Massdrop West"}
+            {
+                "season": 2016,
+                "team": "Massdrop East"
+            },
+            {
+                "season": 2017,
+                "team": "Massdrop West"
+            }
         ]
     },
     "pierre-dagen": {
         "nationality": "FRA",
         "teams": [
-            {"season": 2016, "team" : "Opportunity"},
-            {"season": 2017, "team" : "Catharsis"},
-            {"season": 2018, "team" : "Waaagh Taverne Paris"}
+            {
+                "season": 2016,
+                "team": "Opportunity"
+            },
+            {
+                "season": 2017,
+                "team": "Catharsis"
+            },
+            {
+                "season": 2018,
+                "team": "Waaagh Taverne Paris"
+            }
         ]
     },
     "eduardo-lopes": {
@@ -6363,8 +7411,14 @@
     "vidianto-wijaya": {
         "nationality": "USA",
         "teams": [
-            {"season": 2017, "team" : "First Strike"},
-            {"season": 2018, "team" : "Cardboard Live"}
+            {
+                "season": 2017,
+                "team": "First Strike"
+            },
+            {
+                "season": 2018,
+                "team": "Cardboard Live"
+            }
         ]
     },
     "luca-magni": {
@@ -6373,9 +7427,18 @@
     "andrew-baeckstrom": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Channel Fireball Fire"},
-            {"season": 2017, "team" : "ManaTraders"},
-            {"season": 2018, "team" : "Ultra Pro"}
+            {
+                "season": 2016,
+                "team": "Channel Fireball Fire"
+            },
+            {
+                "season": 2017,
+                "team": "ManaTraders"
+            },
+            {
+                "season": 2018,
+                "team": "Ultra Pro"
+            }
         ]
     },
     "ross-merriam": {
@@ -6384,14 +7447,23 @@
     "max-mcvety": {
         "nationality": "USA",
         "teams": [
-            {"season": 2018, "team" : "Team RIW"}
+            {
+                "season": 2018,
+                "team": "Team RIW"
+            }
         ]
     },
     "matteo-moure": {
         "nationality": "ITA",
         "teams": [
-            {"season": 2016, "team" : "Opportunity"},
-            {"season": 2017, "team" : "La Perla Nera"}
+            {
+                "season": 2016,
+                "team": "Opportunity"
+            },
+            {
+                "season": 2017,
+                "team": "La Perla Nera"
+            }
         ]
     },
     "michael-majors": {
@@ -6400,23 +7472,44 @@
     "tyler-hill": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Hotsauce Games"},
-            {"season": 2017, "team" : "Hotsauce Games"},
-            {"season": 2018, "team" : "Team RIW"}
+            {
+                "season": 2016,
+                "team": "Hotsauce Games"
+            },
+            {
+                "season": 2017,
+                "team": "Hotsauce Games"
+            },
+            {
+                "season": 2018,
+                "team": "Team RIW"
+            }
         ]
     },
     "benjamin-weitz": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Massdrop West"},
-            {"season": 2017, "team" : "Massdrop West"},
-            {"season": 2018, "team" : "Massdrop MTG"}
+            {
+                "season": 2016,
+                "team": "Massdrop West"
+            },
+            {
+                "season": 2017,
+                "team": "Massdrop West"
+            },
+            {
+                "season": 2018,
+                "team": "Massdrop MTG"
+            }
         ]
     },
     "zhijian-yang": {
         "nationality": "SGP",
         "teams": [
-            {"season": 2017, "team" : "Gray Ogre Games"}
+            {
+                "season": 2017,
+                "team": "Gray Ogre Games"
+            }
         ]
     },
     "sky-mason": {
@@ -6431,25 +7524,49 @@
     "mattia-rizzi": {
         "nationality": "ITA",
         "teams": [
-            {"season": 2017, "team" : "MTGOTraders"},
-            {"season": 2018, "team" : "The Comic Book Store"}
+            {
+                "season": 2017,
+                "team": "MTGOTraders"
+            },
+            {
+                "season": 2018,
+                "team": "The Comic Book Store"
+            }
         ]
     },
     "kentaro-yamamoto": {
         "natname": "山本賢太郎",
         "nationality": "JPN",
         "teams": [
-            {"season": 2016, "team" : "Musashi"},
-            {"season": 2017, "team" : "Musashi"},
-            {"season": 2018, "team" : "Musashi"}
+            {
+                "season": 2016,
+                "team": "Musashi"
+            },
+            {
+                "season": 2017,
+                "team": "Musashi"
+            },
+            {
+                "season": 2018,
+                "team": "Musashi"
+            }
         ]
     },
     "samuel-pardee": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Face to Face Games"},
-            {"season": 2017, "team" : "Ultra Pro"},
-            {"season": 2018, "team" : "Ultra Pro"}
+            {
+                "season": 2016,
+                "team": "Face to Face Games"
+            },
+            {
+                "season": 2017,
+                "team": "Ultra Pro"
+            },
+            {
+                "season": 2018,
+                "team": "Ultra Pro"
+            }
         ]
     },
     "jeffrey-chan": {
@@ -6464,23 +7581,44 @@
     "marc-tobiasch": {
         "nationality": "DEU",
         "teams": [
-            {"season": 2016, "team" : "EUreka"},
-            {"season": 2017, "team" : "Catharsis"}
+            {
+                "season": 2016,
+                "team": "EUreka"
+            },
+            {
+                "season": 2017,
+                "team": "Catharsis"
+            }
         ]
     },
     "martin-dang": {
         "nationality": "DNK",
         "teams": [
-            {"season": 2016, "team" : "Genesis"},
-            {"season": 2017, "team" : "Genesis"},
-            {"season": 2018, "team" : "KMC-Genesis"}
+            {
+                "season": 2016,
+                "team": "Genesis"
+            },
+            {
+                "season": 2017,
+                "team": "Genesis"
+            },
+            {
+                "season": 2018,
+                "team": "KMC-Genesis"
+            }
         ]
     },
     "immanuel-gerschenson": {
         "nationality": "AUT",
         "teams": [
-            {"season": 2016, "team" : "EUreka"},
-            {"season": 2018, "team" : "EUreka"}
+            {
+                "season": 2016,
+                "team": "EUreka"
+            },
+            {
+                "season": 2018,
+                "team": "EUreka"
+            }
         ]
     },
     "lars-birch": {
@@ -6498,7 +7636,10 @@
     "magnus-lantto": {
         "nationality": "SWE",
         "teams": [
-            {"season": 2016, "team" : "Opportunity"}
+            {
+                "season": 2016,
+                "team": "Opportunity"
+            }
         ]
     },
     "dan-ward": {
@@ -6513,15 +7654,27 @@
     "steve-hatto": {
         "nationality": "LUX",
         "teams": [
-            {"season": 2016, "team" : "EUreka"},
-            {"season": 2017, "team" : "EUreka"}
+            {
+                "season": 2016,
+                "team": "EUreka"
+            },
+            {
+                "season": 2017,
+                "team": "EUreka"
+            }
         ]
     },
     "simon-nielsen": {
         "nationality": "DNK",
         "teams": [
-            {"season": 2017, "team" : "Child's Play"},
-            {"season": 2018, "team" : "Snapcardster X MTGMintcard"}
+            {
+                "season": 2017,
+                "team": "Child's Play"
+            },
+            {
+                "season": 2018,
+                "team": "Snapcardster X MTGMintcard"
+            }
         ]
     },
     "jack-fogle": {
@@ -6533,7 +7686,10 @@
     "gabriel-carleton-barnes": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Hotsauce Games"}
+            {
+                "season": 2016,
+                "team": "Hotsauce Games"
+            }
         ]
     },
     "philip-arcuni": {
@@ -6542,16 +7698,31 @@
     "ondrej-strasky": {
         "nationality": "CZE",
         "teams": [
-            {"season": 2016, "team" : "Channel Fireball Ice"},
-            {"season": 2017, "team" : "Legion"}
+            {
+                "season": 2016,
+                "team": "Channel Fireball Ice"
+            },
+            {
+                "season": 2017,
+                "team": "Legion"
+            }
         ]
     },
     "oliver-tiu": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Face to Face Games"},
-            {"season": 2017, "team" : "Legion"},
-            {"season": 2018, "team" : "Legion"}
+            {
+                "season": 2016,
+                "team": "Face to Face Games"
+            },
+            {
+                "season": 2017,
+                "team": "Legion"
+            },
+            {
+                "season": 2018,
+                "team": "Legion"
+            }
         ]
     },
     "tyler-blum": {
@@ -6560,15 +7731,27 @@
     "thomas-hendriks": {
         "nationality": "NLD",
         "teams": [
-            {"season": 2016, "team" : "Genesis"},
-            {"season": 2017, "team" : "Revelation"},
-            {"season": 2018, "team" : "Ultra Pro"}
+            {
+                "season": 2016,
+                "team": "Genesis"
+            },
+            {
+                "season": 2017,
+                "team": "Revelation"
+            },
+            {
+                "season": 2018,
+                "team": "Ultra Pro"
+            }
         ]
     },
     "kazuaki-fujimura": {
         "nationality": "JPN",
         "teams": [
-            {"season": 2017, "team" : "Kusemono"}
+            {
+                "season": 2017,
+                "team": "Kusemono"
+            }
         ]
     },
     "juliano-souza": {
@@ -6577,7 +7760,10 @@
     "louis-deltour": {
         "nationality": "FRA",
         "teams": [
-            {"season": 2018, "team" : "MTG Manager"}
+            {
+                "season": 2018,
+                "team": "MTG Manager"
+            }
         ]
     },
     "bryan-de-la-torre": {
@@ -6586,9 +7772,18 @@
     "steven-rubin": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Face to Face Games"},
-            {"season": 2017, "team" : "Ultra Pro"},
-            {"season": 2018, "team" : "Greater Good"}
+            {
+                "season": 2016,
+                "team": "Face to Face Games"
+            },
+            {
+                "season": 2017,
+                "team": "Ultra Pro"
+            },
+            {
+                "season": 2018,
+                "team": "Greater Good"
+            }
         ]
     },
     "kazuyoshi-anan": {
@@ -6596,18 +7791,35 @@
     },
     "brian-braun-duin": {
         "nationality": "USA",
-        "mpl": [2019],
+        "mpl": [
+            2019
+        ],
         "teams": [
-            {"season": 2016, "team" : "Top Level"},
-            {"season": 2017, "team" : "Genesis"},
-            {"season": 2018, "team" : "KMC-Genesis"}
+            {
+                "season": 2016,
+                "team": "Top Level"
+            },
+            {
+                "season": 2017,
+                "team": "Genesis"
+            },
+            {
+                "season": 2018,
+                "team": "KMC-Genesis"
+            }
         ]
     },
     "marcos-paulo-de-jesus-freitas": {
         "nationality": "BRA",
         "teams": [
-            {"season": 2016, "team" : "Ligamagic"},
-            {"season": 2017, "team" : "Cardhoarder Brazil"}
+            {
+                "season": 2016,
+                "team": "Ligamagic"
+            },
+            {
+                "season": 2017,
+                "team": "Cardhoarder Brazil"
+            }
         ]
     },
     "loren-eakins": {
@@ -6622,8 +7834,14 @@
     "scott-lipp": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Massdrop West"},
-            {"season": 2017, "team" : "Massdrop East"}
+            {
+                "season": 2016,
+                "team": "Massdrop West"
+            },
+            {
+                "season": 2017,
+                "team": "Massdrop East"
+            }
         ]
     },
     "lu-liguo": {
@@ -6632,7 +7850,10 @@
     "jiachen-tao": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Massdrop West"}
+            {
+                "season": 2016,
+                "team": "Massdrop West"
+            }
         ]
     },
     "michal-gajewski": {
@@ -6659,8 +7880,14 @@
     "jun-hao-tay": {
         "nationality": "SGP",
         "teams": [
-            {"season": 2017, "team" : "Gray Ogre Games"},
-            {"season": 2018, "team" : "Gray Ogre Games"}
+            {
+                "season": 2017,
+                "team": "Gray Ogre Games"
+            },
+            {
+                "season": 2018,
+                "team": "Gray Ogre Games"
+            }
         ]
     },
     "peter-maginnis": {
@@ -6669,8 +7896,14 @@
     "bill-chronopoulos": {
         "nationality": "GRC",
         "teams": [
-            {"season": 2016, "team" : "Conflagreece"},
-            {"season": 2017, "team" : "Snapcardster"}
+            {
+                "season": 2016,
+                "team": "Conflagreece"
+            },
+            {
+                "season": 2017,
+                "team": "Snapcardster"
+            }
         ]
     },
     "hal-brady": {
@@ -6679,15 +7912,27 @@
     "alex-johnson": {
         "nationality": "USA",
         "teams": [
-            {"season": 2017, "team" : "Tower Games"}
+            {
+                "season": 2017,
+                "team": "Tower Games"
+            }
         ]
     },
     "mark-jacobson": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Massdrop West"},
-            {"season": 2017, "team" : "Massdrop East"},
-            {"season": 2018, "team" : "Massdrop MTG"}
+            {
+                "season": 2016,
+                "team": "Massdrop West"
+            },
+            {
+                "season": 2017,
+                "team": "Massdrop East"
+            },
+            {
+                "season": 2018,
+                "team": "Massdrop MTG"
+            }
         ]
     },
     "randy-davis": {
@@ -6705,8 +7950,14 @@
     "oliver-tomajko": {
         "nationality": "USA",
         "teams": [
-            {"season": 2017, "team" : "Sourcery"},
-            {"season": 2018, "team" : "Legion"}
+            {
+                "season": 2017,
+                "team": "Sourcery"
+            },
+            {
+                "season": 2018,
+                "team": "Legion"
+            }
         ]
     },
     "nathan-holiday": {
@@ -6718,8 +7969,14 @@
     "maxime-auger": {
         "nationality": "CAN",
         "teams": [
-            {"season": 2017, "team" : "Gamer's Haven"},
-            {"season": 2018, "team" : "Omega Card Games"}
+            {
+                "season": 2017,
+                "team": "Gamer's Haven"
+            },
+            {
+                "season": 2018,
+                "team": "Omega Card Games"
+            }
         ]
     },
     "victoriano-lim": {
@@ -6731,8 +7988,14 @@
     "christoffer-larsen": {
         "nationality": "DNK",
         "teams": [
-            {"season": 2017, "team" : "Revelation"},
-            {"season": 2018, "team" : "Snapcardster X MTGMintcard"}
+            {
+                "season": 2017,
+                "team": "Revelation"
+            },
+            {
+                "season": 2018,
+                "team": "Snapcardster X MTGMintcard"
+            }
         ]
     },
     "thiago-rodrigues": {
@@ -6743,11 +8006,22 @@
     },
     "andrea-mengucci": {
         "nationality": "ITA",
-        "mpl": [2019],
+        "mpl": [
+            2019
+        ],
         "teams": [
-            {"season": 2016, "team" : "MTG Bent Card"},
-            {"season": 2017, "team" : "Connected Company"},
-            {"season": 2018, "team" : "Hareruya Sword"}
+            {
+                "season": 2016,
+                "team": "MTG Bent Card"
+            },
+            {
+                "season": 2017,
+                "team": "Connected Company"
+            },
+            {
+                "season": 2018,
+                "team": "Hareruya Sword"
+            }
         ]
     },
     "don-van-ravenzwaaij": {
@@ -6769,8 +8043,14 @@
         "natname": "井上徹",
         "nationality": "JPN",
         "teams": [
-            {"season": 2017, "team" : "Kusemono"},
-            {"season": 2018, "team" : "Kusemono"}
+            {
+                "season": 2017,
+                "team": "Kusemono"
+            },
+            {
+                "season": 2018,
+                "team": "Kusemono"
+            }
         ]
     },
     "ricardo-sanchez": {
@@ -6788,7 +8068,10 @@
     "chih-cheng-yeh": {
         "nationality": "USA",
         "teams": [
-            {"season": 2018, "team" : "MTGSheep"}
+            {
+                "season": 2018,
+                "team": "MTGSheep"
+            }
         ]
     },
     "joo-hyun-oh": {
@@ -6797,9 +8080,18 @@
     "teruya-kakumae": {
         "nationality": "JPN",
         "teams": [
-            {"season": 2016, "team" : "Musashi"},
-            {"season": 2017, "team" : "Musashi"},
-            {"season": 2018, "team" : "Musashi"}
+            {
+                "season": 2016,
+                "team": "Musashi"
+            },
+            {
+                "season": 2017,
+                "team": "Musashi"
+            },
+            {
+                "season": 2018,
+                "team": "Musashi"
+            }
         ]
     },
     "hiroya-wada": {
@@ -6808,13 +8100,19 @@
     "stuart-parnes": {
         "nationality": "USA",
         "teams": [
-            {"season": 2018, "team" : "Team RIW"}
+            {
+                "season": 2018,
+                "team": "Team RIW"
+            }
         ]
     },
     "alex-sittner": {
         "nationality": "USA",
         "teams": [
-            {"season": 2017, "team" : "Lingering Souls"}
+            {
+                "season": 2017,
+                "team": "Lingering Souls"
+            }
         ]
     },
     "rodrigo-lopez": {
@@ -6850,14 +8148,23 @@
     "wing-chun-yam": {
         "nationality": "HKG",
         "teams": [
-            {"season": 2017, "team" : "MTG Mint Card"},
-            {"season": 2018, "team" : "Gray Ogre Games"}
+            {
+                "season": 2017,
+                "team": "MTG Mint Card"
+            },
+            {
+                "season": 2018,
+                "team": "Gray Ogre Games"
+            }
         ]
     },
     "marius-heuser": {
         "nationality": "DEU",
         "teams": [
-            {"season": 2018, "team" : "Phoenix: New Dawn"}
+            {
+                "season": 2018,
+                "team": "Phoenix: New Dawn"
+            }
         ]
     },
     "christoph-alsheimer": {
@@ -6902,7 +8209,10 @@
     "sam-luca-rolph": {
         "nationality": "ENG",
         "teams": [
-            {"season": 2016, "team" : "Basic"}
+            {
+                "season": 2016,
+                "team": "Basic"
+            }
         ]
     },
     "matthew-barrett": {
@@ -6932,7 +8242,10 @@
     "eugene-hwang": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Mox Box Bowl"}
+            {
+                "season": 2016,
+                "team": "Mox Box Bowl"
+            }
         ]
     },
     "yian-hsiang-chye": {
@@ -6941,7 +8254,10 @@
     "thomas-van-der-paelt": {
         "nationality": "BEL",
         "teams": [
-            {"season": 2018, "team" : "Belgic Magic by Hareruya"}
+            {
+                "season": 2018,
+                "team": "Belgic Magic by Hareruya"
+            }
         ]
     },
     "songwei-wu": {
@@ -6950,7 +8266,10 @@
     "nam-sung-wook": {
         "nationality": "KOR",
         "teams": [
-            {"season": 2016, "team" : "MTG Mint Card"}
+            {
+                "season": 2016,
+                "team": "MTG Mint Card"
+            }
         ]
     },
     "christopher-o-bryant": {
@@ -6959,8 +8278,14 @@
     "yuki-matsumoto": {
         "nationality": "JPN",
         "teams": [
-            {"season": 2017, "team" : "Final Last Samurai"},
-            {"season": 2018, "team" : "Final Last Samurai"}
+            {
+                "season": 2017,
+                "team": "Final Last Samurai"
+            },
+            {
+                "season": 2018,
+                "team": "Final Last Samurai"
+            }
         ]
     },
     "kota-tedori": {
@@ -6978,7 +8303,10 @@
     "andrew-tenjum": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Cardhoarder"}
+            {
+                "season": 2016,
+                "team": "Cardhoarder"
+            }
         ]
     },
     "anthony-ho": {
@@ -6990,9 +8318,18 @@
     "kelvin-chew": {
         "nationality": "SGP",
         "teams": [
-            {"season": 2016, "team" : "MTG Mint Card"},
-            {"season": 2017, "team" : "MTG Mint Card"},
-            {"season": 2018, "team" : "Hareruya Sword"}
+            {
+                "season": 2016,
+                "team": "MTG Mint Card"
+            },
+            {
+                "season": 2017,
+                "team": "MTG Mint Card"
+            },
+            {
+                "season": 2018,
+                "team": "Hareruya Sword"
+            }
         ]
     },
     "charles-kellock": {
@@ -7004,8 +8341,14 @@
     "joey-manner": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Dave & Adam's"},
-            {"season": 2017, "team" : "Dave & Adam's"}
+            {
+                "season": 2016,
+                "team": "Dave & Adam's"
+            },
+            {
+                "season": 2017,
+                "team": "Dave & Adam's"
+            }
         ]
     },
     "denys-robinson": {
@@ -7041,7 +8384,10 @@
     "nathaniel-smith": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Fire Squad"}
+            {
+                "season": 2016,
+                "team": "Fire Squad"
+            }
         ]
     },
     "marc-castillo": {
@@ -7050,9 +8396,18 @@
     "jeremy-dezani": {
         "nationality": "FRA",
         "teams": [
-            {"season": 2016, "team" : "Hareruya"},
-            {"season": 2017, "team" : "Connected Company"},
-            {"season": 2018, "team" : "Hareruya Sword"}
+            {
+                "season": 2016,
+                "team": "Hareruya"
+            },
+            {
+                "season": 2017,
+                "team": "Connected Company"
+            },
+            {
+                "season": 2018,
+                "team": "Hareruya Sword"
+            }
         ]
     },
     "mike-dicara": {
@@ -7079,9 +8434,18 @@
     "eliott-boussaud": {
         "nationality": "FRA",
         "teams": [
-            {"season": 2016, "team" : "Magic Corsairs Crew"},
-            {"season": 2017, "team" : "Magic Corsairs Crew"},
-            {"season": 2018, "team" : "Waaagh Taverne Paris"}
+            {
+                "season": 2016,
+                "team": "Magic Corsairs Crew"
+            },
+            {
+                "season": 2017,
+                "team": "Magic Corsairs Crew"
+            },
+            {
+                "season": 2018,
+                "team": "Waaagh Taverne Paris"
+            }
         ]
     },
     "shu-yu-hsueh": {
@@ -7126,7 +8490,10 @@
     "neal-sacks": {
         "nationality": "USA",
         "teams": [
-            {"season": 2017, "team" : "Mutility"}
+            {
+                "season": 2017,
+                "team": "Mutility"
+            }
         ]
     },
     "jorge-guerra": {
@@ -7195,8 +8562,14 @@
     "valentin-mackl": {
         "nationality": "AUT",
         "teams": [
-            {"season": 2016, "team" : "EUreka"},
-            {"season": 2017, "team" : "EUreka"}
+            {
+                "season": 2016,
+                "team": "EUreka"
+            },
+            {
+                "season": 2017,
+                "team": "EUreka"
+            }
         ]
     },
     "max-hill": {
@@ -7229,8 +8602,14 @@
     "marcelino-freeman": {
         "nationality": "MEX",
         "teams": [
-            {"season": 2016, "team" : "Ligamagic"},
-            {"season": 2018, "team" : "Magicsur"}
+            {
+                "season": 2016,
+                "team": "Ligamagic"
+            },
+            {
+                "season": 2018,
+                "team": "Magicsur"
+            }
         ]
     },
     "israel-reyes": {
@@ -7285,9 +8664,18 @@
         "natname": "市川 佑樹",
         "nationality": "JPN",
         "teams": [
-            {"season": 2016, "team" : "Musashi"},
-            {"season": 2017, "team" : "Musashi"},
-            {"season": 2018, "team" : "Musashi"}
+            {
+                "season": 2016,
+                "team": "Musashi"
+            },
+            {
+                "season": 2017,
+                "team": "Musashi"
+            },
+            {
+                "season": 2018,
+                "team": "Musashi"
+            }
         ]
     },
     "dmitry-medvedev": {
@@ -7386,9 +8774,18 @@
     "sebastian-pozzo": {
         "nationality": "ARG",
         "teams": [
-            {"season": 2016, "team" : "Ligamagic"},
-            {"season": 2017, "team" : "Hareruya Latin"},
-            {"season": 2018, "team" : "Hareruya Latin"}
+            {
+                "season": 2016,
+                "team": "Ligamagic"
+            },
+            {
+                "season": 2017,
+                "team": "Hareruya Latin"
+            },
+            {
+                "season": 2018,
+                "team": "Hareruya Latin"
+            }
         ]
     },
     "ziming-chen": {
@@ -7436,7 +8833,10 @@
     "julio-bernabe": {
         "nationality": "CHL",
         "teams": [
-            {"season": 2018, "team" : "Magicsur"}
+            {
+                "season": 2018,
+                "team": "Magicsur"
+            }
         ]
     },
     "marshall-lane": {
@@ -7445,7 +8845,10 @@
     "jarron-puszet": {
         "nationality": "AUS",
         "teams": [
-            {"season": 2017, "team" : "Blitz"}
+            {
+                "season": 2017,
+                "team": "Blitz"
+            }
         ]
     },
     "matias-a-chiappe": {
@@ -7523,8 +8926,14 @@
     "julien-stihle": {
         "nationality": "FRA",
         "teams": [
-            {"season": 2016, "team" : "Magic Corsairs Crew"},
-            {"season": 2018, "team" : "Waaagh Taverne Paris"}
+            {
+                "season": 2016,
+                "team": "Magic Corsairs Crew"
+            },
+            {
+                "season": 2018,
+                "team": "Waaagh Taverne Paris"
+            }
         ]
     },
     "nikola-fercek": {
@@ -7869,7 +9278,10 @@
     "radek-kaczmarczyk": {
         "nationality": "POL",
         "teams": [
-            {"season": 2018, "team" : "EUreka"}
+            {
+                "season": 2018,
+                "team": "EUreka"
+            }
         ]
     },
     "derek-mong": {
@@ -8070,14 +9482,23 @@
     "patrick-dickmann": {
         "nationality": "DEU",
         "teams": [
-            {"season": 2016, "team" : "EUreka"},
-            {"season": 2017, "team" : "EUreka"}
+            {
+                "season": 2016,
+                "team": "EUreka"
+            },
+            {
+                "season": 2017,
+                "team": "EUreka"
+            }
         ]
     },
     "anssi-alkio": {
         "nationality": "FIN",
         "teams": [
-            {"season": 2016, "team" : "Almost Finnished"}
+            {
+                "season": 2016,
+                "team": "Almost Finnished"
+            }
         ]
     },
     "jared-boettcher": {
@@ -8089,7 +9510,10 @@
     "dominik-prosek": {
         "nationality": "CZE",
         "teams": [
-            {"season": 2018, "team" : "Myst"}
+            {
+                "season": 2018,
+                "team": "Myst"
+            }
         ]
     },
     "kevin-anctil": {
@@ -8155,7 +9579,10 @@
     "alexandre-aurejac": {
         "nationality": "FRA",
         "teams": [
-            {"season": 2017, "team" : "Magic Corsairs Crew"}
+            {
+                "season": 2017,
+                "team": "Magic Corsairs Crew"
+            }
         ]
     },
     "ben-moir": {
@@ -8254,7 +9681,10 @@
     "ben-yu": {
         "nationality": "USA",
         "teams": [
-            {"season": 2018, "team" : "Greater Good"}
+            {
+                "season": 2018,
+                "team": "Greater Good"
+            }
         ]
     },
     "elmer-van-eeghen": {
@@ -8335,7 +9765,10 @@
     "federico-del-basso": {
         "nationality": "ITA",
         "teams": [
-            {"season": 2017, "team" : "La Perla Nera"}
+            {
+                "season": 2017,
+                "team": "La Perla Nera"
+            }
         ]
     },
     "yann-guthmann": {
@@ -8431,7 +9864,10 @@
     "luis-navas": {
         "nationality": "CHL",
         "teams": [
-            {"season": 2018, "team" : "Magicsur"}
+            {
+                "season": 2018,
+                "team": "Magicsur"
+            }
         ]
     },
     "wilson-mok": {
@@ -8464,7 +9900,10 @@
     "joe-demestrio": {
         "nationality": "USA",
         "teams": [
-            {"season": 2018, "team" : "GOAT"}
+            {
+                "season": 2018,
+                "team": "GOAT"
+            }
         ]
     },
     "eddie-chalecki-cuenca": {
@@ -8527,7 +9966,10 @@
     "farand-lee": {
         "nationality": "CAN",
         "teams": [
-            {"season": 2017, "team" : "Confluence"}
+            {
+                "season": 2017,
+                "team": "Confluence"
+            }
         ]
     },
     "matthias-kopietz": {
@@ -8650,7 +10092,10 @@
     "edgar-magalhaes": {
         "nationality": "CAN",
         "teams": [
-            {"season": 2018, "team" : "FacetoFacegames"}
+            {
+                "season": 2018,
+                "team": "FacetoFacegames"
+            }
         ]
     },
     "nazar-sotiriadi": {
@@ -9602,7 +11047,10 @@
     "ray-tautic": {
         "nationality": "USA",
         "teams": [
-            {"season": 2017, "team" : "Sourcery"}
+            {
+                "season": 2017,
+                "team": "Sourcery"
+            }
         ]
     },
     "john-moore": {
@@ -9752,7 +11200,10 @@
         "natname": "諸藤拓馬",
         "nationality": "JPN",
         "teams": [
-            {"season": 2018, "team" : "Final Last Samurai"}
+            {
+                "season": 2018,
+                "team": "Final Last Samurai"
+            }
         ]
     },
     "chester-lew": {
@@ -10076,9 +11527,6 @@
     "noah-barnett": {
         "nationality": "USA"
     },
-    "john-e-dean": {
-        "nationality": "USA"
-    },
     "ryan-lumpford": {
         "nationality": "USA"
     },
@@ -10166,7 +11614,10 @@
     "adam-ragsdale": {
         "nationality": "CAN",
         "teams": [
-            {"season": 2017, "team" : "Dave & Adam's"}
+            {
+                "season": 2017,
+                "team": "Dave & Adam's"
+            }
         ]
     },
     "bill-nielsen": {
@@ -10268,7 +11719,10 @@
         "nationality": "USA"
     },
     "randy-buehler": {
-        "hof": {"year": 2007, "rank": 5},
+        "hof": {
+            "year": 2007,
+            "rank": 5
+        },
         "nationality": "USA"
     },
     "david-mills": {
@@ -11323,7 +12777,10 @@
     "joseph-kambourakis": {
         "nationality": "USA",
         "teams": [
-            {"season": 2017, "team" : "Mutility"}
+            {
+                "season": 2017,
+                "team": "Mutility"
+            }
         ]
     },
     "siong-huat-soh": {
@@ -12773,7 +14230,10 @@
     "bradley-yoo": {
         "nationality": "USA",
         "teams": [
-            {"season": 2018, "team" : "Cardboard Live"}
+            {
+                "season": 2018,
+                "team": "Cardboard Live"
+            }
         ]
     },
     "paul-mackinnon": {
@@ -12806,8 +14266,14 @@
     "thoralf-severin": {
         "nationality": "DEU",
         "teams": [
-            {"season": 2017, "team" : "Cardmarket"},
-            {"season": 2018, "team" : "Phoenix: New Dawn"}
+            {
+                "season": 2017,
+                "team": "Cardmarket"
+            },
+            {
+                "season": 2018,
+                "team": "Phoenix: New Dawn"
+            }
         ]
     },
     "ryan-coyle": {
@@ -12918,7 +14384,10 @@
     "alexandre-habert": {
         "nationality": "FRA",
         "teams": [
-            {"season": 2017, "team" : "Magic Corsairs Crew"}
+            {
+                "season": 2017,
+                "team": "Magic Corsairs Crew"
+            }
         ]
     },
     "gonzalo-del-fierro": {
@@ -13002,7 +14471,10 @@
     "scott-markeson": {
         "nationality": "USA",
         "teams": [
-            {"season": 2017, "team" : "Tower Games"}
+            {
+                "season": 2017,
+                "team": "Tower Games"
+            }
         ]
     },
     "dalibor-szegho": {
@@ -13047,7 +14519,10 @@
     "alessandro-lippi": {
         "nationality": "ITA",
         "teams": [
-            {"season": 2017, "team" : "La Perla Nera"}
+            {
+                "season": 2017,
+                "team": "La Perla Nera"
+            }
         ]
     },
     "aaron-henner": {
@@ -13128,9 +14603,18 @@
     "michael-bonde": {
         "nationality": "DNK",
         "teams": [
-            {"season": 2016, "team" : "MTG Bent Card"},
-            {"season": 2017, "team" : "Snapcardster"},
-            {"season": 2018, "team" : "Snapcardster X MTGMintcard"}
+            {
+                "season": 2016,
+                "team": "MTG Bent Card"
+            },
+            {
+                "season": 2017,
+                "team": "Snapcardster"
+            },
+            {
+                "season": 2018,
+                "team": "Snapcardster X MTGMintcard"
+            }
         ]
     },
     "florian-surkamp": {
@@ -13166,8 +14650,14 @@
     "eduardo-sajgalik": {
         "nationality": "CAN",
         "teams": [
-            {"season": 2016, "team" : "MTG Mint Card"},
-            {"season": 2017, "team" : "MTG Mint Card"}
+            {
+                "season": 2016,
+                "team": "MTG Mint Card"
+            },
+            {
+                "season": 2017,
+                "team": "MTG Mint Card"
+            }
         ]
     },
     "maxwell-brown": {
@@ -13518,7 +15008,10 @@
     "riku-kumagai": {
         "nationality": "JPN",
         "teams": [
-            {"season": 2017, "team" : "Kusemono"}
+            {
+                "season": 2017,
+                "team": "Kusemono"
+            }
         ]
     },
     "jimmy-dela-cruz": {
@@ -13620,9 +15113,18 @@
     "aleksa-telarov": {
         "nationality": "SRB",
         "teams": [
-            {"season": 2016, "team" : "EUreka"},
-            {"season": 2017, "team" : "EUreka"},
-            {"season": 2018, "team" : "EUreka"}
+            {
+                "season": 2016,
+                "team": "EUreka"
+            },
+            {
+                "season": 2017,
+                "team": "EUreka"
+            },
+            {
+                "season": 2018,
+                "team": "EUreka"
+            }
         ]
     },
     "artur-villela": {
@@ -13641,7 +15143,10 @@
     "kevin-jones": {
         "nationality": "USA",
         "teams": [
-            {"season": 2018, "team" : "GOAT"}
+            {
+                "season": 2018,
+                "team": "GOAT"
+            }
         ]
     },
     "james-grendell": {
@@ -13674,7 +15179,10 @@
     "ralph-betesh": {
         "nationality": "USA",
         "teams": [
-            {"season": 2017, "team" : "Dave & Adam's"}
+            {
+                "season": 2017,
+                "team": "Dave & Adam's"
+            }
         ]
     },
     "ruan-korff": {
@@ -13716,7 +15224,10 @@
     "zen-takahashi": {
         "nationality": "NZL",
         "teams": [
-            {"season": 2017, "team" : "Child's Play"}
+            {
+                "season": 2017,
+                "team": "Child's Play"
+            }
         ]
     },
     "simon-pilorget": {
@@ -13928,9 +15439,14 @@
     },
     "piotr-glogowski": {
         "nationality": "POL",
-        "mpl": [2019],
+        "mpl": [
+            2019
+        ],
         "teams": [
-            {"season": 2018, "team" : "EUreka"}
+            {
+                "season": 2018,
+                "team": "EUreka"
+            }
         ]
     },
     "mario-flores": {
@@ -13987,8 +15503,14 @@
     "bernardo-santos": {
         "nationality": "PRT",
         "teams": [
-            {"season": 2017, "team" : "Cardhoarder Brazil"},
-            {"season": 2018, "team" : "MTG Manager"}
+            {
+                "season": 2017,
+                "team": "Cardhoarder Brazil"
+            },
+            {
+                "season": 2018,
+                "team": "MTG Manager"
+            }
         ]
     },
     "michael-hantz": {
@@ -14060,7 +15582,10 @@
     "felipe-valdivia": {
         "nationality": "CHL",
         "teams": [
-            {"season": 2016, "team" : "DEXThird"}
+            {
+                "season": 2016,
+                "team": "DEXThird"
+            }
         ]
     },
     "matias-chilperico": {
@@ -14096,7 +15621,10 @@
     "andrew-skorik": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Dave & Adam's"}
+            {
+                "season": 2016,
+                "team": "Dave & Adam's"
+            }
         ]
     },
     "drew-iafrate": {
@@ -14114,7 +15642,10 @@
     "petros-tziotis": {
         "nationality": "GRC",
         "teams": [
-            {"season": 2016, "team" : "Conflagreece"}
+            {
+                "season": 2016,
+                "team": "Conflagreece"
+            }
         ]
     },
     "shinji-nakano": {
@@ -14174,7 +15705,10 @@
     "andrew-elenbogen": {
         "nationality": "USA",
         "teams": [
-            {"season": 2018, "team" : "Cardboard Live"}
+            {
+                "season": 2018,
+                "team": "Cardboard Live"
+            }
         ]
     },
     "david-tryggestad": {
@@ -14186,7 +15720,10 @@
     "ryder-aguilera": {
         "nationality": "USA",
         "teams": [
-            {"season": 2017, "team" : "Goon Squad"}
+            {
+                "season": 2017,
+                "team": "Goon Squad"
+            }
         ]
     },
     "daniel-martinez": {
@@ -14219,7 +15756,10 @@
     "maxime-martin": {
         "nationality": "FRA",
         "teams": [
-            {"season": 2016, "team" : "Magic Corsairs Crew"}
+            {
+                "season": 2016,
+                "team": "Magic Corsairs Crew"
+            }
         ]
     },
     "sebastian-steffe": {
@@ -14390,9 +15930,18 @@
     "noah-walker": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Cardhoarder"},
-            {"season": 2017, "team" : "Cardhoarder"},
-            {"season": 2018, "team" : "Legion"}
+            {
+                "season": 2016,
+                "team": "Cardhoarder"
+            },
+            {
+                "season": 2017,
+                "team": "Cardhoarder"
+            },
+            {
+                "season": 2018,
+                "team": "Legion"
+            }
         ]
     },
     "martin-krempel": {
@@ -14449,7 +15998,10 @@
     "hunter-cochran": {
         "nationality": "USA",
         "teams": [
-            {"season": 2018, "team" : "The Comic Book Store"}
+            {
+                "season": 2018,
+                "team": "The Comic Book Store"
+            }
         ]
     },
     "christoph-morris-lent": {
@@ -14509,8 +16061,14 @@
     "anthony-lee": {
         "nationality": "AUS",
         "teams": [
-            {"season": 2016, "team" : "MTG Bent Card"},
-            {"season": 2017, "team" : "Child's Play"}
+            {
+                "season": 2016,
+                "team": "MTG Bent Card"
+            },
+            {
+                "season": 2017,
+                "team": "Child's Play"
+            }
         ]
     },
     "sean-knowelden": {
@@ -14555,7 +16113,10 @@
     "richard-tan": {
         "nationality": "USA",
         "teams": [
-            {"season": 2018, "team" : "Omega Card Games"}
+            {
+                "season": 2018,
+                "team": "Omega Card Games"
+            }
         ]
     },
     "oleg-plisov": {
@@ -14576,7 +16137,10 @@
     "carlos-alexandre-dos-santos-esteves": {
         "nationality": "BRA",
         "teams": [
-            {"season": 2017, "team" : "La Perla Nera"}
+            {
+                "season": 2017,
+                "team": "La Perla Nera"
+            }
         ]
     },
     "jeremy-payen": {
@@ -14612,7 +16176,10 @@
     "fabien-li": {
         "nationality": "SGP",
         "teams": [
-            {"season": 2017, "team" : "Gray Ogre Games"}
+            {
+                "season": 2017,
+                "team": "Gray Ogre Games"
+            }
         ]
     },
     "justin-maguire": {
@@ -14711,7 +16278,10 @@
     "ashraf-abou-omar": {
         "nationality": "DEU",
         "teams": [
-            {"season": 2016, "team" : "Lingering Souls"}
+            {
+                "season": 2016,
+                "team": "Lingering Souls"
+            }
         ]
     },
     "fernando-barros": {
@@ -14722,11 +16292,22 @@
     },
     "lucas-esper-berthoud": {
         "nationality": "BRA",
-        "mpl": [2019],
+        "mpl": [
+            2019
+        ],
         "teams": [
-            {"season": 2016, "team" : "DEXThird"},
-            {"season": 2017, "team" : "Hareruya Latin"},
-            {"season": 2018, "team" : "Hareruya Latin"}
+            {
+                "season": 2016,
+                "team": "DEXThird"
+            },
+            {
+                "season": 2017,
+                "team": "Hareruya Latin"
+            },
+            {
+                "season": 2018,
+                "team": "Hareruya Latin"
+            }
         ]
     },
     "daniel-gaete-quezada": {
@@ -14792,7 +16373,10 @@
     "alex-lloyd": {
         "nationality": "USA",
         "teams": [
-            {"season": 2017, "team" : "Mutility"}
+            {
+                "season": 2017,
+                "team": "Mutility"
+            }
         ]
     },
     "nicolo-battistuzzi": {
@@ -14801,7 +16385,10 @@
     "francesco-giorgio": {
         "nationality": "ITA",
         "teams": [
-            {"season": 2018, "team" : "Axion Now"}
+            {
+                "season": 2018,
+                "team": "Axion Now"
+            }
         ]
     },
     "pablo-zamorano": {
@@ -14990,8 +16577,14 @@
     "david-mines": {
         "nationality": "AUS",
         "teams": [
-            {"season": 2016, "team" : "Tapas"},
-            {"season": 2017, "team" : "Child's Play"}
+            {
+                "season": 2016,
+                "team": "Tapas"
+            },
+            {
+                "season": 2017,
+                "team": "Child's Play"
+            }
         ]
     },
     "john-malanaphy": {
@@ -15330,7 +16923,10 @@
     "philip-griffiths": {
         "nationality": "WAL",
         "teams": [
-            {"season": 2016, "team" : "Basic"}
+            {
+                "season": 2016,
+                "team": "Basic"
+            }
         ]
     },
     "mitchell-gross": {
@@ -15441,9 +17037,6 @@
     "soren-pedersen": {
         "nationality": "DNK"
     },
-    "brian-grimmer": {
-        "nationality": "USA"
-    },
     "yosuke-taga": {
         "nationality": "JPN"
     },
@@ -15468,7 +17061,10 @@
     "yuuta-hirosawa": {
         "nationality": "JPN",
         "teams": [
-            {"season": 2017, "team" : "Final Last Samurai"}
+            {
+                "season": 2017,
+                "team": "Final Last Samurai"
+            }
         ]
     },
     "ian-kerr": {
@@ -15753,8 +17349,14 @@
     "ernest-lim": {
         "nationality": "SGP",
         "teams": [
-            {"season": 2017, "team" : "Gray Ogre Games"},
-            {"season": 2018, "team" : "Gray Ogre Games"}
+            {
+                "season": 2017,
+                "team": "Gray Ogre Games"
+            },
+            {
+                "season": 2018,
+                "team": "Gray Ogre Games"
+            }
         ]
     },
     "pablo-abou-adal": {
@@ -15784,8 +17386,14 @@
     "jose-luis-echeverria-paredes": {
         "nationality": "CHL",
         "teams": [
-            {"season": 2016, "team" : "DEXThird"},
-            {"season": 2018, "team" : "Magicsur"}
+            {
+                "season": 2016,
+                "team": "DEXThird"
+            },
+            {
+                "season": 2018,
+                "team": "Magicsur"
+            }
         ]
     },
     "ivan-mrankov-tosev": {
@@ -16034,7 +17642,10 @@
     "hoi-chick": {
         "nationality": "HKG",
         "teams": [
-            {"season": 2017, "team" : "Confluence"}
+            {
+                "season": 2017,
+                "team": "Confluence"
+            }
         ]
     },
     "andris-nagy": {
@@ -16325,7 +17936,10 @@
     "jake-hart": {
         "nationality": "AUS",
         "teams": [
-            {"season": 2017, "team" : "Confluence"}
+            {
+                "season": 2017,
+                "team": "Confluence"
+            }
         ]
     },
     "benjamin-page": {
@@ -16613,8 +18227,14 @@
     "jeff-pyka": {
         "nationality": "USA",
         "teams": [
-            {"season": 2017, "team" : "Dave & Adam's"},
-            {"season": 2018, "team" : "Omega Card Games"}
+            {
+                "season": 2017,
+                "team": "Dave & Adam's"
+            },
+            {
+                "season": 2018,
+                "team": "Omega Card Games"
+            }
         ]
     },
     "noah-swartz": {
@@ -16632,7 +18252,10 @@
     "jose-cabezas-munoz": {
         "nationality": "ESP",
         "teams": [
-            {"season": 2017, "team" : "Cloudpost Crew"}
+            {
+                "season": 2017,
+                "team": "Cloudpost Crew"
+            }
         ]
     },
     "alex-fanghanel": {
@@ -16722,7 +18345,10 @@
     "joe-lam": {
         "nationality": "HKG",
         "teams": [
-            {"season": 2017, "team" : "Confluence"}
+            {
+                "season": 2017,
+                "team": "Confluence"
+            }
         ]
     },
     "dylan-austin": {
@@ -16743,8 +18369,14 @@
     "jonathan-sukenik": {
         "nationality": "USA",
         "teams": [
-            {"season": 2017, "team" : "The Comic Book Store"},
-            {"season": 2018, "team" : "The Comic Book Store"}
+            {
+                "season": 2017,
+                "team": "The Comic Book Store"
+            },
+            {
+                "season": 2018,
+                "team": "The Comic Book Store"
+            }
         ]
     },
     "rafael-parra-trujillo": {
@@ -17209,7 +18841,10 @@
     "morgan-mclaughlin": {
         "nationality": "CAN",
         "teams": [
-            {"season": 2018, "team" : "FacetoFacegames"}
+            {
+                "season": 2018,
+                "team": "FacetoFacegames"
+            }
         ]
     },
     "levon-lock": {
@@ -17284,7 +18919,10 @@
     "james-wilks": {
         "nationality": "AUS",
         "teams": [
-            {"season": 2016, "team" : "Tapas"}
+            {
+                "season": 2016,
+                "team": "Tapas"
+            }
         ]
     },
     "pier-rodolfo-cicco": {
@@ -17368,7 +19006,10 @@
     "dmitriy-butakov": {
         "nationality": "RUS",
         "teams": [
-            {"season": 2018, "team" : "MTG Manager"}
+            {
+                "season": 2018,
+                "team": "MTG Manager"
+            }
         ]
     },
     "joe-fox-jr-": {
@@ -17376,11 +19017,22 @@
     },
     "grzegorz-kowalski": {
         "nationality": "POL",
-        "mpl": [2019],
+        "mpl": [
+            2019
+        ],
         "teams": [
-            {"season": 2016, "team" : "Opportunity"},
-            {"season": 2017, "team" : "Snapcardster"},
-            {"season": 2018, "team" : "Hareruya Sword"}
+            {
+                "season": 2016,
+                "team": "Opportunity"
+            },
+            {
+                "season": 2017,
+                "team": "Snapcardster"
+            },
+            {
+                "season": 2018,
+                "team": "Hareruya Sword"
+            }
         ]
     },
     "daniel-longoria": {
@@ -17563,9 +19215,18 @@
     "martin-hrycej": {
         "nationality": "CZE",
         "teams": [
-            {"season": 2016, "team" : "Magic Corsairs Crew"},
-            {"season": 2017, "team" : "Cardmarket"},
-            {"season": 2018, "team" : "Myst"}
+            {
+                "season": 2016,
+                "team": "Magic Corsairs Crew"
+            },
+            {
+                "season": 2017,
+                "team": "Cardmarket"
+            },
+            {
+                "season": 2018,
+                "team": "Myst"
+            }
         ]
     },
     "nathan-herkimer": {
@@ -17709,7 +19370,10 @@
     "jack-wang": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Dave & Adam's"}
+            {
+                "season": 2016,
+                "team": "Dave & Adam's"
+            }
         ]
     },
     "alexis-martinez": {
@@ -17757,7 +19421,10 @@
     "ryuji-murae": {
         "nationality": "JPN",
         "teams": [
-            {"season": 2018, "team" : "Kusemono"}
+            {
+                "season": 2018,
+                "team": "Kusemono"
+            }
         ]
     },
     "michael-goud": {
@@ -17793,7 +19460,10 @@
     "kellen-pastore": {
         "nationality": "USA",
         "teams": [
-            {"season": 2018, "team" : "Flashback"}
+            {
+                "season": 2018,
+                "team": "Flashback"
+            }
         ]
     },
     "shohei-mita": {
@@ -18381,7 +20051,10 @@
     "ignacio-parot": {
         "nationality": "CHL",
         "teams": [
-            {"season": 2018, "team" : "Magicsur"}
+            {
+                "season": 2018,
+                "team": "Magicsur"
+            }
         ]
     },
     "takaaki-suzuki": {
@@ -18627,7 +20300,10 @@
     "thirawat-chaovarindr": {
         "nationality": "THA",
         "teams": [
-            {"season": 2018, "team" : "Gray Ogre Games"}
+            {
+                "season": 2018,
+                "team": "Gray Ogre Games"
+            }
         ]
     },
     "alexandre-carette": {
@@ -20407,7 +22083,10 @@
     "felix-leong": {
         "nationality": "SGP",
         "teams": [
-            {"season": 2017, "team" : "Gray Ogre Games"}
+            {
+                "season": 2017,
+                "team": "Gray Ogre Games"
+            }
         ]
     },
     "vesa-nenye": {
@@ -21065,9 +22744,14 @@
     },
     "jean-emmanuel-depraz": {
         "nationality": "FRA",
-        "mpl": [2019],
+        "mpl": [
+            2019
+        ],
         "teams": [
-            {"season": 2018, "team" : "Waaagh Taverne Paris"}
+            {
+                "season": 2018,
+                "team": "Waaagh Taverne Paris"
+            }
         ]
     },
     "travis-towns": {
@@ -21106,7 +22790,10 @@
     "daniel-fournier": {
         "nationality": "CAN",
         "teams": [
-            {"season": 2017, "team" : "First Strike"}
+            {
+                "season": 2017,
+                "team": "First Strike"
+            }
         ]
     },
     "alexander-bull": {
@@ -21175,7 +22862,10 @@
     "anand-khare": {
         "nationality": "USA",
         "teams": [
-            {"season": 2017, "team" : "Lingering Souls"}
+            {
+                "season": 2017,
+                "team": "Lingering Souls"
+            }
         ]
     },
     "kyle-hildebrandt": {
@@ -21187,7 +22877,10 @@
     "julien-berteaux": {
         "nationality": "FRA",
         "teams": [
-            {"season": 2018, "team" : "Baguette"}
+            {
+                "season": 2018,
+                "team": "Baguette"
+            }
         ]
     },
     "yann-teoh": {
@@ -21478,7 +23171,10 @@
     "alex-bastecki": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Dave & Adam's"}
+            {
+                "season": 2016,
+                "team": "Dave & Adam's"
+            }
         ]
     },
     "anthony-daggett": {
@@ -21496,8 +23192,14 @@
     "jasper-grimmer": {
         "nationality": "DEU",
         "teams": [
-            {"season": 2017, "team" : "Cardmarket"},
-            {"season": 2018, "team" : "Phoenix: New Dawn"}
+            {
+                "season": 2017,
+                "team": "Cardmarket"
+            },
+            {
+                "season": 2018,
+                "team": "Phoenix: New Dawn"
+            }
         ]
     },
     "yousuke-morinaga": {
@@ -21617,7 +23319,10 @@
     "goncalo-pinto": {
         "nationality": "PRT",
         "teams": [
-            {"season": 2018, "team" : "MTG Manager"}
+            {
+                "season": 2018,
+                "team": "MTG Manager"
+            }
         ]
     },
     "louis-kaplan": {
@@ -22102,7 +23807,10 @@
     "logan-nettles": {
         "nationality": "USA",
         "teams": [
-            {"season": 2018, "team" : "KMC-Genesis"}
+            {
+                "season": 2018,
+                "team": "KMC-Genesis"
+            }
         ]
     },
     "shou-yoshimori": {
@@ -23704,7 +25412,9 @@
     "matt-goodall": {
         "nationality": "AUS"
     },
-    "fabrice-rabhi": {},
+    "fabrice-rabhi": {
+        "nationality": "FRA"
+    },
     "dirk-verbeken": {},
     "hannibal-hansen": {},
     "javier-fernandez-ivern": {},
@@ -24142,7 +25852,10 @@
     "alex-bianchi": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Dave & Adam's"}
+            {
+                "season": 2016,
+                "team": "Dave & Adam's"
+            }
         ]
     },
     "connor-laehn": {
@@ -24151,7 +25864,10 @@
     "thien-nguyen": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Fire Squad"}
+            {
+                "season": 2016,
+                "team": "Fire Squad"
+            }
         ]
     },
     "florian-reiter": {
@@ -24232,7 +25948,10 @@
     "lewk-faley": {
         "nationality": "USA",
         "teams": [
-            {"season": 2018, "team" : "Nerd Rage Gaming"}
+            {
+                "season": 2018,
+                "team": "Nerd Rage Gaming"
+            }
         ]
     },
     "daniel-duterte": {
@@ -24277,7 +25996,10 @@
     "jonathan-orr": {
         "nationality": "USA",
         "teams": [
-            {"season": 2018, "team" : "Saddleback LaHumans"}
+            {
+                "season": 2018,
+                "team": "Saddleback LaHumans"
+            }
         ]
     },
     "dustin-harrelson": {
@@ -24493,7 +26215,10 @@
     "ryan-hare": {
         "nationality": "USA",
         "teams": [
-            {"season": 2017, "team" : "Dave & Adam's"}
+            {
+                "season": 2017,
+                "team": "Dave & Adam's"
+            }
         ]
     },
     "nicolas-beland": {
@@ -24535,7 +26260,10 @@
     "cristian-ortiz-ros": {
         "nationality": "ESP",
         "teams": [
-            {"season": 2018, "team" : "Spanish Masters"}
+            {
+                "season": 2018,
+                "team": "Spanish Masters"
+            }
         ]
     },
     "shervin-veyssi": {
@@ -25579,7 +27307,10 @@
     "torsten-anders": {
         "nationality": "DEU",
         "teams": [
-            {"season": 2017, "team" : "Phoenix: 404"}
+            {
+                "season": 2017,
+                "team": "Phoenix: 404"
+            }
         ]
     },
     "mirco-villani": {
@@ -25735,9 +27466,18 @@
     "panagiotis-papadopoulos": {
         "nationality": "GRC",
         "teams": [
-            {"season": 2016, "team" : "Conflagreece"},
-            {"season": 2017, "team" : "EUreka"},
-            {"season": 2018, "team" : "EUreka"}
+            {
+                "season": 2016,
+                "team": "Conflagreece"
+            },
+            {
+                "season": 2017,
+                "team": "EUreka"
+            },
+            {
+                "season": 2018,
+                "team": "EUreka"
+            }
         ]
     },
     "austin-fritz": {
@@ -25941,7 +27681,10 @@
     "craig-chapman": {
         "nationality": "AUS",
         "teams": [
-            {"season": 2016, "team" : "Basic"}
+            {
+                "season": 2016,
+                "team": "Basic"
+            }
         ]
     },
     "alessandro-treppiedi": {
@@ -26352,7 +28095,10 @@
     "niels-molle": {
         "nationality": "NLD",
         "teams": [
-            {"season": 2017, "team" : "Catharsis"}
+            {
+                "season": 2017,
+                "team": "Catharsis"
+            }
         ]
     },
     "enrico-guarneri": {
@@ -26594,7 +28340,10 @@
     "matthew-anderson": {
         "nationality": "AUS",
         "teams": [
-            {"season": 2016, "team" : "Tapas"}
+            {
+                "season": 2016,
+                "team": "Tapas"
+            }
         ]
     },
     "jeff-butz": {},
@@ -27569,19 +29318,39 @@
     },
     "luis-salvatto": {
         "nationality": "ARG",
-        "mpl": [2019],
+        "mpl": [
+            2019
+        ],
         "teams": [
-            {"season": 2016, "team" : "DEX Army"},
-            {"season": 2017, "team" : "Hareruya Latin"},
-            {"season": 2018, "team" : "Hareruya Latin"}
+            {
+                "season": 2016,
+                "team": "DEX Army"
+            },
+            {
+                "season": 2017,
+                "team": "Hareruya Latin"
+            },
+            {
+                "season": 2018,
+                "team": "Hareruya Latin"
+            }
         ]
     },
     "rob-pisano": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Mox Box Bowl"},
-            {"season": 2017, "team" : "Massdrop West"},
-            {"season": 2018, "team" : "Cardboard Live"}
+            {
+                "season": 2016,
+                "team": "Mox Box Bowl"
+            },
+            {
+                "season": 2017,
+                "team": "Massdrop West"
+            },
+            {
+                "season": 2018,
+                "team": "Cardboard Live"
+            }
         ]
     },
     "brett-sinclair": {
@@ -27656,7 +29425,10 @@
     "lauri-pispa": {
         "nationality": "FIN",
         "teams": [
-            {"season": 2016, "team" : "Almost Finnished"}
+            {
+                "season": 2016,
+                "team": "Almost Finnished"
+            }
         ]
     },
     "kaname-yanase": {
@@ -27695,7 +29467,10 @@
     "jason-smyth": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "NorCal"}
+            {
+                "season": 2016,
+                "team": "NorCal"
+            }
         ]
     },
     "damien-mace": {
@@ -27722,8 +29497,14 @@
     "ryan-cubit": {
         "nationality": "AUS",
         "teams": [
-            {"season": 2016, "team" : "Tapas"},
-            {"season": 2017, "team" : "Snapcardster"}
+            {
+                "season": 2016,
+                "team": "Tapas"
+            },
+            {
+                "season": 2017,
+                "team": "Snapcardster"
+            }
         ]
     },
     "samuel-bodily": {
@@ -27765,7 +29546,10 @@
     "cody-lingelbach": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Hotsauce Games"}
+            {
+                "season": 2016,
+                "team": "Hotsauce Games"
+            }
         ]
     },
     "francois-chenard": {
@@ -27816,14 +29600,23 @@
     "chuan-sun": {
         "nationality": "CHN",
         "teams": [
-            {"season": 2017, "team" : "MTGSheep"}
+            {
+                "season": 2017,
+                "team": "MTGSheep"
+            }
         ]
     },
     "arne-huschenbeth": {
         "nationality": "DEU",
         "teams": [
-            {"season": 2017, "team" : "Cardmarket"},
-            {"season": 2018, "team" : "Phoenix: New Dawn"}
+            {
+                "season": 2017,
+                "team": "Cardmarket"
+            },
+            {
+                "season": 2018,
+                "team": "Phoenix: New Dawn"
+            }
         ]
     },
     "max-wilson": {
@@ -27841,7 +29634,10 @@
     "joao-choca": {
         "nationality": "ENG",
         "teams": [
-            {"season": 2018, "team" : "Axion Now"}
+            {
+                "season": 2018,
+                "team": "Axion Now"
+            }
         ]
     },
     "luis-campos": {
@@ -27859,7 +29655,10 @@
     "collin-rountree": {
         "nationality": "USA",
         "teams": [
-            {"season": 2017, "team" : "The Comic Book Store"}
+            {
+                "season": 2017,
+                "team": "The Comic Book Store"
+            }
         ]
     },
     "florian-horn": {
@@ -28054,7 +29853,10 @@
     "luke-southworth": {
         "nationality": "ENG",
         "teams": [
-            {"season": 2018, "team" : "Geekgear"}
+            {
+                "season": 2018,
+                "team": "Geekgear"
+            }
         ]
     },
     "andrew-longo": {
@@ -28150,7 +29952,10 @@
     "oscar-christensen": {
         "nationality": "DNK",
         "teams": [
-            {"season": 2018, "team" : "Bolt the Bird"}
+            {
+                "season": 2018,
+                "team": "Bolt the Bird"
+            }
         ]
     },
     "ricardo-cabrero": {
@@ -28222,7 +30027,10 @@
     "matt-brown": {
         "nationality": "AUS",
         "teams": [
-            {"season": 2018, "team" : "GOAT"}
+            {
+                "season": 2018,
+                "team": "GOAT"
+            }
         ]
     },
     "jeff-psyhos": {
@@ -28291,8 +30099,14 @@
     "elias-klocker": {
         "nationality": "AUT",
         "teams": [
-            {"season": 2017, "team" : "EUreka"},
-            {"season": 2018, "team" : "EUreka"}
+            {
+                "season": 2017,
+                "team": "EUreka"
+            },
+            {
+                "season": 2018,
+                "team": "EUreka"
+            }
         ]
     },
     "melvin-chew": {
@@ -31432,7 +33246,10 @@
     "cristian-cespedes": {
         "nationality": "CHL",
         "teams": [
-            {"season": 2016, "team" : "DEXThird"}
+            {
+                "season": 2016,
+                "team": "DEXThird"
+            }
         ]
     },
     "manuel-malquichagua": {
@@ -31858,9 +33675,6 @@
     "adam-skotak": {
         "nationality": "POL"
     },
-    "che-zhuang": {
-        "nationality": "CHN"
-    },
     "tim-pinder": {
         "nationality": "ENG"
     },
@@ -31939,19 +33753,28 @@
     "daniel-cathro": {
         "nationality": "USA",
         "teams": [
-            {"season": 2017, "team" : "Lingering Souls"}
+            {
+                "season": 2017,
+                "team": "Lingering Souls"
+            }
         ]
     },
     "jan-ksandr": {
         "nationality": "CZE",
         "teams": [
-            {"season": 2018, "team" : "Myst"}
+            {
+                "season": 2018,
+                "team": "Myst"
+            }
         ]
     },
     "allen-wu": {
         "nationality": "USA",
         "teams": [
-            {"season": 2018, "team" : "Hareruya North America"}
+            {
+                "season": 2018,
+                "team": "Hareruya North America"
+            }
         ]
     },
     "juan-guillenea-pujalte": {
@@ -32008,7 +33831,10 @@
     "george-channing": {
         "nationality": "ENG",
         "teams": [
-            {"season": 2018, "team" : "Axion Now"}
+            {
+                "season": 2018,
+                "team": "Axion Now"
+            }
         ]
     },
     "dominic-z": {
@@ -32017,7 +33843,10 @@
     "fernando-gueler-berdasco": {
         "nationality": "USA",
         "teams": [
-            {"season": 2017, "team" : "Cloudpost Crew"}
+            {
+                "season": 2017,
+                "team": "Cloudpost Crew"
+            }
         ]
     },
     "franck-pappas": {
@@ -32038,7 +33867,10 @@
     "douglas-romani": {
         "nationality": "BRA",
         "teams": [
-            {"season": 2018, "team" : "Cardhoarder Mentoring"}
+            {
+                "season": 2018,
+                "team": "Cardhoarder Mentoring"
+            }
         ]
     },
     "mike-jianu": {
@@ -32053,7 +33885,10 @@
     "evan-esposito": {
         "nationality": "USA",
         "teams": [
-            {"season": 2017, "team" : "Dave & Adam's"}
+            {
+                "season": 2017,
+                "team": "Dave & Adam's"
+            }
         ]
     },
     "simon-slutsky": {
@@ -32077,8 +33912,14 @@
     "joe-lossett": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Cardhoarder"},
-            {"season": 2017, "team" : "Cardhoarder"}
+            {
+                "season": 2016,
+                "team": "Cardhoarder"
+            },
+            {
+                "season": 2017,
+                "team": "Cardhoarder"
+            }
         ]
     },
     "eng-chu-heng": {
@@ -32150,8 +33991,14 @@
     "william-craddock": {
         "nationality": "USA",
         "teams": [
-            {"season": 2017, "team" : "The Comic Book Store"},
-            {"season": 2018, "team" : ""}
+            {
+                "season": 2017,
+                "team": "The Comic Book Store"
+            },
+            {
+                "season": 2018,
+                "team": ""
+            }
         ]
     },
     "alesander-samaniego": {
@@ -32202,7 +34049,10 @@
     "joel-sadowsky": {
         "nationality": "USA",
         "teams": [
-            {"season": 2018, "team" : "Dice City Games"}
+            {
+                "season": 2018,
+                "team": "Dice City Games"
+            }
         ]
     },
     "brian-glenn": {
@@ -32220,15 +34070,27 @@
     "jacob-nagro": {
         "nationality": "USA",
         "teams": [
-            {"season": 2017, "team" : "The Comic Book Store"},
-            {"season": 2018, "team" : "Hareruya North America"}
+            {
+                "season": 2017,
+                "team": "The Comic Book Store"
+            },
+            {
+                "season": 2018,
+                "team": "Hareruya North America"
+            }
         ]
     },
     "zhong-yi-lim": {
         "nationality": "SGP",
         "teams": [
-            {"season": 2017, "team" : "Gray Ogre Games"},
-            {"season": 2018, "team" : "Gray Ogre Games"}
+            {
+                "season": 2017,
+                "team": "Gray Ogre Games"
+            },
+            {
+                "season": 2018,
+                "team": "Gray Ogre Games"
+            }
         ]
     },
     "philippe-leger": {
@@ -32243,7 +34105,10 @@
     "evan-petre": {
         "nationality": "USA",
         "teams": [
-            {"season": 2017, "team" : "Sourcery"}
+            {
+                "season": 2017,
+                "team": "Sourcery"
+            }
         ]
     },
     "christopher-walton": {
@@ -32294,23 +34159,44 @@
     "dimitris-triantafillou": {
         "nationality": "GRC",
         "teams": [
-            {"season": 2016, "team" : "Conflagreece"}
+            {
+                "season": 2016,
+                "team": "Conflagreece"
+            }
         ]
     },
     "makis-matsoukas": {
         "nationality": "GRC",
         "teams": [
-            {"season": 2016, "team" : "Conflagreece"},
-            {"season": 2017, "team" : "Snapcardster"},
-            {"season": 2018, "team" : "GOAT"}
+            {
+                "season": 2016,
+                "team": "Conflagreece"
+            },
+            {
+                "season": 2017,
+                "team": "Snapcardster"
+            },
+            {
+                "season": 2018,
+                "team": "GOAT"
+            }
         ]
     },
     "ben-hull": {
         "nationality": "CAN",
         "teams": [
-            {"season": 2016, "team" : "Fire Squad"},
-            {"season": 2017, "team" : "Hotsauce Games"},
-            {"season": 2018, "team" : "Hareruya North America"}
+            {
+                "season": 2016,
+                "team": "Fire Squad"
+            },
+            {
+                "season": 2017,
+                "team": "Hotsauce Games"
+            },
+            {
+                "season": 2018,
+                "team": "Hareruya North America"
+            }
         ]
     },
     "ivan-golovko": {
@@ -32325,8 +34211,14 @@
     "florian-trotte": {
         "nationality": "FRA",
         "teams": [
-            {"season": 2017, "team" : "Magic Corsairs Crew"},
-            {"season": 2018, "team" : "Baguette"}
+            {
+                "season": 2017,
+                "team": "Magic Corsairs Crew"
+            },
+            {
+                "season": 2018,
+                "team": "Baguette"
+            }
         ]
     },
     "eric-flickinger": {
@@ -32353,7 +34245,10 @@
     "jelco-bodewes": {
         "nationality": "NLD",
         "teams": [
-            {"season": 2018, "team" : "Axion Now"}
+            {
+                "season": 2018,
+                "team": "Axion Now"
+            }
         ]
     },
     "john-benedict-gonzales": {
@@ -32410,7 +34305,10 @@
     "brandon-fischer": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Mox Box Bowl"}
+            {
+                "season": 2016,
+                "team": "Mox Box Bowl"
+            }
         ]
     },
     "renato-pinto": {
@@ -32434,7 +34332,10 @@
     "michael-hinderaker": {
         "nationality": "USA",
         "teams": [
-            {"season": 2017, "team" : "Lingering Souls"}
+            {
+                "season": 2017,
+                "team": "Lingering Souls"
+            }
         ]
     },
     "archibald-owen": {
@@ -32449,7 +34350,10 @@
     "william-hahn": {
         "nationality": "USA",
         "teams": [
-            {"season": 2018, "team" : "Nerd Rage Gaming"}
+            {
+                "season": 2018,
+                "team": "Nerd Rage Gaming"
+            }
         ]
     },
     "brad-brown": {
@@ -32584,7 +34488,10 @@
     "nate-kahovec": {
         "nationality": "USA",
         "teams": [
-            {"season": 2017, "team" : "Gamer's Haven"}
+            {
+                "season": 2017,
+                "team": "Gamer's Haven"
+            }
         ]
     },
     "jiri-obraz": {
@@ -32602,8 +34509,14 @@
     "michael-cochran": {
         "nationality": "USA",
         "teams": [
-            {"season": 2017, "team" : "The Comic Book Store"},
-            {"season": 2018, "team" : ""}
+            {
+                "season": 2017,
+                "team": "The Comic Book Store"
+            },
+            {
+                "season": 2018,
+                "team": ""
+            }
         ]
     },
     "danny-roldan": {
@@ -32612,7 +34525,10 @@
     "maxwell-mick": {
         "nationality": "USA",
         "teams": [
-            {"season": 2018, "team" : "Cardboard Live"}
+            {
+                "season": 2018,
+                "team": "Cardboard Live"
+            }
         ]
     },
     "rogelio-corpus": {
@@ -32657,7 +34573,10 @@
     "mak-wai-hou": {
         "nationality": "CHN",
         "teams": [
-            {"season": 2018, "team" : "Myst"}
+            {
+                "season": 2018,
+                "team": "Myst"
+            }
         ]
     },
     "mike-boulinguiez": {
@@ -32702,14 +34621,23 @@
     "samuel-vuillot": {
         "nationality": "FRA",
         "teams": [
-            {"season": 2016, "team" : "Magic Corsairs Crew"},
-            {"season": 2017, "team" : "Magic Corsairs Crew"}
+            {
+                "season": 2016,
+                "team": "Magic Corsairs Crew"
+            },
+            {
+                "season": 2017,
+                "team": "Magic Corsairs Crew"
+            }
         ]
     },
     "jacob-baugh": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Cardhoarder"}
+            {
+                "season": 2016,
+                "team": "Cardhoarder"
+            }
         ]
     },
     "bo-stentebjerg-hansen": {
@@ -32739,7 +34667,10 @@
     "garry-lau": {
         "nationality": "AUS",
         "teams": [
-            {"season": 2016, "team" : "Tapas"}
+            {
+                "season": 2016,
+                "team": "Tapas"
+            }
         ]
     },
     "tomasz-sodomirski": {
@@ -32754,7 +34685,10 @@
     "zachary-kiihne": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Cardhoarder"}
+            {
+                "season": 2016,
+                "team": "Cardhoarder"
+            }
         ]
     },
     "tyler-schroeder": {
@@ -32769,7 +34703,10 @@
     "mathew-stein": {
         "nationality": "CAN",
         "teams": [
-            {"season": 2016, "team" : "Basic"}
+            {
+                "season": 2016,
+                "team": "Basic"
+            }
         ]
     },
     "andrew-gould": {
@@ -32787,7 +34724,10 @@
     "huaxing-bai": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "NorCal"}
+            {
+                "season": 2016,
+                "team": "NorCal"
+            }
         ]
     },
     "david-jackson": {
@@ -32820,20 +34760,32 @@
     "joao-lucas-caparroz": {
         "nationality": "BRA",
         "teams": [
-            {"season": 2016, "team" : "DEXThird"}
+            {
+                "season": 2016,
+                "team": "DEXThird"
+            }
         ]
     },
     "tuomas-tuominen": {
         "nationality": "FIN",
         "teams": [
-            {"season": 2016, "team" : "Almost Finnished"}
+            {
+                "season": 2016,
+                "team": "Almost Finnished"
+            }
         ]
     },
     "leo-lahonen": {
         "nationality": "FIN",
         "teams": [
-            {"season": 2016, "team" : "Almost Finnished"},
-            {"season": 2018, "team" : "Bolt the Bird"}
+            {
+                "season": 2016,
+                "team": "Almost Finnished"
+            },
+            {
+                "season": 2018,
+                "team": "Bolt the Bird"
+            }
         ]
     },
     "robert-buck": {
@@ -32842,7 +34794,10 @@
     "nick-d-ambrose": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "Dave & Adam's"}
+            {
+                "season": 2016,
+                "team": "Dave & Adam's"
+            }
         ]
     },
     "michael-fromberg": {
@@ -32851,7 +34806,10 @@
     "mike-mei": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "NorCal"}
+            {
+                "season": 2016,
+                "team": "NorCal"
+            }
         ]
     },
     "dmitry-andronchik": {
@@ -32860,7 +34818,10 @@
     "harold-chow": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "NorCal"}
+            {
+                "season": 2016,
+                "team": "NorCal"
+            }
         ]
     },
     "etienne-lourdin": {
@@ -32869,7 +34830,10 @@
     "atsuki-kihara": {
         "nationality": "JPN",
         "teams": [
-            {"season": 2018, "team" : "Final Last Samurai"}
+            {
+                "season": 2018,
+                "team": "Final Last Samurai"
+            }
         ]
     },
     "fumiya-matsumoto": {
@@ -32923,7 +34887,10 @@
     "dan-besterman": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "NorCal"}
+            {
+                "season": 2016,
+                "team": "NorCal"
+            }
         ]
     },
     "steve-loor": {
@@ -32980,7 +34947,10 @@
     "patrick-fernandes": {
         "nationality": "BRA",
         "teams": [
-            {"season": 2016, "team" : "DEXThird"}
+            {
+                "season": 2016,
+                "team": "DEXThird"
+            }
         ]
     },
     "federico-giacchino": {
@@ -33013,7 +34983,10 @@
     "caleb-van-patten": {
         "nationality": "USA",
         "teams": [
-            {"season": 2016, "team" : "NorCal"}
+            {
+                "season": 2016,
+                "team": "NorCal"
+            }
         ]
     },
     "kai-behrens": {
@@ -33058,7 +35031,10 @@
     "sam-rolph": {
         "nationality": "ENG",
         "teams": [
-            {"season": 2018, "team" : "GOAT"}
+            {
+                "season": 2018,
+                "team": "GOAT"
+            }
         ]
     },
     "takumi-matuura": {
@@ -33085,7 +35061,10 @@
     "riccardo-bragato": {
         "nationality": "AUS",
         "teams": [
-            {"season": 2016, "team" : "Tapas"}
+            {
+                "season": 2016,
+                "team": "Tapas"
+            }
         ]
     },
     "keisuke-sato": {
@@ -33148,8 +35127,14 @@
     "matt-sikkink-johnson": {
         "nationality": "USA",
         "teams": [
-            {"season": 2017, "team" : "Tower Games"},
-            {"season": 2018, "team" : "Tower Games"}
+            {
+                "season": 2017,
+                "team": "Tower Games"
+            },
+            {
+                "season": 2018,
+                "team": "Tower Games"
+            }
         ]
     },
     "sean-hume": {
@@ -33170,7 +35155,10 @@
     "cain-rianhard": {
         "nationality": "USA",
         "teams": [
-            {"season": 2018, "team" : "Flashback"}
+            {
+                "season": 2018,
+                "team": "Flashback"
+            }
         ]
     },
     "nathaniel-barton": {
@@ -33224,7 +35212,10 @@
     "luke-feeney": {
         "nationality": "USA",
         "teams": [
-            {"season": 2017, "team" : "Sourcery"}
+            {
+                "season": 2017,
+                "team": "Sourcery"
+            }
         ]
     },
     "seita-oono": {
@@ -33272,8 +35263,14 @@
     "jack-kiefer": {
         "nationality": "USA",
         "teams": [
-            {"season": 2017, "team" : "Cardhoarder"},
-            {"season": 2018, "team" : "Massdrop MTG"}
+            {
+                "season": 2017,
+                "team": "Cardhoarder"
+            },
+            {
+                "season": 2018,
+                "team": "Massdrop MTG"
+            }
         ]
     },
     "timothy-cheng": {
@@ -33291,7 +35288,10 @@
     "nikolaos-kaponis": {
         "nationality": "GRC",
         "teams": [
-            {"season": 2016, "team" : "Conflagreece"}
+            {
+                "season": 2016,
+                "team": "Conflagreece"
+            }
         ]
     },
     "rafael-sarriegui-hidalgo": {
@@ -33306,13 +35306,19 @@
     "roope-metsa": {
         "nationality": "FIN",
         "teams": [
-            {"season": 2018, "team" : "Bolt the Bird"}
+            {
+                "season": 2018,
+                "team": "Bolt the Bird"
+            }
         ]
     },
     "wyatt-darby": {
         "nationality": "USA",
         "teams": [
-            {"season": 2018, "team" : "The Comic Book Store"}
+            {
+                "season": 2018,
+                "team": "The Comic Book Store"
+            }
         ]
     },
     "aaron-ezroj": {
@@ -33360,13 +35366,19 @@
     "kasper-nielsen": {
         "nationality": "DNK",
         "teams": [
-            {"season": 2018, "team" : "Bolt the Bird"}
+            {
+                "season": 2018,
+                "team": "Bolt the Bird"
+            }
         ]
     },
     "carmine-d-aniello": {
         "nationality": "ITA",
         "teams": [
-            {"season": 2017, "team" : "La Perla Nera"}
+            {
+                "season": 2017,
+                "team": "La Perla Nera"
+            }
         ]
     },
     "shoupeng-wang": {
@@ -33486,14 +35498,23 @@
     "sergio-ferrer-rozalen": {
         "nationality": "ESP",
         "teams": [
-            {"season": 2017, "team" : "Cloudpost Crew"},
-            {"season": 2018, "team" : "Spanish Masters"}
+            {
+                "season": 2017,
+                "team": "Cloudpost Crew"
+            },
+            {
+                "season": 2018,
+                "team": "Spanish Masters"
+            }
         ]
     },
     "matt-stankey": {
         "nationality": "USA",
         "teams": [
-            {"season": 2018, "team" : "Tower Games"}
+            {
+                "season": 2018,
+                "team": "Tower Games"
+            }
         ]
     },
     "tomoya-tsubouchi": {
@@ -33502,7 +35523,10 @@
     "avenash-pernankil": {
         "nationality": "USA",
         "teams": [
-            {"season": 2017, "team" : "Goon Squad"}
+            {
+                "season": 2017,
+                "team": "Goon Squad"
+            }
         ]
     },
     "louis-bachaud": {
@@ -33517,7 +35541,10 @@
     "yimin-zhi": {
         "nationality": "CHN",
         "teams": [
-            {"season": 2018, "team" : "Myst"}
+            {
+                "season": 2018,
+                "team": "Myst"
+            }
         ]
     },
     "motoaki-itou": {
@@ -33538,7 +35565,10 @@
     "jean-francois-betit": {
         "nationality": "CAN",
         "teams": [
-            {"season": 2017, "team" : "Cloudpost Crew"}
+            {
+                "season": 2017,
+                "team": "Cloudpost Crew"
+            }
         ]
     },
     "pavel-trenogin": {
@@ -33550,7 +35580,10 @@
     "francisco-sifuentes": {
         "nationality": "PER",
         "teams": [
-            {"season": 2018, "team" : "MTG Manager"}
+            {
+                "season": 2018,
+                "team": "MTG Manager"
+            }
         ]
     },
     "matias-gabriel-arvigo": {
@@ -33610,7 +35643,10 @@
     "brendon-johnson": {
         "nationality": "USA",
         "teams": [
-            {"season": 2017, "team" : "Gamer's Haven"}
+            {
+                "season": 2017,
+                "team": "Gamer's Haven"
+            }
         ]
     },
     "paul-salerno": {
@@ -33679,7 +35715,10 @@
     "patrick-tierney": {
         "nationality": "USA",
         "teams": [
-            {"season": 2017, "team" : "Goon Squad"}
+            {
+                "season": 2017,
+                "team": "Goon Squad"
+            }
         ]
     },
     "katsumi-saruta": {
@@ -33703,7 +35742,10 @@
     "daniel-vega": {
         "nationality": "CHL",
         "teams": [
-            {"season": 2018, "team" : "Cardhoarder Mentoring"}
+            {
+                "season": 2018,
+                "team": "Cardhoarder Mentoring"
+            }
         ]
     },
     "faizal-rosmarudin": {
@@ -33712,7 +35754,10 @@
     "kristopher-mccord": {
         "nationality": "USA",
         "teams": [
-            {"season": 2017, "team" : "Goon Squad"}
+            {
+                "season": 2017,
+                "team": "Goon Squad"
+            }
         ]
     },
     "andy-garcia-romo": {
@@ -33841,7 +35886,10 @@
     "zile-yao": {
         "nationality": "CHN",
         "teams": [
-            {"season": 2017, "team" : "MTGSheep"}
+            {
+                "season": 2017,
+                "team": "MTGSheep"
+            }
         ]
     },
     "remi-le-francois": {
@@ -33928,7 +35976,10 @@
     "adria-ramiro": {
         "nationality": "ESP",
         "teams": [
-            {"season": 2018, "team" : "Spanish Masters"}
+            {
+                "season": 2018,
+                "team": "Spanish Masters"
+            }
         ]
     },
     "filipe-falcao": {
@@ -33946,8 +35997,14 @@
     "samuel-ihlenfeldt": {
         "nationality": "USA",
         "teams": [
-            {"season": 2017, "team" : "Tower Games"},
-            {"season": 2018, "team" : "Tower Games"}
+            {
+                "season": 2017,
+                "team": "Tower Games"
+            },
+            {
+                "season": 2018,
+                "team": "Tower Games"
+            }
         ]
     },
     "gary-patrick": {
@@ -33974,14 +36031,23 @@
     "daniel-weiser": {
         "nationality": "USA",
         "teams": [
-            {"season": 2017, "team" : "Tower Games"},
-            {"season": 2018, "team" : "Tower Games"}
+            {
+                "season": 2017,
+                "team": "Tower Games"
+            },
+            {
+                "season": 2018,
+                "team": "Tower Games"
+            }
         ]
     },
     "alberto-galicia": {
         "nationality": "ESP",
         "teams": [
-            {"season": 2017, "team" : "Cloudpost Crew"}
+            {
+                "season": 2017,
+                "team": "Cloudpost Crew"
+            }
         ]
     },
     "brad-maxwell": {
@@ -33993,7 +36059,10 @@
     "ryan-schumacher": {
         "nationality": "USA",
         "teams": [
-            {"season": 2017, "team" : "Cloudpost Crew"}
+            {
+                "season": 2017,
+                "team": "Cloudpost Crew"
+            }
         ]
     },
     "david-doberne": {
@@ -34005,14 +36074,23 @@
     "bolun-zhang": {
         "nationality": "USA",
         "teams": [
-            {"season": 2017, "team" : "MTGSheep"},
-            {"season": 2018, "team" : "MTGSheep"}
+            {
+                "season": 2017,
+                "team": "MTGSheep"
+            },
+            {
+                "season": 2018,
+                "team": "MTGSheep"
+            }
         ]
     },
     "zack-kanner": {
         "nationality": "USA",
         "teams": [
-            {"season": 2017, "team" : "Sourcery"}
+            {
+                "season": 2017,
+                "team": "Sourcery"
+            }
         ]
     },
     "jungje-choi": {
@@ -34030,8 +36108,14 @@
     "ethan-gaieski": {
         "nationality": "USA",
         "teams": [
-            {"season": 2017, "team" : "Sourcery"},
-            {"season": 2018, "team" : "GOAT"}
+            {
+                "season": 2017,
+                "team": "Sourcery"
+            },
+            {
+                "season": 2018,
+                "team": "GOAT"
+            }
         ]
     },
     "alexander-mertins": {
@@ -34049,13 +36133,19 @@
     "christian-trudel": {
         "nationality": "CAN",
         "teams": [
-            {"season": 2017, "team" : "Cloudpost Crew"}
+            {
+                "season": 2017,
+                "team": "Cloudpost Crew"
+            }
         ]
     },
     "nathan-basser": {
         "nationality": "AUS",
         "teams": [
-            {"season": 2017, "team" : "Blitz"}
+            {
+                "season": 2017,
+                "team": "Blitz"
+            }
         ]
     },
     "joseph-tang": {
@@ -34103,7 +36193,10 @@
     "karl-eyre": {
         "nationality": "AUS",
         "teams": [
-            {"season": 2017, "team" : "Blitz"}
+            {
+                "season": 2017,
+                "team": "Blitz"
+            }
         ]
     },
     "reggie-valk": {
@@ -34121,13 +36214,19 @@
     "theau-mery": {
         "nationality": "FRA",
         "teams": [
-            {"season": 2018, "team" : "Waaagh Taverne Paris"}
+            {
+                "season": 2018,
+                "team": "Waaagh Taverne Paris"
+            }
         ]
     },
     "alvaro-fernandez-torres": {
         "nationality": "ESP",
         "teams": [
-            {"season": 2018, "team" : "Spanish Masters"}
+            {
+                "season": 2018,
+                "team": "Spanish Masters"
+            }
         ]
     },
     "andrea-raffo": {
@@ -34175,13 +36274,19 @@
     "mathew-kelly": {
         "nationality": "CAN",
         "teams": [
-            {"season": 2017, "team" : "First Strike"}
+            {
+                "season": 2017,
+                "team": "First Strike"
+            }
         ]
     },
     "jackson-hicks": {
         "nationality": "USA",
         "teams": [
-            {"season": 2017, "team" : "Tower Games"}
+            {
+                "season": 2017,
+                "team": "Tower Games"
+            }
         ]
     },
     "eduardo-zambon": {
@@ -34190,8 +36295,14 @@
     "leon-van-der-linden": {
         "nationality": "NLD",
         "teams": [
-            {"season": 2017, "team" : "Cardmarket"},
-            {"season": 2018, "team" : "Belgic Magic by Hareruya"}
+            {
+                "season": 2017,
+                "team": "Cardmarket"
+            },
+            {
+                "season": 2018,
+                "team": "Belgic Magic by Hareruya"
+            }
         ]
     },
     "akos-kenyeres": {
@@ -34212,8 +36323,14 @@
     "slater-claudel": {
         "nationality": "USA",
         "teams": [
-            {"season": 2017, "team" : "Cloudpost Crew"},
-            {"season": 2018, "team" : "Omega Games"}
+            {
+                "season": 2017,
+                "team": "Cloudpost Crew"
+            },
+            {
+                "season": 2018,
+                "team": "Omega Games"
+            }
         ]
     },
     "jun-ichi-endo": {
@@ -34243,9 +36360,14 @@
     "rei-sato": {
         "natname": "佐藤嶺",
         "nationality": "JPN",
-        "mpl": [2019],
+        "mpl": [
+            2019
+        ],
         "teams": [
-            {"season": 2018, "team" : "Kusemono"}
+            {
+                "season": 2018,
+                "team": "Kusemono"
+            }
         ]
     },
     "fredrik-runelov": {
@@ -34254,7 +36376,10 @@
     "michael-steinecke": {
         "nationality": "DEU",
         "teams": [
-            {"season": 2017, "team" : "Phoenix: 404"}
+            {
+                "season": 2017,
+                "team": "Phoenix: 404"
+            }
         ]
     },
     "harold-coleman": {
@@ -34263,7 +36388,10 @@
     "tzu-mainn-chen": {
         "nationality": "USA",
         "teams": [
-            {"season": 2017, "team" : "Cloudpost Crew"}
+            {
+                "season": 2017,
+                "team": "Cloudpost Crew"
+            }
         ]
     },
     "dillon-kikkawa": {
@@ -34278,13 +36406,19 @@
     "benjamin-coursey": {
         "nationality": "USA",
         "teams": [
-            {"season": 2017, "team" : "Cloudpost Crew"}
+            {
+                "season": 2017,
+                "team": "Cloudpost Crew"
+            }
         ]
     },
     "benjamin-luft": {
         "nationality": "DEU",
         "teams": [
-            {"season": 2017, "team" : "Phoenix: 404"}
+            {
+                "season": 2017,
+                "team": "Phoenix: 404"
+            }
         ]
     },
     "luca-chiassoni": {
@@ -34293,14 +36427,23 @@
     "ivan-ojeda": {
         "nationality": "ESP",
         "teams": [
-            {"season": 2017, "team" : "Cloudpost Crew"}
+            {
+                "season": 2017,
+                "team": "Cloudpost Crew"
+            }
         ]
     },
     "joshua-bausch": {
         "nationality": "DEU",
         "teams": [
-            {"season": 2017, "team" : "Phoenix: 404"},
-            {"season": 2018, "team" : "Phoenix: New Dawn"}
+            {
+                "season": 2017,
+                "team": "Phoenix: 404"
+            },
+            {
+                "season": 2018,
+                "team": "Phoenix: New Dawn"
+            }
         ]
     },
     "tom-law": {
@@ -34309,7 +36452,10 @@
     "raphael-coors": {
         "nationality": "DEU",
         "teams": [
-            {"season": 2017, "team" : "Blitz"}
+            {
+                "season": 2017,
+                "team": "Blitz"
+            }
         ]
     },
     "fabian-nunez": {
@@ -34318,7 +36464,10 @@
     "vitor-grassato": {
         "nationality": "BRA",
         "teams": [
-            {"season": 2017, "team" : "Snapcardster"}
+            {
+                "season": 2017,
+                "team": "Snapcardster"
+            }
         ]
     },
     "nathaniel-colker": {
@@ -34354,7 +36503,10 @@
     "ding-yi": {
         "nationality": "CHN",
         "teams": [
-            {"season": 2017, "team" : "MTGSheep"}
+            {
+                "season": 2017,
+                "team": "MTGSheep"
+            }
         ]
     },
     "hikaru-sato": {
@@ -34402,7 +36554,10 @@
     "karl-sarap": {
         "nationality": "EST",
         "teams": [
-            {"season": 2018, "team" : "Bolt the Bird"}
+            {
+                "season": 2018,
+                "team": "Bolt the Bird"
+            }
         ]
     },
     "lawrence-vess": {
@@ -34417,11 +36572,11 @@
     "brandon-goe": {
         "nationality": "USA",
         "teams": [
-            {"season": 2017, "team" : "Gamer's Haven"}
+            {
+                "season": 2017,
+                "team": "Gamer's Haven"
+            }
         ]
-    },
-    "israel-rosales": {
-        "nationality": "ESP"
     },
     "jianian-wang": {
         "nationality": "CHN"
@@ -34489,7 +36644,10 @@
     "gregory-michel": {
         "nationality": "USA",
         "teams": [
-            {"season": 2018, "team" : "Tower Games"}
+            {
+                "season": 2018,
+                "team": "Tower Games"
+            }
         ]
     },
     "james-allingham": {
@@ -34534,7 +36692,10 @@
     "syndy-sum-chung": {
         "nationality": "HKG",
         "teams": [
-            {"season": 2017, "team" : "Confluence"}
+            {
+                "season": 2017,
+                "team": "Confluence"
+            }
         ]
     },
     "francesco-giresi": {
@@ -34558,7 +36719,10 @@
     "lee-wing-tat": {
         "nationality": "HKG",
         "teams": [
-            {"season": 2017, "team" : "Confluence"}
+            {
+                "season": 2017,
+                "team": "Confluence"
+            }
         ]
     },
     "marc-purvis": {
@@ -34594,7 +36758,10 @@
     "sam-harwood": {
         "nationality": "USA",
         "teams": [
-            {"season": 2017, "team" : "Gamer's Haven"}
+            {
+                "season": 2017,
+                "team": "Gamer's Haven"
+            }
         ]
     },
     "brandon-wise": {
@@ -34663,7 +36830,10 @@
     "alexander-wilson": {
         "nationality": "USA",
         "teams": [
-            {"season": 2017, "team" : "Gamer's Haven"}
+            {
+                "season": 2017,
+                "team": "Gamer's Haven"
+            }
         ]
     },
     "gianfranco-leardini": {
@@ -34693,7 +36863,10 @@
     "kei-rong": {
         "nationality": "USA",
         "teams": [
-            {"season": 2017, "team" : "Mutility"}
+            {
+                "season": 2017,
+                "team": "Mutility"
+            }
         ]
     },
     "michio-abe": {
@@ -34735,7 +36908,10 @@
     "collins-mullen": {
         "nationality": "USA",
         "teams": [
-            {"season": 2017, "team" : "Goon Squad"}
+            {
+                "season": 2017,
+                "team": "Goon Squad"
+            }
         ]
     },
     "david-tiensuu": {
@@ -34786,7 +36962,10 @@
     "nathaniel-walker": {
         "nationality": "USA",
         "teams": [
-            {"season": 2017, "team" : "Mutility"}
+            {
+                "season": 2017,
+                "team": "Mutility"
+            }
         ]
     },
     "nick-johnson": {
@@ -34795,7 +36974,10 @@
     "yuxuan-zhu": {
         "nationality": "CHN",
         "teams": [
-            {"season": 2018, "team" : "MTGSheep"}
+            {
+                "season": 2018,
+                "team": "MTGSheep"
+            }
         ]
     },
     "guo-wei-goh": {
@@ -34807,7 +36989,10 @@
     "kazutaka-naide": {
         "nationality": "JPN",
         "teams": [
-            {"season": 2018, "team" : "Final Last Samurai"}
+            {
+                "season": 2018,
+                "team": "Final Last Samurai"
+            }
         ]
     },
     "nikolin-lasku": {
@@ -34852,7 +37037,10 @@
     "dani-anderson": {
         "nationality": "SCO",
         "teams": [
-            {"season": 2018, "team" : "Geekgear"}
+            {
+                "season": 2018,
+                "team": "Geekgear"
+            }
         ]
     },
     "shane-blake": {
@@ -34897,7 +37085,6 @@
     "russ-smith": {},
     "david-parr": {},
     "merlin-hayes": {},
-    "dave-alexander": {},
     "phong-huynh": {},
     "joe-oxford": {},
     "anthony-ramirez": {},
@@ -35362,7 +37549,10 @@
     "christian-wijaya": {
         "nationality": "IDN",
         "teams": [
-            {"season": 2018, "team" : "Gray Ogre Games"}
+            {
+                "season": 2018,
+                "team": "Gray Ogre Games"
+            }
         ]
     },
     "jose-r-neris": {
@@ -35545,7 +37735,10 @@
     "lucien-longlais": {
         "nationality": "USA",
         "teams": [
-            {"season": 2018, "team" : "Omega Card Games"}
+            {
+                "season": 2018,
+                "team": "Omega Card Games"
+            }
         ]
     },
     "rei-hirayama": {
@@ -35569,7 +37762,10 @@
     "marcus-luong": {
         "nationality": "USA",
         "teams": [
-            {"season": 2018, "team" : "Cardboard Live"}
+            {
+                "season": 2018,
+                "team": "Cardboard Live"
+            }
         ]
     },
     "luis-allende": {
@@ -35724,9 +37920,6 @@
     },
     "arturo-rueda": {
         "nationality": "MEX"
-    },
-    "francisco-llopis-martinez": {
-        "nationality": "ESP"
     },
     "andrew-varga": {
         "nationality": "AUS"
@@ -36316,7 +38509,10 @@
     "zach-allen": {
         "nationality": "USA",
         "teams": [
-            {"season": 2018, "team" : "Team RIW"}
+            {
+                "season": 2018,
+                "team": "Team RIW"
+            }
         ]
     },
     "michael-kundegraber": {
@@ -36331,13 +38527,19 @@
     "charles-rinehart": {
         "nationality": "USA",
         "teams": [
-            {"season": 2018, "team" : "Omega Card Games"}
+            {
+                "season": 2018,
+                "team": "Omega Card Games"
+            }
         ]
     },
     "lauge-de-place": {
         "nationality": "DNK",
         "teams": [
-            {"season": 2018, "team" : "Geekgear"}
+            {
+                "season": 2018,
+                "team": "Geekgear"
+            }
         ]
     },
     "james-vance": {
@@ -36376,7 +38578,10 @@
     "francisco-sanchez": {
         "nationality": "ENG",
         "teams": [
-            {"season": 2018, "team" : "Spanish Masters"}
+            {
+                "season": 2018,
+                "team": "Spanish Masters"
+            }
         ]
     },
     "milos-radulovic": {
@@ -36454,13 +38659,19 @@
     "matthew-haney": {
         "nationality": "USA",
         "teams": [
-            {"season": 2018, "team" : "Nerd Rage Gaming"}
+            {
+                "season": 2018,
+                "team": "Nerd Rage Gaming"
+            }
         ]
     },
     "scott-matthews": {
         "nationality": "USA",
         "teams": [
-            {"season": 2018, "team" : "Nerd Rage Gaming"}
+            {
+                "season": 2018,
+                "team": "Nerd Rage Gaming"
+            }
         ]
     },
     "felix-innauer": {
@@ -36475,13 +38686,19 @@
     "jake-lamb": {
         "nationality": "USA",
         "teams": [
-            {"season": 2018, "team" : "Nerd Rage Gaming"}
+            {
+                "season": 2018,
+                "team": "Nerd Rage Gaming"
+            }
         ]
     },
     "daniel-troha": {
         "nationality": "USA",
         "teams": [
-            {"season": 2018, "team" : "Cardhoarder Mentoring"}
+            {
+                "season": 2018,
+                "team": "Cardhoarder Mentoring"
+            }
         ]
     },
     "luke-renaud": {
@@ -36565,7 +38782,10 @@
     "antonio-martos-donaire": {
         "nationality": "ESP",
         "teams": [
-            {"season": 2018, "team" : "Spanish Masters"}
+            {
+                "season": 2018,
+                "team": "Spanish Masters"
+            }
         ]
     },
     "yuri-ramsey": {
@@ -36574,7 +38794,10 @@
     "sam-beaulieu": {
         "nationality": "USA",
         "teams": [
-            {"season": 2018, "team" : "Tower Games"}
+            {
+                "season": 2018,
+                "team": "Tower Games"
+            }
         ]
     },
     "fernando-m-pigatto": {
@@ -36586,13 +38809,19 @@
     "quinn-kiefer": {
         "nationality": "USA",
         "teams": [
-            {"season": 2018, "team" : "Greater Good"}
+            {
+                "season": 2018,
+                "team": "Greater Good"
+            }
         ]
     },
     "jacob-tilk": {
         "nationality": "USA",
         "teams": [
-            {"season": 2018, "team" : "Dice City Games"}
+            {
+                "season": 2018,
+                "team": "Dice City Games"
+            }
         ]
     },
     "elias-gustavo-salomao-mozine": {
@@ -36619,13 +38848,19 @@
     "joshua-collier": {
         "nationality": "USA",
         "teams": [
-            {"season": 2018, "team" : "Nerd Rage Gaming"}
+            {
+                "season": 2018,
+                "team": "Nerd Rage Gaming"
+            }
         ]
     },
     "roshen-eapen": {
         "nationality": "USA",
         "teams": [
-            {"season": 2018, "team" : "Dice City Games"}
+            {
+                "season": 2018,
+                "team": "Dice City Games"
+            }
         ]
     },
     "tomoyasu-nishio": {
@@ -36643,7 +38878,10 @@
     "drew-helbig": {
         "nationality": "USA",
         "teams": [
-            {"season": 2018, "team" : "Cardhoarder Mentoring"}
+            {
+                "season": 2018,
+                "team": "Cardhoarder Mentoring"
+            }
         ]
     },
     "shoya-kiyono": {
@@ -36709,7 +38947,10 @@
     "hamish-seymour": {
         "nationality": "AUS",
         "teams": [
-            {"season": 2018, "team" : "Cardhoarder Mentoring"}
+            {
+                "season": 2018,
+                "team": "Cardhoarder Mentoring"
+            }
         ]
     },
     "hugo-da-costa": {
@@ -36736,7 +38977,10 @@
     "jamin-kauf": {
         "nationality": "DEU",
         "teams": [
-            {"season": 2018, "team" : "Axion Now"}
+            {
+                "season": 2018,
+                "team": "Axion Now"
+            }
         ]
     },
     "norbie-mendoza": {
@@ -36757,7 +39001,10 @@
     "nick-waugh": {
         "nationality": "ENG",
         "teams": [
-            {"season": 2018, "team" : "Cardhoarder Mentoring"}
+            {
+                "season": 2018,
+                "team": "Cardhoarder Mentoring"
+            }
         ]
     },
     "phillip-martin": {
@@ -36766,7 +39013,10 @@
     "alexander-gordon-brown": {
         "nationality": "ENG",
         "teams": [
-            {"season": 2018, "team" : "Geekgear"}
+            {
+                "season": 2018,
+                "team": "Geekgear"
+            }
         ]
     },
     "alex-friedrichsen": {
@@ -36778,7 +39028,10 @@
     "zirui-zhou": {
         "nationality": "CHN",
         "teams": [
-            {"season": 2018, "team" : "MTGSheep"}
+            {
+                "season": 2018,
+                "team": "MTGSheep"
+            }
         ]
     },
     "andre-barrozo": {
@@ -36835,7 +39088,10 @@
     "kyle-cooper": {
         "nationality": "USA",
         "teams": [
-            {"season": 2018, "team" : "Geekgear"}
+            {
+                "season": 2018,
+                "team": "Geekgear"
+            }
         ]
     },
     "braham-thomas": {
@@ -37023,7 +39279,6 @@
     "thorey-mariusdottir": {
         "nationality": "ISL"
     },
-    "sener-koczyigit": {},
     "joo-hyon-oh": {
         "nationality": "KOR"
     },
@@ -37717,7 +39972,10 @@
     "pete-ward": {
         "nationality": "ENG",
         "teams": [
-            {"season": 2016, "team" : "Basic"}
+            {
+                "season": 2016,
+                "team": "Basic"
+            }
         ]
     },
     "aaron-burns-lees": {
@@ -38157,7 +40415,9 @@
     },
     "jessica-catherine-estephan": {
         "nationality": "AUS",
-        "mpl": [2019]
+        "mpl": [
+            2019
+        ]
     },
     "gervaise-pechler": {
         "nationality": "NLD"
@@ -38299,71 +40559,97 @@
     },
     "paul-yeem": {
         "teams": [
-            {"season": 2016, "team" : "Mox Box Bowl"}
+            {
+                "season": 2016,
+                "team": "Mox Box Bowl"
+            }
         ]
     },
     "micaella-archanjo-martins": {
         "nationality": "BRA",
         "teams": [
-            {"season": 2018, "team" : "Dice City Games"}
+            {
+                "season": 2018,
+                "team": "Dice City Games"
+            }
         ]
     },
     "andrew-hung": {
-        "teams": [
-            {"season": 2018, "team" : "Dice City Games"}
-        ]
+        "nationality": "USA"
     },
     "alexander-chen": {
-        "teams": [
-            {"season": 2018, "team" : "Flashback"}
-        ]
+        "nationality": "USA"
     },
     "james-eveland": {
         "nationality": "USA",
         "teams": [
-            {"season": 2018, "team" : "Flashback"}
+            {
+                "season": 2018,
+                "team": "Flashback"
+            }
         ]
     },
     "joshua-lawrence-grace": {
         "nationality": "CAN",
         "teams": [
-            {"season": 2018, "team" : "Flashback"}
+            {
+                "season": 2018,
+                "team": "Flashback"
+            }
         ]
     },
     "anna-madison": {
         "nationality": "USA",
         "teams": [
-            {"season": 2018, "team" : "Flashback"}
+            {
+                "season": 2018,
+                "team": "Flashback"
+            }
         ]
     },
     "kevin-della-grotte": {
         "nationality": "USA",
         "teams": [
-            {"season": 2018, "team" : "Saddleback LaHumans"}
+            {
+                "season": 2018,
+                "team": "Saddleback LaHumans"
+            }
         ]
     },
     "dylan-murphy": {
         "nationality": "USA",
         "teams": [
-            {"season": 2018, "team" : "Saddleback LaHumans"}
+            {
+                "season": 2018,
+                "team": "Saddleback LaHumans"
+            }
         ]
     },
     "ben-reilly": {
         "nationality": "USA",
         "teams": [
-            {"season": 2018, "team" : "Saddleback LaHumans"}
+            {
+                "season": 2018,
+                "team": "Saddleback LaHumans"
+            }
         ]
     },
     "christopher-stitson": {
         "nationality": "USA",
         "teams": [
-            {"season": 2018, "team" : "Saddleback LaHumans"}
+            {
+                "season": 2018,
+                "team": "Saddleback LaHumans"
+            }
         ]
     },
     "zac-turgeon": {
         "nationality": "USA",
         "teams": [
-            {"season": 2018, "team" : "Saddleback LaHumans"}
+            {
+                "season": 2018,
+                "team": "Saddleback LaHumans"
+            }
         ]
     },
     "hugo-araiza": {
@@ -38494,9 +40780,6 @@
     },
     "bjorn-gausdal": {
         "nationality": "NOR"
-    },
-    "fabrice-rabhi": {
-        "nationality": "FRA"
     },
     "matthieu-oldfield": {
         "nationality": "FRA"
@@ -38641,9 +40924,6 @@
     },
     "robin-ki": {
         "nationality": "TWN"
-    },
-    "reynario-marzan-estacio": {
-        "nationality": "PHL"
     },
     "chun-kai-wen": {
         "nationality": "TWN"
@@ -39198,9 +41478,6 @@
     "leonardo-barboza": {
         "nationality": "BRA"
     },
-    "andrew-hung": {
-        "nationality": "USA"
-    },
     "emil-martiny": {
         "nationality": "DNK"
     },
@@ -39460,9 +41737,6 @@
         "nationality": "USA"
     },
     "lirek-kulik": {
-        "nationality": "USA"
-    },
-    "alexander-chen": {
         "nationality": "USA"
     },
     "douglas-wilson": {
@@ -39737,7 +42011,9 @@
     },
     "janne-mikkonen": {
         "nationality": "FIN",
-        "mpl": [2019]
+        "mpl": [
+            2019
+        ]
     },
     "amy-demicco": {
         "nationality": "USA"
@@ -40251,5 +42527,332 @@
     },
     "christoph-bilshausen": {
         "nationality": "DEU"
-    }
+    },
+    "john-stevens": {},
+    "brian-dudley": {},
+    "jeremy-humphrey": {},
+    "daniel-campisi": {},
+    "charles-hinton": {},
+    "tanis-tramontin": {},
+    "brad-cole": {},
+    "carl-winter": {},
+    "steve-landen": {},
+    "david-pan": {},
+    "chad-caudell": {},
+    "ryuji-ohashi": {},
+    "early-nguyen": {},
+    "doctor-wong": {},
+    "min-su-kum": {},
+    "reynerio-marzan-estacio": {},
+    "eugene-rpguinski": {},
+    "robert-plachy": {},
+    "sasa-fuis": {},
+    "dario-mikic": {},
+    "sebastien-gyjes": {},
+    "fredrik-thorstensson": {},
+    "james-matthews": {},
+    "schaffer-balazs": {},
+    "claude-peters": {},
+    "davor-vizintin": {},
+    "jaksa-knez": {},
+    "liran-bar": {},
+    "ladislav-martinsky": {},
+    "alex-davis": {},
+    "geoffrey-allen": {},
+    "jake-browne": {},
+    "aaron-hiemstra": {},
+    "mark-landers": {},
+    "rodney-burt--jr-": {},
+    "eric-dyke": {},
+    "nick-hartman": {},
+    "marty-winnard": {},
+    "sean-mcbee": {},
+    "james-blair": {},
+    "jeff-levine": {},
+    "brendan-carroll": {},
+    "jeremy-kauffman": {},
+    "andrew-lewis": {},
+    "kirk-cole": {},
+    "ryan-reidy": {},
+    "jacob-dunning": {},
+    "chase-altemara": {},
+    "benjamin-bowen": {},
+    "matt-martin": {},
+    "craig-kaufman": {},
+    "nguyen-vo": {},
+    "evan-stern": {},
+    "john-david-hutchison": {},
+    "kevin-grandon": {},
+    "brandon-blatnick": {},
+    "steve-lester": {},
+    "joey-zappelli": {},
+    "david-engelken": {},
+    "ryan-mcpherson": {},
+    "william-buescher": {},
+    "greg-garner": {},
+    "david-rossheim": {},
+    "joseph-percopo": {},
+    "clinton-lamberd": {},
+    "jim-orr": {},
+    "mike-hall": {},
+    "sebastian-basile": {},
+    "steven-wandrey": {},
+    "jonathan-bailyn": {},
+    "marc-bizub": {},
+    "chris-watson": {},
+    "danny-hernandez": {},
+    "justin-alpert": {},
+    "kyle-flynn": {},
+    "nathan-nichols": {},
+    "evan-fistere": {},
+    "lance-pittman": {},
+    "justin-turner": {},
+    "gaura-rader": {},
+    "scott-keller": {},
+    "james-thoms": {},
+    "tyler-grodzinki": {},
+    "tim-logue": {},
+    "william-morgan": {},
+    "chancey-harrison": {},
+    "jordan-green": {},
+    "cory-white": {},
+    "udo-reinert": {},
+    "jake-brubaker": {},
+    "paul-leone": {},
+    "marc-myers": {},
+    "zach-adams": {},
+    "ryan-leonhardt": {},
+    "eric-mason": {},
+    "brandon-mincey": {},
+    "sean-tracy": {},
+    "justin-bryant": {},
+    "spencer-russo": {},
+    "jeff-schonk": {},
+    "mason-phelps": {},
+    "jason-seitz": {},
+    "jon-wiegand": {},
+    "daniel-spindel": {},
+    "ryan-coisson": {},
+    "nicholas-sandridge": {},
+    "andy-culpepper": {},
+    "brian-horner": {},
+    "matthew-zbrog": {},
+    "shawheen-mahini": {},
+    "nick-stearns": {},
+    "matt-nichols": {},
+    "peter-johnson": {},
+    "philip-johnson": {},
+    "jonah-kaitz": {},
+    "toby-huang": {},
+    "james-maxwell": {},
+    "neil-brisendine": {},
+    "wesley-perkins": {},
+    "joe-whitman": {},
+    "evan-white": {},
+    "tyler-maurey": {},
+    "brent-philbin": {},
+    "seth-ponzer": {},
+    "jeremy-kauffmon": {},
+    "javier-lugo": {},
+    "david-tidd": {},
+    "felix-adam": {},
+    "joe-percopo": {},
+    "james-kast": {},
+    "nicholas-weber": {},
+    "brian-moses": {},
+    "richard-meng": {},
+    "ryan-howe": {},
+    "sara-tidd": {},
+    "christopher-brehm": {},
+    "kevin-ash": {},
+    "alex-barbeau": {},
+    "eric-strom": {},
+    "edward-demattos": {},
+    "kyle-burnside": {},
+    "andy-plymate": {},
+    "sean-crouse": {},
+    "lance-carlisle": {},
+    "tyler-wood": {},
+    "johnathan-nader": {},
+    "lance-corpe": {},
+    "aaron-wilhelm": {},
+    "tim-milko": {},
+    "douglas-norton": {},
+    "casey-tompkins": {},
+    "aaron-schnapp": {},
+    "manuel-orellana": {},
+    "jonah-gasparotti": {},
+    "aaron-samplawski": {},
+    "brandon-miller": {},
+    "charles-furby": {},
+    "john-deuel": {},
+    "joe-peterson": {},
+    "michael-kaufann": {},
+    "charles-simmons": {},
+    "dave-kaplan": {},
+    "patrick-pichon": {},
+    "zack-goldstein": {},
+    "william-kean": {},
+    "tyler-pohle": {},
+    "eric-dawson": {},
+    "chase-altermara": {},
+    "chris-curtis": {},
+    "bryce-paradis": {},
+    "steve-ames": {},
+    "gietanno-demicco": {},
+    "brendon-marotta": {},
+    "chris-griesinger": {},
+    "fei-chu": {},
+    "will-anderson": {},
+    "trak-lord": {},
+    "grant-gaines": {},
+    "peter-brock": {},
+    "jacob-hershberger": {},
+    "david-ames": {},
+    "alexander-klein": {},
+    "estuarod-vazquez": {},
+    "nathan-geer": {},
+    "shawn-leclerc": {},
+    "mark-depace": {},
+    "andrew-turpin": {},
+    "chris-pregent": {},
+    "bobby-culpepper": {},
+    "brendan-dorr": {},
+    "iain-hamilton": {},
+    "bruce-brewington": {},
+    "rick-martin": {},
+    "jared-dunn": {},
+    "max-guss": {},
+    "robert-keating": {},
+    "chris-wolfececk": {},
+    "jay-klingler": {},
+    "scott-freeman": {},
+    "ross-taylor": {},
+    "jordan-folczynski": {},
+    "steve-weiss": {},
+    "gary-pline": {},
+    "ryan-winkler": {},
+    "cameron-leehey": {},
+    "matt-reid": {},
+    "trip-tiller": {},
+    "michael-jan": {},
+    "robert-heathco": {},
+    "jay-fasick": {},
+    "bo-king": {},
+    "clay-devilbiss": {},
+    "jonathan-schnapp": {},
+    "brock-montgomery": {},
+    "cody-sikes": {},
+    "josh-morford": {},
+    "dylan-carnavale": {},
+    "russell-harris": {},
+    "ryan-may": {},
+    "brent-obefield": {},
+    "skylin-thompson": {},
+    "james-ornellas": {},
+    "ben-garlock": {},
+    "jordan-layman": {},
+    "john-gibson": {},
+    "jeremy-grossman": {},
+    "alex-stine": {},
+    "paul-nguyen": {},
+    "anthony-vennucci": {},
+    "trevor-chu": {},
+    "aaron-santos": {},
+    "ryan-kish": {},
+    "philip-jones": {},
+    "daniel-hartman": {},
+    "ryan-garrido": {},
+    "michael-freerksen": {},
+    "david-hunt": {},
+    "phillip-carignan": {},
+    "jenifer-brannon": {},
+    "cameron-dyer": {},
+    "kevin-mercier": {},
+    "ben-field": {},
+    "stephen-bush": {},
+    "josh-miller": {},
+    "reid-young": {},
+    "david-brannon": {},
+    "chris-patrick": {},
+    "ross-allen": {},
+    "ben-cross": {},
+    "nicholas-pensy": {},
+    "brian-levine": {},
+    "greg-wersching": {},
+    "usama-sajjad": {},
+    "andy-wilson": {},
+    "jon-munck": {},
+    "steven-boston": {},
+    "bryan-rockenbach": {},
+    "jimmy-brandlein": {},
+    "donnie-wise": {},
+    "russell-pierson": {},
+    "tom-maney": {},
+    "joseph-landweber": {},
+    "nathan-steuer": {},
+    "levi-sowers": {},
+    "matt-haney": {},
+    "brandon-rea": {},
+    "dagoberto-silva": {},
+    "thomas-munk": {},
+    "jacob-hauch": {},
+    "brandon-dempsey": {},
+    "joe-fortini": {},
+    "justin-bova": {},
+    "jack-ober": {},
+    "curtis-scholar": {},
+    "jeremy-tanforan": {},
+    "ben-alm": {},
+    "kurt-zimmer": {},
+    "robert-gay": {},
+    "dalton-carter": {},
+    "thomas-schlegel": {},
+    "mat-mansoor": {},
+    "cameron-rolen": {},
+    "chris-olsen": {},
+    "chris-casby": {},
+    "matt-king": {},
+    "brent-bentley": {},
+    "wesley-mills": {},
+    "samuel-zahorcak": {},
+    "patrik-kosiciar": {},
+    "lukas-surab": {},
+    "gino-bautista": {},
+    "michael-papp": {},
+    "devin-mitchell": {},
+    "joseph-teiken": {},
+    "adam-pecsi": {},
+    "adam-guinn": {},
+    "bear-maldonado": {},
+    "mark-mehochko": {},
+    "john-dean": {},
+    "rosendahl": {},
+    "liew": {},
+    "moulin": {},
+    "woirgard": {},
+    "speck": {},
+    "grzesiak": {},
+    "cheng": {},
+    "rauber": {},
+    "lavaroni": {},
+    "terry-britain": {},
+    "macdonald": {},
+    "bol": {},
+    "bodlaender": {},
+    "salamons": {},
+    "anderson": {},
+    "vivet": {},
+    "jacobson": {},
+    "broekhus": {},
+    "olarruud": {},
+    "petrovitz": {},
+    "paraskevopoulos": {},
+    "jorge": {},
+    "garcia": {},
+    "fresnevo": {},
+    "tomas": {},
+    "hanka": {},
+    "janovsky": {},
+    "chudyba": {}
 }
