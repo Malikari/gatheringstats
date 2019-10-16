@@ -1,6 +1,6 @@
 {
     "type": "Magic Pro League",
-    "coverage": "https://www.mtgesports.com/",
+    "coverage": "https://www.magic.gg/standings",
     "date": "August 3-September 7, 2019",
     "formats": [
         "Standard"
@@ -11,39 +11,39 @@
     "name": "Magic Pro League - Sapphire Division - Core Split",
     "standings": [
         {
-            "name": "Brian Braun-Duin",
-            "matchpoints": 0,
-            "mythicpoints": 0
-        },
-        {
-            "name": "Javier Dominguez",
-            "matchpoints": 0,
-            "mythicpoints": 0
-        },
-        {
-            "name": "Shahar Shenhar",
-            "matchpoints": 0,
-            "mythicpoints": 0
-        },
-        {
-            "name": "Ken Yukuhiro",
-            "matchpoints": 0,
-            "mythicpoints": 0
-        },
-        {
             "name": "Lee Shi Tian",
-            "matchpoints": 0,
-            "mythicpoints": 0
-        },
-        {
-            "name": "John Rolf",
-            "matchpoints": 0,
-            "mythicpoints": 0
+            "matchpoints": 15,
+            "mythicpoints": 10
         },
         {
             "name": "Matthew Nass",
-            "matchpoints": 0,
-            "mythicpoints": 0
+            "matchpoints": 15,
+            "mythicpoints": 10
+        },
+        {
+            "name": "Ken Yukuhiro",
+            "matchpoints": 12,
+            "mythicpoints": 8
+        },
+        {
+            "name": "Brian Braun-Duin",
+            "matchpoints": 12,
+            "mythicpoints": 8
+        },
+        {
+            "name": "Javier Dominguez",
+            "matchpoints": 12,
+            "mythicpoints": 8
+        },
+        {
+            "name": "Shahar Shenhar",
+            "matchpoints": 9,
+            "mythicpoints": 6
+        },
+        {
+            "name": "John Rolf",
+            "matchpoints": 9,
+            "mythicpoints": 6
         },
         {
             "name": "Janne Mikkonen",

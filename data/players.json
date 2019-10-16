@@ -519,9 +519,6 @@
     "mikko-snygg": {
         "nationality": "FIN"
     },
-    "yuusuke-yoshikawa": {
-        "nationality": "JPN"
-    },
     "jose-pabon": {
         "nationality": "USA"
     },
@@ -587,7 +584,7 @@
     "sven-fischer": {
         "nationality": "DEU"
     },
-    "craig-c-krempels": {
+    "craig-krempels": {
         "nationality": "USA"
     },
     "michael-valdez": {
@@ -1207,7 +1204,7 @@
     "savvas-themistocleous": {
         "nationality": "ZAF"
     },
-    "stefano-fiori": {
+    "stefano-fiore": {
         "nationality": "ITA"
     },
     "daniel-smits-bertelsen": {
@@ -1955,6 +1952,7 @@
             "rank": 2
         },
         "nationality": "CZE",
+        "natname": "Martin Jůza",
         "mpl": [
             2019
         ],
@@ -4111,7 +4109,7 @@
         "nationality": "USA"
     },
     "eli-kaplan": {},
-    "jun-minato": {},
+    "jun-ichi-minato": {},
     "oliver-oks": {
         "nationality": "AUS"
     },
@@ -5806,7 +5804,7 @@
     "peter-kesteloo": {
         "nationality": "NLD"
     },
-    "doug-potter": {
+    "douglas-potter": {
         "nationality": "CAN",
         "teams": [
             {
@@ -9352,7 +9350,7 @@
     "carlos-fernandez-baillo": {
         "nationality": "ESP"
     },
-    "klaus-joens": {
+    "klaus-jons": {
         "nationality": "DEU"
     },
     "riccardo-picciafuochi": {
@@ -15414,6 +15412,7 @@
     },
     "piotr-glogowski": {
         "nationality": "POL",
+        "natname": "Piotr Głogowski",
         "mpl": [
             2019
         ],
@@ -18648,7 +18647,9 @@
     "leonardo-uzcategui": {
         "nationality": "USA"
     },
-    "alex-prieto": {},
+    "alex-prieto": {
+        "nationality": "ESP"
+    },
     "arndt-meier": {
         "nationality": "DEU"
     },
@@ -19886,7 +19887,7 @@
         "nationality": "USA"
     },
     "micha-reiter": {
-        "nationality": "USA"
+        "nationality": "AUT"
     },
     "philip-dettelis": {
         "nationality": "USA"
@@ -21152,6 +21153,7 @@
         "nationality": "SCO"
     },
     "joao-andre": {
+        "natname": "João André",
         "nationality": "PRT"
     },
     "lubos-platzer": {
@@ -23699,7 +23701,7 @@
     "hugh-moore": {
         "nationality": "USA"
     },
-    "ken-furukawa": {
+    "ken-ichi-furukawa": {
         "nationality": "JPN"
     },
     "nestor-rodriguez": {
@@ -24770,7 +24772,9 @@
     "jesse-hajer": {},
     "marcus-lee": {},
     "gary-nakamura": {},
-    "charles-toratani": {},
+    "charles-toratani": {
+        "nationality": "USA"
+    },
     "uli-hoenle": {
         "nationality": "DEU"
     },
@@ -25732,7 +25736,7 @@
     "simone-pisano": {
         "nationality": "ITA"
     },
-    "jonny-wallin": {
+    "johnny-wallin": {
         "nationality": "SWE"
     },
     "nuno-balseiro": {
@@ -26977,9 +26981,6 @@
     "wilson-freeman": {
         "nationality": "USA"
     },
-    "takayuki-tochika": {
-        "nationality": "JPN"
-    },
     "robert-watson": {
         "nationality": "USA"
     },
@@ -26994,9 +26995,6 @@
     },
     "nikola-skorolupov": {
         "nationality": "EST"
-    },
-    "douglas-potter": {
-        "nationality": "CAN"
     },
     "nobuki-morisaki": {
         "nationality": "JPN"
@@ -27138,9 +27136,6 @@
     },
     "barry-smith": {
         "nationality": "USA"
-    },
-    "takehik-matsumura": {
-        "nationality": "JPN"
     },
     "christi-blanchard": {
         "nationality": "CAN"
@@ -28337,7 +28332,9 @@
     },
     "jurgen-worner": {},
     "kaisa-kajala": {},
-    "erich-kunz": {},
+    "erich-kunz": {
+        "nationality": "USA"
+    },
     "michael-corley": {},
     "matthew-johnston": {},
     "adam-johnston": {},
@@ -28354,7 +28351,9 @@
     "antoinette-mason": {},
     "brian-kidney": {},
     "michael-girard": {},
-    "denis-tagunov": {},
+    "denis-tagunov": {
+        "nationality": "RUS"
+    },
     "kristof-van-holsbeeck": {
         "nationality": "BEL"
     },
@@ -29239,7 +29238,9 @@
     "jorge-melgar": {
         "nationality": "PER"
     },
-    "wan-woo-lee": {},
+    "wan-woo-lee": {
+        "nationality": "KOR"
+    },
     "josep-merce-perez": {
         "nationality": "ESP"
     },
@@ -30488,7 +30489,7 @@
     "derek-lejeune": {
         "nationality": "USA"
     },
-    "kuniyoshi-s-ishii": {
+    "kuniyoshi-ishii": {
         "nationality": "PRT"
     },
     "juan-lucena": {
@@ -33422,9 +33423,6 @@
     },
     "anibal-carbonero": {
         "nationality": "ESP"
-    },
-    "chung-chi-tu": {
-        "nationality": "TWN"
     },
     "franco-bonazza": {
         "nationality": "ARG"
@@ -42579,7 +42577,9 @@
     "shawheen-mahini": {},
     "nick-stearns": {},
     "matt-nichols": {},
-    "peter-johnson": {},
+    "peter-johnson": {
+        "nationality": "USA"
+    },
     "philip-johnson": {},
     "jonah-kaitz": {},
     "toby-huang": {},

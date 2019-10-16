@@ -1,6 +1,6 @@
 {
     "type": "Magic Pro League",
-    "coverage": "https://www.mtgesports.com/",
+    "coverage": "https://www.magic.gg/standings",
     "date": "August 3-September 7, 2019",
     "formats": [
         "Standard"
@@ -11,44 +11,44 @@
     "name": "Magic Pro League - Ruby Division - Core Split",
     "standings": [
         {
+            "name": "Ben Stark",
+            "matchpoints": 18,
+            "mythicpoints": 12
+        },
+        {
             "name": "Reid Duke",
-            "matchpoints": 0,
-            "mythicpoints": 0
-        },
-        {
-            "name": "Rei Sato",
-            "matchpoints": 0,
-            "mythicpoints": 0
-        },
-        {
-            "name": "Jean-Emmanuel Depraz",
-            "matchpoints": 0,
-            "mythicpoints": 0
+            "matchpoints": 12,
+            "mythicpoints": 8
         },
         {
             "name": "Andrea Mengucci",
-            "matchpoints": 0,
-            "mythicpoints": 0
+            "matchpoints": 15,
+            "mythicpoints": 10
         },
         {
-            "name": "William Jensen",
-            "matchpoints": 0,
-            "mythicpoints": 0
+            "name": "Rei Sato",
+            "matchpoints": 12,
+            "mythicpoints": 8
         },
         {
             "name": "Mike Sigrist",
-            "matchpoints": 0,
-            "mythicpoints": 0
+            "matchpoints": 12,
+            "mythicpoints": 8
         },
         {
             "name": "Lucas Esper Berthoud",
-            "matchpoints": 0,
-            "mythicpoints": 0
+            "matchpoints": 6,
+            "mythicpoints": 4
         },
         {
-            "name": "Ben Stark",
-            "matchpoints": 0,
-            "mythicpoints": 0
+            "name": "William Jensen",
+            "matchpoints": 6,
+            "mythicpoints": 4
+        },
+        {
+            "name": "Jean-Emmanuel Depraz",
+            "matchpoints": 3,
+            "mythicpoints": 2
         }
     ],
     "teamsize": 1
