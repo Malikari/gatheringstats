@@ -7,4 +7,6 @@ export const formatMoney = amount =>
 
 export const filterOnlyProTours = item => item.type === 'Pro Tour';
 
-export const filterOtherTournaments = item => item.type !== 'Pro Tour';
+export const filterOnlyGrandPrix = item => item.type === 'Grand Prix';
+
+export const filterOtherTournaments = item => (item.type !== 'Pro Tour' && item.type !== 'Grand Prix');

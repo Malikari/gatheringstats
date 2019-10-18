@@ -5,7 +5,7 @@ import {Link} from 'react-router';
 import DocumentTitle from 'react-document-title';
 import Players from './Players.js';
 import PlayerLink from './PlayerLink.react.js';
-import {filterOnlyProTours, filterOtherTournaments} from './utils.js';
+import {filterOnlyProTours, filterOnlyGrandPrix, filterOtherTournaments} from './utils.js';
 
 const _ = require('underscore');
 const Helper = require('./../../lib/helper.js');
@@ -77,6 +77,15 @@ const RecentTournaments = ({ filter = filterOnlyProTours }) => (
     })}
   </div>
 );
+
+export const GrandPrix = (props) => {
+  return (
+    <RecentTournaments
+      filter={filterOnlyGrandPrix}
+      {...props}
+    />
+  );
+};
 
 export const OtherTournaments = (props) => {
   return (

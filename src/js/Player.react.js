@@ -109,8 +109,10 @@ const Player = props => {
       </div>
       <h2>Pro Tours</h2>
       <TournamentsTable items={player.tournaments} />
+      <h2>Grand Prix</h2>
+      <TournamentsTable items={player.tournaments} condition={(type) => type === 'Grand Prix'} />
       <h2>Other Tournaments</h2>
-      <TournamentsTable items={player.tournaments} condition={(type) => type !== 'Pro Tour'} />
+      <TournamentsTable items={player.tournaments} condition={(type) => (type !== 'Pro Tour' && type !== 'Grand Prix')} />
     </div>
   );
 };
