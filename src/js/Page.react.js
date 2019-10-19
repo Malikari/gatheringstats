@@ -16,6 +16,11 @@ const Page = props => (
         </div>
         <ul className="nav navbar-nav">
           <li>
+            <Link to="/pro-leagues" activeClassName="activeLink">
+              Pro Leagues
+            </Link>
+          </li>
+          <li>
             <Link to="/grand-prix" activeClassName="activeLink">
               Grand Prix
             </Link>
