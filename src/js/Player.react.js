@@ -19,6 +19,7 @@ const TournamentsTable = ({items = {}, condition = (type) => type === 'Pro Tour'
           <th>Date</th>
           <th>Tournament</th>
           <th>Finish</th>
+          <th>Mythic Points</th>
           <th>Pro Points</th>
           <th>Prize Money</th>
         </tr>
@@ -42,6 +43,7 @@ const TournamentsTable = ({items = {}, condition = (type) => type === 'Pro Tour'
                 <TournamentLink tournament={tournament} />
               </td>
               <td>{t.finish}</td>
+              <td>{t.mythicpoints}</td>
               <td>{t.propoints}</td>
               <td>{formatMoney(t.money)}</td>
             </tr>

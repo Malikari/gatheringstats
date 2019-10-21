@@ -38,6 +38,7 @@ const Tournament = props => {
           <tr>
             <th />
             <th>Player</th>
+            <th>Mythic Points</th>
             <th>Pro Points</th>
             <th>Prize Money</th>
           </tr>
@@ -51,6 +52,7 @@ const Tournament = props => {
                   <PlayerLink player={Players.byID(p.id)} countryOverrides={t.getNationalityInfo(index)}/>{' '}
                   {p.report ? <a href={p.report}>(report)</a> : null}
                 </td>
+                <td>{p.mythicpoints}</td>
                 <td>{p.propoints}</td>
                 <td>{formatMoney(p.money)}</td>
               </tr>
