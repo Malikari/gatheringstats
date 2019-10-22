@@ -108,6 +108,14 @@ const Player = props => {
             </Link>
           </div>
         </div>
+        <div className="Stat-alert alert alert-info">
+          <div className="Stat-value">{player.stats.mythicpoints}</div>
+          <div>
+            <Link className="Stat-link" to="rankings/mythicpoints">
+              Mythic Points
+            </Link>
+          </div>
+        </div>
       </div>
       <h2>Pro Tours</h2>
       <TournamentsTable items={player.tournaments} />
