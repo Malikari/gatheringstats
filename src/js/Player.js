@@ -7,6 +7,7 @@ export default class Player {
     this.flag = data.flag;
     this.id = data.id;
     this.name = data.name;
+    this.natname = data.natname;
     this.nationality = data.nationality;
     this.hof = data.hof;
     this.mpl = data.mpl;

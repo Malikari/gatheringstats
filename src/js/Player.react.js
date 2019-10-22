@@ -66,6 +66,9 @@ const Player = props => {
       <div className="page-header pageHeader">
         <h1>
           <PlayerLink player={player} />
+          {player.natname ? <text>&nbsp;(</text> : null}
+          {player.natname ? player.natname : null}
+          {player.natname ? <text>)</text> : null}
         </h1>
       </div>
       <div className="Stat">
