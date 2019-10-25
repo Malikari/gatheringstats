@@ -1,173 +1,174 @@
 {
     "type": "Grand Prix",
-    "coverage": "https://magic.wizards.com/events/coverage/gpyoko03",
-    "date": "August 23-24, 2003",
+    "coverage": "https://magic.wizards.com/en/events/coverage/gptor06",
+    "date": "June 3-4, 2006",
     "formats": [
-        "Block Constructed"
+        "Sealed Deck",
+        "Booster Draft"
     ],
-    "id": "grand-prix-yokokhama-2003",
-    "location": "Yokohama, Japan",
+    "id": "grand-prix-toronto-2006",
+    "location": "Toronto, Canada",
     "logo": "gplogo.png",
-    "name": "Grand Prix Yokohama 2003",
+    "name": "Grand Prix Toronto 2006",
     "standings": [
         {
             "money": 2400,
-            "name": "Shu Komuro",
+            "name": "Antonino de Rosa",
             "propoints": 6
         },
         {
             "money": 1700,
-            "name": "Kazuki Kato",
+            "name": "Jonathan Sonne",
             "propoints": 5
         },
         {
             "money": 1200,
-            "name": "Masashiro Kuroda",
+            "name": "Kyle Sanchez",
             "propoints": 4
         },
         {
             "money": 1000,
-            "name": "Yuuichi Yamagishi",
+            "name": "Mark Lovin",
             "propoints": 4
         },
         {
             "money": 800,
-            "name": "Masahiko Morita",
+            "name": "John Fiorillo",
             "propoints": 3
         },
         {
             "money": 800,
-            "name": "Shuhei Nakamura",
+            "name": "Brad Taulbee",
             "propoints": 3
         },
         {
             "money": 800,
-            "name": "Kazuyuki Momose",
+            "name": "Jay Z Jiang",
             "propoints": 3
         },
         {
             "money": 800,
-            "name": "Yusuke Osaka",
+            "name": "Jelger Wiegersma",
             "propoints": 3
         },
         {
             "money": 500,
-            "name": "Kazuki Ueno",
+            "name": "Duncan McGregor",
             "propoints": 2
         },
         {
             "money": 500,
-            "name": "Yasuhito Maehata",
+            "name": "David Rood",
             "propoints": 2
         },
         {
             "money": 500,
-            "name": "Tsuyoshi Doyama",
+            "name": "Mark Vizzacco",
             "propoints": 2
         },
         {
             "money": 500,
-            "name": "Atsushi Kanno",
+            "name": "Gerard Fabiano",
             "propoints": 2
         },
         {
             "money": 500,
-            "name": "Yasuki Sakai",
+            "name": "Robb Davis",
             "propoints": 2
         },
         {
             "money": 500,
-            "name": "Takashi Ishihara",
+            "name": "Brian Kowal",
             "propoints": 2
         },
         {
             "money": 500,
-            "name": "Akitsugu Ito",
+            "name": "Charles Starling",
             "propoints": 2
         },
         {
             "money": 500,
-            "name": "Masanori Nakamura",
+            "name": "Kyle Garnelis",
             "propoints": 2
         },
         {
             "money": 250,
-            "name": "Tsuyoshi Fujita",
+            "name": "Philip Dettelis",
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Jason Patterson",
             "propoints": 1
         },
         {
             "money": 250,
-            "name": "Takeshi Ozawa",
+            "name": "Benjamin Lundquist",
             "propoints": 1
         },
         {
             "money": 250,
-            "name": "Osamu Howa",
+            "name": "Johan Sadeghpour",
             "propoints": 1
         },
         {
             "money": 250,
-            "name": "Daisuke Okada",
+            "name": "Josh Breau",
             "propoints": 1
         },
         {
             "money": 250,
-            "name": "Tarou Usami",
+            "name": "Taylor Putnam",
             "propoints": 1
         },
         {
             "money": 250,
-            "name": "Takuya Uchida",
+            "name": "Geordie Tait",
             "propoints": 1
         },
         {
             "money": 250,
-            "name": "Hiroshi Murase",
+            "name": "John Moore",
             "propoints": 1
         },
         {
             "money": 250,
-            "name": "Tatsunori Kishi",
+            "name": "Michael Ferneyhough",
             "propoints": 1
         },
         {
             "money": 250,
-            "name": "Kenji Hamamoto",
+            "name": "Kyle Mechler",
             "propoints": 1
         },
         {
             "money": 250,
-            "name": "Shota Kuze",
+            "name": "Julien Nuijten",
             "propoints": 1
         },
         {
             "money": 250,
-            "name": "Katsuya Ueda",
+            "name": "Frank Karsten",
             "propoints": 1
         },
         {
             "money": 250,
-            "name": "Satoshi Abe",
+            "name": "William Moreno",
             "propoints": 1
         },
         {
             "money": 250,
-            "name": "Pavel Matousek",
+            "name": "David Felske",
             "propoints": 1
         },
         {
             "money": 250,
-            "name": "Eiji Nomura",
+            "name": "Samuel Stoddard",
             "propoints": 1
         },
         {
             "money": 250,
-            "name": "Yoshikazu Anazawa",
-            "propoints": 1
-        },
-        {
-            "money": 250,
-            "name": "Yasufumi Sasahara",
+            "name": "Anton Jonsson",
             "propoints": 1
         }
     ],

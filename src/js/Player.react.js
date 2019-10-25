@@ -19,6 +19,7 @@ const TournamentsTable = ({items = {}, condition = (type) => type === 'Pro Tour'
           <th>Date</th>
           <th>Tournament</th>
           <th>Finish</th>
+          <th>Mythic Points</th>
           <th>Pro Points</th>
           <th>Prize Money</th>
         </tr>
@@ -42,6 +43,7 @@ const TournamentsTable = ({items = {}, condition = (type) => type === 'Pro Tour'
                 <TournamentLink tournament={tournament} />
               </td>
               <td>{t.finish}</td>
+              <td>{t.mythicpoints}</td>
               <td>{t.propoints}</td>
               <td>{formatMoney(t.money)}</td>
             </tr>
@@ -64,6 +66,9 @@ const Player = props => {
       <div className="page-header pageHeader">
         <h1>
           <PlayerLink player={player} />
+          {player.natname ? <text>&nbsp;(</text> : null}
+          {player.natname ? player.natname : null}
+          {player.natname ? <text>)</text> : null}
         </h1>
       </div>
       <div className="Stat">
@@ -106,11 +111,23 @@ const Player = props => {
             </Link>
           </div>
         </div>
+        <div className="Stat-alert alert alert-info">
+          <div className="Stat-value">{player.stats.mythicpoints}</div>
+          <div>
+            <Link className="Stat-link" to="rankings/mythicpoints">
+              Mythic Points
+            </Link>
+          </div>
+        </div>
       </div>
       <h2>Pro Tours</h2>
       <TournamentsTable items={player.tournaments} />
+      <h2>Pro Leagues</h2>
+      <TournamentsTable items={player.tournaments} condition={(type) => (type === 'Magic Pro League' || type === 'Rivals League')} />
+      <h2>Grand Prix</h2>
+      <TournamentsTable items={player.tournaments} condition={(type) => type === 'Grand Prix'} />
       <h2>Other Tournaments</h2>
-      <TournamentsTable items={player.tournaments} condition={(type) => type !== 'Pro Tour'} />
+      <TournamentsTable items={player.tournaments} condition={(type) => (type !== 'Pro Tour' && type !== 'Grand Prix' && type !== 'Magic Pro League' && type !== 'Rivals League')} />
     </div>
   );
 };

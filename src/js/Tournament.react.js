@@ -38,7 +38,8 @@ const Tournament = props => {
           <tr>
             <th />
             <th>Player</th>
-            <th>Pro Points</th>
+            {t.type === 'Pro Tour' || t.type === 'Magic Pro League' || t.type === 'Arena Mythic Championship Qualifier' ? <th>Mythic Points</th> : null}
+            {t.type === 'Pro Tour' || t.type === 'Grand Prix' || t.type === 'WMC' || t.type === 'World Championships' ? <th>Pro Points</th> : null}
             <th>Prize Money</th>
           </tr>
         </thead>
@@ -51,7 +52,8 @@ const Tournament = props => {
                   <PlayerLink player={Players.byID(p.id)} countryOverrides={t.getNationalityInfo(index)}/>{' '}
                   {p.report ? <a href={p.report}>(report)</a> : null}
                 </td>
-                <td>{p.propoints}</td>
+                {t.type === 'Pro Tour' || t.type === 'Magic Pro League' || t.type === 'Arena Mythic Championship Qualifier' ? <td>{p.mythicpoints}</td> : null}
+                {t.type === 'Pro Tour' || t.type === 'Grand Prix' || t.type === 'WMC' || t.type === 'World Championships' ? <td>{p.propoints}</td> : null}
                 <td>{formatMoney(p.money)}</td>
               </tr>
             );
