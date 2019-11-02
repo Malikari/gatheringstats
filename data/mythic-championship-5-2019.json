@@ -2,18 +2,20 @@
   "type": "Pro Tour",
   "coverage": "https://www.magic.gg/events/mythic-championship-v",
   "date": "October 18-20, 2019",
+  "season": "2018-19",
   "formats": [
     "Standard"
   ],
   "id": "mythic-championship-5-2019",
   "location": "Long Beach, California, United States",
-  "logo": "mtg-yellow.png",
+  "logo": "mc.png",
   "name": "Mythic Championship V 2019",
   "standings": [
     {
       "money": 100000,
       "name": "Javier Dominguez",
-      "mythicpoints": 50
+      "mythicpoints": 50,
+      "report": "https://article.hareruyamtg.com/article/33012/?lang=en"
     },
     {
       "money": 50000,
@@ -23,7 +25,8 @@
     {
       "money": 30000,
       "name": "Andrea Mengucci",
-      "mythicpoints": 37
+      "mythicpoints": 37,
+      "report": "https://www.channelfireball.com/all-strategy/articles/taking-bant-food-to-third-place-at-mythic-championship-v/"
     },
     {
       "money": 20000,
@@ -128,7 +131,8 @@
     {
       "money": 10000,
       "name": "Martin Juza",
-      "mythicpoints": 17
+      "mythicpoints": 17,
+      "report": "https://www.channelfireball.com/all-strategy/home/why-i-played-bant-ramp-at-mythic-championship-v/"
     },
     {
       "money": 10000,

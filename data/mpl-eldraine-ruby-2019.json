@@ -2,53 +2,54 @@
     "type": "Magic Pro League",
     "coverage": "https://www.magic.gg/standings",
     "date": "September 30-November 16, 2019",
+    "season": "2018-19",
     "formats": [
         "Standard"
     ],
     "id": "mpl-eldraine-ruby-2019",
     "location": "Global",
-    "logo": "ptlogo.png",
+    "logo": "mpl-2019.png",
     "name": "Magic Pro League - Ruby Division - Eldraine Split",
     "standings": [
         {
-            "name": "Javier Dominguez",
-            "matchpoints": 0,
-            "mythicpoints": 0
+            "name": "William Jensen",
+            "matchpoints": 15,
+            "mythicpoints": 10
         },
         {
             "name": "Autumn Burchett",
-            "matchpoints": 0,
-            "mythicpoints": 0
+            "matchpoints": 15,
+            "mythicpoints": 10
         },
         {
-            "name": "Ken Yukuhiro",
-            "matchpoints": 0,
-            "mythicpoints": 0
-        },
-        {
-            "name": "Jean-Emmanuel Depraz",
-            "matchpoints": 0,
-            "mythicpoints": 0
-        },
-        {
-            "name": "Luis Salvatto",
-            "matchpoints": 0,
-            "mythicpoints": 0
-        },
-        {
-            "name": "Eric Froehlich",
-            "matchpoints": 0,
-            "mythicpoints": 0
-        },
-        {
-            "name": "William Jensen",
-            "matchpoints": 0,
-            "mythicpoints": 0
+            "name": "Javier Dominguez",
+            "matchpoints": 15,
+            "mythicpoints": 10
         },
         {
             "name": "Grzegorz Kowalski",
-            "matchpoints": 0,
-            "mythicpoints": 0
+            "matchpoints": 15,
+            "mythicpoints": 10
+        },
+        {
+            "name": "Jean-Emmanuel Depraz",
+            "matchpoints": 9,
+            "mythicpoints": 6
+        },
+        {
+            "name": "Eric Froehlich",
+            "matchpoints": 6,
+            "mythicpoints": 4
+        },
+        {
+            "name": "Ken Yukuhiro",
+            "matchpoints": 6,
+            "mythicpoints": 4
+        },
+        {
+            "name": "Luis Salvatto",
+            "matchpoints": 3,
+            "mythicpoints": 2
         }
     ],
     "teamsize": 1
