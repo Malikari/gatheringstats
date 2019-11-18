@@ -1,0 +1,3475 @@
+{
+  "type": "Pro Tour",
+  "coverage": "https://www.magic.gg/events/mythic-championship-vi",
+  "date": "November 8-10, 2019",
+  "season": "2018-19",
+  "formats": [
+    "Standard",
+    "Draft"
+  ],
+  "id": "mythic-championship-6-2019",
+  "location": "Richmond, Virginia, United States",
+  "logo": "mc.png",
+  "name": "Mythic Championship VI 2019",
+  "standings": [
+    {
+        "money": 50000,
+        "propoints": null,
+        "matchpoints": 37,
+        "name": "Ondrej Strasky",
+        "mythicpoints": 50
+    },
+    {
+        "money": 20000,
+        "propoints": null,
+        "matchpoints": 37,
+        "name": "Paulo Vitor Damo da Rosa",
+        "mythicpoints": 42
+    },
+    {
+        "money": 15000,
+        "propoints": null,
+        "matchpoints": 37,
+        "name": "Oscar Christensen",
+        "mythicpoints": 37
+    },
+    {
+        "money": 15000,
+        "propoints": null,
+        "matchpoints": 37,
+        "name": "Sebastian Pozzo",
+        "mythicpoints": 37
+    },
+    {
+        "money": 10000,
+        "propoints": null,
+        "matchpoints": 41,
+        "name": "Austin Bursavich",
+        "mythicpoints": 32
+    },
+    {
+        "money": 10000,
+        "propoints": null,
+        "matchpoints": 38,
+        "name": "Louis Deltour",
+        "mythicpoints": 32
+    },
+    {
+        "money": 10000,
+        "propoints": null,
+        "matchpoints": 37,
+        "name": "Eli Kassis",
+        "mythicpoints": 32
+    },
+    {
+        "money": 10000,
+        "propoints": null,
+        "matchpoints": 37,
+        "name": "Andrew Cuneo",
+        "mythicpoints": 32
+    },
+    {
+        "money": 6000,
+        "propoints": null,
+        "matchpoints": 36,
+        "name": "Grzegorz Kowalski",
+        "mythicpoints": 24
+    },
+    {
+        "money": 6000,
+        "propoints": null,
+        "matchpoints": 36,
+        "name": "Mike Sigrist",
+        "mythicpoints": 24
+    },
+    {
+        "money": 6000,
+        "propoints": null,
+        "matchpoints": 36,
+        "name": "Robert Smith",
+        "mythicpoints": 24
+    },
+    {
+        "money": 6000,
+        "propoints": null,
+        "matchpoints": 36,
+        "name": "Marcio Carvalho",
+        "mythicpoints": 24
+    },
+    {
+        "money": 6000,
+        "propoints": null,
+        "matchpoints": 36,
+        "name": "Nicolas Delvalle",
+        "mythicpoints": 24
+    },
+    {
+        "money": 6000,
+        "propoints": null,
+        "matchpoints": 36,
+        "name": "Timothy Gruneich",
+        "mythicpoints": 24
+    },
+    {
+        "money": 6000,
+        "propoints": null,
+        "matchpoints": 36,
+        "name": "Andrew Huska",
+        "mythicpoints": 24
+    },
+    {
+        "money": 6000,
+        "propoints": null,
+        "matchpoints": 36,
+        "name": "Thomas Hendriks",
+        "mythicpoints": 24
+    },
+    {
+        "money": 3000,
+        "propoints": null,
+        "matchpoints": 35,
+        "name": "Eliott Boussaud",
+        "mythicpoints": 17
+    },
+    {
+        "money": 3000,
+        "propoints": null,
+        "matchpoints": 34,
+        "name": "Mark Jacobson",
+        "mythicpoints": 17
+    },
+    {
+        "money": 3000,
+        "propoints": null,
+        "matchpoints": 34,
+        "name": "Bernardo Santos",
+        "mythicpoints": 17
+    },
+    {
+        "money": 3000,
+        "propoints": null,
+        "matchpoints": 33,
+        "name": "Mack Smith",
+        "mythicpoints": 17
+    },
+    {
+        "money": 3000,
+        "propoints": null,
+        "matchpoints": 33,
+        "name": "Maxwell Mick",
+        "mythicpoints": 17
+    },
+    {
+        "money": 3000,
+        "propoints": null,
+        "matchpoints": 33,
+        "name": "Stephen Tuchek",
+        "mythicpoints": 17
+    },
+    {
+        "money": 3000,
+        "propoints": null,
+        "matchpoints": 33,
+        "name": "Craig Krempels",
+        "mythicpoints": 17
+    },
+    {
+        "money": 3000,
+        "propoints": null,
+        "matchpoints": 33,
+        "name": "Remi Le Francois",
+        "mythicpoints": 17
+    },
+    {
+        "money": 2000,
+        "propoints": null,
+        "matchpoints": 33,
+        "name": "Guillem Salvador Arnal",
+        "mythicpoints": 17
+    },
+    {
+        "money": 2000,
+        "propoints": null,
+        "matchpoints": 33,
+        "name": "Charles Da Cunha",
+        "mythicpoints": 17
+    },
+    {
+        "money": 2000,
+        "propoints": null,
+        "matchpoints": 33,
+        "name": "Wyatt Darby",
+        "mythicpoints": 17
+    },
+    {
+        "money": 2000,
+        "propoints": null,
+        "matchpoints": 33,
+        "name": "Sam Sherman",
+        "mythicpoints": 17
+    },
+    {
+        "money": 2000,
+        "propoints": null,
+        "matchpoints": 33,
+        "name": "Luis Salvatto",
+        "mythicpoints": 17
+    },
+    {
+        "money": 2000,
+        "propoints": null,
+        "matchpoints": 33,
+        "name": "Christian Hauck",
+        "mythicpoints": 17
+    },
+    {
+        "money": 2000,
+        "propoints": null,
+        "matchpoints": 33,
+        "name": "Borja Munoz",
+        "mythicpoints": 17
+    },
+    {
+        "money": 2000,
+        "propoints": null,
+        "matchpoints": 33,
+        "name": "Tetsu Kawaguchi",
+        "mythicpoints": 17
+    },
+    {
+        "money": 1500,
+        "propoints": null,
+        "matchpoints": 33,
+        "name": "Michael Cochran",
+        "mythicpoints": 17
+    },
+    {
+        "money": 1500,
+        "propoints": null,
+        "matchpoints": 33,
+        "name": "Kyle Moran",
+        "mythicpoints": 17
+    },
+    {
+        "money": 1500,
+        "propoints": null,
+        "matchpoints": 33,
+        "name": "Nathan Steuer",
+        "mythicpoints": 17
+    },
+    {
+        "money": 1500,
+        "propoints": null,
+        "matchpoints": 33,
+        "name": "Jin Liu",
+        "mythicpoints": 17
+    },
+    {
+        "money": 1500,
+        "propoints": null,
+        "matchpoints": 33,
+        "name": "Javier Dominguez",
+        "mythicpoints": 17
+    },
+    {
+        "money": 1500,
+        "propoints": null,
+        "matchpoints": 33,
+        "name": "No Ah Ma",
+        "mythicpoints": 17
+    },
+    {
+        "money": 1500,
+        "propoints": null,
+        "matchpoints": 33,
+        "name": "Louis Kaplan",
+        "mythicpoints": 17
+    },
+    {
+        "money": 1500,
+        "propoints": null,
+        "matchpoints": 33,
+        "name": "Mattia Rizzi",
+        "mythicpoints": 17
+    },
+    {
+        "money": 1500,
+        "propoints": null,
+        "matchpoints": 33,
+        "name": "Lauphiette Kincey",
+        "mythicpoints": 17
+    },
+    {
+        "money": 1500,
+        "propoints": null,
+        "matchpoints": 33,
+        "name": "Ryuji Murae",
+        "mythicpoints": 17
+    },
+    {
+        "money": 1500,
+        "propoints": null,
+        "matchpoints": 33,
+        "name": "Mattia Oneto",
+        "mythicpoints": 17
+    },
+    {
+        "money": 1500,
+        "propoints": null,
+        "matchpoints": 33,
+        "name": "Brian Kibler",
+        "mythicpoints": 17
+    },
+    {
+        "money": 1500,
+        "propoints": null,
+        "matchpoints": 33,
+        "name": "Raphael Levy",
+        "mythicpoints": 17
+    },
+    {
+        "money": 1500,
+        "propoints": null,
+        "matchpoints": 33,
+        "name": "Petr Sochurek",
+        "mythicpoints": 17
+    },
+    {
+        "money": 1500,
+        "propoints": null,
+        "matchpoints": 32,
+        "name": "Josh Utter-Leyton",
+        "mythicpoints": 11
+    },
+    {
+        "money": 1500,
+        "propoints": null,
+        "matchpoints": 31,
+        "name": "Jessy Samek",
+        "mythicpoints": 11
+    },
+    {
+        "money": 1000,
+        "propoints": null,
+        "matchpoints": 31,
+        "name": "Zane Mitchell",
+        "mythicpoints": 11
+    },
+    {
+        "money": 1000,
+        "propoints": null,
+        "matchpoints": 31,
+        "name": "Elias Klocker",
+        "mythicpoints": 11
+    },
+    {
+        "money": 1000,
+        "propoints": null,
+        "matchpoints": 31,
+        "name": "Brian Garia",
+        "mythicpoints": 11
+    },
+    {
+        "money": 1000,
+        "propoints": null,
+        "matchpoints": 31,
+        "name": "Thiago Saporito",
+        "mythicpoints": 11
+    },
+    {
+        "money": 1000,
+        "propoints": null,
+        "matchpoints": 31,
+        "name": "Benjamin Weitz",
+        "mythicpoints": 11
+    },
+    {
+        "money": 1000,
+        "propoints": null,
+        "matchpoints": 31,
+        "name": "Kazuya Murakami",
+        "mythicpoints": 11
+    },
+    {
+        "money": 1000,
+        "propoints": null,
+        "matchpoints": 30,
+        "name": "Goncalo Pinto",
+        "mythicpoints": 11
+    },
+    {
+        "money": 1000,
+        "propoints": null,
+        "matchpoints": 30,
+        "name": "Arne Huschenbeth",
+        "mythicpoints": 11
+    },
+    {
+        "money": 1000,
+        "propoints": null,
+        "matchpoints": 30,
+        "name": "Stefano Vinci",
+        "mythicpoints": 11
+    },
+    {
+        "money": 1000,
+        "propoints": null,
+        "matchpoints": 30,
+        "name": "Brad Nelson",
+        "mythicpoints": 11
+    },
+    {
+        "money": 1000,
+        "propoints": null,
+        "matchpoints": 30,
+        "name": "Logan Nettles",
+        "mythicpoints": 11
+    },
+    {
+        "money": 1000,
+        "propoints": null,
+        "matchpoints": 30,
+        "name": "Samuel Pardee",
+        "mythicpoints": 11
+    },
+    {
+        "money": 1000,
+        "propoints": null,
+        "matchpoints": 30,
+        "name": "Jack Kiefer",
+        "mythicpoints": 11
+    },
+    {
+        "money": 1000,
+        "propoints": null,
+        "matchpoints": 30,
+        "name": "Gavin Bennett",
+        "mythicpoints": 11
+    },
+    {
+        "money": 1000,
+        "propoints": null,
+        "matchpoints": 30,
+        "name": "Jacob Ritter",
+        "mythicpoints": 11
+    },
+    {
+        "money": 1000,
+        "propoints": null,
+        "matchpoints": 30,
+        "name": "Damien Reaubourg",
+        "mythicpoints": 11
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 30,
+        "name": "Thoralf Severin",
+        "mythicpoints": 11
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 30,
+        "name": "Juan Zapata",
+        "mythicpoints": 11
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 30,
+        "name": "Allen Wu",
+        "mythicpoints": 11
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 30,
+        "name": "Wilson Mok",
+        "mythicpoints": 11
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 30,
+        "name": "Ivan Floch",
+        "mythicpoints": 11
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 30,
+        "name": "Shota Yasooka",
+        "mythicpoints": 11
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 30,
+        "name": "Kevin Anctil",
+        "mythicpoints": 11
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 30,
+        "name": "Matthew Riecks",
+        "mythicpoints": 11
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 30,
+        "name": "Lee Shi Tian",
+        "mythicpoints": 11
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 30,
+        "name": "Mats Törnros",
+        "mythicpoints": 11
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 30,
+        "name": "Brian Rogers",
+        "mythicpoints": 11
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 30,
+        "name": "Riku Kumagai",
+        "mythicpoints": 11
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 30,
+        "name": "Martin Juza",
+        "mythicpoints": 11
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 30,
+        "name": "Pierre Canali",
+        "mythicpoints": 11
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 30,
+        "name": "Robin Steinborn",
+        "mythicpoints": 11
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 30,
+        "name": "Jarvis Yu",
+        "mythicpoints": 11
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 30,
+        "name": "Martin Hrycej",
+        "mythicpoints": 11
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 30,
+        "name": "Kazuyuki Takimura",
+        "mythicpoints": 11
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 30,
+        "name": "Martin Müller",
+        "mythicpoints": 11
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 30,
+        "name": "Julien Stihle",
+        "mythicpoints": 11
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 30,
+        "name": "Kellen Pastore",
+        "mythicpoints": 11
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 30,
+        "name": "Thirawat Chaovarindr",
+        "mythicpoints": 11
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 30,
+        "name": "Daniel Scherer",
+        "mythicpoints": 11
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 30,
+        "name": "Seth Manfield",
+        "mythicpoints": 11
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 30,
+        "name": "Harm-Joost Van Kuijk",
+        "mythicpoints": 11
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 30,
+        "name": "Tyler Hill",
+        "mythicpoints": 11
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 30,
+        "name": "Matt Schmaltz",
+        "mythicpoints": 11
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 30,
+        "name": "Jiri Vanek",
+        "mythicpoints": 11
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 30,
+        "name": "Luis Scott-Vargas",
+        "mythicpoints": 11
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 30,
+        "name": "Chih-Cheng Yeh",
+        "mythicpoints": 11
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 30,
+        "name": "Alex Majlaton",
+        "mythicpoints": 11
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 28,
+        "name": "Marian Will",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 28,
+        "name": "Ken Yukuhiro",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 28,
+        "name": "Ben Stark",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 28,
+        "name": "Zach Allen",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 28,
+        "name": "Yves Sele",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 28,
+        "name": "Jacob Nagro",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 28,
+        "name": "Marco Del Pivo",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 28,
+        "name": "Vidianto Wijaya",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 28,
+        "name": "Sergio Garcia Gonzalez",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 28,
+        "name": "Robert Lee",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 28,
+        "name": "Christoffer Larsen",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 28,
+        "name": "Ben Wienburg",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 28,
+        "name": "Oliver Tomajko",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 28,
+        "name": "Oliver Tiu",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 28,
+        "name": "Yuya Hosokawa",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 28,
+        "name": "Keita Kawasaki",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 28,
+        "name": "Jeremy Dezani",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 28,
+        "name": "Alexey Shashov",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 27,
+        "name": "Dylan Lerch",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 27,
+        "name": "Piotr Glogowski",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 27,
+        "name": "Daniel Duterte",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 27,
+        "name": "Shuhei Nakamura",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 27,
+        "name": "William Jensen",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 27,
+        "name": "Matthew Nass",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 27,
+        "name": "Timothy Wu",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 27,
+        "name": "Immanuel Gerschenson",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 27,
+        "name": "Raul Vallejo",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 27,
+        "name": "Denis Andreichikov",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 27,
+        "name": "Kade Cantergiani",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 27,
+        "name": "Gabriel Nassif",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 27,
+        "name": "Kristof Prinz",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 27,
+        "name": "Eric Froehlich",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 27,
+        "name": "Roger Landim",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 27,
+        "name": "Jose Luis Velazquez",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 27,
+        "name": "Simon Nielsen",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 27,
+        "name": "Matthew Severa",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 27,
+        "name": "Lino Burgold",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 27,
+        "name": "Michael Van Vaals",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 27,
+        "name": "Fujioka Naoya",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 27,
+        "name": "Jonathan Hobbs",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 27,
+        "name": "Tianjian Li",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 27,
+        "name": "Ari Lax",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 27,
+        "name": "Willy Edel",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 27,
+        "name": "Ben Beydler",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 27,
+        "name": "Matthew Costa",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 27,
+        "name": "Stefan Schütz",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 27,
+        "name": "Joe Bernal",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 27,
+        "name": "Guilherme Merjam",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 27,
+        "name": "Daisuke Nakamichi",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 27,
+        "name": "Matthew Sperling",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 27,
+        "name": "Vincent Thibeault",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 27,
+        "name": "Alexander Hayne",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 27,
+        "name": "Ben Friedman",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 27,
+        "name": "Felix Innauer",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 27,
+        "name": "Yoshihiko Ikawa",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 27,
+        "name": "Matt Sikkink Johnson",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 27,
+        "name": "Manuel Lenz",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 27,
+        "name": "Patrick Fernandes",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 27,
+        "name": "Dmitriy Butakov",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 27,
+        "name": "Jacob Martin",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 27,
+        "name": "Roshen Eapen",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 27,
+        "name": "Daniel Truong",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 27,
+        "name": "Yoshifumi Karatsu",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 27,
+        "name": "Brian Braun-Duin",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 27,
+        "name": "Yuki Matsumoto",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 27,
+        "name": "Kenta Harane",
+        "mythicpoints": 5
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 26,
+        "name": "Marc Blesso",
+        "mythicpoints": null
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 26,
+        "name": "Greg Orange",
+        "mythicpoints": null
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 26,
+        "name": "Joel Sadowsky",
+        "mythicpoints": null
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 26,
+        "name": "Sjoerd Willems",
+        "mythicpoints": null
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 26,
+        "name": "Thomas Ashton",
+        "mythicpoints": null
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 25,
+        "name": "Etienne Tehrani",
+        "mythicpoints": null
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 25,
+        "name": "Sutipong Popitukgul",
+        "mythicpoints": null
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 25,
+        "name": "Marshall Jankovsky",
+        "mythicpoints": null
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 25,
+        "name": "Xiaoqi Qin",
+        "mythicpoints": null
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 25,
+        "name": "Steven Rubin",
+        "mythicpoints": null
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 25,
+        "name": "Bradley Yoo",
+        "mythicpoints": null
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 25,
+        "name": "Francisco Sifuentes",
+        "mythicpoints": null
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 25,
+        "name": "Collin Rountree",
+        "mythicpoints": null
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 25,
+        "name": "Marcus Ewaldh",
+        "mythicpoints": null
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 25,
+        "name": "Teruya Kakumae",
+        "mythicpoints": null
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 25,
+        "name": "Vivi Blue",
+        "mythicpoints": null
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 25,
+        "name": "Joseph Karani",
+        "mythicpoints": null
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 25,
+        "name": "Tomoya Kobayashi",
+        "mythicpoints": null
+    },
+    {
+        "money": 750,
+        "propoints": null,
+        "matchpoints": 24,
+        "name": "Peter Ingram",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 24,
+        "name": "Noah Walker",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 24,
+        "name": "Alessandro Portaro",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 24,
+        "name": "Adriano Moscato",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 24,
+        "name": "Zach Dunn",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 24,
+        "name": "Peter Ward",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 24,
+        "name": "Chris Botelho",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 24,
+        "name": "Michael Bonde",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 24,
+        "name": "Toru Inoue",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 24,
+        "name": "Michael Jaskolka",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 24,
+        "name": "Hajime Kagami",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 24,
+        "name": "Morgan McLaughlin",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 24,
+        "name": "Ashwin Ugale",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 24,
+        "name": "Masahide Ishikawa",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 24,
+        "name": "Patrick Cox",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 24,
+        "name": "Mike Mei",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 24,
+        "name": "Alberto Rascio",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 24,
+        "name": "Marco Maiocco",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 24,
+        "name": "Brian Worthington",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 24,
+        "name": "Pedram Moazen-sayad",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 24,
+        "name": "Tamir Koren",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 24,
+        "name": "Yuta Takahashi",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 24,
+        "name": "Autumn Burchett",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 24,
+        "name": "Manuel Fernandez",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 24,
+        "name": "Max Pritsch",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 24,
+        "name": "Dominic Z",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 24,
+        "name": "Lucas Esper Berthoud",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 24,
+        "name": "Jeromy Tsai",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 24,
+        "name": "Max Mcvety",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 24,
+        "name": "Yuuta Iwazaki",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 24,
+        "name": "Jacob Wilson",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 24,
+        "name": "Shawn Dhaliwal",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 24,
+        "name": "Fernando Avitua",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 24,
+        "name": "Joby Parrish",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 24,
+        "name": "Martin Dang",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 24,
+        "name": "Andrew Elenbogen",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 24,
+        "name": "Noble Solana Walkinshaw",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 24,
+        "name": "Michal Lorenc",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 24,
+        "name": "Andrew Fiedler",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 23,
+        "name": "Jordan Berkowitz",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 23,
+        "name": "Gerard Fabiano",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 22,
+        "name": "William Lou",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 22,
+        "name": "Ryan Roeder",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 22,
+        "name": "Peter Strauch",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 22,
+        "name": "Joao Choca",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 22,
+        "name": "Mark Le Pine",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 21,
+        "name": "William Araujo",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 21,
+        "name": "Noah Pardes",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 21,
+        "name": "Garrett Hennessy",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 21,
+        "name": "Arnaud Hocquemiller",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 21,
+        "name": "Pascal Maynard",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 21,
+        "name": "Chris Oien",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 21,
+        "name": "Robert Graves",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 21,
+        "name": "Guillaume Wafo-Tapa",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 21,
+        "name": "Christopher Kvartek",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 21,
+        "name": "Chris Vincent",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 21,
+        "name": "Shahar Shenhar",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 21,
+        "name": "Eugene Levin",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 21,
+        "name": "Julien Henry",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 21,
+        "name": "Jun Hao Tay",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 21,
+        "name": "Raoul Zimmermann",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 21,
+        "name": "Kevin Brown",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 21,
+        "name": "Allen Sun",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 21,
+        "name": "Lan Ngyuen",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 21,
+        "name": "Joshua Collier",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 21,
+        "name": "Morgan Helmueller",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 21,
+        "name": "Michael Bernat",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 21,
+        "name": "Adrian Zhu",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 21,
+        "name": "Samuel Eberhard",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 21,
+        "name": "Allison Warfield",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 21,
+        "name": "Andrew Tenjum",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 21,
+        "name": "Eric Hawkins",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 21,
+        "name": "Eiji Takahashi",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 19,
+        "name": "Jonathan Woodward",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 19,
+        "name": "Chye Hwee Heng",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 19,
+        "name": "Renzo Verkooren",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 19,
+        "name": "Joshua Schroeder",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 19,
+        "name": "Etienne Busson",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 19,
+        "name": "Corey Baumeister",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 18,
+        "name": "Mohamad Qadi",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 18,
+        "name": "Gregg Keithley",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 18,
+        "name": "Jonathan Corzo",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 18,
+        "name": "Asa Snyder",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 18,
+        "name": "Jeffrey Swaluk",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 18,
+        "name": "Thomas Enevoldsen",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 18,
+        "name": "Carlos Romao",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 18,
+        "name": "Gary Wong",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 18,
+        "name": "Taiga Tsujikawa",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 18,
+        "name": "Jhang Jheng Yu",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 18,
+        "name": "Eli Loveman",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 18,
+        "name": "Kandai Sekimoto",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 18,
+        "name": "Matthew Norton",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 18,
+        "name": "Davide Canonico",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 18,
+        "name": "Matthew Stafford",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 18,
+        "name": "Jonathan Orr",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 18,
+        "name": "Atsuki Kihara",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 18,
+        "name": "Billy Savarin",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 16,
+        "name": "Pedro Perrini",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 16,
+        "name": "Charles Rinehart",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 16,
+        "name": "Jean-Emmanuel Depraz",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 15,
+        "name": "Paul Cuillier",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 15,
+        "name": "Kazuki Yada",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 15,
+        "name": "Hermano Menezes",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 15,
+        "name": "Jessica Estephan",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 15,
+        "name": "Zirui Zhou",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 15,
+        "name": "Christian Calcano",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 15,
+        "name": "Brandon Ayers",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 15,
+        "name": "Wa Ho",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 15,
+        "name": "Matti Kuisma",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 15,
+        "name": "Andrew Robdrup",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 15,
+        "name": "Dzi Do",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 15,
+        "name": "Rory Kear-Smith",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 15,
+        "name": "Zacharia Bishop",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 15,
+        "name": "Marcus Luong",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 15,
+        "name": "Chris Ferber",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 15,
+        "name": "Diego Moscoso",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 13,
+        "name": "Bryan Hohns",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 13,
+        "name": "Panagiotis Papadopoulos",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 12,
+        "name": "Tom Ross",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 12,
+        "name": "Justin Porchas",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 12,
+        "name": "Samuel Black",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 12,
+        "name": "Ethan Gaieski",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 12,
+        "name": "Radek Kaczmarczyk",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 12,
+        "name": "Nam Dang",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 11,
+        "name": "Victor Ortiz De La Torre",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 10,
+        "name": "Yoshito Kabeshita",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 10,
+        "name": "Jens Schroeter",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 10,
+        "name": "Daniel Wong",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 10,
+        "name": "Kelvin Chew",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 10,
+        "name": "Noah Strasler",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 10,
+        "name": "Vincent Reiter",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 10,
+        "name": "Jonathan Canfield",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 10,
+        "name": "Jake Harris",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 10,
+        "name": "Zvi Mowshowitz",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 10,
+        "name": "Rei Sato",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 10,
+        "name": "TzuHeng Lin",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 10,
+        "name": "Kyle Housley",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 10,
+        "name": "Bram Snepvangers",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "John Rolf",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Ben Hull",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Dan Ward",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Jonathan Dery",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Andrew Baeckstrom",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Maciej Jezyna",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Casey Swanson",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Corey Burkhart",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Julien Berteaux",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Daniel Goresht",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Jonathan Sukenik",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Rob Pisano",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Thomas Messick",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Riki Kamo",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Joe Canadas",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Kevin Jones",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Zhang Zhiyang",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Sergey Freedman",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Marcelo Lopez Lagos",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Logan Marts",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Ryohei Kobayashi",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Ben Bellis",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Yuya Sugiyama",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Robert Maher",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Aaron Henner",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Jody Keith",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Helmut Summersberger",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Eric Jones",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Toshihide Fujita",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Aras Senyuz",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Mason Purcell",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Hyuuma Nishi",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Luca Magni",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Pascal Vieren",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Lito Biala",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Alvaro Fernandez Torres",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Lance Nines",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Edgar Magalhaes",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Kohei Yoshino",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Lucien Longlais",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Tomoki Yamazaki",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Timothy Robertson",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Thien Nguyen",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Joe Deane",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Cedric Phillips",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Martin Sebastian Dominguez",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Lucas Rodriguez",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Will Skippen",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Kevin Marvin",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Gregory Sokol",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Patrick Chapin",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Jay Trojan",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Nazar Sotiriadi",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Andrew Echnoz",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Jason Cornell",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Bolun Zhang",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Shota Takano",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "David Williams",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Tulio Reis",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Marc Oswald",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Takumi Utsunomiya",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Reid Duke",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Lauri Tornstrom",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "James Staples",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Evan Aguzzi",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Haotian Wang",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Ruey-Jer Yeh",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 9,
+        "name": "Diego Barbagelata",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 8,
+        "name": "Zhivko Nedelchev",
+        "mythicpoints": null
+    },
+    {
+        "money": 700,
+        "propoints": null,
+        "matchpoints": 8,
+        "name": "Yuwen Su",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 7,
+        "name": "Jamin Kauf",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 7,
+        "name": "Wouter Noordzij",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 7,
+        "name": "Chris Arlow",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 7,
+        "name": "Adrian Trogler",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 7,
+        "name": "Kenichiro Arai",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 7,
+        "name": "Michael Siembor",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 7,
+        "name": "Brandon Pascal",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 7,
+        "name": "Trevor Dalton",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 7,
+        "name": "Heiko Endle",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 6,
+        "name": "Tobias Maurer",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 6,
+        "name": "Rocky Caitung",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 6,
+        "name": "Roberto Ramirez",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 6,
+        "name": "Dominik Aspernig",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 6,
+        "name": "Alex Khanin",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 6,
+        "name": "Marcela Almeida",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 6,
+        "name": "Nick Roller",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 6,
+        "name": "Nathaniel Ritchie",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 6,
+        "name": "Charles League",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 6,
+        "name": "Daniel Garcia Gallardo",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 6,
+        "name": "Andrew Lyons",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 6,
+        "name": "Francesco Latorre",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 6,
+        "name": "Antonino de Rosa",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 6,
+        "name": "Marcelino Freeman",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 6,
+        "name": "Alberto Galicia",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 6,
+        "name": "Justin Maguire",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 6,
+        "name": "Kyle Reichard",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 6,
+        "name": "Kasper Nielsen",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 6,
+        "name": "Joseph Wagner",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 6,
+        "name": "Tomohiro Matsumoto",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 6,
+        "name": "Ryan Normandin",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 6,
+        "name": "Chad Harney",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 6,
+        "name": "Samuel Ihlenfeldt",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 6,
+        "name": "David Napolitano",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 6,
+        "name": "Andreas Hofverberg",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 6,
+        "name": "Todd Scott",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 6,
+        "name": "Thomas Harding",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 6,
+        "name": "Jacob Baugh",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 6,
+        "name": "Michael Madsen",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 6,
+        "name": "Max Rackoff",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 6,
+        "name": "Eric Gray",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 6,
+        "name": "James Moskal",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 6,
+        "name": "Andrea Mengucci",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 6,
+        "name": "Michael Rapp",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 6,
+        "name": "Shea Holland",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 6,
+        "name": "Ryan Owens",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 6,
+        "name": "Daniel Camilleri",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 6,
+        "name": "Gary Abel",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 6,
+        "name": "David Lozano",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 6,
+        "name": "Samuel Leduc",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 6,
+        "name": "Emmanuel Bernuau",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 6,
+        "name": "Drew Carlson",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 6,
+        "name": "Sean Gifford",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 6,
+        "name": "Jason Andejeski",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 6,
+        "name": "Elias Watsfeldt",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 6,
+        "name": "Seok Hyun Kim",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 6,
+        "name": "Jarron Puszet",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 6,
+        "name": "Dezhong Deng",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 6,
+        "name": "Jackson King",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 4,
+        "name": "Lukas Dusek",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 4,
+        "name": "Joshua Stewart",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 4,
+        "name": "Parker Sweet",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 4,
+        "name": "Andrew Wolbers",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 3,
+        "name": "Fabian Thiele",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 3,
+        "name": "Samuel Chang",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 3,
+        "name": "Jackson Smith",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 3,
+        "name": "Tomasz Sodomirski",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 3,
+        "name": "Justin Plocher",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 3,
+        "name": "Christopher Hohman",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 3,
+        "name": "Toshikazu Matsumura",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 3,
+        "name": "Ryan Overturf",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 3,
+        "name": "Braden Draper",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 3,
+        "name": "Shaheen Soorani",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 3,
+        "name": "Anthony Zupnik",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 3,
+        "name": "Cristian Ortiz Ros",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 3,
+        "name": "Daniel Fournier",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 3,
+        "name": "Jonathan Zolot",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 3,
+        "name": "Brett Kroeger",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 3,
+        "name": "Dan Brewer",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 3,
+        "name": "Karol Plucinski",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 3,
+        "name": "Rigel Goheen",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 3,
+        "name": "Jake Flaczinski",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 3,
+        "name": "Matthew Hoey",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 3,
+        "name": "Jake Durshimer",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 3,
+        "name": "Jeremy Langevin",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 3,
+        "name": "Kenta Maenosono",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 3,
+        "name": "Clay Dawson",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 3,
+        "name": "Ryan Leek",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 3,
+        "name": "Austin Yost",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 3,
+        "name": "Louis Dorta",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 3,
+        "name": "Christopher Belfance",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 3,
+        "name": "Francisco Sanchez",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 3,
+        "name": "Thomas Duffy",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 3,
+        "name": "Wojciech Radosz",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 1,
+        "name": "Anthony Petropoulos",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 0,
+        "name": "Benjamin Seck",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 0,
+        "name": "Gerry Thompson",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 0,
+        "name": "Jordan Poltrock",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 0,
+        "name": "Michael Anthony Kilberry",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 0,
+        "name": "Matthew Barber",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 0,
+        "name": "Yung-Ming Huang",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 0,
+        "name": "Amy Demicco",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 0,
+        "name": "Sami Sekkoum",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 0,
+        "name": "Adelaide De Gennaro",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 0,
+        "name": "Andrew Vawter",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 0,
+        "name": "Jacob Corwin",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 0,
+        "name": "Oscar Garcia",
+        "mythicpoints": null
+    },
+    {
+        "money": 500,
+        "propoints": null,
+        "matchpoints": 0,
+        "name": "Lucas Siow",
+        "mythicpoints": null
+    }
+  ],
+  "teamsize": 1
+}
