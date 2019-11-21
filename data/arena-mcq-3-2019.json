@@ -1,6 +1,8 @@
 {
   "type": "Arena Mythic Championship Qualifier",
+  "coverage": "https://www.magic.gg/news/mythic-championship-iii-qualifier-weekend-information",
   "date": "May 25-26, 2019",
+  "season": "2018-19",
   "formats": [
     "Standard"
   ],
@@ -103,8 +105,38 @@
       "name": "Kazuo Washimi",
       "mythicpoints": 5,
       "rank": "Day Two"
+    },
+    {
+      "name": "Andrew Elenbogen",
+      "mythicpoints": 5,
+      "rank": "Day Two"
+    },
+    {
+      "name": "Bertrand Fagnoni",
+      "mythicpoints": 5,
+      "rank": "Day Two"
+    },
+    {
+      "name": "Andre Santos",
+      "mythicpoints": 5,
+      "rank": "Day Two"
+    },
+    {
+      "name": "Stanislav Cifka",
+      "mythicpoints": 5,
+      "rank": "Day Two"
+    },
+    {
+      "name": "Dmitry Medvedev",
+      "mythicpoints": 5,
+      "rank": "Day Two"
+    },
+    {
+      "name": "Isaiah Ley",
+      "mythicpoints": 5,
+      "rank": "Day Two"
     }
   ],
   "teamsize": 1,
-  "topn": 16
+  "topn": 15
 }
