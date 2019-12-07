@@ -29,7 +29,7 @@ const Tournament = props => {
       </nav>
       <div className="page-header pageHeader">
         <h1>{t.coverage ? <a href={t.coverage}>{t.name}</a> : t.name}</h1>
-        <p className="lead tournamentLead">{t.formats.join(', ')}</p>
+        <p className="lead tournamentLead">{t.formats.join(', ')} ({t.medium})</p>
         <p className="lead tournamentLead">{t.date}</p>
         <p className="lead tournamentLead">{t.location}</p>
       </div>
