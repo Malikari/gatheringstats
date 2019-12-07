@@ -11,6 +11,7 @@ export default class Tournament {
     this.id = data.id;
     this.coverage = data.coverage;
     this.formats = data.formats;
+    this.medium = data.medium;
     this.location = data.location;
     this.standings = data.standings;
     this.type = data.type || '';

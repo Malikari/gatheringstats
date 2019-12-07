@@ -40,6 +40,8 @@ const RecentTournaments = ({ filter = filterOnlyProTours }) => (
                     <p>
                       {tournament.formats.join(' / ')}
                       <br />
+                      {tournament.medium}
+                      <br />
                       {tournament.date}
                       <br />
                       {tournament.location}
