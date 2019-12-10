@@ -242,7 +242,7 @@ module.exports = function(grunt) {
   }
 
   return {
-    js: ['eslint', 'ava', 'browserify'],
+    js: ['eslint', 'browserify'],
     css: ['sass'],
     json: ['jsonlint'],
     tournaments: buildTournaments,
