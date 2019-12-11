@@ -10,7 +10,7 @@ export default class Player {
     this.natname = data.natname;
     this.nationality = data.nationality;
     this.hof = data.hof;
-    this.mpl = data.mpl;
+    this.activeBadge = data.activeBadge;
     this.stats = data.stats;
     this.tournaments = data.tournaments;
 
