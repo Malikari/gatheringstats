@@ -16,13 +16,22 @@
 }
 
 .mtgreference .fa-trophy {
-  color: gold;
+  color: #FF4500;
   margin-left: 0.25em;
 }
 
 .mtgreference .fa-crown {
-  color: #FF4500;
+  color: gold;
   margin-left: 0.25em;
+}
+
+.mtgreference .fa-medal {
+  color: green;
+  margin-left: 0.25em;
+}
+
+.mtgreference .former {
+  color: darkgrey !important;
 }
 
 .page-header.pageHeader {
