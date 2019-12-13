@@ -6,7 +6,7 @@ const PlayerBadge = ({activeBadge}) => {
   let title, classVal = "";
   if (activeBadge === 'mpl') {
     title = 'MPL';
-    classVal = 'fa fa-crown';
+    classVal = 'fa fa-trophy';
   } else {
     title = 'RVL';
     classVal = 'fa fa-medal';
