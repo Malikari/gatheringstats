@@ -222,7 +222,7 @@ module.exports = function(grunt) {
             players[p].activeBadge = 'rvl';
           } else if (typeof players[p].mpl !== "undefined") {
             players[p].activeBadge = 'formermpl';
-          } else {
+          } else if (typeof players[p].rvl !== "undefined") {
             players[p].activeBadge = 'formerrvl';
           }
         }
