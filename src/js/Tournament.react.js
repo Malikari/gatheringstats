@@ -40,6 +40,7 @@ const Tournament = props => {
             <th>Player</th>
             {t.type === 'Pro Tour' || t.type === 'Magic Pro League' || t.type === 'Arena Mythic Championship Qualifier' ? <th>Mythic Points</th> : null}
             {t.type === 'Pro Tour' || t.type === 'Grand Prix' || t.type === 'WMC' || t.type === 'World Championships' ? <th>Pro Points</th> : null}
+            {t.type === 'Players Tour' || t.type === 'Players Tour Finals' ? <th>Players Points</th> : null}
             <th>Prize Money</th>
           </tr>
         </thead>
@@ -54,6 +55,7 @@ const Tournament = props => {
                 </td>
                 {t.type === 'Pro Tour' || t.type === 'Magic Pro League' || t.type === 'Arena Mythic Championship Qualifier' ? <td>{p.mythicpoints}</td> : null}
                 {t.type === 'Pro Tour' || t.type === 'Grand Prix' || t.type === 'WMC' || t.type === 'World Championships' ? <td>{p.propoints}</td> : null}
+                {t.type === 'Players Tour' || t.type === 'Players Tour Finals' ? <td>{p.playerspoints}</td> : null}
                 <td>{formatMoney(p.money)}</td>
               </tr>
             );
