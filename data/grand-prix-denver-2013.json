@@ -1,76 +1,76 @@
 {
     "type": "Grand Prix",
-    "coverage": "https://magic.wizards.com/en/events/coverage/gpkl10",
-    "date": "March 13-14, 2010",
-    "season": "2010",
+    "coverage": "https://magic.wizards.com/en/events/coverage/gpden13",
+    "date": "January 5-6, 2013",
+    "season": "2012-13",
     "formats": [
-        "Standard"
+        "Legacy"
     ],
     "medium": "Tabletop",
-    "id": "grand-prix-kuala-lumpur-2010",
-    "location": "Kuala Lumpur, Malaysia",
+    "id": "grand-prix-denver-2013",
+    "location": "Denver, Colorado, United States",
     "logo": "gplogo.png",
-    "name": "Grand Prix Kuala Lumpur 2010",
+    "name": "Grand Prix Denver 2013",
     "standings": [
         {
             "money": 3500,
-            "name": "Ding Leong",
-            "propoints": 10
-        },
-        {
-            "money": 2300,
-            "name": "Xue Tong Du",
+            "name": "Vidianto Wijaya",
             "propoints": 8
         },
         {
-            "money": 1500,
-            "name": "Jakguy Subcharoen",
+            "money": 2300,
+            "name": "Patrick Cox",
             "propoints": 6
         },
         {
             "money": 1500,
-            "name": "Shingo Fukuta",
-            "propoints": 6
+            "name": "Ryan Pesch",
+            "propoints": 5
         },
         {
-            "money": 1000,
-            "name": "Shota Yasooka",
+            "money": 1500,
+            "name": "Joshua Ravitz",
             "propoints": 5
         },
         {
             "money": 1000,
-            "name": "Wei Han Chin",
-            "propoints": 5
+            "name": "Matthew Nass",
+            "propoints": 4
         },
         {
             "money": 1000,
-            "name": "Raffy Sarto",
-            "propoints": 5
+            "name": "Daniel Signorini",
+            "propoints": 4
         },
         {
             "money": 1000,
-            "name": "Zhang Zhiyang",
-            "propoints": 5
+            "name": "Andrew Ohlschwager",
+            "propoints": 4
         },
         {
-            "money": 600,
-            "name": "Sukhum Kiwanont",
+            "money": 1000,
+            "name": "Donnie Peck",
             "propoints": 4
         },
         {
             "money": 600,
-            "name": "Kok Fai Phang",
-            "propoints": 4
+            "name": "Nick Carlson",
+            "propoints": 3
         },
         {
             "money": 600,
-            "name": "Ryan Mark Beley",
-            "propoints": 4
+            "name": "Ian Farnung",
+            "propoints": 3
         },
         {
             "money": 600,
-            "name": "Makihito Mihara",
-            "propoints": 4
+            "name": "Harry Corvese",
+            "propoints": 3
+        },
+        {
+            "money": 600,
+            "name": "Eric Campusano",
+            "propoints": 3
         },
         {
             "money": 500,
@@ -79,257 +79,257 @@
         },
         {
             "money": 500,
+            "name": "Timothy Froehlig",
+            "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Bryan Hawley",
+            "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Jacob Wilson",
+            "propoints": 3
+        },
+        {
+            "money": 400,
+            "name": "Travis Harper",
+            "propoints": 2
+        },
+        {
+            "money": 400,
+            "name": "William Craddock",
+            "propoints": 2
+        },
+        {
+            "money": 400,
+            "name": "Shaun Mack",
+            "propoints": 2
+        },
+        {
+            "money": 400,
+            "name": "Chase Hansen",
+            "propoints": 2
+        },
+        {
+            "money": 400,
+            "name": "Matthew Hoey",
+            "propoints": 2
+        },
+        {
+            "money": 400,
+            "name": "Matthew Boccio",
+            "propoints": 2
+        },
+        {
+            "money": 400,
+            "name": "Darin Minard",
+            "propoints": 2
+        },
+        {
+            "money": 400,
+            "name": "Hans Kroetsch",
+            "propoints": 2
+        },
+        {
+            "money": 400,
+            "name": "Joe Lossett",
+            "propoints": 2
+        },
+        {
+            "money": 400,
+            "name": "Daniel Duterte",
+            "propoints": 2
+        },
+        {
+            "money": 400,
+            "name": "Marc Lalague",
+            "propoints": 2
+        },
+        {
+            "money": 400,
+            "name": "Matthew Severa",
+            "propoints": 2
+        },
+        {
+            "money": 400,
+            "name": "Sean Inoue",
+            "propoints": 2
+        },
+        {
+            "money": 400,
+            "name": "Ben Friedman",
+            "propoints": 2
+        },
+        {
+            "money": 400,
+            "name": "Paulo Vitor Damo da Rosa",
+            "propoints": 2
+        },
+        {
+            "money": 400,
+            "name": "Gaudenis Vidugiris",
+            "propoints": 2
+        },
+        {
+            "money": 200,
+            "name": "David Nitka",
+            "propoints": 1
+        },
+        {
+            "money": 200,
             "name": "Samuel Black",
-            "propoints": 3
-        },
-        {
-            "money": 500,
-            "name": "Sherwin Aquino",
-            "propoints": 3
-        },
-        {
-            "money": 500,
-            "name": "Qin Jin Wong",
-            "propoints": 3
-        },
-        {
-            "money": 400,
-            "name": "Liang Chen",
-            "propoints": 2
-        },
-        {
-            "money": 400,
-            "name": "Tze Kang Chen",
-            "propoints": 2
-        },
-        {
-            "money": 400,
-            "name": "Masayasu Tanahashi",
-            "propoints": 2
-        },
-        {
-            "money": 400,
-            "name": "Joe Lin Ong",
-            "propoints": 2
-        },
-        {
-            "money": 400,
-            "name": "Jose Salvatierra",
-            "propoints": 2
-        },
-        {
-            "money": 400,
-            "name": "Kin Leong Chong",
-            "propoints": 2
-        },
-        {
-            "money": 400,
-            "name": "Jason Yap",
-            "propoints": 2
-        },
-        {
-            "money": 400,
-            "name": "Teerachai Teeradechsakul",
-            "propoints": 2
-        },
-        {
-            "money": 400,
-            "name": "Sutipong Popitukgul",
-            "propoints": 2
-        },
-        {
-            "money": 400,
-            "name": "Joshua Yang",
-            "propoints": 2
-        },
-        {
-            "money": 400,
-            "name": "Yuta Takahashi",
-            "propoints": 2
-        },
-        {
-            "money": 400,
-            "name": "Brian Kibler",
-            "propoints": 2
-        },
-        {
-            "money": 400,
-            "name": "Zhao Zhi Lau",
-            "propoints": 2
-        },
-        {
-            "money": 400,
-            "name": "Cheuk Yin Li",
-            "propoints": 2
-        },
-        {
-            "money": 400,
-            "name": "Ken Lim",
-            "propoints": 2
-        },
-        {
-            "money": 400,
-            "name": "Veerapat Sirilertvorakul",
-            "propoints": 2
-        },
-        {
-            "money": 200,
-            "name": "Toon Boonsiri",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Vincent Maglaya",
+            "name": "Samuel Pardee",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Surapong Pisawong",
+            "name": "Andrejs Prost",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Kelvin Chew",
+            "name": "Eric Froehlich",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Qian Jie Seow",
+            "name": "Gerry Thompson",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Dexter Shee",
+            "name": "Shahar Shenhar",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Xing Yong Tan",
+            "name": "Pascal Maynard",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Surachaste Boonyasatian",
+            "name": "Reid Duke",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Cheng Guo",
+            "name": "Devin Koepke",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Yuuya Watanabe",
+            "name": "Andreas Jonsson",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Hong Fei Yeung",
+            "name": "Lukas Carlson",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Jason Ascalon",
+            "name": "Ted McCluskie",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Tzu Ching Kuo",
+            "name": "Jason Abong",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Liang Zhiyi",
+            "name": "Kenny Castor",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Zax Ozaki",
+            "name": "Alexander Hayne",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Shuhei Nakamura",
+            "name": "Aaron Chism",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Carlson Karfatt",
+            "name": "Jeremy Gray",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Peamwut Saowarattithada",
+            "name": "Louis Corso",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Loh Chuan Han",
+            "name": "Matthew Costa",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Yoshihiko Ikawa",
+            "name": "Jesse Adams",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Yong Han Choo",
+            "name": "Eric Weeden",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Mun Kit Loh",
+            "name": "Michael Servis",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Wai Bien Wong",
+            "name": "Jonathan Morawski",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Pin Aimwuttana",
+            "name": "Alex Smith",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Kazuya Mitamura",
+            "name": "Gregory Gale",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Chong Teng Kong",
+            "name": "Brendan Goold",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Terh Kuen Yii",
+            "name": "Brandon Montoya",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Jeffrey Chan",
+            "name": "Jonathan Salem",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Mongkol Techarattanaprasert",
+            "name": "Eric Vergo",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Benny Soewanda",
+            "name": "William Jensen",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Chin Heng Tan",
-            "propoints": 1
-        },
-        {
-            "money": 200,
-            "name": "Thomas Jim",
+            "name": "Bennett Snyder",
             "propoints": 1
         }
     ],
