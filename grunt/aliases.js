@@ -161,6 +161,8 @@ module.exports = function(grunt) {
       if (player.stats.t8 > 0 && player.stats.total >= 10) {
         player.stats.t8pct =
           Math.floor(100 * player.stats.t8 / player.stats.total) + '%';
+      } else if (player.stats.t8 == 0 ) {
+        player.stats.t8pct = 'no Top 8s';
       } else {
         player.stats.t8pct = 'too few PTs';
       }
