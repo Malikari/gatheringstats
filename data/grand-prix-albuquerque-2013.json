@@ -1,130 +1,150 @@
 {
     "type": "Grand Prix",
-    "coverage": "https://magic.wizards.com/en/events/coverage/gpsan12",
-    "date": "November 24-25, 2012",
-    "season": "2012-13",
+    "coverage": "https://magic.wizards.com/en/events/coverage/gpabq13",
+    "date": "November 23-24, 2013",
+    "season": "2013-14",
     "formats": [
         "Standard"
     ],
     "medium": "Tabletop",
-    "id": "grand-prix-san-antonio-2012",
-    "location": "San Antonio, Texas, United States",
+    "id": "grand-prix-albuquerque-2013",
+    "location": "Albuquerque, New Mexico, United States",
     "logo": "gplogo.png",
-    "name": "Grand Prix San Antonio 2012",
+    "name": "Grand Prix Albuquerque 2013",
     "standings": [
         {
             "money": 3500,
-            "name": "Tyler Lytle",
+            "name": "Owen Turtenwald",
             "propoints": 8
         },
         {
             "money": 2300,
-            "name": "Matthew Pratser",
+            "name": "Samuel Pardee",
             "propoints": 6
         },
         {
             "money": 1500,
-            "name": "Conley Woods",
+            "name": "Todd Anderson",
             "propoints": 5
         },
         {
             "money": 1500,
-            "name": "Reid Duke",
+            "name": "Valentin Mackl",
             "propoints": 5
         },
         {
             "money": 1000,
-            "name": "Harry Corvese",
+            "name": "Samuel Black",
             "propoints": 4
         },
         {
             "money": 1000,
-            "name": "Ben Rasmussen",
+            "name": "Joseph Nix",
             "propoints": 4
         },
         {
             "money": 1000,
-            "name": "Joel De Santos",
+            "name": "Andrew Hanson",
             "propoints": 4
         },
         {
             "money": 1000,
-            "name": "Matthew Turber",
+            "name": "Paul Rietzl",
             "propoints": 4
         },
         {
             "money": 600,
-            "name": "Dominic Ortiz",
+            "name": "Matthew Sperling",
             "propoints": 3
         },
         {
             "money": 600,
-            "name": "Gerry Thompson",
+            "name": "Patrick Cox",
             "propoints": 3
         },
         {
             "money": 600,
-            "name": "Eduardo V",
+            "name": "Joe Demestrio",
             "propoints": 3
         },
         {
             "money": 600,
+            "name": "Ben Johnston",
+            "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Dusty Ochoa",
+            "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Tom Martell",
+            "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Josh McClain",
+            "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Marcel Strautz",
+            "propoints": 3
+        },
+        {
+            "money": 400,
+            "name": "Seth Manfield",
+            "propoints": 2
+        },
+        {
+            "money": 400,
+            "name": "Andrew Smith",
+            "propoints": 2
+        },
+        {
+            "money": 400,
+            "name": "Corey Burkhart",
+            "propoints": 2
+        },
+        {
+            "money": 400,
+            "name": "Allen Wu",
+            "propoints": 2
+        },
+        {
+            "money": 400,
+            "name": "Andrew Cuneo",
+            "propoints": 2
+        },
+        {
+            "money": 400,
+            "name": "Andrew Brown",
+            "propoints": 2
+        },
+        {
+            "money": 400,
             "name": "Matthew Riecks",
-            "propoints": 3
-        },
-        {
-            "money": 500,
-            "name": "Robert Pelletier",
-            "propoints": 3
-        },
-        {
-            "money": 500,
-            "name": "Fernando Aguilar",
-            "propoints": 3
-        },
-        {
-            "money": 500,
-            "name": "Matthew Sewell",
-            "propoints": 3
-        },
-        {
-            "money": 500,
-            "name": "Timothy Thomason",
-            "propoints": 3
-        },
-        {
-            "money": 400,
-            "name": "Erik Carson",
             "propoints": 2
         },
         {
             "money": 400,
-            "name": "Jody Keith",
+            "name": "Nathan Holiday",
             "propoints": 2
         },
         {
             "money": 400,
-            "name": "Shahar Shenhar",
+            "name": "Marc Lalague",
             "propoints": 2
         },
         {
             "money": 400,
-            "name": "Josh Utter-Leyton",
+            "name": "Benjamin Lundquist",
             "propoints": 2
         },
         {
             "money": 400,
-            "name": "David C Gomez",
-            "propoints": 2
-        },
-        {
-            "money": 400,
-            "name": "William Craddock",
-            "propoints": 2
-        },
-        {
-            "money": 400,
-            "name": "Wiley Jephson",
+            "name": "Stefan Klosterman",
             "propoints": 2
         },
         {
@@ -134,202 +154,182 @@
         },
         {
             "money": 400,
-            "name": "Willy Edel",
+            "name": "William Jensen",
             "propoints": 2
         },
         {
             "money": 400,
-            "name": "Patrick Chapin",
+            "name": "Richard Kandela",
             "propoints": 2
         },
         {
             "money": 400,
-            "name": "William Lowry",
+            "name": "Trey Van Cleave",
             "propoints": 2
         },
         {
             "money": 400,
-            "name": "Samuel Black",
-            "propoints": 2
-        },
-        {
-            "money": 400,
-            "name": "Owen Turtenwald",
-            "propoints": 2
-        },
-        {
-            "money": 400,
-            "name": "Aaron McNeely",
-            "propoints": 2
-        },
-        {
-            "money": 400,
-            "name": "Sean Inoue",
-            "propoints": 2
-        },
-        {
-            "money": 400,
-            "name": "Tu Ta",
+            "name": "Michael Van Dyke",
             "propoints": 2
         },
         {
             "money": 200,
-            "name": "Taylor Webb",
+            "name": "Miguel Gatica",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Christopher Odorizzi",
+            "name": "Miguel Angel Rodriguez",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Morgan Chang",
+            "name": "Darin Minard",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Evan Vargas",
+            "name": "David Daniel",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Minh Tran",
+            "name": "Jacob Pacheco",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Coleman Perret",
+            "name": "Scott Davis",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Ruben Peña",
+            "name": "Henry Romero",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Chris Jabr",
+            "name": "Michael Medaris",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Gregorios Christodoulakis",
+            "name": "Nick Jensen",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Cody Lingelbach",
+            "name": "Matt Heymering",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Bryan Harrington",
+            "name": "Benjamin Weitz",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Benjamin Autin",
+            "name": "Crossman Wilkins",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Scotty Kelley",
+            "name": "Mike White",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Jobey Leblanc",
+            "name": "Brian McAtee",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Joshua Hoffeld",
+            "name": "Robert Gregory",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "John Freitas",
+            "name": "Vidianto Wijaya",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Emmett Clarkson",
+            "name": "Jonathon Paoletta",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Tad Macaraeg",
+            "name": "Kevin Medeiros",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Zaque Arnold",
+            "name": "Vincent Johnson",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Alan Hubbard",
+            "name": "Jake Hill",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Eddie Leza",
+            "name": "Jonathan Job",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Terry Pettit",
+            "name": "Seth Milligan",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Orrin Swift",
+            "name": "Robert Koven",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Christian Calcano",
+            "name": "Alan Lee",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Luis Scott-Vargas",
+            "name": "Ryan Watkins",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Jon Hammack",
+            "name": "Josh Utter-Leyton",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Pedro Carvalho",
+            "name": "Eddie Caudill",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Ian Jasheway",
+            "name": "Adam Mancuso",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "William Bugarin",
+            "name": "Jackie Lee",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Parker May",
+            "name": "Tyler Lytle",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Sam Wolloch",
+            "name": "Alex Scheneimann",
             "propoints": 1
         },
         {
             "money": 200,
-            "name": "Patrick Cox",
+            "name": "Chris Herrera",
             "propoints": 1
         }
     ],
