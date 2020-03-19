@@ -1,0 +1,483 @@
+{
+    "type": "Grand Prix",
+    "coverage": "https://magic.wizards.com/en/events/coverage/gpnag14",
+    "date": "April 12-13, 2014",
+    "season": "2013-14",
+    "formats": [
+        "Sealed Deck",
+        "Booster Draft"
+    ],
+    "medium": "Tabletop",
+    "id": "grand-prix-nagoya-2014",
+    "location": "Nagoya, Japan",
+    "logo": "gplogo.png",
+    "name": "Grand Prix Nagoya 2014",
+    "standings": [
+        {
+            "money": 4000,
+            "name": "Ryosuke Kasuga",
+            "propoints": 8
+        },
+        {
+            "money": 2700,
+            "name": "Takashi Boku",
+            "propoints": 6
+        },
+        {
+            "money": 1500,
+            "name": "Hisataka Matsui",
+            "propoints": 5
+        },
+        {
+            "money": 1500,
+            "name": "Takatoshi Satou",
+            "propoints": 5
+        },
+        {
+            "money": 1000,
+            "name": "Yuya Sugiyama",
+            "propoints": 4
+        },
+        {
+            "money": 1000,
+            "name": "Ryuuji Itagaki",
+            "propoints": 4
+        },
+        {
+            "money": 1000,
+            "name": "Hiroshi Date",
+            "propoints": 4
+        },
+        {
+            "money": 1000,
+            "name": "Chapman Sim",
+            "propoints": 4
+        },
+        {
+            "money": 600,
+            "name": "Takeshi Ozawa",
+            "propoints": 3
+        },
+        {
+            "money": 600,
+            "name": "Keita Kawasaki",
+            "propoints": 3
+        },
+        {
+            "money": 600,
+            "name": "Kalim Oldziey",
+            "propoints": 3
+        },
+        {
+            "money": 600,
+            "name": "Yuuki Ichikawa",
+            "propoints": 3
+        },
+        {
+            "money": 550,
+            "name": "Lee Shi Tian",
+            "propoints": 3
+        },
+        {
+            "money": 550,
+            "name": "Pavel Matousek",
+            "propoints": 3
+        },
+        {
+            "money": 550,
+            "name": "Shingo Fukuta",
+            "propoints": 3
+        },
+        {
+            "money": 550,
+            "name": "Tzu-Ching Kuo",
+            "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Yuki Hirabayashi (2979)",
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Ichiro Matsubara",
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Hideki Tsujimoto",
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Keita Mishima",
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Tatsuya Kashiwa",
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Sunao Nakai",
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Hayato Ishii",
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Futoshi Sano",
+            "propoints": 2
+        },
+        {
+            "money": 400,
+            "name": "Hitoshi Tomomura",
+            "propoints": 2
+        },
+        {
+            "money": 400,
+            "name": "Kazuha Maeno",
+            "propoints": 2
+        },
+        {
+            "money": 400,
+            "name": "Koichi Arita",
+            "propoints": 2
+        },
+        {
+            "money": 400,
+            "name": "Akihisa Tomikawa",
+            "propoints": 2
+        },
+        {
+            "money": 400,
+            "name": "Tomoyuki Wakita",
+            "propoints": 2
+        },
+        {
+            "money": 400,
+            "name": "Ryuji Murae",
+            "propoints": 2
+        },
+        {
+            "money": 400,
+            "name": "Takanori Ootaki",
+            "propoints": 2
+        },
+        {
+            "money": 400,
+            "name": "Kentaro Yamamoto",
+            "propoints": 2
+        },
+        {
+            "money": 300,
+            "name": "Satoshi Kinugasa",
+            "propoints": 1
+        },
+        {
+            "money": 300,
+            "name": "Daiki Gotou",
+            "propoints": 1
+        },
+        {
+            "money": 300,
+            "name": "Kyohei Miyake",
+            "propoints": 1
+        },
+        {
+            "money": 300,
+            "name": "Tarou Usami",
+            "propoints": 1
+        },
+        {
+            "money": 300,
+            "name": "Takuya Nakayama",
+            "propoints": 1
+        },
+        {
+            "money": 300,
+            "name": "Thitipong Chokamnuai",
+            "propoints": 1
+        },
+        {
+            "money": 300,
+            "name": "Ryosuke Urase",
+            "propoints": 1
+        },
+        {
+            "money": 300,
+            "name": "Teruya Kakumae",
+            "propoints": 1
+        },
+        {
+            "money": 300,
+            "name": "Katsuhiro Mori",
+            "propoints": 1
+        },
+        {
+            "money": 300,
+            "name": "Yusaku Tanimoto",
+            "propoints": 1
+        },
+        {
+            "money": 300,
+            "name": "Hiroshi Murase",
+            "propoints": 1
+        },
+        {
+            "money": 300,
+            "name": "Kou Changsu",
+            "propoints": 1
+        },
+        {
+            "money": 300,
+            "name": "Shinichi Emori",
+            "propoints": 1
+        },
+        {
+            "money": 300,
+            "name": "Kento Arita",
+            "propoints": 1
+        },
+        {
+            "money": 300,
+            "name": "Yuji Abe",
+            "propoints": 1
+        },
+        {
+            "money": 300,
+            "name": "Yuuki Nitta",
+            "propoints": 1
+        },
+        {
+            "money": 300,
+            "name": "Kei Suzuki",
+            "propoints": 1
+        },
+        {
+            "money": 300,
+            "name": "Tarou Babasaki",
+            "propoints": 1
+        },
+        {
+            "money": 300,
+            "name": "Yo Tezuka",
+            "propoints": 1
+        },
+        {
+            "money": 300,
+            "name": "Hiroyuki Ishiwada",
+            "propoints": 1
+        },
+        {
+            "money": 300,
+            "name": "Suntee Ponlasint",
+            "propoints": 1
+        },
+        {
+            "money": 300,
+            "name": "Atsuo Honda",
+            "propoints": 1
+        },
+        {
+            "money": 300,
+            "name": "Jun'ya Nakamura",
+            "propoints": 1
+        },
+        {
+            "money": 300,
+            "name": "Makoto Itou (Tokyo)",
+            "propoints": 1
+        },
+        {
+            "money": 300,
+            "name": "Wing Chun Yam",
+            "propoints": 1
+        },
+        {
+            "money": 300,
+            "name": "Sho Kiyonaga",
+            "propoints": 1
+        },
+        {
+            "money": 300,
+            "name": "Park Jun Young",
+            "propoints": 1
+        },
+        {
+            "money": 300,
+            "name": "Shinji Nakatani",
+            "propoints": 1
+        },
+        {
+            "money": 300,
+            "name": "Shunsuke Nitsu",
+            "propoints": 1
+        },
+        {
+            "money": 300,
+            "name": "Hiroki Kawai",
+            "propoints": 1
+        },
+        {
+            "money": 300,
+            "name": "Tomoyuki Suzuki",
+            "propoints": 1
+        },
+        {
+            "money": 300,
+            "name": "Eiji Ikuta",
+            "propoints": 1
+        },
+        {
+            "money": 250,
+            "name": "Kazuyuki Takimura"
+        },
+        {
+            "money": 250,
+            "name": "Ryota Takeuchi"
+        },
+        {
+            "money": 250,
+            "name": "Yuuta Maruo"
+        },
+        {
+            "money": 250,
+            "name": "Hisao Satou"
+        },
+        {
+            "money": 250,
+            "name": "Shigeru Motomura"
+        },
+        {
+            "money": 250,
+            "name": "Bi-O Park"
+        },
+        {
+            "money": 250,
+            "name": "Koji Nose"
+        },
+        {
+            "money": 250,
+            "name": "Taishi Saitou"
+        },
+        {
+            "money": 250,
+            "name": "Toshiki Kushibe"
+        },
+        {
+            "money": 250,
+            "name": "Yamato Makishita"
+        },
+        {
+            "money": 250,
+            "name": "Naoto Akita"
+        },
+        {
+            "money": 250,
+            "name": "Yuya Hosokawa"
+        },
+        {
+            "money": 250,
+            "name": "Yusuke Wada"
+        },
+        {
+            "money": 250,
+            "name": "Daisuke Ariyoshi"
+        },
+        {
+            "money": 250,
+            "name": "Takuya Koyanagi"
+        },
+        {
+            "money": 250,
+            "name": "Masashi Nanjo"
+        },
+        {
+            "money": 250,
+            "name": "Shirou Wakayama"
+        },
+        {
+            "money": 250,
+            "name": "Takahiro Machida"
+        },
+        {
+            "money": 250,
+            "name": "Yukuhiro Inagaki"
+        },
+        {
+            "money": 250,
+            "name": "Kouichi Kudou"
+        },
+        {
+            "money": 250,
+            "name": "Masaya Sasaki (1310)"
+        },
+        {
+            "money": 250,
+            "name": "Masaki Sugai"
+        },
+        {
+            "money": 250,
+            "name": "Yousuke Shimizu"
+        },
+        {
+            "money": 250,
+            "name": "Akira Tanaka"
+        },
+        {
+            "money": 250,
+            "name": "Rei Sato"
+        },
+        {
+            "money": 250,
+            "name": "Takuma Morofuji"
+        },
+        {
+            "money": 250,
+            "name": "Yuusuke Iwasaki (Hyougo)"
+        },
+        {
+            "money": 250,
+            "name": "Chang-Hoi Kim"
+        },
+        {
+            "money": 250,
+            "name": "Ding Yi"
+        },
+        {
+            "money": 250,
+            "name": "Masaya Kitayama"
+        },
+        {
+            "money": 250,
+            "name": "Yuusuke Nakamura"
+        },
+        {
+            "money": 250,
+            "name": "Keigo Ito"
+        },
+        {
+            "money": 250,
+            "name": "Taiki Hattori"
+        },
+        {
+            "money": 250,
+            "name": "Masashi Koyama"
+        },
+        {
+            "money": 250,
+            "name": "Yasutaka Nagao"
+        },
+        {
+            "money": 250,
+            "name": "Shinichi Ohira"
+        }
+    ],
+    "teamsize": 1
+    
+}
