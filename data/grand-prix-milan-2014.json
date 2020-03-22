@@ -1,335 +1,336 @@
 {
     "type": "Grand Prix",
-    "coverage": "https://magic.wizards.com/en/eventcoverage/gpbei14",
-    "date": "March 29-30, 2014",
+    "coverage": "https://magic.wizards.com/en/events/coverage/gpmil14",
+    "date": "June 28-29, 2014",
     "season": "2013-14",
     "formats": [
-        "Standard"
+        "Sealed Deck",
+        "Booster Draft"
     ],
     "medium": "Tabletop",
-    "id": "grand-prix-beijing-2014",
-    "location": "Beijing, China",
+    "id": "grand-prix-milan-2014",
+    "location": "Milan, Italy",
     "logo": "gplogo.png",
-    "name": "Grand Prix Beijing 2014",
+    "name": "Grand Prix Milan 2014",
     "standings": [
         {
             "money": 4000,
-            "name": "Yuuya Watanabe",
+            "name": "Jeremy Dezani",
             "propoints": 8
         },
         {
             "money": 2700,
-            "name": "Sherwin Pu",
+            "name": "Nico Bohny",
             "propoints": 6
         },
         {
             "money": 1500,
-            "name": "Ben Ge",
+            "name": "Marcio Carvalho",
             "propoints": 5
         },
         {
             "money": 1500,
-            "name": "Ken Sawada",
+            "name": "Ivan Floch",
             "propoints": 5
         },
         {
             "money": 1000,
-            "name": "Shuhei Nakamura",
+            "name": "Serafin Wellinger",
             "propoints": 4
         },
         {
             "money": 1000,
-            "name": "Jian Zhong",
+            "name": "Evgeny Pestov",
             "propoints": 4
         },
         {
             "money": 1000,
-            "name": "Nam Sung Wook",
+            "name": "Guido Citino",
             "propoints": 4
         },
         {
             "money": 1000,
-            "name": "Naoki Shimizu",
+            "name": "Timothee Simonot",
             "propoints": 4
         },
         {
             "money": 600,
-            "name": "Han Bing",
+            "name": "Iris Schwarz",
             "propoints": 3
         },
         {
             "money": 600,
-            "name": "Kelvin Chew",
+            "name": "Frank Karsten",
             "propoints": 3
         },
         {
             "money": 600,
-            "name": "Yin Xin",
+            "name": "Giovanni Rosi",
             "propoints": 3
         },
         {
             "money": 600,
-            "name": "Xiaoyu Guo",
+            "name": "Davor Detecnik",
             "propoints": 3
         },
         {
             "money": 550,
-            "name": "Wu Tong",
+            "name": "Julien Stihle",
             "propoints": 3
         },
         {
             "money": 550,
-            "name": "Lee Shi Tian",
+            "name": "Luca Gianni",
             "propoints": 3
         },
         {
             "money": 550,
-            "name": "Gama Ip",
+            "name": "Anssi Alkio",
             "propoints": 3
         },
         {
             "money": 550,
-            "name": "Qianxin Feng",
+            "name": "Paolo Bini",
             "propoints": 3
         },
         {
             "money": 500,
-            "name": "Liang Xiao",
+            "name": "Amit Cohen",
             "propoints": 2
         },
         {
             "money": 500,
-            "name": "Quan Zhou",
+            "name": "Dominic Müller",
             "propoints": 2
         },
         {
             "money": 500,
-            "name": "Shoupeng Wang",
+            "name": "Daniele Bernadotti",
             "propoints": 2
         },
         {
             "money": 500,
-            "name": "Kosuke Nakamoto",
+            "name": "Adriano Moscato",
             "propoints": 2
         },
         {
             "money": 500,
-            "name": "Ken Yukuhiro",
+            "name": "Marco Cammilluzzi",
             "propoints": 2
         },
         {
             "money": 500,
-            "name": "Zhao Haotian",
+            "name": "Jean-Julien Zeil",
             "propoints": 2
         },
         {
             "money": 500,
-            "name": "Zhengyang Fang",
+            "name": "Joost Vollebregt",
             "propoints": 2
         },
         {
             "money": 500,
-            "name": "Cheng Tung-Yi",
+            "name": "Murat Pinto",
             "propoints": 2
         },
         {
             "money": 400,
-            "name": "Xiaoshi Lu",
+            "name": "Yves Sele",
             "propoints": 2
         },
         {
             "money": 400,
-            "name": "Tao Yan",
+            "name": "Jamie Parke",
             "propoints": 2
         },
         {
             "money": 400,
-            "name": "Bin Jia",
+            "name": "Pavel Matousek",
             "propoints": 2
         },
         {
             "money": 400,
-            "name": "Liu Dong",
+            "name": "Nicolas Vanderhallen",
             "propoints": 2
         },
         {
             "money": 400,
-            "name": "Feng Tian Yu",
+            "name": "Patrick Dickmann",
             "propoints": 2
         },
         {
             "money": 400,
-            "name": "TongYang Zhang",
+            "name": "Javier Dominguez",
             "propoints": 2
         },
         {
             "money": 400,
-            "name": "Jing Li",
+            "name": "Claudio Mineri",
             "propoints": 2
         },
         {
             "money": 400,
-            "name": "Haitetsu Oh",
+            "name": "Sebastian Fiala-Ibitz",
             "propoints": 2
         },
         {
             "money": 300,
-            "name": "Zhang Zhiyang",
+            "name": "Nicolas Baptiste",
             "propoints": 1
         },
         {
             "money": 300,
-            "name": "Niels Molle",
+            "name": "Yann Lee Teoh",
             "propoints": 1
         },
         {
             "money": 300,
-            "name": "Zixuan Wu",
+            "name": "Federico del Basso",
             "propoints": 1
         },
         {
             "money": 300,
-            "name": "Liang Han",
+            "name": "Sergey Ryaboshuk",
             "propoints": 1
         },
         {
             "money": 300,
-            "name": "Liang Zhiyi",
+            "name": "Ioannis Dimitrakis",
             "propoints": 1
         },
         {
             "money": 300,
-            "name": "Xiang Li",
+            "name": "Bartlomiej Lewandowski",
             "propoints": 1
         },
         {
             "money": 300,
-            "name": "Raymond Tan",
+            "name": "Mikael Magnusson",
             "propoints": 1
         },
         {
             "money": 300,
-            "name": "Chih Min Wang",
+            "name": "Massimo Sabbadini",
             "propoints": 1
         },
         {
             "money": 300,
-            "name": "Yung-Ming Huang",
+            "name": "Francois Lemaitre",
             "propoints": 1
         },
         {
             "money": 300,
-            "name": "Jeong Woo Cho",
+            "name": "Marco de Togni",
             "propoints": 1
         },
         {
             "money": 300,
-            "name": "Fabien Li",
+            "name": "Raphael Levy",
             "propoints": 1
         },
         {
             "money": 300,
-            "name": "Jiajun Xu",
+            "name": "Fabian Hahn",
             "propoints": 1
         },
         {
             "money": 300,
-            "name": "Wing Chun Yam",
+            "name": "Daniel Toledo",
             "propoints": 1
         },
         {
             "money": 300,
-            "name": "Matsuhiro Tada",
+            "name": "Alberto Strade",
             "propoints": 1
         },
         {
             "money": 300,
-            "name": "Zhang Meng Qiu",
+            "name": "Laurent Calligaro",
             "propoints": 1
         },
         {
             "money": 300,
-            "name": "Ren Pu Feng",
+            "name": "Richard Hornansky",
             "propoints": 1
         },
         {
             "money": 300,
-            "name": "Gongyin Mao",
+            "name": "Michal Gajewski",
             "propoints": 1
         },
         {
             "money": 300,
-            "name": "Yan Yan",
+            "name": "Roman Kathriner",
             "propoints": 1
         },
         {
             "money": 300,
-            "name": "Shen Yufei",
+            "name": "Marijn Lybaert",
             "propoints": 1
         },
         {
             "money": 300,
-            "name": "HyunWoo Jeong",
+            "name": "Andrea Cibak",
             "propoints": 1
         },
         {
             "money": 300,
-            "name": "Toshiya Kanegawa",
+            "name": "Alexis Martinez",
             "propoints": 1
         },
         {
             "money": 300,
-            "name": "Zhuoran Meng",
+            "name": "Emanuele Marcotti",
             "propoints": 1
         },
         {
             "money": 300,
-            "name": "Ching Ti Chang",
+            "name": "Paolo Magnani",
             "propoints": 1
         },
         {
             "money": 300,
-            "name": "Nuo Wan",
+            "name": "Michael Meier",
             "propoints": 1
         },
         {
             "money": 300,
-            "name": "Dev Singh",
+            "name": "Marco Olivieri",
             "propoints": 1
         },
         {
             "money": 300,
-            "name": "Tzu-Ching Kuo",
+            "name": "Mattia de Colle",
             "propoints": 1
         },
         {
             "money": 300,
-            "name": "Sheng Cao",
+            "name": "Sami Tuomi",
             "propoints": 1
         },
         {
             "money": 300,
-            "name": "Yi Zhang",
+            "name": "Vincenzo Mangione",
             "propoints": 1
         },
         {
             "money": 300,
-            "name": "Rong Zhao",
+            "name": "Francesco Brigaglia",
             "propoints": 1
         },
         {
             "money": 300,
-            "name": "Xiang Chen",
+            "name": "Florian Krauer",
             "propoints": 1
         },
         {
             "money": 300,
-            "name": "Jun Yi Zhong",
+            "name": "Nicola Landoni",
             "propoints": 1
         },
         {
             "money": 300,
-            "name": "Xu Liu",
+            "name": "Ruben Sanchez",
             "propoints": 1
         }
     ],
