@@ -288,8 +288,8 @@ module.exports = function(grunt) {
     metadata: buildMetadata,
     resize: doResize,
     'build-data': ['tournaments', 'players', 'recent'],
-    default: ['build-data', 'copy', 'resize', 'imagemin:dynamic', 'css', 'js', 'json'],
-    dist: ['build-data', 'copy', 'resize', 'imagemin:dynamic', 'css', 'jsProd', 'json'],
+    default: ['build-data', 'copy', 'resize', 'css', 'js', 'json', 'imagemin:dynamic'],
+    dist: ['build-data', 'copy', 'resize', 'css', 'jsProd', 'json', 'imagemin:dynamic'],
     serve: ['default', 'connect'],
     prod: ['env:production', 'dist', 'uglify']
   };
