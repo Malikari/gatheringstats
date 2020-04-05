@@ -4,6 +4,7 @@ var _ = require('underscore');
 var deepcopy = require('deepcopy');
 var Helper = require('./../lib/helper.js');
 var unidecode = require('unidecode');
+var sharp = require("sharp");
 
 module.exports = function(grunt) {
   function nameToID(name) {
@@ -255,6 +256,28 @@ module.exports = function(grunt) {
     grunt.file.write('./data/players.json', jsonToStr(metadata));
   }
 
+  function doResize() {
+    grunt.file.mkdir('./build/images');
+    grunt.file.recurse('./build/raw/images', function(abspath, rootdir, subdir, filename) {
+      if (filename.endsWith('.png')) {
+        grunt.log.writeln("resizing: " + filename);
+        if (filename === "arrowicon.png") {
+          sharp(abspath)
+            .resize(16, 16)
+            .toFile(`./build/images/${filename}`)
+            .catch(grunt.log.writeln("Error processing: " + filename));
+        } else {
+          sharp(abspath)
+            .resize({height: 80})
+            .toFile(`./build/images/${filename}`)
+            .catch(grunt.log.writeln("Error processing: " + filename));
+        }
+      } else {
+        grunt.log.writeln("passing: " + filename);
+      }
+    });
+  }
+
   return {
     js: ['eslint', 'browserify'],
     css: ['sass'],
@@ -263,8 +286,9 @@ module.exports = function(grunt) {
     players: buildPlayers,
     recent: buildRecent,
     metadata: buildMetadata,
+    resize: doResize,
     'build-data': ['tournaments', 'players', 'recent'],
-    default: ['build-data', 'copy', 'css', 'js', 'json'],
+    default: ['build-data', 'copy', 'resize', 'imagemin', 'css', 'js', 'json'],
     serve: ['default', 'connect'],
     prod: ['default', 'uglify']
   };

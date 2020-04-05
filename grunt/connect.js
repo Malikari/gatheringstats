@@ -13,7 +13,8 @@ module.exports = {
             req.url.endsWith('js') ||
             req.url.endsWith('css') ||
             req.url.endsWith('svg') ||
-            req.url.endsWith('png')
+            req.url.endsWith('png') ||
+            req.url.endsWith('webp')
           ) {
             return next();
           }

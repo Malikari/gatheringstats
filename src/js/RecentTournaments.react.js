@@ -16,7 +16,11 @@ const Logo = ({id, t}) => {
   }
   return (
     <Link to={'/tournament/' + id}>
-      <img src={'/logo/' + t.logo} />
+      <picture>
+        <source type={"image/webp"} srcSet={'/images/' + t.logo + ".webp"} />
+        <source type={"image/png"} srcSet={'/images/' + t.logo + ".png"} />
+        <img src={'/images/' + t.logo + ".png"} />
+      </picture>
     </Link>
   );
 };
