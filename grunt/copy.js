@@ -12,18 +12,6 @@ module.exports = {
         dest: 'build/404.html'
       },
       {
-        src: 'src/ptlogo.png',
-        dest: 'build/logo/ptlogo.png'
-      },
-      {
-        src: 'src/worldslogo.png',
-        dest: 'build/logo/worldslogo.png'
-      },
-      {
-        src: 'src/arrowicon.png',
-        dest: 'build/arrowicon.png'
-      },
-      {
         expand: true,
         cwd: 'src/',
         src: 'css/*.css',
@@ -45,13 +33,13 @@ module.exports = {
       }
     ]
   },
-  logos: {
+  images: {
     files: [
       {
         expand: true,
         cwd: 'data/',
-        src: 'logo/*.png',
-        dest: 'build/'
+        src: 'images/*.png',
+        dest: 'build/raw/'
       }
     ]
   }

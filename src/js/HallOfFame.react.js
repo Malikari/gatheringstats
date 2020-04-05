@@ -19,7 +19,11 @@ const HallOfFame = props => {
     .value();
 
   const prev = {value: null};
-  const sortImage = <img src="/arrowicon.png" />;
+  const sortImage = (<picture>
+    <source type={"image/webp"} srcSet={"/images/arrowicon.webp"} />
+    <source type={"image/png"} srcSet={"/images/arrowicon.png"} />
+    <img src={"/images/arrowicon.png"} />
+  </picture>);
   return (
     <div className="col-md-offset-2 col-md-8">
       <DocumentTitle title="Hall of Fame" />
@@ -98,6 +102,5 @@ const HallOfFame = props => {
       </table>
     </div>
   );
-};
-
+}
 export default HallOfFame;
