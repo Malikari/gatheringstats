@@ -1,16 +1,16 @@
 'use strict';
 
 import React from 'react';
-import DocumentTitle from 'react-document-title';
-
 import NotFound from './NotFound.react.js';
 import PlayerLink from './PlayerLink.react.js';
 import Tournaments from './Tournaments.js';
 import {formatMoney} from './utils.js';
 import Players from './Players.js';
+import { useParams } from "react-router-dom";
+import { Helmet } from "react-helmet";
 
-const Tournament = props => {
-  const id = props.params.id;
+const Tournament = () => {
+  let id = useParams().id;
   const t = Tournaments.byID(id);
   const surrounding = Tournaments.page(t);
   const prev = surrounding[0];
@@ -20,7 +20,9 @@ const Tournament = props => {
   }
   return (
     <div className="col-md-offset-3 col-md-6">
-      <DocumentTitle title={t.name} />
+      <Helmet>
+        <title>{t.name}</title>
+      </Helmet>
       <nav aria-label="...">
         <ul className="pager">
           {prev ? <li className="previous"><a href={"/tournament/" + prev.id}><span aria-hidden="true">&larr;</span> {prev.name}</a></li> : ''}
