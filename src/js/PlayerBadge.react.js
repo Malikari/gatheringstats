@@ -1,6 +1,7 @@
 'use strict';
 
 import React from 'react';
+import PropTypes from 'prop-types';
 
 const PlayerBadge = ({activeBadge}) => {
   let title, classVal = "";
@@ -22,6 +23,10 @@ const PlayerBadge = ({activeBadge}) => {
     <i className={classVal}/>
   </span>
     );
+};
+
+PlayerBadge.propTypes = {
+  activeBadge: PropTypes.string
 };
 
 export default PlayerBadge;

@@ -9,6 +9,7 @@ import TournamentLink from './TournamentLink.react.js';
 import Tournaments from './Tournaments.js';
 import {formatMoney} from './utils.js';
 import { Helmet } from "react-helmet";
+import PropTypes from "prop-types";
 
 const TournamentsTable = ({items = {}, condition = (type) => type === 'Pro Tour'}) => {
   return (
@@ -51,6 +52,11 @@ const TournamentsTable = ({items = {}, condition = (type) => type === 'Pro Tour'
       </tbody>
     </table>
   )
+};
+
+TournamentsTable.propTypes = {
+  items: PropTypes.array,
+  condition: PropTypes.func
 };
 
 const Player = () => {

@@ -2,8 +2,8 @@
 
 import React from 'react';
 import {Link} from 'react-router-dom';
-
 import SearchInput from './SearchInput.react.js';
+import PropTypes from "prop-types";
 
 const Page = props => (
   <div>
@@ -49,5 +49,9 @@ const Page = props => (
     {props.children}
   </div>
 );
+
+Page.propTypes = {
+  children: PropTypes.any
+};
 
 export default Page;
