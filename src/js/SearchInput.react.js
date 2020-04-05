@@ -2,8 +2,7 @@
 
 import React from 'react';
 import {findDOMNode} from 'react-dom';
-import {browserHistory} from 'react-router';
-
+import history from "./browserhistory";
 import Players from './Players.js';
 import Tournaments from './Tournaments.js';
 
@@ -25,9 +24,9 @@ export default class SearchInput extends React.Component {
       source: Tournaments.asArray().concat(Players.asArray()),
       afterSelect: item => {
         if (item.tournaments) {
-          browserHistory.push('/player/' + item.id);
+          history.push('/player/' + item.id);
         } else {
-          browserHistory.push('/tournament/' + item.id);
+          history.push('/tournament/' + item.id);
         }
         this.refs.input.value = '';
       }

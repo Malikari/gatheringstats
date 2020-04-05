@@ -260,20 +260,19 @@ module.exports = function(grunt) {
     grunt.file.mkdir('./build/images');
     grunt.file.recurse('./build/raw/images', function(abspath, rootdir, subdir, filename) {
       if (filename.endsWith('.png')) {
-        grunt.log.writeln("resizing: " + filename);
         if (filename === "arrowicon.png") {
           sharp(abspath)
             .resize(16, 16)
             .toFile(`./build/images/${filename}`)
-            .catch(grunt.log.writeln("Error processing: " + filename));
+            .catch(err => grunt.log.writeln("Error " + err + ", processing: " + filename));
         } else {
           sharp(abspath)
             .resize({height: 80})
             .toFile(`./build/images/${filename}`)
-            .catch(grunt.log.writeln("Error processing: " + filename));
+            .catch(err => grunt.log.writeln("Error " + err + ", processing: " + filename));
         }
       } else {
-        grunt.log.writeln("passing: " + filename);
+        grunt.log.writeln("Non-png found: " + filename);
       }
     });
   }

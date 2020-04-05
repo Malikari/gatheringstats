@@ -1,11 +1,11 @@
 'use strict';
 
 import React from 'react';
-import {Link} from 'react-router';
-import DocumentTitle from 'react-document-title';
+import {Link} from 'react-router-dom';
 import Players from './Players.js';
 import PlayerLink from './PlayerLink.react.js';
 import {filterOnlyProTours, filterOnlyProLeagues, filterOnlyGrandPrix, filterOtherTournaments} from './utils.js';
+import { Helmet } from "react-helmet";
 
 const _ = require('underscore');
 const Helper = require('./../../lib/helper.js');
@@ -27,7 +27,9 @@ const Logo = ({id, t}) => {
 
 const RecentTournaments = ({ filter = filterOnlyProTours }) => (
   <div className="col-md-offset-3 col-md-6">
-    <DocumentTitle title="Gathering Stats" />
+    <Helmet>
+      <title>Gathering Stats</title>
+    </Helmet>
     {_.map(window.Recent.filter(filter), function(tournament) {
       const id = tournament.id;
       return (

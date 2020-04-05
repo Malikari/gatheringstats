@@ -3,15 +3,9 @@
 import React from 'react';
 import {render} from 'react-dom';
 import {
-  Router,
-  Route,
-  IndexRoute,
-  browserHistory,
-  applyRouterMiddleware
-} from 'react-router';
-import {useScroll} from 'react-router-scroll';
+  Router, Route, Switch
+} from "react-router-dom";
 
-import NotFound from './NotFound.react.js';
 import Page from './Page.react.js';
 import Player from './Player.react.js';
 import Tournament from './Tournament.react.js';
@@ -21,11 +15,16 @@ import { ProLeagues } from './RecentTournaments.react.js';
 import { GrandPrix } from './RecentTournaments.react.js';
 import { OtherTournaments } from './RecentTournaments.react.js';
 import HallOfFame from "./HallOfFame.react";
+import NotFound from "./NotFound.react";
+import history from "./browserhistory";
+import ScrollToTop from "./ScrollToTop";
 
 render(
-  <Router history={browserHistory} render={applyRouterMiddleware(useScroll())}>
-    <Route path="/" component={Page}>
-      <IndexRoute component={RecentTournaments} />
+  <Router history={history}>
+    <ScrollToTop />
+    <Route path="/" component={Page} />
+    <Switch>
+      <Route exact path="/" component={RecentTournaments} />
       <Route path="/player/:id" component={Player} />
       <Route path="/tournament/:id" component={Tournament} />
       <Route path="/rankings/:col" component={Rankings} />
@@ -34,7 +33,7 @@ render(
       <Route path="/other-tournaments" component={OtherTournaments} />
       <Route path="/hall-of-fame/:col" component={HallOfFame} />
       <Route path="*" component={NotFound} />
-    </Route>
+    </Switch>
   </Router>,
   document.getElementById('approot')
 );

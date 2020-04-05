@@ -1,15 +1,14 @@
 'use strict';
 
 import React from 'react';
-import {Link} from 'react-router';
-import DocumentTitle from 'react-document-title';
-
+import { Link, useParams } from "react-router-dom";
 import NotFound from './NotFound.react.js';
 import PlayerLink from './PlayerLink.react.js';
 import Players from './Players.js';
 import TournamentLink from './TournamentLink.react.js';
 import Tournaments from './Tournaments.js';
 import {formatMoney} from './utils.js';
+import { Helmet } from "react-helmet";
 
 const TournamentsTable = ({items = {}, condition = (type) => type === 'Pro Tour'}) => {
   return (
@@ -54,15 +53,17 @@ const TournamentsTable = ({items = {}, condition = (type) => type === 'Pro Tour'
   )
 };
 
-const Player = props => {
-  const id = props.params.id;
+const Player = () => {
+  let id = useParams().id;
   const player = Players.byID(id);
   if (!player) {
     return <NotFound />;
   }
   return (
     <div className="col-md-offset-3 col-md-6">
-      <DocumentTitle title={player.name} />
+      <Helmet>
+        <title>{player.name}</title>
+      </Helmet>
       <div className="page-header pageHeader">
         <h1>
           <PlayerLink player={player} />

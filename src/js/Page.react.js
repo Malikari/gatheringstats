@@ -1,7 +1,7 @@
 'use strict';
 
 import React from 'react';
-import {Link, IndexLink} from 'react-router';
+import {Link} from 'react-router-dom';
 
 import SearchInput from './SearchInput.react.js';
 
@@ -10,33 +10,33 @@ const Page = props => (
     <div className="navbar navbar-default">
       <div className="container-fluid">
         <div className="navbar-header">
-          <IndexLink className="navbar-brand" to="/">
+          <Link className="navbar-brand" to="/">
             Gathering Stats
-          </IndexLink>
+          </Link>
         </div>
         <ul className="nav navbar-nav">
           <li>
-            <Link to="/pro-leagues" activeClassName="activeLink">
+            <Link to="/pro-leagues">
               Pro Leagues
             </Link>
           </li>
           <li>
-            <Link to="/grand-prix" activeClassName="activeLink">
+            <Link to="/grand-prix">
               Grand Prix
             </Link>
           </li>
           <li>
-            <Link to="/other-tournaments" activeClassName="activeLink">
+            <Link to="/other-tournaments">
               Other Tournaments
             </Link>
           </li>
           <li>
-            <Link to="/rankings/t8" activeClassName="activeLink">
+            <Link to="/rankings/t8">
               Player Rankings
             </Link>
           </li>
           <li>
-            <Link to="/hall-of-fame/year" activeClassName="activeLink">
+            <Link to="/hall-of-fame/year">
               Hall of Fame
             </Link>
           </li>

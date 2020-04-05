@@ -1,16 +1,16 @@
 'use strict';
 
-import DocumentTitle from 'react-document-title';
 import React from 'react';
-import {Link} from 'react-router';
 import Players from './Players.js';
 import PlayerLink from './PlayerLink.react.js';
+import { useParams, Link } from "react-router-dom";
+import { Helmet } from "react-helmet";
 
 const _ = require('underscore');
 const accounting = require('accounting');
 
-const Rankings = props => {
-  const col = props.params.col;
+const Rankings = () => {
+  let col = useParams().col;
   const sortedPlayers = _.chain(window.Players)
     .values()
     .filter(player => player.stats[col] !== 'too few PTs')
@@ -31,7 +31,9 @@ const Rankings = props => {
   </picture>);
   return (
     <div className="col-md-offset-2 col-md-8">
-      <DocumentTitle title="Player Rankings" />
+      <Helmet>
+        <title>Player Rankings</title>
+      </Helmet>
       <div className="page-header pageHeader">
         <h1>Player Rankings</h1>
       </div>

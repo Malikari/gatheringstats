@@ -1,17 +1,17 @@
 'use strict';
 
-import DocumentTitle from 'react-document-title';
 import React from 'react';
-import {Link} from 'react-router';
+import {Link, useParams} from 'react-router-dom';
 import Players from './Players.js';
 import PlayerLink from './PlayerLink.react.js';
 import HallOfFameIcon from './HallOfFameIcon.react.js';
+import { Helmet } from "react-helmet";
 
 const _ = require('underscore');
 const accounting = require('accounting');
 
-const HallOfFame = props => {
-  const col = props.params.col;
+const HallOfFame = () => {
+  let col = useParams().col;
   const players = _.chain(window.Players)
     .values()
     .filter(player => player.hof != null)
@@ -26,7 +26,9 @@ const HallOfFame = props => {
   </picture>);
   return (
     <div className="col-md-offset-2 col-md-8">
-      <DocumentTitle title="Hall of Fame" />
+      <Helmet>
+        <title>Hall of Fame</title>
+      </Helmet>
       <div className="page-header pageHeader">
         <h1>Hall of Fame <HallOfFameIcon /></h1>
       </div>
