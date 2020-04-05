@@ -2,6 +2,9 @@
 
 module.exports = {
   all: {
+    options: {
+      sourceMap: false
+    },
     files: {
       'build/js/app.js': ['build/js/app.js'],
       'build/data/players.js': ['build/data/players.js'],

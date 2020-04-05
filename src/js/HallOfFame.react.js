@@ -22,7 +22,7 @@ const HallOfFame = props => {
   const sortImage = (<picture>
     <source type={"image/webp"} srcSet={"/images/arrowicon.webp"} />
     <source type={"image/png"} srcSet={"/images/arrowicon.png"} />
-    <img src={"/images/arrowicon.png"} />
+    <img src={"/images/arrowicon.png"} alt={"arrow"}/>
   </picture>);
   return (
     <div className="col-md-offset-2 col-md-8">

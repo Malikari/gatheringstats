@@ -279,7 +279,8 @@ module.exports = function(grunt) {
   }
 
   return {
-    js: ['eslint', 'browserify'],
+    js: ['eslint', 'browserify:dev'],
+    jsProd: ['eslint', 'browserify:dist'],
     css: ['sass'],
     json: ['jsonlint'],
     tournaments: buildTournaments,
@@ -288,8 +289,9 @@ module.exports = function(grunt) {
     metadata: buildMetadata,
     resize: doResize,
     'build-data': ['tournaments', 'players', 'recent'],
-    default: ['build-data', 'copy', 'resize', 'imagemin', 'css', 'js', 'json'],
+    default: ['build-data', 'copy', 'resize', 'imagemin:dynamic', 'css', 'js', 'json'],
+    dist: ['build-data', 'copy', 'resize', 'imagemin:dynamic', 'css', 'jsProd', 'json'],
     serve: ['default', 'connect'],
-    prod: ['default', 'uglify']
+    prod: ['env:production', 'dist', 'uglify']
   };
 };
