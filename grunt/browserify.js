@@ -7,7 +7,7 @@ module.exports = {
     },
     options: {
       debug: true,
-      transform: [['babelify', {presets: ['es2015', 'env', 'react']}]],
+      transform: [['babelify', {presets: ['@babel/env', '@babel/react']}]],
       extensions: ['js']
     }
   },
@@ -18,7 +18,7 @@ module.exports = {
     options: {
       debug: false,
       transform: [
-        ['babelify', {presets: ['es2015', 'env', 'react']}],
+        ['babelify', {presets: ['@babel/env', '@babel/react']}],
         'uglifyify'
       ],
       extensions: ['js']

@@ -6,6 +6,7 @@ import Players from './Players.js';
 import PlayerLink from './PlayerLink.react.js';
 import {filterOnlyProTours, filterOnlyProLeagues, filterOnlyGrandPrix, filterOtherTournaments} from './utils.js';
 import { Helmet } from "react-helmet";
+import PropTypes from 'prop-types';
 
 const _ = require('underscore');
 const Helper = require('./../../lib/helper.js');
@@ -23,6 +24,11 @@ const Logo = ({id, t}) => {
       </picture>
     </Link>
   );
+};
+
+Logo.propTypes = {
+  id: PropTypes.string,
+  t: PropTypes.object
 };
 
 const RecentTournaments = ({ filter = filterOnlyProTours }) => (
@@ -85,6 +91,10 @@ const RecentTournaments = ({ filter = filterOnlyProTours }) => (
     })}
   </div>
 );
+
+RecentTournaments.propTypes = {
+  filter: PropTypes.func
+};
 
 export const ProLeagues = (props) => {
   return (

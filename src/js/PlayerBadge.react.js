@@ -1,15 +1,16 @@
 'use strict';
 
 import React from 'react';
+import PropTypes from 'prop-types';
 
 const PlayerBadge = ({activeBadge}) => {
   let title, classVal = "";
   if (activeBadge === 'mpl') {
     title = 'MPL';
-    classVal = 'fa fa-trophy';
+    classVal = 'fas fa-trophy';
   } else {
     title = 'RVL';
-    classVal = 'fa fa-medal';
+    classVal = 'fas fa-medal';
   }
 
   if (activeBadge.includes("former")) {
@@ -22,6 +23,10 @@ const PlayerBadge = ({activeBadge}) => {
     <i className={classVal}/>
   </span>
     );
+};
+
+PlayerBadge.propTypes = {
+  activeBadge: PropTypes.string
 };
 
 export default PlayerBadge;
