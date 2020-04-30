@@ -1,339 +1,327 @@
 {
     "type": "Grand Prix",
-    "coverage": "https://magic.wizards.com/en/eventcoverage/gpwar14",
-    "date": "May 10-11, 2014",
-    "season": "2013-14",
+    "coverage": "https://magic.wizards.com/en/events/coverage/gppoa15",
+    "date": "October 31-November 1, 2015",
+    "season": "2015-16",
     "formats": [
-        "Sealed Deck",
-        "Booster Draft"
+        "Modern"
     ],
     "medium": "Tabletop",
-    "id": "grand-prix-warsaw-2014",
-    "location": "Warsaw, Poland",
+    "id": "grand-prix-porto-alegre-2015",
+    "location": "Porto Alegre",
     "logo": "gplogo",
-    "name": "Grand Prix Warsaw 2014",
+    "name": "Grand Prix Porto Alegre 2015",
     "standings": [
         {
             "money": 4000,
-            "name": "Fabrizio Anteri",
-            "propoints": 8,
-            "nationality": "VEN"
+            "name": "Marcos Paulo de Jesus Freitas",
+            "propoints": 8
         },
         {
             "money": 2700,
-            "name": "Javier Dominguez",
+            "name": "Vagner Casatti",
             "propoints": 6
         },
         {
             "money": 1500,
-            "name": "Bernhard Lehner",
+            "name": "Caio Amaral",
             "propoints": 5
         },
         {
             "money": 1500,
-            "name": "Ben Yu",
+            "name": "Alejandro Cesa",
             "propoints": 5
         },
         {
             "money": 1000,
-            "name": "Ivan Floch",
+            "name": "Thiago Saporito",
             "propoints": 4
         },
         {
             "money": 1000,
-            "name": "Daniel Fior",
-            "propoints": 4,
-            "nationality": "ITA"
-        },
-        {
-            "money": 1000,
-            "name": "Sergiy Sushalskyy",
+            "name": "Gabriel Fehr",
             "propoints": 4
         },
         {
             "money": 1000,
-            "name": "Nicolas Vanderhallen",
+            "name": "Guilherme Merjam",
+            "propoints": 4
+        },
+        {
+            "money": 1000,
+            "name": "Diego Marquez",
             "propoints": 4
         },
         {
             "money": 600,
-            "name": "Luca Vincenzi",
+            "name": "Allison Abe",
             "propoints": 3
         },
         {
             "money": 600,
-            "name": "Bernd Brendemühl",
+            "name": "Victor Fernando Silva",
             "propoints": 3
         },
         {
             "money": 600,
-            "name": "Alessandro Portaro",
+            "name": "Bruno Müller",
             "propoints": 3
         },
         {
             "money": 600,
-            "name": "Albert Strelejko",
+            "name": "Matias Rosas",
             "propoints": 3
         },
         {
             "money": 550,
-            "name": "Claes de Graaff",
+            "name": "Walter Filho",
             "propoints": 3
         },
         {
             "money": 550,
-            "name": "Stanislav Cifka",
-            "propoints": 3
+            "name": "Matheus Daniel da Silveira",
+            "propoints": 2
         },
         {
             "money": 550,
-            "name": "Toni Ramis Pascual",
-            "propoints": 3
+            "name": "Marco Portugal",
+            "propoints": 2
         },
         {
             "money": 550,
-            "name": "Loic Le Briand",
-            "propoints": 3
-        },
-        {
-            "money": 500,
-            "name": "Jakub Alama",
+            "name": "Roger Landim",
             "propoints": 2
         },
         {
             "money": 500,
-            "name": "Sebastian Fiala-Ibitz",
+            "name": "Bruno Volpato",
             "propoints": 2
         },
         {
             "money": 500,
-            "name": "Davy Loeb",
+            "name": "Gabriel Wood",
             "propoints": 2
         },
         {
             "money": 500,
-            "name": "Leo Carbonell",
+            "name": "Pedro Manzoni",
             "propoints": 2
         },
         {
             "money": 500,
-            "name": "Richard Hornansky",
+            "name": "Frank Willian Godoi de Melo",
             "propoints": 2
         },
         {
             "money": 500,
-            "name": "Tomas Kuchta",
+            "name": "Caua Roca",
             "propoints": 2
         },
         {
             "money": 500,
-            "name": "Christian Bakkehaug",
+            "name": "Daniel Ocampo",
             "propoints": 2
         },
         {
             "money": 500,
-            "name": "Richard Jana",
+            "name": "Pedro Carvalho",
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Gonzalo Ferrari Spampinato",
             "propoints": 2
         },
         {
             "money": 400,
-            "name": "Marek Tichy",
+            "name": "Eduardo Borges",
             "propoints": 2
         },
         {
             "money": 400,
-            "name": "Lukas Dusek",
+            "name": "Gilmour Laier",
             "propoints": 2
         },
         {
             "money": 400,
-            "name": "Sabina Tennivaara",
+            "name": "Phelipe Salaroli",
             "propoints": 2
         },
         {
             "money": 400,
-            "name": "Grzegorz Kowalski",
+            "name": "Bruno Vieira",
             "propoints": 2
         },
         {
             "money": 400,
-            "name": "Grzegorz Jezierski",
+            "name": "Martin Sebastian Dominguez",
             "propoints": 2
         },
         {
             "money": 400,
-            "name": "Zoltan Szoke",
+            "name": "Max Macedo Carvalho",
             "propoints": 2
         },
         {
             "money": 400,
-            "name": "Mateusz Sikora",
+            "name": "Rodrigo Leal",
             "propoints": 2
         },
         {
             "money": 400,
-            "name": "Patryk Skut",
+            "name": "Matheus Crusius",
             "propoints": 2
         },
         {
             "money": 300,
-            "name": "Ondrej Strasky",
+            "name": "Joaquim Damasceno",
+            "propoints": 2
+        },
+        {
+            "money": 300,
+            "name": "Marcelo Rodrigues Cavalcante",
             "propoints": 1
         },
         {
             "money": 300,
-            "name": "Joel Larsson",
+            "name": "Daniel Pires",
             "propoints": 1
         },
         {
             "money": 300,
-            "name": "Chris Berkemeier",
+            "name": "Rafael Negrini",
             "propoints": 1
         },
         {
             "money": 300,
-            "name": "Robin Dolar",
+            "name": "Murilo Malta Porto",
             "propoints": 1
         },
         {
             "money": 300,
-            "name": "Eliott Boussaud",
+            "name": "Fabio Barroso",
             "propoints": 1
         },
         {
             "money": 300,
-            "name": "Frank Karsten",
+            "name": "Ricardo Batista",
             "propoints": 1
         },
         {
             "money": 300,
-            "name": "Fabien Laine",
+            "name": "Muhammad Aqel",
             "propoints": 1
         },
         {
             "money": 300,
-            "name": "Tomoharu Saito",
+            "name": "Mariano Libonatti",
             "propoints": 1
         },
         {
             "money": 300,
-            "name": "Lukasz Wojno",
+            "name": "Ruben Lobo",
             "propoints": 1
         },
         {
             "money": 300,
-            "name": "Michal Gajewski",
+            "name": "Joao Xavier",
             "propoints": 1
         },
         {
             "money": 300,
-            "name": "Krzysztof Kupnicki",
+            "name": "Artur Villela",
             "propoints": 1
         },
         {
             "money": 300,
-            "name": "Jan Bangert",
+            "name": "Gustavo Siqueira Julio",
             "propoints": 1
         },
         {
             "money": 300,
-            "name": "Jan Krumpholc",
+            "name": "Pedro Henrique de Melo Miranda",
             "propoints": 1
         },
         {
             "money": 300,
-            "name": "Daniele Cutuli",
+            "name": "Nahuel Roson",
             "propoints": 1
         },
         {
             "money": 300,
-            "name": "Emanuele Giusti",
+            "name": "Carlos Tiberio",
             "propoints": 1
         },
         {
             "money": 300,
-            "name": "Robert Orlowski",
+            "name": "Rafael Toro",
             "propoints": 1
         },
         {
             "money": 300,
-            "name": "Amit Cohen",
+            "name": "Lucas Esper Berthoud",
             "propoints": 1
         },
         {
             "money": 300,
-            "name": "Magnus Lantto",
+            "name": "Mariano Cartechini",
             "propoints": 1
         },
         {
             "money": 300,
-            "name": "Hubert Matuszewski",
+            "name": "Matheus Rosseto",
             "propoints": 1
         },
         {
             "money": 300,
-            "name": "Johan Prinzell",
+            "name": "Fabricio Miranda",
             "propoints": 1
         },
         {
             "money": 300,
-            "name": "Sergey Golubkin",
+            "name": "Edgar Enriquez",
             "propoints": 1
         },
         {
             "money": 300,
-            "name": "Alan Andrzejewski",
+            "name": "Juliano Rocha Dutra",
             "propoints": 1
         },
         {
             "money": 300,
-            "name": "Henry van den Brink",
-            "propoints": 1
+            "name": "Ivo Costa"
         },
         {
             "money": 300,
-            "name": "Skirmantas Sutkus",
-            "propoints": 1
+            "name": "Paulo Ricardo Cortez"
         },
         {
             "money": 300,
-            "name": "Pawel Podbielski",
-            "propoints": 1
+            "name": "Edson Teixeira"
         },
         {
             "money": 300,
-            "name": "Michele Ancona",
-            "propoints": 1
+            "name": "Luiz Silva Neto"
         },
         {
             "money": 300,
-            "name": "Tamas Horvath",
-            "propoints": 1
+            "name": "Joao Claudio Souza"
         },
         {
             "money": 300,
-            "name": "Antoine Grimaldi",
-            "propoints": 1
+            "name": "Jean Hubner"
         },
         {
             "money": 300,
-            "name": "Edward Ross",
-            "propoints": 1
+            "name": "Sebastian Pozzo"
         },
         {
             "money": 300,
-            "name": "Ismo Poldsam",
-            "propoints": 1
+            "name": "Matheus Lemos Mota"
         },
         {
             "money": 300,
-            "name": "Duc Nguyen",
-            "propoints": 1
-        },
-        {
-            "money": 300,
-            "name": "LoneWolf Williams",
-            "propoints": 1
+            "name": "Fausto Velho"
         }
     ],
     "teamsize": 1
