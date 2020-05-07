@@ -15,7 +15,8 @@
         {
             "money": 20000,
             "name": "Scott Johns",
-            "propoints": 24
+            "propoints": 24,
+            "report": "http://web.archive.org/web/20010726210554/http://magic.mindripper.com/Index.cfm?ArticleID=935&SectionID=3&Show=All"
         },
         {
             "money": 20000,
@@ -25,7 +26,8 @@
         {
             "money": 20000,
             "name": "Michael Turian",
-            "propoints": 24
+            "propoints": 24,
+            "report": "http://web.archive.org/web/20010528024143/http://magic.mindripper.com/Index.cfm?ArticleID=950&SectionID=3&Show=All"
         },
         {
             "money": 10000,
@@ -35,7 +37,8 @@
         {
             "money": 10000,
             "name": "Andrew Johnson",
-            "propoints": 12
+            "propoints": 12,
+            "report": "http://web.archive.org/web/20010430164553/http://magic.mindripper.com/Index.cfm?ArticleID=1058&SectionID=3&Show=All"
         },
         {
             "money": 10000,
@@ -60,7 +63,11 @@
         {
             "money": 5000,
             "name": "Patrick Mello",
-            "propoints": 10
+            "propoints": 10,
+            "report": [
+                "http://web.archive.org/web/20010528023340/http://magic.mindripper.com/Index.cfm?ArticleID=983&SectionID=3&Show=All",
+                "http://web.archive.org/web/20010528024302/http://magic.mindripper.com/Index.cfm?ArticleID=988&SectionID=3&Show=All"
+            ]
         },
         {
             "money": 5000,
