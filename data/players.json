@@ -34217,7 +34217,7 @@
         "nationality": "USA"
     },
     "peng-wang": {
-        "nationality": "CAN"
+        "nationality": "CHN"
     },
     "sven-plamann": {
         "nationality": "DEU"
@@ -37965,7 +37965,8 @@
         "natname": "白木 高広"
     },
     "miguel-calvo": {
-        "nationality": "ESP"
+        "nationality": "ESP",
+        "fullname": "Miguel Calvo Paniego"
     },
     "berthold-la-rocca": {
         "nationality": "DEU"
@@ -56267,7 +56268,7 @@
     "jean-baptiste-grasset": {
         "nationality": "FRA"
     },
-    "bruno-matoz": {
+    "bruno-matos": {
         "nationality": "PRT"
     },
     "jonas-glowalla": {
@@ -60007,7 +60008,9 @@
     "boleslaw-bielicki": {},
     "kenny-uittenbogaard": {},
     "harald-brorsson": {},
-    "quentin-guesnel": {},
+    "quentin-guesnel": {
+        "nationality": "FRA"
+    },
     "luis-garcia-guerrero": {},
     "aku-heinonen": {
         "nationality": "FIN"
@@ -63251,55 +63254,307 @@
     "nguyen--a-": {},
     "nguyen--b-": {},
     "nguyen--c-": {},
-    "sander-van-herwaarden": {},
-    "steve-bains": {},
-    "arnaud-andrien": {},
-    "maximilian-gredel": {},
-    "vicent-silvestre": {},
-    "sebastien-gay-le-lamer": {},
-    "vincent-meijers": {},
-    "remi-tosi": {},
-    "aurelien-gillet": {},
-    "frederic-urvoy": {},
-    "tim-hendrickx": {},
-    "alexander-frey": {},
-    "florian-nattkamp": {},
-    "friedemann-walzer": {},
-    "florian-tachau": {},
-    "raphael-dolscheid": {},
-    "maxime-hoube": {},
-    "luis-eduardo-martin-hernandez": {},
-    "jop-de-leijer": {},
-    "kresimir-vurnek": {},
-    "ricard-sanchez-garrido": {},
-    "ivan-von-loh": {},
-    "jonas-brandt": {},
-    "jens-nienhaus": {},
-    "gilles-delhaye": {},
-    "mehdi-chelil": {},
-    "thomas-russell": {},
-    "romain-chassagne": {},
-    "thijs-weytens": {},
-    "yannick-snellings": {},
-    "sebastien-patard": {},
-    "emmanuel-de-jesus-pequeno": {},
-    "vincent-vrankenne": {},
-    "henry-channing": {},
-    "marek-hanski": {},
-    "krzysztof-kupinski": {},
-    "stefan-grieger": {},
-    "benjamin-descamps": {},
-    "miguel-calvo-paniego": {},
-    "peter-rempel": {},
-    "borja-de-los-rios": {},
-    "maxmilien-berger": {},
-    "guillaume-sie": {},
-    "ilias-tselios": {},
-    "robert-lodder": {},
-    "daniele-vinciguerra": {},
-    "bruno-matos": {},
-    "kevin-hecquet": {},
-    "lloyd-greenaway": {},
-    "jan-verwijmeren": {},
-    "christophe-boucardey": {}
+    "sander-van-herwaarden": {
+        "nationality": "NLD"
+    },
+    "steve-bains": {
+        "nationality": "GBR"
+    },
+    "arnaud-andrien": {
+        "nationality": "BEL"
+    },
+    "maximilian-gredel": {
+        "nationality": "DEU"
+    },
+    "vicent-silvestre": {
+        "nationality": "GBR"
+    },
+    "sebastien-gay-le-lamer": {
+        "nationality": "FRA"
+    },
+    "vincent-meijers": {
+        "nationality": "NLD"
+    },
+    "remi-tosi": {
+        "nationality": "FRA"
+    },
+    "aurelien-gillet": {
+        "nationality": "FRA"
+    },
+    "frederic-urvoy": {
+        "nationality": "FRA"
+    },
+    "tim-hendrickx": {
+        "nationality": "BEL"
+    },
+    "alexander-frey": {
+        "nationality": "DEU"
+    },
+    "florian-nattkamp": {
+        "nationality": "DEU"
+    },
+    "friedemann-walzer": {
+        "nationality": "DEU"
+    },
+    "florian-tachau": {
+        "nationality": "FRA"
+    },
+    "raphael-dolscheid": {
+        "nationality": "FRA"
+    },
+    "maxime-hoube": {
+        "nationality": "FRA"
+    },
+    "luis-eduardo-martin-hernandez": {
+        "nationality": "ESP"
+    },
+    "jop-de-leijer": {
+        "nationality": "NLD"
+    },
+    "kresimir-vurnek": {
+        "nationality": "HRV"
+    },
+    "ivan-von-loh": {
+        "nationality": "DEU"
+    },
+    "jonas-brandt": {
+        "nationality": "DEU"
+    },
+    "jens-nienhaus": {
+        "nationality": "DEU"
+    },
+    "gilles-delhaye": {
+        "nationality": "FRA"
+    },
+    "mehdi-chelil": {
+        "nationality": "FRA"
+    },
+    "thomas-russell": {
+        "nationality": "ENG"
+    },
+    "romain-chassagne": {
+        "nationality": "FRA"
+    },
+    "thijs-weytens": {
+        "nationality": "BEL"
+    },
+    "yannick-snellings": {
+        "nationality": "BEL"
+    },
+    "sebastien-patard": {
+        "nationality": "FRA"
+    },
+    "emmanuel-de-jesus-pequeno": {
+        "nationality": "FRA"
+    },
+    "vincent-vrankenne": {
+        "nationality": "BEL"
+    },
+    "henry-channing": {
+        "nationality": "GBR"
+    },
+    "marek-hanski": {
+        "nationality": "POL"
+    },
+    "krzysztof-kupinski": {
+        "nationality": "POL"
+    },
+    "stefan-grieger": {
+        "nationality": "DEU"
+    },
+    "benjamin-descamps": {
+        "nationality": "FRA"
+    },
+    "peter-rempel": {
+        "nationality": "DEU"
+    },
+    "borja-de-los-rios": {
+        "nationality": "ESP"
+    },
+    "guillaume-sie": {
+        "nationality": "FRA"
+    },
+    "ilias-tselios": {
+        "nationality": "GRC"
+    },
+    "robert-lodder": {
+        "nationality": "NLD"
+    },
+    "daniele-vinciguerra": {
+        "nationality": "ITA"
+    },
+    "kevin-hecquet": {
+        "nationality": "FRA"
+    },
+    "lloyd-greenaway": {
+        "nationality": "GBR"
+    },
+    "jan-verwijmeren": {
+        "nationality": "NLD"
+    },
+    "christophe-boucardey": {
+        "nationality": "FRA"
+    },
+    "shining-kang": {
+        "nationality": "CHN"
+    },
+    "dongyuan-liu": {
+        "nationality": "CHN"
+    },
+    "kai-li": {
+        "nationality": "CHN"
+    },
+    "cheng-zuo": {
+        "nationality": "CHN"
+    },
+    "yongchuan-yu": {
+        "nationality": "CHN"
+    },
+    "jiawei-da": {
+        "nationality": "CHN"
+    },
+    "park-yongil": {
+        "nationality": "KOR"
+    },
+    "tosho-yohara": {
+        "nationality": "JPN"
+    },
+    "shuo-han": {
+        "nationality": "CHN"
+    },
+    "chun-cui": {
+        "nationality": "AUS"
+    },
+    "jianye-li": {
+        "nationality": "CHN"
+    },
+    "tong-zhou": {
+        "nationality": "CHN"
+    },
+    "peng-wang-------": {
+        "nationality": "CHN"
+    },
+    "di-wang": {
+        "nationality": "CHN"
+    },
+    "yi-ru": {
+        "nationality": "CHN"
+    },
+    "chan-song": {
+        "nationality": "CHN"
+    },
+    "hao-chen": {
+        "nationality": "CHN"
+    },
+    "jin-hao": {
+        "nationality": "CHN"
+    },
+    "yuanjun-li": {
+        "nationality": "CHN"
+    },
+    "yinbin-sha": {
+        "nationality": "CHN"
+    },
+    "ziyu-han": {
+        "nationality": "CHN"
+    },
+    "yihuan-song": {
+        "nationality": "CHN"
+    },
+    "filippo-sintoni": {
+        "nationality": "HKG"
+    },
+    "winnie-yau": {
+        "nationality": "HKG"
+    },
+    "libo-yang": {
+        "nationality": "CHN"
+    },
+    "edward-chen": {
+        "nationality": "CHN"
+    },
+    "liang-xu": {
+        "nationality": "CHN"
+    },
+    "huanyu-yu": {
+        "nationality": "CHN"
+    },
+    "jiacheng-zhou": {
+        "nationality": "CHN"
+    },
+    "zheng-gong": {
+        "nationality": "CHN"
+    },
+    "aoqi-chen": {
+        "nationality": "CHN"
+    },
+    "wai-guo": {
+        "nationality": "CHN"
+    },
+    "zhe-gao": {
+        "nationality": "CHN"
+    },
+    "wenbo-li": {
+        "nationality": "CHN"
+    },
+    "chenyang-xu": {
+        "nationality": "CHN"
+    },
+    "bai-chuan-liu": {
+        "nationality": "CHN"
+    },
+    "quan-zhou-------": {
+        "nationality": "CHN"
+    },
+    "fabian-winner": {
+        "nationality": "DEU"
+    },
+    "zhengrui-qian": {
+        "nationality": "CHN"
+    },
+    "yinqiu-yang": {
+        "nationality": "CHN"
+    },
+    "zhiqiang-shan": {
+        "nationality": "CHN"
+    },
+    "desai-zhao": {
+        "nationality": "CHN"
+    },
+    "hao-du": {
+        "nationality": "CHN"
+    },
+    "jinlong-xu": {
+        "nationality": "CHN"
+    },
+    "di-yao": {
+        "nationality": "CHN"
+    },
+    "longshen-feng": {
+        "nationality": "CHN"
+    },
+    "haiyang-xu": {
+        "nationality": "CHN"
+    },
+    "duoyan-li": {
+        "nationality": "CHN"
+    },
+    "bin-xiong": {
+        "nationality": "CHN"
+    },
+    "qiao-yang": {
+        "nationality": "CHN"
+    },
+    "yiyang-gu": {
+        "nationality": "CHN"
+    },
+    "shengyu-he": {
+        "nationality": "CHN"
+    },
+    "jia-liu-------": {
+        "nationality": "CHN"
+    },
+    "yi-wang-------": {
+        "nationality": "CHN"
+    }
 }
