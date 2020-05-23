@@ -79,7 +79,11 @@
         {
             "money": 3800,
             "name": "Eric Froehlich",
-            "propoints": 8
+            "propoints": 8,
+            "report": [
+                "http://web.archive.org/web/20010718003653/http://magic.mindripper.com/Index.cfm?ArticleID=1304&SectionID=3&Show=All",
+                "http://web.archive.org/web/20011111000827/http://magic.mindripper.com/Index.cfm?ArticleID=1312&SectionID=3&Show=All"
+            ]
         },
         {
             "money": 3500,
@@ -134,7 +138,11 @@
         {
             "money": 1800,
             "name": "Kai Budde",
-            "propoints": 6
+            "propoints": 6,
+            "report": [
+                "http://web.archive.org/web/20010502043515/http://magic.mindripper.com/Index.cfm?ArticleID=1330&SectionID=3&Show=All",
+                "http://web.archive.org/web/20010506212555/http://magic.mindripper.com/Index.cfm?ArticleID=1332&SectionID=3&Show=All"
+            ]
         },
         {
             "money": 1700,
@@ -622,7 +630,8 @@
         },
         {
             "name": "Christopher Manning",
-            "propoints": 2
+            "propoints": 2,
+            "report": "http://web.archive.org/web/20010506200727/http://magic.mindripper.com/Index.cfm?ArticleID=1350&SectionID=3&Show=All"
         },
         {
             "name": "Fabio Reinhardt",

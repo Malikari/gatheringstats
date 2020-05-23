@@ -14,7 +14,8 @@
         {
             "money": 30000,
             "name": "Kai Budde",
-            "propoints": 32
+            "propoints": 32,
+            "report": "http://web.archive.org/web/20010419185136/http://magic.mindripper.com/Index.cfm?ArticleID=1139&SectionID=3&Show=All"
         },
         {
             "money": 20000,
@@ -44,7 +45,11 @@
         {
             "money": 8000,
             "name": "Zvi Mowshowitz",
-            "propoints": 12
+            "propoints": 12,
+            "report": [
+                "http://web.archive.org/web/20010421132339/http://magic.mindripper.com/index.cfm?ArticleID=1124&SectionID=3&Show=All",
+                "http://web.archive.org/web/20010430211739/http://magic.mindripper.com/Index.cfm?ArticleID=1131&SectionID=3&Show=All"
+            ]
         },
         {
             "money": 7500,
@@ -395,7 +400,11 @@
         },
         {
             "name": "Seth Burn",
-            "propoints": 3
+            "propoints": 3,
+            "report": [
+                "http://web.archive.org/web/20010501010508/http://magic.mindripper.com/Index.cfm?ArticleID=1145&SectionID=3&Show=All",
+                "http://web.archive.org/web/20010801003651/http://magic.mindripper.com/Index.cfm?ArticleID=1174&SectionID=3&Show=All"
+            ]
         },
         {
             "name": "Darwin Kastle",
