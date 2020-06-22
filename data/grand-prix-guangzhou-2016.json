@@ -1,0 +1,610 @@
+{
+    "type": "Grand Prix",
+    "coverage": "https://magic.wizards.com/en/events/coverage/gpgua16",
+    "date": "August 27-28, 2016",
+    "season": "2016-17",
+    "formats": [
+        "Modern"
+    ],
+    "medium": "Tabletop",
+    "id": "grand-prix-guangzhou-2016",
+    "location": "Guangzhou, China",
+    "logo": "gplogo",
+    "name": "Grand Prix Guangzhou 2016",
+    "standings": [
+        {
+            "money": 10000,
+            "name": "Albertus Law",
+            "propoints": 8
+        },
+        {
+            "money": 5000,
+            "name": "Kon Fai Wu",
+            "propoints": 6
+        },
+        {
+            "money": 2500,
+            "name": "Zhong Yi Lim",
+            "propoints": 5
+        },
+        {
+            "money": 2500,
+            "name": "Kelvin Chew",
+            "propoints": 5
+        },
+        {
+            "money": 1500,
+            "name": "Jia Hao",
+            "propoints": 4
+        },
+        {
+            "money": 1500,
+            "name": "Ryoichi Tamada",
+            "propoints": 4
+        },
+        {
+            "money": 1500,
+            "name": "Kentaro Yamamoto",
+            "propoints": 4
+        },
+        {
+            "money": 1500,
+            "name": "Keita Kawasaki",
+            "propoints": 4
+        },
+        {
+            "money": 1000,
+            "name": "Joe Soh",
+            "propoints": 3
+        },
+        {
+            "money": 1000,
+            "name": "Yuuki Ichikawa",
+            "propoints": 3
+        },
+        {
+            "money": 1000,
+            "name": "Masahiko Shimada",
+            "propoints": 3
+        },
+        {
+            "money": 1000,
+            "name": "Kaitou Ou",
+            "propoints": 3
+        },
+        {
+            "money": 1000,
+            "name": "Yin Yu",
+            "propoints": 3
+        },
+        {
+            "money": 1000,
+            "name": "Liang-Choong Poh",
+            "propoints": 3
+        },
+        {
+            "money": 1000,
+            "name": "Xing Zhao",
+            "propoints": 3
+        },
+        {
+            "money": 1000,
+            "name": "Han Xiao",
+            "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Jason Chung",
+            "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Chin Yao Han",
+            "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Chi Fai Ng",
+            "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Kin Hei Zen Ho",
+            "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Weiqin Zhang",
+            "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Xiaoshi Lu",
+            "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Zhan Xie",
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Kazutaka Kobayashi",
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Hui Xiao",
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Kee Chun Ku",
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Yi Li",
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Xiaoyu Guo",
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Masaaki Hitomi",
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Kazuhiro Noine",
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Xiaoyan Li",
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "John Michael Cuaertero",
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Tomoharu Saito",
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Evan En Yao Chia",
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Jianjia Peng",
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Jing Li",
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Rafael Lagasca",
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Yilin Li",
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Hualin Bai",
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Di Ou",
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Joe Lam",
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Kenta Harane",
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Minxing Pan",
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Zihao Ji",
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Hojae Han",
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Quan Zhou",
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Haoyu Gong",
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Hao Bo Wang",
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Yuchen Liu",
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Chris Harrington",
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Wei Cheng",
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Yubin Chen",
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Sai Cheong Tang",
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Joo-Hyun Oh",
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Tak Choi Lau",
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Qi Wentao",
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Chiung-Hsien Chiu",
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Qiqian Wang",
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Yuya Hosokawa",
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Jun Li",
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Zhemin Chen",
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Chao Lu",
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Lumeng Chao",
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Shota Takao",
+            "propoints": 2
+        },
+        {
+            "name": "Tianyu Chu",
+            "propoints": 2
+        },
+        {
+            "name": "Jiabin Chen",
+            "propoints": 2
+        },
+        {
+            "name": "Zhi-Rui Lu",
+            "propoints": 1
+        },
+        {
+            "name": "Kiat Chau Chong",
+            "propoints": 1
+        },
+        {
+            "name": "Lun Yi Tan",
+            "propoints": 1
+        },
+        {
+            "name": "Weilong Yu",
+            "propoints": 1
+        },
+        {
+            "name": "Peng-Jie Lu",
+            "propoints": 1
+        },
+        {
+            "name": "Gengnan Ren",
+            "propoints": 1
+        },
+        {
+            "name": "Steven Yuen",
+            "propoints": 1
+        },
+        {
+            "name": "Elon Ng",
+            "propoints": 1
+        },
+        {
+            "name": "Wei Feng",
+            "propoints": 1
+        },
+        {
+            "name": "Siwei Xie",
+            "propoints": 1
+        },
+        {
+            "name": "Tatsuaki Yajima",
+            "propoints": 1
+        },
+        {
+            "name": "Xiaoxuan Wang",
+            "propoints": 1
+        },
+        {
+            "name": "Yin Xin",
+            "propoints": 1
+        },
+        {
+            "name": "Hua-Chao Song",
+            "propoints": 1
+        },
+        {
+            "name": "Chuan Sun",
+            "propoints": 1
+        },
+        {
+            "name": "Bo Sun",
+            "propoints": 1
+        },
+        {
+            "name": "Diyu Xiao",
+            "propoints": 1
+        },
+        {
+            "name": "Yang Chen (0888)",
+            "propoints": 1
+        },
+        {
+            "name": "Jia Hui Cai",
+            "propoints": 1
+        },
+        {
+            "name": "Han Shen Huang",
+            "propoints": 1
+        },
+        {
+            "name": "Abdul Rahman Abdul Hafiz",
+            "propoints": 1
+        },
+        {
+            "name": "Ling Che",
+            "propoints": 1
+        },
+        {
+            "name": "Ang Li (4241)",
+            "propoints": 1
+        },
+        {
+            "name": "Teruya Kakumae",
+            "propoints": 1
+        },
+        {
+            "name": "Luo Xiao-Yi",
+            "propoints": 1
+        },
+        {
+            "name": "Bohan Li",
+            "propoints": 1
+        },
+        {
+            "name": "Yi Lv",
+            "propoints": 1
+        },
+        {
+            "name": "Lin Liu",
+            "propoints": 1
+        },
+        {
+            "name": "Syndy Sum Chung",
+            "propoints": 1
+        },
+        {
+            "name": "Rodney Bedell",
+            "propoints": 1
+        },
+        {
+            "name": "Feng Da",
+            "propoints": 1
+        },
+        {
+            "name": "Lee Shi Tian",
+            "propoints": 1
+        },
+        {
+            "name": "Duoyan Li",
+            "propoints": 1
+        },
+        {
+            "name": "Dian Lv",
+            "propoints": 1
+        },
+        {
+            "name": "Jun'ichirou Bandou",
+            "propoints": 1
+        },
+        {
+            "name": "Shihan Song",
+            "propoints": 1
+        },
+        {
+            "name": "Maxwell Li",
+            "propoints": 1
+        },
+        {
+            "name": "Xiaoqi Qin",
+            "propoints": 1
+        },
+        {
+            "name": "Guopeng Huang",
+            "propoints": 1
+        },
+        {
+            "name": "Haokang Wang",
+            "propoints": 1
+        },
+        {
+            "name": "Yameng Kang",
+            "propoints": 1
+        },
+        {
+            "name": "Hiroyuki Kaga",
+            "propoints": 1
+        },
+        {
+            "name": "Hari Muralitheran",
+            "propoints": 1
+        },
+        {
+            "name": "Yimin Zhi",
+            "propoints": 1
+        },
+        {
+            "name": "Sammy Brent",
+            "propoints": 1
+        },
+        {
+            "name": "Yang Liu (2263)",
+            "propoints": 1
+        },
+        {
+            "name": "Akito Goshima",
+            "propoints": 1
+        },
+        {
+            "name": "Qiancheng Li",
+            "propoints": 1
+        },
+        {
+            "name": "Qian Yu",
+            "propoints": 1
+        },
+        {
+            "name": "Dilin Zhou",
+            "propoints": 1
+        },
+        {
+            "name": "Feijie Li",
+            "propoints": 1
+        },
+        {
+            "name": "Yang Hao-Wei",
+            "propoints": 1
+        },
+        {
+            "name": "Ken Sawada",
+            "propoints": 1
+        },
+        {
+            "name": "Ryosuke Urase",
+            "propoints": 1
+        },
+        {
+            "name": "Chenyang Xu",
+            "propoints": 1
+        },
+        {
+            "name": "Muhan Yu",
+            "propoints": 1
+        },
+        {
+            "name": "Kenny Lai",
+            "propoints": 1
+        },
+        {
+            "name": "Wei Wong Wong",
+            "propoints": 1
+        },
+        {
+            "name": "Suizhan Zhang",
+            "propoints": 1
+        },
+        {
+            "name": "Edwin Chong",
+            "propoints": 1
+        },
+        {
+            "name": "Gan Yan",
+            "propoints": 1
+        },
+        {
+            "name": "Zhongbo Zhang",
+            "propoints": 1
+        },
+        {
+            "name": "Zhiqiang Ren",
+            "propoints": 1
+        },
+        {
+            "name": "Ying Qi Liang",
+            "propoints": 1
+        },
+        {
+            "name": "Hok Chun Anson Wong",
+            "propoints": 1
+        },
+        {
+            "name": "Xiaopeng Wu",
+            "propoints": 1
+        }
+    ],
+    "teamsize": 1
+    
+}
