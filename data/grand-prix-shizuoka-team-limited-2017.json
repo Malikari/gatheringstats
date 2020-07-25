@@ -1,0 +1,535 @@
+{
+    "type": "Grand Prix",
+    "coverage": "https://magic.wizards.com/en/events/coverage/gpshi17-2",
+    "date": "September 30-October 1, 2017",
+    "season": "2017-18",
+    "formats": [
+        "Team Sealed Deck",
+        "Team Booster Draft"
+    ],
+    "medium": "Tabletop",
+    "id": "grand-prix-shizuoka-team-limited-2017",
+    "location": "Shizuoka, Japan",
+    "logo": "gplogo",
+    "name": "Grand Prix Shizuoka - Team Limited 2017",
+    "standings": [
+        {
+            "money": 5000,
+            "name": "Michio Abe",
+            "propoints": 6
+        },
+        {
+            "money": 5000,
+            "name": "Sho Hayakawa",
+            "propoints": 6
+        },
+        {
+            "money": 5000,
+            "name": "Kentarou Tachibana",
+            "propoints": 6
+        },
+        {
+            "money": 2500,
+            "name": "Kelvin Chew",
+            "propoints": 5
+        },
+        {
+            "money": 2500,
+            "name": "Lee Shi Tian",
+            "propoints": 5
+        },
+        {
+            "money": 2500,
+            "name": "Jeremy Dezani",
+            "propoints": 5
+        },
+        {
+            "money": 1250,
+            "name": "Yuuya Watanabe",
+            "propoints": 4
+        },
+        {
+            "money": 1250,
+            "name": "Hajime Nakamura",
+            "propoints": 4
+        },
+        {
+            "money": 1250,
+            "name": "Shota Yasooka",
+            "propoints": 4
+        },
+        {
+            "money": 1250,
+            "name": "Taisuke Ishii",
+            "propoints": 4
+        },
+        {
+            "money": 1250,
+            "name": "Hironobu Sugaya",
+            "propoints": 4
+        },
+        {
+            "money": 1250,
+            "name": "Yukio Kozakai",
+            "propoints": 4
+        },
+        {
+            "money": 700,
+            "name": "Saito",
+            "propoints": 4
+        },
+        {
+            "money": 700,
+            "name": "Sakai",
+            "propoints": 4
+        },
+        {
+            "money": 700,
+            "name": "Naide",
+            "propoints": 4
+        },
+        {
+            "money": 700,
+            "name": "Kumasaka",
+            "propoints": 3
+        },
+        {
+            "money": 700,
+            "name": "Iwama",
+            "propoints": 3
+        },
+        {
+            "money": 700,
+            "name": "Komiyama",
+            "propoints": 3
+        },
+        {
+            "money": 700,
+            "name": "Shunsuke Yao",
+            "propoints": 3
+        },
+        {
+            "money": 700,
+            "name": "Masashiro Kuroda",
+            "propoints": 3
+        },
+        {
+            "money": 700,
+            "name": "Kojiro Omonishi",
+            "propoints": 3
+        },
+        {
+            "money": 700,
+            "name": "Kawaguchi",
+            "propoints": 3
+        },
+        {
+            "money": 700,
+            "name": "Kondo",
+            "propoints": 3
+        },
+        {
+            "money": 700,
+            "name": "Yuichiro",
+            "propoints": 3
+        },
+        {
+            "money": 600,
+            "name": "Nakamura",
+            "propoints": 3
+        },
+        {
+            "money": 600,
+            "name": "Akihiro",
+            "propoints": 3
+        },
+        {
+            "money": 600,
+            "name": "Sasaki",
+            "propoints": 3
+        },
+        {
+            "money": 600,
+            "name": "Yin",
+            "propoints": 3
+        },
+        {
+            "money": 600,
+            "name": "Xie",
+            "propoints": 3
+        },
+        {
+            "money": 600,
+            "name": "Wang",
+            "propoints": 3
+        },
+        {
+            "money": 600,
+            "name": "Ohki",
+            "propoints": 3
+        },
+        {
+            "money": 600,
+            "name": "Kamata",
+            "propoints": 3
+        },
+        {
+            "money": 600,
+            "name": "Yamazaki",
+            "propoints": 3
+        },
+        {
+            "money": 600,
+            "name": "Itoh",
+            "propoints": 3
+        },
+        {
+            "money": 600,
+            "name": "Maseguchi",
+            "propoints": 3
+        },
+        {
+            "money": 600,
+            "name": "Suzuki",
+            "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Chen",
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Liguo",
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Zhi",
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Imai",
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Hiroki",
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Takami",
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Sun",
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Guo",
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Zhang",
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Teruya Kakumae",
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Keita Kawasaki",
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Ryoichi Tamada",
+            "propoints": 2
+        },
+        {
+            "money": 400,
+            "name": "Yamaguchi",
+            "propoints": 2
+        },
+        {
+            "money": 400,
+            "name": "Nose",
+            "propoints": 2
+        },
+        {
+            "money": 400,
+            "name": "Shiozu",
+            "propoints": 2
+        },
+        {
+            "money": 400,
+            "name": "Hibino",
+            "propoints": 2
+        },
+        {
+            "money": 400,
+            "name": "Nakamura",
+            "propoints": 2
+        },
+        {
+            "money": 400,
+            "name": "Tonouchi",
+            "propoints": 2
+        },
+        {
+            "money": 400,
+            "name": "Kazuki",
+            "propoints": 2
+        },
+        {
+            "money": 400,
+            "name": "Yamada",
+            "propoints": 2
+        },
+        {
+            "money": 400,
+            "name": "Kubota",
+            "propoints": 2
+        },
+        {
+            "money": 400,
+            "name": "Aziz Riphat",
+            "propoints": 1
+        },
+        {
+            "money": 400,
+            "name": "Joe Soh",
+            "propoints": 1
+        },
+        {
+            "money": 400,
+            "name": "Justin Robb",
+            "propoints": 1
+        },
+        {
+            "money": 300,
+            "name": "Shimizu",
+            "propoints": 1
+        },
+        {
+            "money": 300,
+            "name": "Hata",
+            "propoints": 1
+        },
+        {
+            "money": 300,
+            "name": "Ono",
+            "propoints": 1
+        },
+        {
+            "money": 300,
+            "name": "Arai",
+            "propoints": 1
+        },
+        {
+            "money": 300,
+            "name": "Itou",
+            "propoints": 1
+        },
+        {
+            "money": 300,
+            "name": "Taru",
+            "propoints": 1
+        },
+        {
+            "money": 300,
+            "name": "Shiraishi",
+            "propoints": 1
+        },
+        {
+            "money": 300,
+            "name": "Hada",
+            "propoints": 1
+        },
+        {
+            "money": 300,
+            "name": "Nuruki",
+            "propoints": 1
+        },
+        {
+            "money": 300,
+            "name": "Takeda",
+            "propoints": 1
+        },
+        {
+            "money": 300,
+            "name": "Iwaide",
+            "propoints": 1
+        },
+        {
+            "money": 300,
+            "name": "Kasuga",
+            "propoints": 1
+        },
+        {
+            "name": "Yoshida",
+            "propoints": 1
+        },
+        {
+            "name": "Higashi",
+            "propoints": 1
+        },
+        {
+            "name": "Kuroda",
+            "propoints": 1
+        },
+        {
+            "name": "Furukawa",
+            "propoints": 1
+        },
+        {
+            "name": "Yokoi",
+            "propoints": 1
+        },
+        {
+            "name": "Hamada",
+            "propoints": 1
+        },
+        {
+            "name": "Ogawa",
+            "propoints": 1
+        },
+        {
+            "name": "Sato",
+            "propoints": 1
+        },
+        {
+            "name": "Minamitani",
+            "propoints": 1
+        },
+        {
+            "name": "Kondo",
+            "propoints": 1
+        },
+        {
+            "name": "Iwamoto",
+            "propoints": 1
+        },
+        {
+            "name": "Maegawa",
+            "propoints": 1
+        },
+        {
+            "name": "Tajima",
+            "propoints": 1
+        },
+        {
+            "name": "Oshimi",
+            "propoints": 1
+        },
+        {
+            "name": "Suzuki",
+            "propoints": 1
+        },
+        {
+            "name": "Oshima",
+            "propoints": 1
+        },
+        {
+            "name": "Ito",
+            "propoints": 1
+        },
+        {
+            "name": "Nakano",
+            "propoints": 1
+        },
+        {
+            "name": "Tsutsui",
+            "propoints": 1
+        },
+        {
+            "name": "Nagao",
+            "propoints": 1
+        },
+        {
+            "name": "Kokubu",
+            "propoints": 1
+        },
+        {
+            "name": "Nanba",
+            "propoints": 1
+        },
+        {
+            "name": "Maruyama",
+            "propoints": 1
+        },
+        {
+            "name": "Asaumi",
+            "propoints": 1
+        },
+        {
+            "name": "Umeyama",
+            "propoints": 1
+        },
+        {
+            "name": "Kamoi",
+            "propoints": 1
+        },
+        {
+            "name": "Nakaso",
+            "propoints": 1
+        },
+        {
+            "name": "Hiwatashi",
+            "propoints": 1
+        },
+        {
+            "name": "Kaneko",
+            "propoints": 1
+        },
+        {
+            "name": "Osawa",
+            "propoints": 1
+        },
+        {
+            "name": "Hashigaya",
+            "propoints": 1
+        },
+        {
+            "name": "Shiina",
+            "propoints": 1
+        },
+        {
+            "name": "Shinkai",
+            "propoints": 1
+        },
+        {
+            "name": "Hirose",
+            "propoints": 1
+        },
+        {
+            "name": "Murao",
+            "propoints": 1
+        },
+        {
+            "name": "Mori",
+            "propoints": 1
+        },
+        {
+            "name": "Aizawa",
+            "propoints": 1
+        },
+        {
+            "name": "Ieda",
+            "propoints": 1
+        },
+        {
+            "name": "Ikeda",
+            "propoints": 1
+        }
+    ],
+    "teamsize": 3
+    
+}
