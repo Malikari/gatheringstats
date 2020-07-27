@@ -1,0 +1,547 @@
+{
+    "type": "Grand Prix",
+    "coverage": "https://magic.wizards.com/en/events/coverage/gpsin17",
+    "date": "December 16-17, 2017",
+    "season": "2017-18",
+    "formats": [
+        "Sealed Deck",
+        "Booster Draft"
+    ],
+    "medium": "Tabletop",
+    "id": "grand-prix-singapore-2017",
+    "location": "Singapore, Singapore",
+    "logo": "gplogo",
+    "name": "Grand Prix Singapore 2017",
+    "standings": [
+        {
+            "money": 10000,
+            "name": "Zhong Yi Lim",
+            "matchpoints": 37,
+            "propoints": 8
+        },
+        {
+            "money": 5000,
+            "name": "Minxing Pan",
+            "matchpoints": 37,
+            "propoints": 6
+        },
+        {
+            "money": 2500,
+            "name": "Tomoharu Saito",
+            "matchpoints": 37,
+            "propoints": 5
+        },
+        {
+            "money": 2500,
+            "name": "Rong Gu",
+            "matchpoints": 37,
+            "propoints": 5
+        },
+        {
+            "money": 1500,
+            "name": "Wing Chun Yam",
+            "matchpoints": 37,
+            "propoints": 4
+        },
+        {
+            "money": 1500,
+            "name": "Kenta Harane",
+            "matchpoints": 37,
+            "propoints": 4
+        },
+        {
+            "money": 1500,
+            "name": "Shuhei Nakamura",
+            "matchpoints": 36,
+            "propoints": 4
+        },
+        {
+            "money": 1500,
+            "name": "Jefferson Lee",
+            "matchpoints": 36,
+            "propoints": 4
+        },
+        {
+            "money": 1000,
+            "name": "Kensuke Takaya",
+            "matchpoints": 36,
+            "propoints": 3
+        },
+        {
+            "money": 1000,
+            "name": "Mitsuhiro Tada",
+            "matchpoints": 36,
+            "propoints": 3
+        },
+        {
+            "money": 1000,
+            "name": "Chan Sze Hang",
+            "matchpoints": 36,
+            "propoints": 3
+        },
+        {
+            "money": 1000,
+            "name": "Albert Budisanjaya",
+            "matchpoints": 36,
+            "propoints": 3
+        },
+        {
+            "money": 1000,
+            "name": "Yuya Sugiyama",
+            "matchpoints": 36,
+            "propoints": 3
+        },
+        {
+            "money": 1000,
+            "name": "Theeradet Yingviriyaprapan",
+            "matchpoints": 36,
+            "propoints": 3
+        },
+        {
+            "money": 1000,
+            "name": "Yasutomo Oomori",
+            "matchpoints": 36,
+            "propoints": 3
+        },
+        {
+            "money": 1000,
+            "name": "Wei San Ng",
+            "matchpoints": 34,
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Clement Ang",
+            "matchpoints": 34,
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Kelvin Chew",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Toru Inoue",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Taiga Tsujikawa",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Qi Wentao",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Kon Fai Wu",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Yuki Matsumoto",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Shota Yasooka",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Isaiah Ley",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Peiyuan Zheng",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Yuchen Liu",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Alex Zhong",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Mathias Passin",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Takeshi Ozawa",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Haokang Wang",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Ryan Luo",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "John Benedict Gonzales",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Kuang Kai Tian",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Calvin Ong",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Colinn Shae",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Zhan Xie",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Lin Ruizi",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Mohamad Hafiz Hamidon",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Wong Siong",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Shang Song",
+            "matchpoints": 32,
+            "propoints": 1
+        },
+        {
+            "money": 250,
+            "name": "Yuuki Ichikawa",
+            "matchpoints": 31,
+            "propoints": 1
+        },
+        {
+            "money": 250,
+            "name": "Aziz Riphat",
+            "matchpoints": 31,
+            "propoints": 1
+        },
+        {
+            "money": 250,
+            "name": "Chung Wye Hee",
+            "matchpoints": 31,
+            "propoints": 1
+        },
+        {
+            "money": 250,
+            "name": "Jae-Joon Choi",
+            "matchpoints": 31,
+            "propoints": 1
+        },
+        {
+            "money": 250,
+            "name": "Ching Kong Yu",
+            "matchpoints": 31,
+            "propoints": 1
+        },
+        {
+            "money": 250,
+            "name": "Raymond Liang Koh",
+            "matchpoints": 31,
+            "propoints": 1
+        },
+        {
+            "money": 250,
+            "name": "Ding Yi",
+            "matchpoints": 31,
+            "propoints": 1
+        },
+        {
+            "money": 250,
+            "name": "Ippei Ikeda",
+            "matchpoints": 31,
+            "propoints": 1
+        },
+        {
+            "money": 250,
+            "name": "Ekapong Pornpromlikit",
+            "matchpoints": 31,
+            "propoints": 1
+        },
+        {
+            "money": 250,
+            "name": "Yow Kar Leng",
+            "matchpoints": 31,
+            "propoints": 1
+        },
+        {
+            "money": 250,
+            "name": "Thirawat Chaovarindr",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "money": 250,
+            "name": "Chye Hwee Heng",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "money": 250,
+            "name": "Yimin Zhi",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "money": 250,
+            "name": "Ken Yukuhiro",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "money": 250,
+            "name": "Genta Hagiwara",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "money": 250,
+            "name": "Jake Hart",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "money": 250,
+            "name": "Wouter Kneepkens",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "money": 250,
+            "name": "Takuma Morofuji",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "money": 250,
+            "name": "Kensuke Tanji",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "money": 250,
+            "name": "Luolin Zhang",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "money": 250,
+            "name": "Nicholas Wong",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "money": 250,
+            "name": "Kazutaka Kobayashi",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "money": 250,
+            "name": "Sjoerd Willems",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Channarong Sutthisakorn",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Tomoya Tsubouchi",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Yian Hsiang Chye",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Keita Kawasaki",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Kynan Prabhata",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Christian Wijaya",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Hao-Shan Huang",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Felix Leong",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Ernest Lim",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Han Bing",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Daniel Brown",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Eugene Wong",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Adwin Lim",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Jeffrey Chan",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Sam Lau",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Roel Soliveres",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Xuan Wu",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Jason Loh",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Rick Lee",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Shawn Mcneace",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Jun Ishihara",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Steven Tan",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Yuta Takahashi",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Tomohiro Kaji",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Timothy Lee",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Kok Chiang Yeo",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Hitoshi Tomomura",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Tobey Tamber",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Winsen Cher Sen Neo",
+            "matchpoints": 30,
+            "propoints": 1
+        }
+    ],
+    "teamsize": 1
+}
