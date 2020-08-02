@@ -1,0 +1,702 @@
+{
+    "type": "Grand Prix",
+    "coverage": "https://magic.wizards.com/en/events/coverage/gpdfw18/",
+    "date": "May 5-6, 2018",
+    "season": "2017-18",
+    "formats": [
+        "Sealed Deck",
+        "Booster Draft"
+    ],
+    "medium": "Tabletop",
+    "id": "grand-prix-dallas-fort-worth-2018",
+    "location": "Fort Worth, Texas, United States",
+    "logo": "gplogo",
+    "name": "Grand Prix Dallas-Fort Worth 2018",
+    "standings": [
+        {
+            "money": 10000,
+            "name": "Robert Brown",
+            "matchpoints": 39,
+            "propoints": 8
+        },
+        {
+            "money": 5000,
+            "name": "William Craddock",
+            "matchpoints": 39,
+            "propoints": 6
+        },
+        {
+            "money": 2500,
+            "name": "Aaron Rubin",
+            "matchpoints": 40,
+            "propoints": 5
+        },
+        {
+            "money": 2500,
+            "name": "Vikram Kudva",
+            "matchpoints": 39,
+            "propoints": 5
+        },
+        {
+            "money": 1500,
+            "name": "Matt Stankey",
+            "matchpoints": 39,
+            "propoints": 4
+        },
+        {
+            "money": 1500,
+            "name": "Andrew Elenbogen",
+            "matchpoints": 39,
+            "propoints": 4
+        },
+        {
+            "money": 1500,
+            "name": "Jose Daniel Garcia Rosas",
+            "matchpoints": 39,
+            "propoints": 4
+        },
+        {
+            "money": 1500,
+            "name": "William Hahn",
+            "matchpoints": 38,
+            "propoints": 4
+        },
+        {
+            "money": 1000,
+            "name": "Jay Trojan",
+            "matchpoints": 36,
+            "propoints": 3
+        },
+        {
+            "money": 1000,
+            "name": "Seth Manfield",
+            "matchpoints": 36,
+            "propoints": 3
+        },
+        {
+            "money": 1000,
+            "name": "Jack Dobbin",
+            "matchpoints": 36,
+            "propoints": 3
+        },
+        {
+            "money": 1000,
+            "name": "Matthew Nass",
+            "matchpoints": 36,
+            "propoints": 3
+        },
+        {
+            "money": 1000,
+            "name": "Caner Aktas",
+            "matchpoints": 36,
+            "propoints": 3
+        },
+        {
+            "money": 1000,
+            "name": "Kyle Peters",
+            "matchpoints": 36,
+            "propoints": 3
+        },
+        {
+            "money": 1000,
+            "name": "Cynic Kim",
+            "matchpoints": 36,
+            "propoints": 3
+        },
+        {
+            "money": 1000,
+            "name": "David Thomas",
+            "matchpoints": 36,
+            "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Bryan Hohns",
+            "matchpoints": 36,
+            "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Austin Mowrey",
+            "matchpoints": 36,
+            "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Michael Bernat",
+            "matchpoints": 36,
+            "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Matt Sikkink Johnson",
+            "matchpoints": 36,
+            "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Max Sabor",
+            "matchpoints": 36,
+            "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Paul Rietzl",
+            "matchpoints": 36,
+            "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Jim Still Jr.",
+            "matchpoints": 36,
+            "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Daniel Hall",
+            "matchpoints": 36,
+            "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Craig Edwards",
+            "matchpoints": 36,
+            "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Shawn Sloan",
+            "matchpoints": 34,
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Daniel Troha",
+            "matchpoints": 34,
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Vidianto Wijaya",
+            "matchpoints": 34,
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Stephen Pierce",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Peter Maginnis",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Samuel Black",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Matthew Resnick",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Jeff Hong",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Ben Stark",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Matthew Severa",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Brandon Ayers",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Matthew Goslar",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Rebecca Bell",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Ian Birrell",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "John Wells",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Erik Swanson",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Steven Martinez",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Maxwell Mick",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Jack Kiefer",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Lucien Longlais",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Benjamin Weitz",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "David McCoy",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Richard Neal",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Joe Clausen",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Ben Friedman",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Steven Rubin",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Daniel Kaufman",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Elliot Radsliff",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Adam Fox",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Shuhei Nakamura",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "James Conboy",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Jacob Burch",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Jamie Rutledge",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "John McMillen",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Jeremy Cloyd",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Cuauhtemoc Zizumbo",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Benjamin Yasui",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Christopher Crescenti",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Luke Goodwin",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "name": "Robert Swarowski",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "name": "Christopher Fernandez",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "name": "Christine Benson",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "name": "Kenny Hudman",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "name": "Michael O'Connell",
+            "matchpoints": 31,
+            "propoints": 1
+        },
+        {
+            "name": "Ryan Sutherland",
+            "matchpoints": 31,
+            "propoints": 1
+        },
+        {
+            "name": "William Bush",
+            "matchpoints": 31,
+            "propoints": 1
+        },
+        {
+            "name": "David Pierce",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Stephen Neal",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Cameron Sullivan",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Haoran Ling",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Craig Wescoe",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Jared Tomlinson",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Brian Braun-Duin",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Andranik Tonianse",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Silas Waltzer",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Lee Marino",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Woodrow Engle",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Max Slingerland",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Jamie Parke",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Mitchell Edwards",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Ramon Vazquez",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Jason Lannan",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "David Zureick-Brown",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Ray Huang",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Steve Wise",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Mahendra Raval",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Carlos Pal",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Lucas Niday",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Fernando Jose Juarez Oliva",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Brian Heine",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Ian Barber",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Jimmie Smith",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Neal Sacks",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Caleb Myers",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Samuel Ihlenfeldt",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Haibing Hu",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Zack Witten",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Matthew Styskal",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Hans Feng",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Matthew Riecks",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Joe Demestrio",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Ethan Griffith",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Zizhuang Yang",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Micah Rinehart",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Daniel Wong",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Jon Nelson",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Michael Jordan",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Anthony Eason",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Jesus Cervantes",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "John Asbach",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Andrew Kaufman",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Zachary Acrey",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Tim Batow",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Dane Robertson",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Timothy Thomason",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "David Rosales",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Ian Plantz",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Gregory Michel",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Minkang Zhang",
+            "matchpoints": 30,
+            "propoints": 1
+        }
+    ],
+    "teamsize": 1
+}

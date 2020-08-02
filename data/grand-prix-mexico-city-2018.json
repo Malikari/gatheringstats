@@ -1,0 +1,381 @@
+{
+    "type": "Grand Prix",
+    "coverage": "https://magic.wizards.com/en/events/coverage/gpmex18",
+    "date": "October 6-7, 2018",
+    "season": "2018-19",
+    "formats": [
+        "Sealed Deck",
+        "Booster Draft"
+    ],
+    "medium": "Tabletop",
+    "id": "grand-prix-mexico-city-2018",
+    "location": "Mexico City, Mexico",
+    "logo": "gplogo",
+    "name": "Grand Prix Mexico City 2018",
+    "standings": [
+        {
+            "money": 10000,
+            "name": "Mark Jacobson",
+            "matchpoints": 37,
+            "propoints": 8
+        },
+        {
+            "money": 5000,
+            "name": "Logan Nettles",
+            "matchpoints": 37,
+            "propoints": 6
+        },
+        {
+            "money": 2500,
+            "name": "Jason Chan",
+            "matchpoints": 37,
+            "propoints": 5
+        },
+        {
+            "money": 2500,
+            "name": "Francisco Sifuentes",
+            "matchpoints": 36,
+            "propoints": 5
+        },
+        {
+            "money": 1500,
+            "name": "Steven Rubin",
+            "matchpoints": 37,
+            "propoints": 4
+        },
+        {
+            "money": 1500,
+            "name": "Martin Juza",
+            "matchpoints": 36,
+            "propoints": 4
+        },
+        {
+            "money": 1500,
+            "name": "Carlos Pal",
+            "matchpoints": 36,
+            "propoints": 4
+        },
+        {
+            "money": 1500,
+            "name": "Felix Grezes",
+            "matchpoints": 36,
+            "propoints": 4
+        },
+        {
+            "money": 1000,
+            "name": "Craig Edwards",
+            "matchpoints": 36,
+            "propoints": 3
+        },
+        {
+            "money": 1000,
+            "name": "Corey Burkhart",
+            "matchpoints": 34,
+            "propoints": 2
+        },
+        {
+            "money": 1000,
+            "name": "Lance Austin",
+            "matchpoints": 34,
+            "propoints": 2
+        },
+        {
+            "money": 1000,
+            "name": "Mario Flores",
+            "matchpoints": 34,
+            "propoints": 2
+        },
+        {
+            "money": 1000,
+            "name": "Samuel Black",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 1000,
+            "name": "Chapman Sim",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 1000,
+            "name": "Russell Komor",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 1000,
+            "name": "Jesus Aguilar",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Brian Heine",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Tad Macaraeg",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Sarah England",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Luis David Martinez Sotelo",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Ryder Aguilera",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Joel De Santos",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Dalibor Trnka",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "David Martinez Perez",
+            "matchpoints": 32,
+            "propoints": 1
+        },
+        {
+            "money": 500,
+            "name": "Jared Calabrese",
+            "matchpoints": 31,
+            "propoints": 1
+        },
+        {
+            "money": 500,
+            "name": "Ben Friedman",
+            "matchpoints": 31,
+            "propoints": 1
+        },
+        {
+            "money": 500,
+            "name": "Julian Riveros",
+            "matchpoints": 31,
+            "propoints": 1
+        },
+        {
+            "money": 500,
+            "name": "Erik Trejo Garcia",
+            "matchpoints": 31,
+            "propoints": 1
+        },
+        {
+            "money": 500,
+            "name": "Fernando Jose Juarez Oliva",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "money": 500,
+            "name": "Rob Pisano",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "money": 500,
+            "name": "Kevin Perez",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "money": 500,
+            "name": "Jose Daniel Garcia Rosas",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "money": 250,
+            "name": "Oscar Acoltzi",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "money": 250,
+            "name": "Eder Vlamir Appel",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "money": 250,
+            "name": "Carlos Alberto Medina Lopez",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "money": 250,
+            "name": "Parzifal Clavijo",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "money": 250,
+            "name": "Juan Felipe Velasquez Franco",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "money": 250,
+            "name": "Carlos Espinosa",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "money": 250,
+            "name": "Abe Corrigan",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "money": 250,
+            "name": "Alam Aguilar Campos",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "money": 250,
+            "name": "Ben Hull",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "money": 250,
+            "name": "Jose Francisco Avila Garcia",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "money": 250,
+            "name": "Alexander West",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "money": 250,
+            "name": "Juan Jose Valladares Grimaldo",
+            "matchpoints": 27
+        },
+        {
+            "money": 250,
+            "name": "Fabian Lucero",
+            "matchpoints": 27
+        },
+        {
+            "money": 250,
+            "name": "Christopher Virula",
+            "matchpoints": 27
+        },
+        {
+            "money": 250,
+            "name": "Alexander Sacal",
+            "matchpoints": 27
+        },
+        {
+            "money": 250,
+            "name": "Marcelino Freeman",
+            "matchpoints": 27
+        },
+        {
+            "money": 250,
+            "name": "Pablo Leonardo",
+            "matchpoints": 27
+        },
+        {
+            "money": 250,
+            "name": "Gregory Sokol",
+            "matchpoints": 27
+        },
+        {
+            "money": 250,
+            "name": "Marlon Jacob Avila Gutierrez",
+            "matchpoints": 27
+        },
+        {
+            "money": 250,
+            "name": "Takashi Matsushita",
+            "matchpoints": 27
+        },
+        {
+            "money": 250,
+            "name": "Grant Christopher",
+            "matchpoints": 27
+        },
+        {
+            "money": 250,
+            "name": "Ivan Emmanuel Zamudio Jimenez",
+            "matchpoints": 27
+        },
+        {
+            "money": 250,
+            "name": "Christopher Wredberg",
+            "matchpoints": 27
+        },
+        {
+            "money": 250,
+            "name": "Ralph Betesh",
+            "matchpoints": 27
+        },
+        {
+            "money": 250,
+            "name": "Javier Villouta",
+            "matchpoints": 27
+        },
+        {
+            "money": 250,
+            "name": "Carlos Martinez",
+            "matchpoints": 27
+        },
+        {
+            "money": 250,
+            "name": "Fernando Dominguez Roldan",
+            "matchpoints": 27
+        },
+        {
+            "money": 250,
+            "name": "Juan Paz",
+            "matchpoints": 27
+        },
+        {
+            "money": 250,
+            "name": "Allan Boone Ramirez",
+            "matchpoints": 27
+        },
+        {
+            "money": 250,
+            "name": "Juan-Carlos Contreras",
+            "matchpoints": 27
+        },
+        {
+            "money": 250,
+            "name": "Miguel Angel Rodriguez",
+            "matchpoints": 27
+        },
+        {
+            "money": 250,
+            "name": "Juan Carlos Botis",
+            "matchpoints": 26
+        }
+    ],
+    "teamsize": 1
+}

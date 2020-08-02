@@ -1,0 +1,447 @@
+{
+    "type": "Grand Prix",
+    "coverage": "https://magic.wizards.com/en/events/coverage/gpbol18",
+    "date": "April 28-29, 2018",
+    "season": "2017-18",
+    "formats": [
+        "Team Sealed Deck",
+        "Team Booster Draft"
+    ],
+    "medium": "Tabletop",
+    "id": "grand-prix-bologna-2018",
+    "location": "Bologna, Italy",
+    "logo": "gplogo",
+    "name": "Grand Prix Bologna 2018",
+    "standings": [
+        {
+                "money": 5000,
+                "name": "Antonio Pinto",
+                "matchpoints": 34,
+                "propoints": 6
+            },
+            {
+                "money": 5000,
+                "name": "Davide Miani",
+                "matchpoints": 34,
+                "propoints": 6
+            },
+            {
+                "money": 5000,
+                "name": "Usama Sajjad",
+                "matchpoints": 34,
+                "propoints": 6
+            },
+            {
+                "money": 2500,
+                "name": "Matthew Foulkes",
+                "matchpoints": 34,
+                "propoints": 5
+            },
+            {
+                "money": 2500,
+                "name": "Fabrizio Anteri",
+                "matchpoints": 34,
+                "propoints": 5
+            },
+            {
+                "money": 2500,
+                "name": "Peter Ward",
+                "matchpoints": 34,
+                "propoints": 5
+            },
+            {
+                "money": 1250,
+                "name": "Joonas Eloranta",
+                "matchpoints": 37,
+                "propoints": 4
+            },
+            {
+                "money": 1250,
+                "name": "Jori Hukka",
+                "matchpoints": 37,
+                "propoints": 4
+            },
+            {
+                "money": 1250,
+                "name": "Matti Kuisma",
+                "matchpoints": 37,
+                "propoints": 4
+            },
+            {
+                "money": 1250,
+                "name": "Andrej Rutar",
+                "matchpoints": 34,
+                "propoints": 4
+            },
+            {
+                "money": 1250,
+                "name": "Robin Dolar",
+                "matchpoints": 34,
+                "propoints": 4
+            },
+            {
+                "money": 1250,
+                "name": "Davor Detecnik",
+                "matchpoints": 34,
+                "propoints": 4
+            },
+            {
+                "money": 700,
+                "name": "Selvaggi",
+                "matchpoints": 33,
+                "propoints": 3
+            },
+            {
+                "money": 700,
+                "name": "Schiliro",
+                "matchpoints": 33,
+                "propoints": 3
+            },
+            {
+                "money": 700,
+                "name": "Motta",
+                "matchpoints": 33,
+                "propoints": 3
+            },
+            {
+                "money": 700,
+                "name": "Oliver Polak-Rottmann",
+                "matchpoints": 33,
+                "propoints": 3
+            },
+            {
+                "money": 700,
+                "name": "David Reitbauer",
+                "matchpoints": 33,
+                "propoints": 3
+            },
+            {
+                "money": 700,
+                "name": "Elias Klocker",
+                "matchpoints": 33,
+                "propoints": 3
+            },
+            {
+                "money": 700,
+                "name": "Panagiotis Papadopoulos",
+                "matchpoints": 32,
+                "propoints": 2
+            },
+            {
+                "money": 700,
+                "name": "Aleksa Telarov",
+                "matchpoints": 32,
+                "propoints": 2
+            },
+            {
+                "money": 700,
+                "name": "Stjepan Sucic",
+                "matchpoints": 32,
+                "propoints": 2
+            },
+            {
+                "money": 700,
+                "name": "Boaretto",
+                "matchpoints": 32,
+                "propoints": 2
+            },
+            {
+                "money": 700,
+                "name": "Bacco",
+                "matchpoints": 32,
+                "propoints": 2
+            },
+            {
+                "money": 700,
+                "name": "Venturelli",
+                "matchpoints": 32,
+                "propoints": 2
+            },
+            {
+                "money": 600,
+                "name": "Sveinung Bjørnerud",
+                "matchpoints": 31,
+                "propoints": 2
+            },
+            {
+                "money": 600,
+                "name": "Andreas Nordahl",
+                "matchpoints": 31,
+                "propoints": 2
+            },
+            {
+                "money": 600,
+                "name": "Espen Nordahl",
+                "matchpoints": 31,
+                "propoints": 2
+            },
+            {
+                "money": 600,
+                "name": "Francesco Pini",
+                "matchpoints": 31,
+                "propoints": 2
+            },
+            {
+                "money": 600,
+                "name": "Luca Bergonzoni",
+                "matchpoints": 31,
+                "propoints": 2
+            },
+            {
+                "money": 600,
+                "name": "Nicolo Sarti",
+                "matchpoints": 31,
+                "propoints": 2
+            },
+            {
+                "money": 600,
+                "name": "Hristiyan Ivanov",
+                "matchpoints": 31,
+                "propoints": 2
+            },
+            {
+                "money": 600,
+                "name": "Lenard Hristov",
+                "matchpoints": 31,
+                "propoints": 2
+            },
+            {
+                "money": 600,
+                "name": "Nikola Rashkov",
+                "matchpoints": 31,
+                "propoints": 2
+            },
+            {
+                "money": 600,
+                "name": "Lindeman",
+                "matchpoints": 31,
+                "propoints": 2
+            },
+            {
+                "money": 600,
+                "name": "Weeda",
+                "matchpoints": 31,
+                "propoints": 2
+            },
+            {
+                "money": 600,
+                "name": "De Jonge",
+                "matchpoints": 31,
+                "propoints": 2
+            },
+            {
+                "money": 500,
+                "name": "Enrico Baldrati",
+                "matchpoints": 31,
+                "propoints": 2
+            },
+            {
+                "money": 500,
+                "name": "Federico Ronchi",
+                "matchpoints": 31,
+                "propoints": 2
+            },
+            {
+                "money": 500,
+                "name": "Marco Malatesta",
+                "matchpoints": 31,
+                "propoints": 2
+            },
+            {
+                "money": 500,
+                "name": "Haka",
+                "matchpoints": 31,
+                "propoints": 2
+            },
+            {
+                "money": 500,
+                "name": "Weber",
+                "matchpoints": 31,
+                "propoints": 2
+            },
+            {
+                "money": 500,
+                "name": "Kratena",
+                "matchpoints": 31,
+                "propoints": 2
+            },
+            {
+                "money": 500,
+                "name": "Francesco Cipolleschi",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 500,
+                "name": "Riccardo Picciafuochi",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 500,
+                "name": "Calvetto",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 500,
+                "name": "Brorsson",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 500,
+                "name": "Molder",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 500,
+                "name": "Lane",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 400,
+                "name": "Aahlstroem",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 400,
+                "name": "Rask",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 400,
+                "name": "Desax",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 400,
+                "name": "Ondrej Strasky",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 400,
+                "name": "Thomas Hendriks",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 400,
+                "name": "Ivan Floch",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 400,
+                "name": "Raoul Zimmermann",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 400,
+                "name": "Nick Li",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 400,
+                "name": "Sean Li",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 400,
+                "name": "Max Pritsch",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 400,
+                "name": "Jan Stadler",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 400,
+                "name": "Fabian Thiele",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 300,
+                "name": "Oneto",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 300,
+                "name": "Gallinari",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 300,
+                "name": "Dalmasso",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 300,
+                "name": "Tobias Gräfensteiner",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 300,
+                "name": "Daniel Gräfensteiner",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 300,
+                "name": "Christian Seibold",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 300,
+                "name": "Hans",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 300,
+                "name": "Dosch (A)",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 300,
+                "name": "Dosch (B)",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 300,
+                "name": "David Besso",
+                "matchpoints": 29
+            },
+            {
+                "money": 300,
+                "name": "Matteo Cirigliano",
+                "matchpoints": 29
+            },
+            {
+                "money": 300,
+                "name": "Giovanni Gesiot",
+                "matchpoints": 29
+            }
+        ],
+    "teamsize": 3
+}
