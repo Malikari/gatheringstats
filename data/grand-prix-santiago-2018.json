@@ -1,0 +1,426 @@
+{
+    "type": "Grand Prix",
+    "coverage": "https://magic.wizards.com/en/events/coverage/gpsan18",
+    "date": "March 10-11, 2018",
+    "season": "2017-18",
+    "formats": [
+        "Team Sealed Deck",
+        "Team Booster Draft"
+    ],
+    "medium": "Tabletop",
+    "id": "grand-prix-santiago-2018",
+    "location": "Santiago de Chile, Chile",
+    "logo": "gplogo",
+    "name": "Grand Prix Santiago 2018",
+    "standings": [
+        {
+                "money": 5000,
+                "name": "Lucas Esper Berthoud",
+                "matchpoints": 34,
+                "propoints": 6
+            },
+            {
+                "money": 5000,
+                "name": "Sebastian Pozzo",
+                "matchpoints": 34,
+                "propoints": 6
+            },
+            {
+                "money": 5000,
+                "name": "Luis Salvatto",
+                "matchpoints": 34,
+                "propoints": 6
+            },
+            {
+                "money": 2500,
+                "name": "Thiago Saporito",
+                "matchpoints": 34,
+                "propoints": 5
+            },
+            {
+                "money": 2500,
+                "name": "Willy Edel",
+                "matchpoints": 34,
+                "propoints": 5
+            },
+            {
+                "money": 2500,
+                "name": "Juliano Gennari Souza",
+                "matchpoints": 34,
+                "propoints": 5
+            },
+            {
+                "money": 1250,
+                "name": "Paulo Vitor Damo da Rosa",
+                "matchpoints": 34,
+                "propoints": 4
+            },
+            {
+                "money": 1250,
+                "name": "Guilherme Merjam",
+                "matchpoints": 34,
+                "propoints": 4
+            },
+            {
+                "money": 1250,
+                "name": "Carlos Romao",
+                "matchpoints": 34,
+                "propoints": 4
+            },
+            {
+                "money": 1250,
+                "name": "Alejandro Van Mourik",
+                "matchpoints": 33,
+                "propoints": 4
+            },
+            {
+                "money": 1250,
+                "name": "Diego Roca Suarez",
+                "matchpoints": 33,
+                "propoints": 4
+            },
+            {
+                "money": 1250,
+                "name": "Marco Vargas",
+                "matchpoints": 33,
+                "propoints": 4
+            },
+            {
+                "money": 700,
+                "name": "Mussa",
+                "matchpoints": 33,
+                "propoints": 3
+            },
+            {
+                "money": 700,
+                "name": "Tiberio",
+                "matchpoints": 33,
+                "propoints": 3
+            },
+            {
+                "money": 700,
+                "name": "Sapiras",
+                "matchpoints": 33,
+                "propoints": 3
+            },
+            {
+                "money": 700,
+                "name": "Sutherland",
+                "matchpoints": 33,
+                "propoints": 3
+            },
+            {
+                "money": 700,
+                "name": "Bernabe",
+                "matchpoints": 33,
+                "propoints": 3
+            },
+            {
+                "money": 700,
+                "name": "Parot",
+                "matchpoints": 33,
+                "propoints": 3
+            },
+            {
+                "money": 700,
+                "name": "Spak",
+                "matchpoints": 33,
+                "propoints": 3
+            },
+            {
+                "money": 700,
+                "name": "Jones (A)",
+                "matchpoints": 33,
+                "propoints": 3
+            },
+            {
+                "money": 700,
+                "name": "Jones (B)",
+                "matchpoints": 33,
+                "propoints": 3
+            },
+            {
+                "money": 700,
+                "name": "Souza",
+                "matchpoints": 31,
+                "propoints": 2
+            },
+            {
+                "money": 700,
+                "name": "Gomes",
+                "matchpoints": 31,
+                "propoints": 2
+            },
+            {
+                "money": 700,
+                "name": "Marcos Paulo de Jesus Freitas",
+                "matchpoints": 31,
+                "propoints": 2
+            },
+            {
+                "money": 600,
+                "name": "Sanchez",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 600,
+                "name": "Lopez",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 600,
+                "name": "Cespedes",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 600,
+                "name": "Elisiane Geisler",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 600,
+                "name": "Rodrigo Frischknecht",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 600,
+                "name": "Roberto Fujiyama",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 600,
+                "name": "De Diego",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 600,
+                "name": "Da Bouza",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 600,
+                "name": "Saredo",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 600,
+                "name": "Alcalde (A)",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 600,
+                "name": "Alcalde (B)",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 600,
+                "name": "Bollati",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 500,
+                "name": "Guerra",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 500,
+                "name": "Villalobos",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 500,
+                "name": "Zamorano",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 500,
+                "name": "Crevelloni",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 500,
+                "name": "Andreatta",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 500,
+                "name": "Coraiola",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 500,
+                "name": "Cenizo",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 500,
+                "name": "Arvigo",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 500,
+                "name": "Farjat",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 500,
+                "name": "Capozzoli",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 500,
+                "name": "Pena",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 500,
+                "name": "Gonzalez",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 400,
+                "name": "Garreton",
+                "matchpoints": 28
+            },
+            {
+                "money": 400,
+                "name": "Monsalve",
+                "matchpoints": 28
+            },
+            {
+                "money": 400,
+                "name": "Gutierrez",
+                "matchpoints": 28
+            },
+            {
+                "money": 400,
+                "name": "Navas",
+                "matchpoints": 28
+            },
+            {
+                "money": 400,
+                "name": "Ferrari",
+                "matchpoints": 28
+            },
+            {
+                "money": 400,
+                "name": "Echeverria",
+                "matchpoints": 28
+            },
+            {
+                "money": 400,
+                "name": "Ormeno",
+                "matchpoints": 28
+            },
+            {
+                "money": 400,
+                "name": "Quinteros (A)",
+                "matchpoints": 28
+            },
+            {
+                "money": 400,
+                "name": "Quinteros (B)",
+                "matchpoints": 28
+            },
+            {
+                "money": 400,
+                "name": "Gayoso",
+                "matchpoints": 28
+            },
+            {
+                "money": 400,
+                "name": "Venegas",
+                "matchpoints": 28
+            },
+            {
+                "money": 400,
+                "name": "Contreras",
+                "matchpoints": 28
+            },
+            {
+                "money": 300,
+                "name": "Vargas",
+                "matchpoints": 28
+            },
+            {
+                "money": 300,
+                "name": "Parrado",
+                "matchpoints": 28
+            },
+            {
+                "money": 300,
+                "name": "Barrera",
+                "matchpoints": 28
+            },
+            {
+                "money": 300,
+                "name": "Calazans",
+                "matchpoints": 28
+            },
+            {
+                "money": 300,
+                "name": "Almeida",
+                "matchpoints": 28
+            },
+            {
+                "money": 300,
+                "name": "Silva",
+                "matchpoints": 28
+            },
+            {
+                "money": 300,
+                "name": "Borquez",
+                "matchpoints": 27
+            },
+            {
+                "money": 300,
+                "name": "Valencia",
+                "matchpoints": 27
+            },
+            {
+                "money": 300,
+                "name": "Moreno",
+                "matchpoints": 27
+            },
+            {
+                "money": 300,
+                "name": "Peralta",
+                "matchpoints": 27
+            },
+            {
+                "money": 300,
+                "name": "Sepulveda",
+                "matchpoints": 27
+            },
+            {
+                "money": 300,
+                "name": "Kaliski",
+                "matchpoints": 27
+            }
+        ],
+    "teamsize": 3
+}

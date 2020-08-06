@@ -1,0 +1,711 @@
+{
+    "type": "Grand Prix",
+    "coverage": "https://magic.wizards.com/en/events/coverage/gpshi18-legacy",
+    "date": "November 30-December 1, 2018",
+    "season": "2018-19",
+    "formats": [
+        "Legacy"
+    ],
+    "medium": "Tabletop",
+    "id": "grand-prix-shizuoka-legacy-2018",
+    "location": "Shizuoka, Japan",
+    "logo": "gplogo",
+    "name": "Grand Prix Shizuoka - Legacy 2018",
+    "standings": [
+        {
+            "money": 10000,
+            "name": "Teruya Kakumae",
+            "matchpoints": 37,
+            "propoints": 8
+        },
+        {
+            "money": 5000,
+            "name": "Hiroyuki Kaga",
+            "matchpoints": 39,
+            "propoints": 6
+        },
+        {
+            "money": 2500,
+            "name": "Toru Takisaka",
+            "matchpoints": 40,
+            "propoints": 5
+        },
+        {
+            "money": 2500,
+            "name": "Takahiro Ishikawa",
+            "matchpoints": 39,
+            "propoints": 5
+        },
+        {
+            "money": 1500,
+            "name": "Akihiko Shiota",
+            "matchpoints": 40,
+            "propoints": 4
+        },
+        {
+            "money": 1500,
+            "name": "Kenji Tsumura",
+            "matchpoints": 38,
+            "propoints": 4
+        },
+        {
+            "money": 1500,
+            "name": "Yuta Yanagisawa",
+            "matchpoints": 38,
+            "propoints": 4
+        },
+        {
+            "money": 1500,
+            "name": "Yuuta Hirosawa",
+            "matchpoints": 37,
+            "propoints": 4
+        },
+        {
+            "money": 1000,
+            "name": "Tatsuumi Kobayashi",
+            "matchpoints": 37,
+            "propoints": 3
+        },
+        {
+            "money": 1000,
+            "name": "Huang Ta-Chi",
+            "matchpoints": 37,
+            "propoints": 3
+        },
+        {
+            "money": 1000,
+            "name": "Kohei Fujihira",
+            "matchpoints": 36,
+            "propoints": 3
+        },
+        {
+            "money": 1000,
+            "name": "Gen Shinohara (8933)",
+            "matchpoints": 36,
+            "propoints": 3
+        },
+        {
+            "money": 1000,
+            "name": "Tsubasa Sekikawa",
+            "matchpoints": 36,
+            "propoints": 3
+        },
+        {
+            "money": 1000,
+            "name": "Daichi Akimoto",
+            "matchpoints": 36,
+            "propoints": 3
+        },
+        {
+            "money": 1000,
+            "name": "Yusuke Shinomiya",
+            "matchpoints": 36,
+            "propoints": 3
+        },
+        {
+            "money": 1000,
+            "name": "Katsuya Miura",
+            "matchpoints": 36,
+            "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Kenny The",
+            "matchpoints": 36,
+            "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Tomoharu Saito",
+            "matchpoints": 36,
+            "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Shunya Fujita",
+            "matchpoints": 36,
+            "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Kazumi Yamabe",
+            "matchpoints": 36,
+            "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Hiroki Yasuda",
+            "matchpoints": 36,
+            "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Xiaoqi Qin",
+            "matchpoints": 36,
+            "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Joseph Ricci",
+            "matchpoints": 36,
+            "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Yuki Azuma",
+            "matchpoints": 36,
+            "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Takahiro Suzuki (3362)",
+            "matchpoints": 36,
+            "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Kohei Yoshizawa",
+            "matchpoints": 34,
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Peng-Jie Lu",
+            "matchpoints": 34,
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Shouta Hatakeyama",
+            "matchpoints": 34,
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Kevin Japutra",
+            "matchpoints": 34,
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Diego Obregon Gonzalez",
+            "matchpoints": 34,
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Huang Bing",
+            "matchpoints": 34,
+            "propoints": 2
+        },
+        {
+            "money": 500,
+            "name": "Shoichi Watanabe",
+            "matchpoints": 34,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Masayuki Yasuda",
+            "matchpoints": 34,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Kenta Masukado",
+            "matchpoints": 34,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Kouichi Iwasaki",
+            "matchpoints": 34,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Ben Friedman",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Shota Takao",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Takuma Morofuji",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Shin Tomizawa",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Kenji Oiso",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Kazuaki Mori",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Nathan Basser",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Tadayuki Terai",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Toshimune Daigo",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Dampei Harada",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Takeru Wakamatsu",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Hayato Tanaka",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Akio Chiba",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Philip Kwan",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Yuuki Ideue",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Ryousuke Adachi",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Yuta Takahashi",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Hiroshi Murase",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Koutarou Senba",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Satoshi Sakamoto",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Shohei Sorada",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Hiroya Muranaka",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Mizuki Morishita",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Akinori Nakano",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Yoshihisa Imai",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Hotaka Niwa",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Motonori Torii",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Kenji Ng",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "money": 250,
+            "name": "Tatsuya Nishiwaki",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "name": "Keiichirou Matsumoto",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "name": "Takuma Ishikawa (3754)",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "name": "Makoto Nagakita",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "name": "Yusuke Isayama",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "name": "Kenji Hiyama",
+            "matchpoints": 33,
+            "propoints": 2
+        },
+        {
+            "name": "Kazuhiro Arita",
+            "matchpoints": 32,
+            "propoints": 1
+        },
+        {
+            "name": "Mitsuru Tsukamoto",
+            "matchpoints": 31,
+            "propoints": 1
+        },
+        {
+            "name": "Justin Ventura",
+            "matchpoints": 31,
+            "propoints": 1
+        },
+        {
+            "name": "Takaya Saito",
+            "matchpoints": 31,
+            "propoints": 1
+        },
+        {
+            "name": "Yuta Fukaya",
+            "matchpoints": 31,
+            "propoints": 1
+        },
+        {
+            "name": "Yuu Fukudome",
+            "matchpoints": 31,
+            "propoints": 1
+        },
+        {
+            "name": "Derek Dame",
+            "matchpoints": 31,
+            "propoints": 1
+        },
+        {
+            "name": "David Zhu",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Yuki Matsumoto",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Takumi Watanabe",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Motohiko Nakao",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Toshiya Kanegawa",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Shuta Kuribara",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Ding Yi",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Denis Ulanov",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Shintaro Iwamoto",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Chisato Narita",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Shinichi Katagiri",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Shogo Watanabe",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Ryuuta Niwa",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Takahiro Ikeda",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Takashi Sakuramoto",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Futa Tanigawa",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Ernest Lim",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Yoshiyuki Hirose",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "James Johnson",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Atsuki Kihara",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Tango Nakagawa",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Kiho Choi",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Yuusi Uduki",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Toru Inoue",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Riki Kamo",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Shigeki Takano",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Tomoya Tsubouchi",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Ryota Takeuchi",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Sho Ogasawara",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Keishi Shoji",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Ryuichi Katayama",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Notsu Ikki",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Hisayuki Houseki",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Kay Hasegawa",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Syun Ushijima",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Tatsuya Nishikawa",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Shimpei Oshima",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Akihiro Ookawa",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Ryou Nagasaki",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Hiroaki Osawa",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Hiroki Matsuda",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Fumiyasu Suzuike",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Yang He",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Daiki Seto",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Ryuichi Yako",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Masahiro Otsuki",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Yuki Marui",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Hiraku Mochizuki",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Yohei Miyamoto",
+            "matchpoints": 30,
+            "propoints": 1
+        },
+        {
+            "name": "Noboru Seo",
+            "matchpoints": 30,
+            "propoints": 1
+        }
+    ],
+    "teamsize": 1
+}

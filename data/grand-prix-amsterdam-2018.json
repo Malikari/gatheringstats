@@ -1,0 +1,525 @@
+{
+    "type": "Grand Prix",
+    "coverage": "https://magic.wizards.com/en/events/coverage/gpams18",
+    "date": "March 31-April 1, 2018",
+    "season": "2017-18",
+    "formats": [
+        "Team Sealed Deck",
+        "Team Booster Draft"
+    ],
+    "medium": "Tabletop",
+    "id": "grand-prix-amsterdam-2018",
+    "location": "Amsterdam, Netherlands",
+    "logo": "gplogo",
+    "name": "Grand Prix Amsterdam 2018",
+    "standings": [
+        {
+                "money": 5000,
+                "name": "Jeroen Kreijne",
+                "matchpoints": 34,
+                "propoints": 6
+            },
+            {
+                "money": 5000,
+                "name": "Simon Geurts",
+                "matchpoints": 34,
+                "propoints": 6
+            },
+            {
+                "money": 5000,
+                "name": "Pim Heijne",
+                "matchpoints": 34,
+                "propoints": 6
+            },
+            {
+                "money": 2500,
+                "name": "Geoffrey Siron",
+                "matchpoints": 36,
+                "propoints": 5
+            },
+            {
+                "money": 2500,
+                "name": "Vincent Lemoine",
+                "matchpoints": 36,
+                "propoints": 5
+            },
+            {
+                "money": 2500,
+                "name": "Davy Loeb",
+                "matchpoints": 36,
+                "propoints": 5
+            },
+            {
+                "money": 1250,
+                "name": "Guido Sondag",
+                "matchpoints": 36,
+                "propoints": 4
+            },
+            {
+                "money": 1250,
+                "name": "Alexander Ball",
+                "matchpoints": 36,
+                "propoints": 4
+            },
+            {
+                "money": 1250,
+                "name": "Gervaise Pechler",
+                "matchpoints": 36,
+                "propoints": 4
+            },
+            {
+                "money": 1250,
+                "name": "Arne Huschenbeth",
+                "matchpoints": 34,
+                "propoints": 4
+            },
+            {
+                "money": 1250,
+                "name": "Thoralf Severin",
+                "matchpoints": 34,
+                "propoints": 4
+            },
+            {
+                "money": 1250,
+                "name": "Jasper Grimmer",
+                "matchpoints": 34,
+                "propoints": 4
+            },
+            {
+                "money": 700,
+                "name": "Aahlstroem",
+                "matchpoints": 34,
+                "propoints": 4
+            },
+            {
+                "money": 700,
+                "name": "Rask",
+                "matchpoints": 34,
+                "propoints": 4
+            },
+            {
+                "money": 700,
+                "name": "Deseax",
+                "matchpoints": 34,
+                "propoints": 4
+            },
+            {
+                "money": 700,
+                "name": "Emmanuel Dewulf",
+                "matchpoints": 33,
+                "propoints": 3
+            },
+            {
+                "money": 700,
+                "name": "Bram Meulders",
+                "matchpoints": 33,
+                "propoints": 3
+            },
+            {
+                "money": 700,
+                "name": "Jerome Bastogne",
+                "matchpoints": 33,
+                "propoints": 3
+            },
+            {
+                "money": 700,
+                "name": "Ivan Floch",
+                "matchpoints": 33,
+                "propoints": 3
+            },
+            {
+                "money": 700,
+                "name": "Thomas Hendriks",
+                "matchpoints": 33,
+                "propoints": 3
+            },
+            {
+                "money": 700,
+                "name": "Frank Karsten",
+                "matchpoints": 33,
+                "propoints": 3
+            },
+            {
+                "money": 700,
+                "name": "Demange",
+                "matchpoints": 33,
+                "propoints": 3
+            },
+            {
+                "money": 700,
+                "name": "Perbet",
+                "matchpoints": 33,
+                "propoints": 3
+            },
+            {
+                "money": 700,
+                "name": "Martin",
+                "matchpoints": 33,
+                "propoints": 3
+            },
+            {
+                "money": 600,
+                "name": "Frisk",
+                "matchpoints": 33,
+                "propoints": 3
+            },
+            {
+                "money": 600,
+                "name": "Juote",
+                "matchpoints": 33,
+                "propoints": 3
+            },
+            {
+                "money": 600,
+                "name": "Iiro Koistinen",
+                "matchpoints": 33,
+                "propoints": 3
+            },
+            {
+                "money": 600,
+                "name": "Leo Schulhof",
+                "matchpoints": 33,
+                "propoints": 3
+            },
+            {
+                "money": 600,
+                "name": "Jeremy Berthoux",
+                "matchpoints": 33,
+                "propoints": 3
+            },
+            {
+                "money": 600,
+                "name": "Pierre Sommen",
+                "matchpoints": 33,
+                "propoints": 3
+            },
+            {
+                "money": 600,
+                "name": "De Beurs",
+                "matchpoints": 33,
+                "propoints": 3
+            },
+            {
+                "money": 600,
+                "name": "Berghout",
+                "matchpoints": 33,
+                "propoints": 3
+            },
+            {
+                "money": 600,
+                "name": "Lambregts",
+                "matchpoints": 33,
+                "propoints": 3
+            },
+            {
+                "money": 600,
+                "name": "Carmine D'Aniello",
+                "matchpoints": 33,
+                "propoints": 3
+            },
+            {
+                "money": 600,
+                "name": "Matteo Moure",
+                "matchpoints": 33,
+                "propoints": 3
+            },
+            {
+                "money": 600,
+                "name": "Adriano Moscato",
+                "matchpoints": 33,
+                "propoints": 3
+            },
+            {
+                "money": 500,
+                "name": "Rene Kraft",
+                "matchpoints": 33,
+                "propoints": 3
+            },
+            {
+                "money": 500,
+                "name": "Tobias Radloff",
+                "matchpoints": 33,
+                "propoints": 3
+            },
+            {
+                "money": 500,
+                "name": "Martin Zimmermann",
+                "matchpoints": 33,
+                "propoints": 3
+            },
+            {
+                "money": 500,
+                "name": "Schaub",
+                "matchpoints": 31,
+                "propoints": 2
+            },
+            {
+                "money": 500,
+                "name": "Dany",
+                "matchpoints": 31,
+                "propoints": 2
+            },
+            {
+                "money": 500,
+                "name": "Obergassner",
+                "matchpoints": 31,
+                "propoints": 2
+            },
+            {
+                "money": 500,
+                "name": "Avneya",
+                "matchpoints": 31,
+                "propoints": 2
+            },
+            {
+                "money": 500,
+                "name": "Bieber",
+                "matchpoints": 31,
+                "propoints": 2
+            },
+            {
+                "money": 500,
+                "name": "Ofer",
+                "matchpoints": 31,
+                "propoints": 2
+            },
+            {
+                "money": 500,
+                "name": "Pedro de Diego",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 500,
+                "name": "Francisco Sifuentes",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 500,
+                "name": "Christian Calcano",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 400,
+                "name": "Lukas Blohon",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 400,
+                "name": "Christoffer Larsen",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 400,
+                "name": "Martin Müller",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 400,
+                "name": "Ordonez",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 400,
+                "name": "Heynen",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 400,
+                "name": "Moyer",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 400,
+                "name": "Zoltan Szoke",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 400,
+                "name": "Gabor Kocsis",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 400,
+                "name": "Adorjan Korbl",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 400,
+                "name": "Meyer",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 400,
+                "name": "Mirko Gschwindt",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 400,
+                "name": "Johann Wallner",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 300,
+                "name": "Maximilien Berger",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 300,
+                "name": "Natalia Berger",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 300,
+                "name": "Mace",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 300,
+                "name": "Elias Klocker",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 300,
+                "name": "Carsten Linden",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 300,
+                "name": "Immanuel Gerschenson",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 300,
+                "name": "Magnani",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 300,
+                "name": "Reale",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 300,
+                "name": "Karim Al Takrouri",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 300,
+                "name": "Antonino de Rosa",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 300,
+                "name": "Luca Casadei",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "money": 300,
+                "name": "Alessandro Portaro",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "name": "Arndt",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "name": "Blanc",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "name": "Duport",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "name": "Max Pritsch",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "name": "Andreas Schraut",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "name": "Fabian Thiele",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "name": "Peter Ward",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "name": "Tom Martell",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "name": "Sam Rolph",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "name": "Wagner",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "name": "Lehner",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "name": "Mauracher",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "name": "Timmermans (A)",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "name": "Timmermans (B)",
+                "matchpoints": 30,
+                "propoints": 1
+            },
+            {
+                "name": "Muijen",
+                "matchpoints": 30,
+                "propoints": 1
+            }
+        ],
+    "teamsize": 3
+}
