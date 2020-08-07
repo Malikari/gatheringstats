@@ -14,6 +14,7 @@ const Rankings = () => {
   const sortedPlayers = _.chain(window.Players)
     .values()
     .filter(player => player.stats[col] !== 'too few PTs')
+    .filter(player => player.stats[col] !== 'no Top 8s')
     .sortBy(player => -Number(String(player.stats[col]).replace(/[^\d]/, '')))
     .value();
 
