@@ -9,6 +9,8 @@ export const filterOnlyProTours = item => (item.type === 'Pro Tour' || item.type
 
 export const filterOnlyProLeagues = item => (item.type === 'Magic Pro League' || item.type === 'Rivals League');
 
+export const filterOnlyNationals = item => /Nationals/.test(item.type);
+
 export const filterOnlyGrandPrix = item => item.type === 'Grand Prix';
 
-export const filterOtherTournaments = item => (item.type !== 'Pro Tour' && item.type !== 'Grand Prix' && item.type !== 'Magic Pro League' && item.type !== 'Rivals League' && item.type !== 'Player Tour Finals Online');
+export const filterOtherTournaments = item => (item.type !== 'Pro Tour' && item.type !== 'Grand Prix' && item.type !== 'Player Tour Finals Online' && !/Nationals/.test(item.type));

@@ -1,9 +1,10 @@
 {
-    "type": "Nationals",
+    "type": "Nationals - Chile",
     "date": "January 1-December 31, 2009",
     "season": "2009",
     "formats": [
-        "unknown"
+        "Standard",
+        "Booster Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-chile-2009",
@@ -16,9 +17,16 @@
             "propoints": 10
         },
         {
+            "name": "Sebastian Hurtado",
+            "propoints": 8
+        },
+        {
+            "name": "Raimundo Meza",
+            "propoints": 6
+        },
+        {
             "name": "Juan Reutter",
-            "propoints": 6,
-            "rank": 4
+            "propoints": 6
         }
     ],
     "teamsize": 1

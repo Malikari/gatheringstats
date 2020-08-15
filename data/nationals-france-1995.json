@@ -1,17 +1,29 @@
 {
-    "type": "Nationals",
-    "date": "Janury 1-July 31, 1995",
+    "type": "Nationals - France",
+    "date": "May 6-8, 1995",
     "formats": [
         "unknown"
     ],
     "medium": "Tabletop",
     "id": "nationals-france-1995",
-    "location": "France",
+    "location": "Paris, France",
     "logo": "nationals",
     "name": "Nationals France 1995",
     "standings": [
         {
             "name": "Marc Hernandez"
+        },
+        {
+            "name": "Benoit Moulin",
+            "rank": "2-8"
+        },
+        {
+            "name": "Pierre Woirgard",
+            "rank": "2-8"
+        },
+        {
+            "name": "Laurent Lebas",
+            "rank": "2-8"
         }
     ],
     "teamsize": 1

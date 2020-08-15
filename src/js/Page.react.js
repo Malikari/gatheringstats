@@ -16,13 +16,13 @@ const Page = props => (
         </div>
         <ul className="nav navbar-nav">
           <li>
-            <Link to="/pro-leagues">
-              Pro Leagues
+            <Link to="/grand-prix">
+              Grand Prix
             </Link>
           </li>
           <li>
-            <Link to="/grand-prix">
-              Grand Prix
+            <Link to="/nationals">
+              Nationals
             </Link>
           </li>
           <li>

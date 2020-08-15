@@ -1,8 +1,9 @@
 {
-    "type": "Nationals",
-    "date": "January 1-December 31, 2001",
+    "type": "Nationals - Chile",
+    "date": "April 27-29, 2001",
     "formats": [
-        "unknown"
+        "Standard",
+        "Rochester Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-chile-2001",
@@ -11,7 +12,20 @@
     "name": "Nationals Chile 2001",
     "standings": [
         {
+            "money": 1700,
             "name": "Sebastian Suter"
+        },
+        {
+            "name": "Andres Camargo",
+            "rank": "2-4"
+        },
+        {
+            "name": "Juan Escobar Reyes",
+            "rank": "2-4"
+        },
+        {
+            "name": "Walter Witt",
+            "rank": "2-4"
         }
     ],
     "teamsize": 1

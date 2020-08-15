@@ -1,9 +1,10 @@
 {
-    "type": "Nationals",
+    "type": "Nationals - Chile",
     "date": "January 1-December 31, 2010",
     "season": "2010",
     "formats": [
-        "unknown"
+        "Standard",
+        "Booster Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-chile-2010",
@@ -14,8 +15,20 @@
         {
             "name": "Francisco Rojas Sessarego",
             "propoints": 10
+        },
+        {
+            "name": "Jose Varas",
+            "propoints": 8
+        },
+        {
+            "name": "Eduardo Soto",
+            "propoints": 6
+        },
+        {
+            "name": "Jose Luis Echeverria Paredes",
+            "rank": 5,
+            "propoints": 4
         }
     ],
     "teamsize": 1
-    
 }

@@ -1,17 +1,44 @@
 {
-    "type": "Nationals",
-    "date": "January 1-December, 1998",
+    "type": "Nationals - France",
+    "report": "https://web.archive.org/web/20000521211759/http://www.thedojo.com/t983/reg.980629ank.txt",
+    "date": "June 27-28, 1998",
     "formats": [
-        "unknown"
+        "? Draft",
+        "Standard"
     ],
     "medium": "Tabletop",
     "id": "nationals-france-1998",
-    "location": "France",
+    "location": "Angouleme, France",
     "logo": "nationals",
     "name": "Nationals France 1998",
     "standings": [
         {
             "name": "Fabien Demazeau"
+        },
+        {
+            "name": "Manuel Bevand"
+        },
+        {
+            "name": "Marc Hernandez"
+        },
+        {
+            "name": "Pierre Malherbaud"
+        },
+        {
+            "name": "Jean-Baptiste Mathieu",
+            "rank": "5-6"
+        },
+        {
+            "name": "Laurent Walbroeck",
+            "rank": "5-6"
+        },
+        {
+            "name": "Michael Sochon",
+            "rank": "7-8"
+        },
+        {
+            "name": "Jeremie Lagarde",
+            "rank": "7-8"
         }
     ],
     "teamsize": 1
