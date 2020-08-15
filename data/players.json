@@ -28385,7 +28385,8 @@
         "nationality": "USA"
     },
     "thiago-oliveira": {
-        "nationality": "BRA"
+        "nationality": "BRA",
+        "fullname": "Thiago de Oliveira"
     },
     "jun-ya-miyajima": {
         "nationality": "JPN"
@@ -31579,7 +31580,8 @@
         "nationality": "AUS"
     },
     "aurelio-de-queiroz": {
-        "nationality": "BRA"
+        "nationality": "BRA",
+        "fullname": "Fabiano Aurelio de Queiroz"
     },
     "steven-lamb": {
         "nationality": "GBR"
@@ -45123,7 +45125,9 @@
     "rene-luis-crema": {},
     "sergio-soles-checa": {},
     "diego-forte-ingracio": {},
-    "david-de-aguiar": {},
+    "david-de-aguiar": {
+        "nationality": "BRA"
+    },
     "edson-correa-tavares": {},
     "marcelo-cordiolli": {},
     "rurik-galimberti": {},
@@ -45359,7 +45363,8 @@
         "nationality": "TWN"
     },
     "morris-song": {
-        "nationality": "TWN"
+        "nationality": "TWN",
+        "fullname": "Morris Ming Che Song"
     },
     "jose-han-yu-chang": {
         "nationality": "TWN"
@@ -55538,7 +55543,6 @@
     "ramiro-fernandez-savoy": {},
     "ivan-argimon": {},
     "matias-alvarez": {},
-    "fernando-calvo": {},
     "leandro-martins-gomes": {
         "nationality": "BRA"
     },
@@ -81818,32 +81822,34 @@
     "mihailis-senins": {
         "nationality": "LVA"
     },
-    "veltchev-kalin": {},
-    "raul-assis": {},
-    "fabiano-aurelio-queiroz": {},
-    "jose-ricardo": {},
-    "david-aguiar": {},
-    "thiago-de-oliveira": {},
-    "roberto-dantas": {},
-    "guilherme-svaldi": {},
-    "eduardo-simao": {},
-    "cristiano-pereira": {},
-    "victor-galimbertti": {},
-    "andre-nascimiento": {},
-    "zhang-yu": {},
-    "juan-fernando-gallego": {},
-    "carlos-amaya": {},
-    "julian-gomez": {},
-    "felix-moncada": {},
-    "victor-manuel-lobo": {},
-    "jose-fernando-calvo": {},
-    "marko-krekovic": {},
-    "kornelije-hecimovic": {},
-    "ivan-pek": {},
-    "gunnar-johansson": {},
-    "adri-van-binsbergen": {},
-    "nik-niskandar": {},
-    "morris-ming-che-sung": {},
-    "pi-hsiang-yu": {},
-    "isidor-nikloic": {}
+    "roberto-dantas": {
+        "nationality": "BRA"
+    },
+    "eduardo-simao": {
+        "nationality": "BRA"
+    },
+    "juan-fernando-gallego": {
+        "nationality": "COL"
+    },
+    "felix-moncada": {
+        "nationality": "COL"
+    },
+    "jose-fernando-calvo": {
+        "nationality": "COL"
+    },
+    "marko-krekovic": {
+        "nationality": "HRV"
+    },
+    "kornelije-hecimovic": {
+        "nationality": "HRV"
+    },
+    "ivan-pek": {
+        "nationality": "HRV"
+    },
+    "adri-van-binsbergen": {
+        "nationality": "NLD"
+    },
+    "nik-niskandar": {
+        "nationality": "SCO"
+    }
 }
