@@ -1,12 +1,13 @@
 {
     "type": "European Championship",
-    "date": "July 9-11, 1998",
+    "date": "July 10-12, 1998",
     "formats": [
         "Standard",
         "Booster Draft"
     ],
     "medium": "Tabletop",
     "id": "european-championship-1998",
+    "location": "Brussels, Belgium",
     "logo": "mtg-yellow",
     "name": "European Championship 1998",
     "standings": [
@@ -33,6 +34,27 @@
         },
         {
             "name": "Gabor Papp"
+        },
+        {
+            "name": "Tim Glöckner",
+            "rank": 22
+        },
+        {
+            "money": 600,
+            "name": "Kai Budde",
+            "rank": 28,
+            "report": "https://web.archive.org/web/20000521222139/http://www.thedojo.com/t983/reg.980715kbu.txt"
+        },
+        {
+            "money": 575,
+            "name": "Manuel Bevand",
+            "rank": 29,
+            "report": "https://web.archive.org/web/19991021212811/http://thedojo.com/t983/reg.980714mbe.txt"
+        },
+        {
+            "name": "Gordon Benson",
+            "rank": 196,
+            "report": "https://web.archive.org/web/20000711090415/http://www.thedojo.com/t983/reg.980713gbe.txt"
         }
     ],
     "teamsize": 1

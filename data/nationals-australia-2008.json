@@ -1,91 +1,89 @@
 {
-    "type": "Nationals",
-    "coverage": "https://magic.wizards.com/en/events/coverage/ausnat08",
-    "date": " July-19,20 2008",
-    "season": "2008",
+    "type": "Nationals - Australia",
+    "coverage": "https://magic.wizards.com/en/events/coverage/aunat06",
+    "date": "January 1-August 31, 2008",
     "formats": [
         "Standard",
         "Booster Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-australia-2008",
-    "location": "Canberra, Australia",
+    "location": "Australia",
     "logo": "nationals",
     "name": "Nationals Australia 2008",
     "standings": [
         {
+            "propoints": 10,
             "money": 3000,
-            "name": "Timothy He",
-            "propoints": 10
+            "name": "Aaron Nicastri"
         },
         {
+            "propoints": 8,
             "money": 2500,
-            "name": "Cameron Veigel",
-            "propoints": 8
+            "name": "Brandon Lau"
         },
         {
+            "propoints": 6,
             "money": 1750,
-            "name": "Daniel Piechnick",
-            "propoints": 6
+            "name": "Marcus Rokman"
         },
         {
+            "propoints": 6,
             "money": 1750,
-            "name": "Anthony Purdom",
-            "propoints": 6
+            "name": "Justin Cheung"
         },
         {
+            "propoints": 4,
             "money": 750,
-            "name": "Hugh Glanville",
-            "propoints": 4
+            "name": "Shawn Rayson"
         },
         {
+            "propoints": 4,
             "money": 750,
-            "name": "Jarron Puszet",
-            "propoints": 4
+            "name": "Jeremy Neeman"
         },
         {
+            "propoints": 4,
             "money": 750,
-            "name": "Merlyn Evans",
-            "propoints": 4
+            "name": "Glenn Shanley"
         },
         {
+            "propoints": 4,
             "money": 750,
-            "name": "Paul Batum",
-            "propoints": 4
+            "name": "Merlyn Evans"
         },
         {
-            "name": "Kuan Tian",
-            "propoints": 2
+            "propoints": 2,
+            "name": "Linden Hortle"
         },
         {
-            "name": "Anatoli Lightfoot",
-            "propoints": 2
+            "propoints": 2,
+            "name": "David Zhao"
         },
         {
-            "name": "Shawn Rayson",
-            "propoints": 2
+            "propoints": 2,
+            "name": "Andrew Vance"
         },
         {
-            "name": "Nicolas Rolf",
-            "propoints": 2
+            "propoints": 2,
+            "name": "Jarron Puszet"
         },
         {
-            "name": "Michael Kotchoff",
-            "propoints": 1
+            "propoints": 1,
+            "name": "Andrew Eckermann"
         },
         {
-            "name": "Andrew Eckermann",
-            "propoints": 1
+            "propoints": 1,
+            "name": "Rhys Gould"
         },
         {
-            "name": "Matthew Joseph",
-            "propoints": 1
+            "propoints": 1,
+            "name": "Peter Smout"
         },
         {
-            "name": "Chun Cui",
-            "propoints": 1
+            "propoints": 1,
+            "name": "Daniel Piechnick"
         }
     ],
     "teamsize": 1
-    
 }

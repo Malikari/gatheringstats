@@ -1,13 +1,14 @@
 {
-    "type": "Nationals",
-    "date": "January 1-December 31, 1999",
+    "type": "Nationals - Germany",
+    "coverage": "https://web.archive.org/web/20001021054051/http://www.thedojo.com/t991/t2.990618cer.shtml",
+    "date": "June 11-13, 1999",
     "formats": [
         "Standard",
-        "?"
+        "Rochester Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-germany-1999",
-    "location": "Germany",
+    "location": "Dietzenbach, Germany",
     "logo": "nationals",
     "name": "Nationals Germany 1999",
     "standings": [
@@ -24,7 +25,8 @@
             "name": "David Brucker"
         },
         {
-            "name": "Patrick Mello"
+            "name": "Patrick Mello",
+            "report": "https://web.archive.org/web/20000608103852/http://www.thedojo.com/t991/t2.990618pme.shtml"
         },
         {
             "name": "Markus Bell"
@@ -33,9 +35,9 @@
             "name": "Sascha Blank"
         },
         {
-            "name": "Daniel Brickwell"
+            "name": "Daniel Brickwell",
+            "report": "https://web.archive.org/web/20001205025200/http://www.thedojo.com:80/t991/t2.990618dbr.shtml"
         }
     ],
-    "teamsize": 1
-    
+    "teamsize": 1 
 }

@@ -1,13 +1,13 @@
 {
-    "type": "Nationals",
-    "date": "January 1-December 31, 1998",
+    "type": "Nationals - Germany",
+    "date": "July 19-21, 1998",
     "formats": [
         "Standard",
-        "?"
+        "Rochester Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-germany-1998",
-    "location": "Germany",
+    "location": "Dietzenbach, Germany",
     "logo": "nationals",
     "name": "Nationals Germany 1998",
     "standings": [
@@ -21,7 +21,8 @@
             "name": "Florian Dworak"
         },
         {
-            "name": "Daniel Brickwell"
+            "name": "Daniel Brickwell",
+            "report": "https://web.archive.org/web/20000709022244/http://www.thedojo.com/t983/reg.980623dbr.txt"
         },
         {
             "name": "Martin Lüdecke"
@@ -34,6 +35,21 @@
         },
         {
             "name": "Martin Valkyser"
+        },
+        {
+            "name": "Kai Budde",
+            "rank": "P",
+            "report": "https://web.archive.org/web/19991012094313/http://thedojo.com/t983/reg.980623kbu.txt"
+        },
+        {
+            "name": "Dirk Baberowski",
+            "rank": "P",
+            "report": "https://web.archive.org/web/20000605081233/http://www.thedojo.com/t983/reg.980623dba.txt"
+        },
+        {
+            "name": "Gregor Wernet",
+            "rank": "P",
+            "report": "https://web.archive.org/web/20000312063456/http://www.thedojo.com/t983/reg.980629gwe.txt"
         }
     ],
     "teamsize": 1

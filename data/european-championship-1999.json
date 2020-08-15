@@ -1,7 +1,7 @@
 {
     "type": "European Championship",
     "coverage": "https://magic.wizards.com/en/articles/archive/feature/1999-european-championships-1999-07-11",
-    "date": "July 10-11, 1999",
+    "date": "July 9-11, 1999",
     "formats": [
         "Standard",
         "Booster Draft"
@@ -38,26 +38,92 @@
         },
         {
             "money": 2225,
-            "name": "Arto Hiltunen"
+            "name": "Arto Hiltunen",
+            "report": "https://web.archive.org/web/20010118043400/http://www.thedojo.com/t991/t2.990716ahi.shtml"
         },
         {
             "money": 2000,
             "name": "Holger Meinecke"
         },
         {
-            "name": "Dominik Hothow",
-            "rank": "Day 2"
+            "money": 1600,
+            "name": "Ellis Romero",
+            "rank": 11,
+            "report": "https://web.archive.org/web/20010118041500/http://www.thedojo.com/t991/t2.990713ero.shtml"
         },
         {
+            "money": 1495,
+            "name": "Rune Espenhein",
+            "rank": 12
+        },
+        {
+            "money": 1315,
+            "name": "Dominik Hothow",
+            "rank": 14
+        },
+        {
+            "money": 1235,
+            "name": "Sam Waller",
+            "rank": 15
+        },
+        {
+            "money": 965,
             "name": "Gisle Salem",
-            "rank": "Day 2"
+            "rank": 19
+        },
+        {
+            "money": 860,
+            "name": "Jakob Steinaa",
+            "rank": 21
+        },
+        {
+            "money": 630,
+            "name": "Daniel Brickwell",
+            "rank": 27,
+            "report": "https://web.archive.org/web/20010118043400/http://www.thedojo.com/t991/t2.990716dbr.shtml"
+        },
+        {
+            "money": 465,
+            "name": "John Ormerod",
+            "rank": 34,
+            "report": "https://web.archive.org/web/20010118043200/http://www.thedojo.com/t991/t2.990715jor.shtml"
+        },
+        {
+            "money": 445,
+            "name": "Guy Bowles",
+            "rank": 35
+        },
+        {
+            "money": 370,
+            "name": "Fabrice Rabhi",
+            "rank": 40
+        },
+        {
+            "money": 255,
+            "name": "Philip Card",
+            "rank": 53
+        },
+        {
+            "money": 215,
+            "name": "Benedikt Klauser",
+            "rank": 61
+        },
+        {
+            "money": 210,
+            "name": "Benedict Martin",
+            "rank": 62
+        },
+        {
+            "name": "Daniel Paskins",
+            "rank": 73,
+            "report": "https://web.archive.org/web/20010118042100/http://www.thedojo.com/t991/t2.990715dpa.shtml"
+        },
+        {
+            "name": "Emmanuel Vernay",
+            "rank": 87
         },
         {
             "name": "Florian Dworak",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Jakob Steinaa",
             "rank": "Day 2"
         },
         {
@@ -77,27 +143,11 @@
             "rank": "Day 2"
         },
         {
-            "name": "Sam Waller",
-            "rank": "Day 2"
-        },
-        {
             "name": "Sarp Ovutmen",
             "rank": "Day 2"
         },
         {
-            "name": "Ellis Romero",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Rune Espenhein",
-            "rank": "Day 2"
-        },
-        {
             "name": "Svend Sparre Geertsen",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Guy Bowles",
             "rank": "Day 2"
         },
         {
@@ -106,10 +156,6 @@
         },
         {
             "name": "Sasha Zorc",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Fabrice Rabhi",
             "rank": "Day 2"
         },
         {
@@ -149,19 +195,11 @@
             "rank": "Day 2"
         },
         {
-            "name": "Philip Card",
-            "rank": "Day 2"
-        },
-        {
             "name": "Filipe Girao",
             "rank": "Day 2"
         },
         {
             "name": "Gregor Wollny",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Daniel Brickwell",
             "rank": "Day 2"
         },
         {
@@ -181,14 +219,6 @@
             "rank": "Day 2"
         },
         {
-            "name": "Benedikt Klauser",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Benedict Martin",
-            "rank": "Day 2"
-        },
-        {
             "name": "Seppo Toikka",
             "rank": "Day 2"
         },
@@ -198,10 +228,6 @@
         },
         {
             "name": "Michiel Horemans",
-            "rank": "Day 2"
-        },
-        {
-            "name": "John Ormerod",
             "rank": "Day 2"
         },
         {
@@ -238,10 +264,6 @@
         },
         {
             "name": "Romain Glodt",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Daniel Paskins",
             "rank": "Day 2"
         },
         {
@@ -286,10 +308,6 @@
         },
         {
             "name": "Michael Nessler",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Emmanuel Vernay",
             "rank": "Day 2"
         },
         {
@@ -701,11 +719,11 @@
             "rank": 172
         },
         {
-            "name": "Kovacs Lajos",
+            "name": "Lajos Kovacs",
             "rank": 173
         },
         {
-            "name": "Konstantakis Nikolas",
+            "name": "Nikolas Konstantakis",
             "rank": 174
         },
         {
@@ -745,7 +763,7 @@
             "rank": 183
         },
         {
-            "name": "Kermelis Mihalis",
+            "name": "Mihalis Kermelis",
             "rank": 184
         },
         {
@@ -945,7 +963,7 @@
             "rank": 233
         },
         {
-            "name": "Giakoumakis Alexandros",
+            "name": "Alexandros Giakoumakis",
             "rank": 234
         },
         {
