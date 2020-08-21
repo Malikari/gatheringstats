@@ -1,8 +1,10 @@
 {
     "type": "Nationals - Belgium",
+    "coverage": "https://web.archive.org/web/20021101135545/http://users.pandora.be/trashtalk/nationals.htm",
     "date": "April 27-28, 2002",
     "formats": [
-        "unknown"
+        "Standard",
+        "Booster Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-belgium-2002",
@@ -12,7 +14,28 @@
     "standings": [
         {
             "name": "Jan Doise"
-        }   
+        },
+        {
+            "name": "Geoffrey Siron"
+        },
+        {
+            "name": "Peter Gysemans"
+        },
+        {
+            "name": "Alexandre Darras"
+        },
+        {
+            "name": "Jeroen Aga"
+        },
+        {
+            "name": "Gert Coeckelbergh"
+        },
+        {
+            "name": "Chris Festre"
+        },
+        {
+            "name": "Jochen van Cauwenberge"
+        }
     ],
     "teamsize": 1
 }

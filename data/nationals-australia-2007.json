@@ -1,39 +1,47 @@
 {
     "type": "Nationals - Australia",
     "coverage": "https://magic.wizards.com/en/events/coverage/aus08",
-    "date": "July 19-20, 2007",
+    "date": "July 20-22, 2007",
     "formats": [
         "Standard",
         "Booster Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-australia-2007",
-    "location": "Australia",
+    "location": "Canberra, Australia",
     "logo": "nationals",
     "name": "Nationals Australia 2007",
     "standings": [
         {
+            "money": 3000,
             "name": "Steven Aplin"
         },
         {
+            "money": 2500,
             "name": "Timothy He"
         },
         {
+            "money": 1750,
             "name": "James Zhang"
         },
         {
+            "money": 1750,
             "name": "Craig Chapman"
         },
         {
+            "money": 750,
             "name": "Simon Uppill"
         },
         {
+            "money": 750,
             "name": "Andrew Eckermann"
         },
         {
+            "money": 750,
             "name": "Anatoli Lightfoot"
         },
         {
+            "money": 750,
             "name": "Scott Gray"
         }
     ],

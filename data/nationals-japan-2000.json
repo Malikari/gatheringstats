@@ -1,13 +1,13 @@
 {
     "type": "Nationals - Japan",
-    "date": "January 1-August 31, 2000",
+    "date": "May 27-28, 2000",
     "formats": [
         "Standard",
-        "? Draft"
+        "Booster Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-japan-2000",
-    "location": "Japan",
+    "location": "Tokyo, Japan",
     "logo": "nationals",
     "name": "Nationals Japan 2000",
     "standings": [
@@ -15,16 +15,31 @@
             "name": "Tsuyoshi Doyama"
         },
         {
-            "name": "Tadayoshi Komiya",
-            "rank": "2-4"
-        },
-        {
-            "name": "Tsuyoshi Ikeda",
-            "rank": "2-4"
+            "name": "Tadayoshi Komiya"
         },
         {
             "name": "Michihisa Onoda",
-            "rank": "2-4"
+            "rank": "3-4"
+        },
+        {
+            "name": "Tsuyoshi Ikeda",
+            "rank": "3-4"
+        },
+        {
+            "name": "Kiyoshi Sasanuma",
+            "rank": "5-8"
+        },
+        {
+            "name": "Hiroshi Harada",
+            "rank": "5-8"
+        },
+        {
+            "name": "Katsuhiro Mori",
+            "rank": "5-8"
+        },
+        {
+            "name": "Koji Nose",
+            "rank": "5-8"
         }
     ],
     "teamsize": 1

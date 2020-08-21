@@ -1,14 +1,14 @@
 {
     "type": "Nationals - Belgium",
     "report": "https://web.archive.org/web/20090603043312/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/bd298",
-    "date": "January 1-September 16, 2007",
+    "date": "August 31-September 2, 2007",
     "formats": [
         "Standard",
         "Booster Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-belgium-2007",
-    "location": "Belgium",
+    "location": "Antwerp, Belgium",
     "logo": "nationals",
     "name": "Nationals Belgium 2007",
     "standings": [
@@ -16,33 +16,35 @@
             "name": "Fried Meulders"
         },
         {
-            "name": "Vincent Gieling",
-            "rank": "2-8"
+            "name": "Vincent Gieling"
         },
         {
-            "name": "Kalin Veltchev",
-            "rank": "2-8"
+            "name": "Jeroen Aga"
         },
         {
-            "name": "Jeroen Aga",
-            "rank": "2-8"
-        },
-        {
-            "name": "Bernardo da Costa Cabral",
-            "rank": "2-8"
+            "name": "Kalin Veltchev"
         },
         {
             "name": "Philippe Massart",
-            "rank": "2-8"
+            "rank": 6,
+            "report": "https://web.archive.org/web/20080612105632/http://www.mtgbelgium.be/Site/Nationals/2007%20Nats%20%20top%208%20%20Report%20by%20Philippe%20Massart.html"
+        },
+        {
+            "name": "Bernardo da Costa Cabral",
+            "rank": "5-8"
         },
         {
             "name": "Christophe Gregoir",
-            "rank": "2-8"
+            "rank": "5-8"
         },
         {
             "name": "Stan van der Velden",
-            "rank": "2-8"
-        }   
+            "rank": "5-8"
+        },
+        {
+            "name": "Marijn Lybaert",
+            "report": "https://web.archive.org/web/20080612105627/http://www.mtgbelgium.be/Site/Constructed%20Review/Nats2007ReportMarijn.html"
+        }
     ],
     "teamsize": 1
 }

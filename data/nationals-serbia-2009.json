@@ -1,6 +1,7 @@
 {
     "type": "Nationals - Serbia",
-    "date": "January 1-September 30, 2009",
+    "coverage": "https://web.archive.org/web/20090704021237/http://www.deckcheck.net/event.php?event=Serbian%2BNationals%2B2009",
+    "date": "January 1-June 30, 2009",
     "season": "2009",
     "formats": [
         "Standard",
@@ -27,6 +28,26 @@
         {
             "name": "Pedja Slankamenac",
             "propoints": 6
+        },
+        {
+            "name": "Marko Djukic",
+            "rank": "5-8",
+            "propoints": 4
+        },
+        {
+            "name": "Aleksandar Radin",
+            "rank": "5-8",
+            "propoints": 4
+        },
+        {
+            "name": "David Gutesa",
+            "rank": "5-8",
+            "propoints": 4
+        },
+        {
+            "name": "Isidor Nikolic",
+            "rank": "5-8",
+            "propoints": 4
         }
     ],
     "teamsize": 1   

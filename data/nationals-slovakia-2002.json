@@ -1,8 +1,10 @@
 {
     "type": "Nationals - Slovakia",
+    "coverage": "https://web.archive.org/web/20020806052141/http://www.cmus.cz/co/reporty/slovacib2204.html",
     "date": "April 20-21, 2002",
     "formats": [
-        "unknown"
+        "Standard",
+        "? Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-slovakia-2002",
@@ -12,6 +14,31 @@
     "standings": [
         {
             "name": "Tomas Tomecek"
+        },
+        {
+            "name": "Juraj Smrek"
+        },
+        {
+            "name": "Rastislav Stranak"
+        },
+        {
+            "name": "Martin Danter"
+        },
+        {
+            "name": "Jan Tomcani",
+            "rank": "5-8"
+        },
+        {
+            "name": "Tibor Nemeth",
+            "rank": "5-8"
+        },
+        {
+            "name": "Michal Guldan",
+            "rank": "5-8"
+        },
+        {
+            "name": "Michal Guldan",
+            "rank": "5-8"
         }
     ],
     "teamsize": 1

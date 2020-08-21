@@ -1,5 +1,6 @@
 {
     "type": "Nationals - Venezuela",
+    "coverage": "https://web.archive.org/web/20020213131956/http://www.magicvenezuela.com/nacional.html",
     "date": "May 12-13, 2001",
     "formats": [
         "Standard",
@@ -7,7 +8,7 @@
     ],
     "medium": "Tabletop",
     "id": "nationals-venezuela-2001",
-    "location": "Venezuela",
+    "location": "Valencia, Venezuela",
     "logo": "nationals",
     "name": "Nationals Venezuela 2001",
     "standings": [
@@ -16,12 +17,28 @@
             "name": "Eduardo Munoz"
         },
         {
-            "name": "Leonardo Uzcategui",
-            "rank": "2-3"
+            "money": 250,
+            "name": "Jhonathan Alves"
         },
         {
-            "name": "Michel Cumsille",
-            "rank": "2-3"
+            "money": 125,
+            "name": "Michel Cumsille"
+        },
+        {
+            "money": 125,
+            "name": "Franz Alejos"
+        },
+        {
+            "name": "Juan Carlos Mejias"
+        },
+        {
+            "name": "Leonardo Uzcategui"
+        },
+        {
+            "name": "Jhonnie Goncalves"
+        },
+        {
+            "name": "Edward Peraza"
         }
     ],
     "teamsize": 1

@@ -1,8 +1,10 @@
 {
     "type": "Nationals - Luxembourg",
+    "coverage": "https://web.archive.org/web/20021216063721/http://www.wizards.com/default.asp?x=sideboard/info/2002nats-lux",
     "date": "April 14, 2002",
     "formats": [
-        "unknown"
+        "Standard",
+        "Booster Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-luxembourg-2002",
@@ -12,6 +14,27 @@
     "standings": [
         {
             "name": "Fabrice Encelle"
+        },
+        {
+            "name": "Charles Delvaux"
+        },
+        {
+            "name": "Charel Loran"
+        },
+        {
+            "name": "Julien Poissonnier"
+        },
+        {
+            "name": "Jerome Vilm"
+        },
+        {
+            "name": "Steve Hatto"
+        },
+        {
+            "name": "Steve Brück"
+        },
+        {
+            "name": "Alain Schengen"
         }
     ],
     "teamsize": 1

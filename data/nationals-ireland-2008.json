@@ -1,6 +1,6 @@
 {
     "type": "Nationals - Ireland",
-    "date": "January 1-September 30, 2008",
+    "date": "August 2-3, 2008",
     "season": "2008",
     "formats": [
         "Standard",
@@ -8,9 +8,9 @@
     ],
     "medium": "Tabletop",
     "id": "nationals-ireland-2008",
-    "location": "Ireland",
+    "location": "Dublin, Ireland",
     "logo": "nationals",
-    "name": "Nationals Ireland 2008",
+    "name": "Nationals Ireland and Northern Ireland 2008",
     "standings": [
         {
             "name": "Conor Kerr",
@@ -18,11 +18,15 @@
         },
         {
             "name": "Stewart Shinkins",
-            "rank": "2-8"
+            "propoints": 8
         },
         {
             "name": "Patrick Mc Donagh",
-            "rank": "2-8"
+            "propoints": 6
+        },
+        {
+            "name": "Darragh Long",
+            "propoints": 6
         }
     ],
     "teamsize": 1   

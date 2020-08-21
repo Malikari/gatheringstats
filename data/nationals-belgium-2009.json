@@ -1,6 +1,6 @@
 {
     "type": "Nationals - Belgium",
-    "date": "January 1-August 31, 2009",
+    "date": "June 26-28, 2009",
     "season": "2009",
     "formats": [
         "Standard",
@@ -8,7 +8,7 @@
     ],
     "medium": "Tabletop",
     "id": "nationals-belgium-2009",
-    "location": "Belgium",
+    "location": "Brussels, Belgium",
     "logo": "nationals",
     "name": "Nationals Belgium 2009",
     "standings": [
@@ -27,7 +27,23 @@
         {
             "name": "Robbert Menten",
             "propoints": 6
-        }   
+        },
+        {
+            "name": "Marco Baiesi",
+            "propoints": 4
+        },
+        {
+            "name": "Pieter Verbanck",
+            "propoints": 4
+        },
+        {
+            "name": "Maikel Ruelle",
+            "propoints": 4
+        },
+        {
+            "name": "Geoffrey Siron",
+            "propoints": 4
+        }
     ],
     "teamsize": 1
 }

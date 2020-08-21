@@ -1,17 +1,34 @@
 {
     "type": "Nationals - Israel",
+    "coverage": "https://web.archive.org/web/20020529000727/http://www.magic-ec.com/izrreport.html",
     "date": "April 1, 2002",
     "formats": [
-        "unknown"
+        "Standard",
+        "Booster Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-israel-2002",
-    "location": "Israel",
+    "location": "Tel Aviv, Israel",
     "logo": "nationals",
     "name": "Nationals Israel 2002",
     "standings": [
         {
-            "name": "Roey Tzezana"
+            "name": "Uri Peleg"
+        },
+        {
+            "name": "Eviatar Olpiner"
+        },
+        {
+            "name": "Gidi Aviram",
+            "rank": "3-4"
+        },
+        {
+            "name": "Tomer Holczer",
+            "rank": "3-4"
+        },
+        {
+            "name": "Danny Yosef",
+            "rank": "5-8"
         }
     ],
     "teamsize": 1
