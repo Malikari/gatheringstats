@@ -1,14 +1,14 @@
 {
     "type": "Nationals - Belgium",
-    "report": "https://web.archive.org/web/20020406094256/http://www.wizards.com/international/europe/nationals00.results.bel.asp",
-    "date": "January 1-August 31, 2008",
+    "report": "https://magic.wizards.com/en/articles/archive/week-was/belgium-and-argentina-nationals-2008-09-11",
+    "date": "September 5-6, 2008",
     "formats": [
         "Standard",
         "Booster Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-belgium-2008",
-    "location": "Belgium",
+    "location": "Antwerp, Belgium",
     "logo": "nationals",
     "name": "Nationals Belgium 2008",
     "standings": [
@@ -29,24 +29,20 @@
             "propoints": 6
         },
         {
-            "name": "Geoffrey Siron",
-            "propoints": 4,
-            "rank": "5-8"
+            "name": "Jan Doise",
+            "propoints": 4
         },
         {
             "name": "Gilles Grandjean",
-            "propoints": 4,
-            "rank": "5-8"
+            "propoints": 4
+        },
+        {
+            "name": "Geoffrey Siron",
+            "propoints": 4
         },
         {
             "name": "Bram Meulders",
-            "propoints": 4,
-            "rank": "5-8"
-        },
-        {
-            "name": "Jan Doise",
-            "propoints": 4,
-            "rank": "5-8"
+            "propoints": 4
         }   
     ],
     "teamsize": 1

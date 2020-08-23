@@ -1,6 +1,6 @@
 {
     "type": "Nationals - Belgium",
-    "date": "January 1-August 31, 2010",
+    "date": "June 25-27, 2010",
     "season": "2010",
     "formats": [
         "Standard",
@@ -8,7 +8,7 @@
     ],
     "medium": "Tabletop",
     "id": "nationals-belgium-2010",
-    "location": "Belgium",
+    "location": "Brussels, Belgium",
     "logo": "nationals",
     "name": "Nationals Belgium 2010",
     "standings": [
@@ -25,10 +25,28 @@
             "propoints": 6
         },
         {
+            "name": "Marc-Andre de Leeuw",
+            "propoints": 6
+        },
+        {
             "name": "Marijn Lybaert",
-            "propoints": 4,
-            "rank": 5
-        }   
+            "propoints": 4
+        },
+        {
+            "name": "Philip Verdoodt",
+            "rank": "6-8",
+            "propoints": 4
+        },
+        {
+            "name": "Chris van den Wouwer",
+            "rank": "6-8",
+            "propoints": 4
+        },
+        {
+            "name": "Pascal Vieren",
+            "rank": "6-8",
+            "propoints": 4
+        }
     ],
     "teamsize": 1
 }

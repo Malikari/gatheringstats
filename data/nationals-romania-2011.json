@@ -1,9 +1,10 @@
 {
     "type": "Nationals - Romania",
+    "coverage": "https://web.archive.org/web/20120331043939/http://www.gamesstop.ro/articole/magic-the-gathering-romanian-nationals",
     "date": "August 20, 2011",
-    "season": "2011",
     "formats": [
-        "unknown"
+        "Standard",
+        "Booster Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-romania-2011",
@@ -13,6 +14,33 @@
     "standings": [
         {
             "name": "Mircea Adrian Posoiu"
+        },
+        {
+            "name": "Bogdan Voda"
+        },
+        {
+            "name": "Bogdan Stoica",
+            "rank": "3-8"
+        },
+        {
+            "name": "Mihai Valceanu",
+            "rank": "3-8"
+        },
+        {
+            "name": "Mihnea Barbosu",
+            "rank": "3-8"
+        },
+        {
+            "name": "Sebastian Mahu",
+            "rank": "3-8"
+        },
+        {
+            "name": "Ciprian Catana",
+            "rank": "3-8"
+        },
+        {
+            "name": "Alex Boariu",
+            "rank": "3-8"
         }
     ],
     "teamsize": 1   

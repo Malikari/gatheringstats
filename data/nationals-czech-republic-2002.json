@@ -1,8 +1,10 @@
 {
     "type": "Nationals - Czech Republic",
+    "coverage": "https://web.archive.org/web/20030504114406/http://cmus.cz/co/reporty/CZNATIONALS02.htm",
     "date": "April 26-27, 2002",
     "formats": [
-        "unknown"
+        "Standard",
+        "? Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-czech-republic-2002",
@@ -12,6 +14,27 @@
     "standings": [
         {
             "name": "Vladimir Komanicky"
+        },
+        {
+            "name": "Libor Marek"
+        },
+        {
+            "name": "Arnost Zidek"
+        },
+        {
+            "name": "Tomas Kuchta"
+        },
+        {
+            "name": "Jan Brodzak"
+        },
+        {
+            "name": "Mirko Nyvlt"
+        },
+        {
+            "name": "Adam Koska"
+        },
+        {
+            "name": "Jan Urbanec"
         }
     ],
     "teamsize": 1

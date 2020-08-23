@@ -1,8 +1,10 @@
 {
     "type": "Nationals - Ireland",
-    "date": "January 1-August 31, 2001",
+    "coverage": "https://web.archive.org/web/20011217185353/http://www.wizards.com/sideboard/article.asp?x=sb20010515a",
+    "date": "April 28-29, 2001",
     "formats": [
-        "unknown"
+        "Standard",
+        "Rochester Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-ireland-2001",
@@ -14,15 +16,25 @@
             "name": "David Coghlan"
         },
         {
-            "name": "Cormac Smith",
-            "rank": "2-3"
+            "name": "Cormac Smyth"
         },
         {
-            "name": "Diarmuid Quirke",
-            "rank": "2-3"
+            "name": "Diarmuid Quirke"
         },
         {
             "name": "Robert McKeon"
+        },
+        {
+            "name": "David Gray"
+        },
+        {
+            "name": "David Kearney"
+        },
+        {
+            "name": "Michael Brown"
+        },
+        {
+            "name": "John Cowan"
         }
     ],
     "teamsize": 1

@@ -1,6 +1,7 @@
 {
     "type": "Nationals - Mexico",
-    "date": "April 7-8, 2000",
+    "coverage": "https://web.archive.org/web/20020302011728/http://www.wizards.com/sideboard/article.asp?x=sb20010411a",
+    "date": "April 7-8, 2001",
     "formats": [
         "Standard",
         "Rochester Draft"
@@ -16,16 +17,32 @@
             "name": "Francisco Barboza"
         },
         {
-            "name": "Carlos Medina",
-            "rank": "2-3"
+            "money": 1000,
+            "name": "Carlos Medina"
         },
         {
-            "name": "Messaud Bouchaib",
-            "rank": "2-3"
+            "money": 600,
+            "name": "Messaud Bouchaib"
         },
         {
             "money": 500,
             "name": "Jorge Gonzalez Padilla"
+        },
+        {
+            "money": 350,
+            "name": "Gerardo Godinez Estrada"
+        },
+        {
+            "money": 325,
+            "name": "Julio Ayala"
+        },
+        {
+            "money": 250,
+            "name": "Fernando Dominguez Roldan"
+        },
+        {
+            "money": 250,
+            "name": "Yosef Abadi"
         }
     ],
     "teamsize": 1

@@ -1,6 +1,6 @@
 {
     "type": "Nationals - Ukraine",
-    "date": "January 1-September 30, 2009",
+    "date": "July 4-5, 2009",
     "season": "2009",
     "formats": [
         "Standard",
@@ -8,7 +8,7 @@
     ],
     "medium": "Tabletop",
     "id": "nationals-ukraine-2009",
-    "location": "Ukraine",
+    "location": "Kiev, Ukraine",
     "logo": "nationals",
     "name": "Nationals Ukraine 2009",
     "standings": [
@@ -21,14 +21,28 @@
             "propoints": 8
         },
         {
+            "name": "Alexandr Ditsulenko",
+            "propoints": 6
+        },
+        {
             "name": "Alexey Tolokolnikov",
-            "rank": 4,
             "propoints": 6
         },
         {
             "name": "Igor Gurov",
-            "rank": 5,
-            "propoints": 6
+            "propoints": 4
+        },
+        {
+            "name": "Sergiy Sushalskyy",
+            "propoints": 4
+        },
+        {
+            "name": "Dmitriy Khalanskiy",
+            "propoints": 4
+        },
+        {
+            "name": "Andrey Kozlov",
+            "propoints": 4
         }
     ],
     "teamsize": 1   

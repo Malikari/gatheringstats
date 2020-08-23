@@ -1,17 +1,48 @@
 {
     "type": "Nationals - France",
+    "coverage": "http://www.magiccorporation.com/gathering-news-view-101-nat-championnat-de-france.html",
     "date": "April 27-28, 2002",
     "formats": [
-        "unknown"
+        "Standard",
+        "Booster Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-france-2002",
-    "location": "France",
+    "location": "St. Denis, France",
     "logo": "nationals",
     "name": "Nationals France 2002",
     "standings": [
         {
+            "money": 2880,
             "name": "Sylvain Lauriol"
+        },
+        {
+            "money": 2160,
+            "name": "Florent Lefranc"
+        },
+        {
+            "money": 1170,
+            "name": "Christophe Haim"
+        },
+        {
+            "money": 945,
+            "name": "Julien Zarka"
+        },
+        {
+            "money": 720,
+            "name": "Franck Canu"
+        },
+        {
+            "money": 675,
+            "name": "Farid Meraghni"
+        },
+        {
+            "money": 540,
+            "name": "Philippe Mongauze"
+        },
+        {
+            "money": 495,
+            "name": "Johann Roussel"
         }
     ],
     "teamsize": 1

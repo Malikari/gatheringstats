@@ -1,13 +1,12 @@
 {
     "type": "Nationals - Germany",
-    "date": "January 1-July 31, 1995",
+    "date": "April 22-May 14, 1995",
     "formats": [
-        "Standard",
-        "?"
+        "Standard"
     ],
     "medium": "Tabletop",
     "id": "nationals-germany-1995",
-    "location": "Germany",
+    "location": "Friedberg, Germany",
     "logo": "nationals",
     "name": "Nationals Germany 1995",
     "standings": [
@@ -19,10 +18,21 @@
         },
         {
             "name": "Gunnar Refsdal",
+            "rank": "3-4",
             "nationality": "DEU"
         },
         {
-            "name": "Martin Trummel"
+            "name": "Martin Trummel",
+            "rank": "3-4"
+        },
+        {
+            "name": "Markus Heyduk",
+            "rank": "5-8"
+        },
+        {
+            "name": "Andreas Pischner",
+            "rank": "65-128",
+            "report": "http://www.planetmtg.de/articles/artikel.html?id=3567"
         }
     ],
     "teamsize": 1
