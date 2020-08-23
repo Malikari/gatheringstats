@@ -4389,7 +4389,7 @@
     "preston-poulter": {
         "nationality": "USA"
     },
-    "matt-place": {
+    "matthew-place": {
         "nationality": "USA"
     },
     "jonas-ekenvall": {
@@ -4945,9 +4945,6 @@
     },
     "tomasz-dudziec": {
         "nationality": "POL"
-    },
-    "denis-andrejchikov": {
-        "nationality": "RUS"
     },
     "masayuki-yasuda": {
         "nationality": "JPN"
@@ -5641,7 +5638,7 @@
     "mark-carlson": {
         "nationality": "USA"
     },
-    "antonio-a-vargas": {
+    "antonio-vargas": {
         "nationality": "PER"
     },
     "mark-hendrickson": {
@@ -9552,7 +9549,7 @@
     "csaba-racz": {
         "nationality": "HUN"
     },
-    "cormac-smith": {
+    "cormac-smyth": {
         "nationality": "IRL"
     },
     "alessandro-campani": {
@@ -11817,8 +11814,9 @@
     "d-j-mayer": {
         "nationality": "USA"
     },
-    "j-evan-w-dean": {
-        "nationality": "CAN"
+    "evan-dean": {
+        "nationality": "CAN",
+        "fullname": "J Evan W Dean"
     },
     "john-deangelo": {
         "nationality": "USA"
@@ -23501,7 +23499,7 @@
     "trevor-holmes": {
         "nationality": "USA"
     },
-    "hyunwoo-jeong": {
+    "hyun-woo-jeong": {
         "nationality": "KOR"
     },
     "brian-lee": {
@@ -30021,7 +30019,7 @@
             }
         ]
     },
-    "luis-campos": {
+    "luis-campos-reyes": {
         "nationality": "CHL"
     },
     "mike-kenney": {
@@ -31992,7 +31990,7 @@
     "riccardo-pizzirani": {
         "nationality": "ITA"
     },
-    "eduardo-teixeira": {
+    "eduardo-simao-teixeira": {
         "nationality": "BRA"
     },
     "julio-ayala": {
@@ -32086,7 +32084,7 @@
     "agus-susanto": {
         "nationality": "IDN"
     },
-    "igor-mazirerski": {
+    "igor-mazierski": {
         "nationality": "POL"
     },
     "jonathan-luey": {
@@ -36333,15 +36331,6 @@
     },
     "maxime-aubin": {
         "nationality": "CAN"
-    },
-    "adria-ramiro": {
-        "nationality": "ESP",
-        "teams": [
-            {
-                "season": 2018,
-                "team": "Spanish Masters"
-            }
-        ]
     },
     "filipe-falcao": {
         "nationality": "BRA"
@@ -44682,7 +44671,7 @@
     "shih-chien-chan": {
         "nationality": "MYS"
     },
-    "zhengyan-yang": {
+    "zheng-yan-yang": {
         "nationality": "CHN"
     },
     "yi-chiang-teo": {
@@ -64434,7 +64423,13 @@
         "nationality": "FRA"
     },
     "adrian-ramiro-cano": {
-        "nationality": "ESP"
+        "nationality": "ESP",
+        "teams": [
+            {
+                "season": 2018,
+                "team": "Spanish Masters"
+            }
+        ]
     },
     "tim-harke": {
         "nationality": "DEU"
@@ -78007,7 +78002,7 @@
     "malcolm-song": {
         "nationality": "TWN"
     },
-    "xinrong-chen": {
+    "xin-rong-chen": {
         "nationality": "CHN"
     },
     "hiroki-kuramoto": {
@@ -79668,7 +79663,6 @@
         "nationality": "ARG"
     },
     "marcos-elias-dutra-ferreira": {},
-    "guilherme-aragao-fonseca": {},
     "helder-ferreira-caixeta": {},
     "vitor-vanderlei-de-almeida-fonseca": {},
     "victor-de-carvalho-barbosa": {},
@@ -81853,9 +81847,6 @@
     "roberto-dantas": {
         "nationality": "BRA"
     },
-    "eduardo-simao": {
-        "nationality": "BRA"
-    },
     "juan-fernando-gallego": {
         "nationality": "COL"
     },
@@ -82563,5 +82554,11 @@
     },
     "tima-yoda": {
         "nationality": "UKR"
+    },
+    "pedro-pereira": {
+        "nationality": "PRT"
+    },
+    "petr-kadavy": {
+        "nationality": "CZE"
     }
 }
