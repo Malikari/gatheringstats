@@ -1,0 +1,496 @@
+{
+    "type": "Grand Prix",
+    "coverage": "https://magic.wizards.com/en/events/coverage/gpindianapolis19/final-standings",
+    "date": "September 7-8, 2019",
+    "formats": [
+        "Team Modern"
+    ],
+    "medium": "Tabletop",
+    "id": "grand-prix-indianapolis-2019",
+    "location": "Indianapolis, Indiana, United States",
+    "logo": "gplogo",
+    "name": "Grand Prix Indianapolis 2019",
+    "standings": [
+        {
+            "money": 3000,
+            "name": "Mohamad Qadi",
+            "matchpoints": 35
+        },
+        {
+            "money": 3000,
+            "name": "Joseph Karani",
+            "matchpoints": 35
+        },
+        {
+            "money": 3000,
+            "name": "Kevin Brown",
+            "matchpoints": 35
+        },
+        {
+            "money": 1750,
+            "name": "Joseph Bernal",
+            "matchpoints": 34
+        },
+        {
+            "money": 1750,
+            "name": "Matthew Hoey",
+            "matchpoints": 34
+        },
+        {
+            "money": 1750,
+            "name": "Andrew Tenjum",
+            "matchpoints": 34
+        },
+        {
+            "money": 800,
+            "name": "Nick Roller",
+            "matchpoints": 33
+        },
+        {
+            "money": 800,
+            "name": "James Moskal",
+            "matchpoints": 33
+        },
+        {
+            "money": 800,
+            "name": "Jonathan Zolot",
+            "matchpoints": 33
+        },
+        {
+            "money": 800,
+            "name": "Chad Harney",
+            "matchpoints": 33
+        },
+        {
+            "money": 800,
+            "name": "Jonathan Hobbs",
+            "matchpoints": 33
+        },
+        {
+            "money": 800,
+            "name": "Allison Warfield",
+            "matchpoints": 33
+        },
+        {
+            "money": 600,
+            "name": "Sparger",
+            "matchpoints": 33
+        },
+        {
+            "money": 600,
+            "name": "Spelman",
+            "matchpoints": 33
+        },
+        {
+            "money": 600,
+            "name": "Jones",
+            "matchpoints": 33
+        },
+        {
+            "money": 600,
+            "name": "English",
+            "matchpoints": 33
+        },
+        {
+            "money": 600,
+            "name": "Moerke",
+            "matchpoints": 33
+        },
+        {
+            "money": 600,
+            "name": "Soper",
+            "matchpoints": 33
+        },
+        {
+            "money": 600,
+            "name": "Corey Baumeister",
+            "matchpoints": 31
+        },
+        {
+            "money": 600,
+            "name": "Eli Kassis",
+            "matchpoints": 31
+        },
+        {
+            "money": 600,
+            "name": "Collins",
+            "matchpoints": 31
+        },
+        {
+            "money": 600,
+            "name": "Lehmkuhl",
+            "matchpoints": 31
+        },
+        {
+            "money": 600,
+            "name": "Varner",
+            "matchpoints": 31
+        },
+        {
+            "money": 600,
+            "name": "Hintze",
+            "matchpoints": 31
+        },
+        {
+            "money": 400,
+            "name": "Slimak",
+            "matchpoints": 31
+        },
+        {
+            "money": 400,
+            "name": "Kelly",
+            "matchpoints": 31
+        },
+        {
+            "money": 400,
+            "name": "Geringer",
+            "matchpoints": 31
+        },
+        {
+            "money": 400,
+            "name": "Yao (A)",
+            "matchpoints": 30
+        },
+        {
+            "money": 400,
+            "name": "Yeh",
+            "matchpoints": 30
+        },
+        {
+            "money": 400,
+            "name": "Zhou",
+            "matchpoints": 30
+        },
+        {
+            "money": 400,
+            "name": "Dunkin (A)",
+            "matchpoints": 30
+        },
+        {
+            "money": 400,
+            "name": "Dunkin (B)",
+            "matchpoints": 30
+        },
+        {
+            "money": 400,
+            "name": "Roth",
+            "matchpoints": 30
+        },
+        {
+            "money": 400,
+            "name": "Yao (B)",
+            "matchpoints": 30
+        },
+        {
+            "money": 400,
+            "name": "Wu",
+            "matchpoints": 30
+        },
+        {
+            "money": 400,
+            "name": "Li",
+            "matchpoints": 30
+        },
+        {
+            "money": 400,
+            "name": "Espinosa",
+            "matchpoints": 30
+        },
+        {
+            "money": 400,
+            "name": "Jacob Flaczinski",
+            "matchpoints": 30
+        },
+        {
+            "money": 400,
+            "name": "Fusco",
+            "matchpoints": 30
+        },
+        {
+            "money": 400,
+            "name": "Fiedler",
+            "matchpoints": 30
+        },
+        {
+            "money": 400,
+            "name": "Czosnowski",
+            "matchpoints": 30
+        },
+        {
+            "money": 400,
+            "name": "Scarsella",
+            "matchpoints": 30
+        },
+        {
+            "money": 400,
+            "name": "Pflieger",
+            "matchpoints": 30
+        },
+        {
+            "money": 400,
+            "name": "McCullough",
+            "matchpoints": 30
+        },
+        {
+            "money": 400,
+            "name": "Madsen",
+            "matchpoints": 30
+        },
+        {
+            "money": 400,
+            "name": "Kamperman",
+            "matchpoints": 30
+        },
+        {
+            "money": 400,
+            "name": "Holt",
+            "matchpoints": 30
+        },
+        {
+            "money": 400,
+            "name": "Parson",
+            "matchpoints": 30
+        },
+        {
+            "money": 300,
+            "name": "Caleb Durward",
+            "matchpoints": 28
+        },
+        {
+            "money": 300,
+            "name": "Bagha",
+            "matchpoints": 28
+        },
+        {
+            "money": 300,
+            "name": "Samuel Black",
+            "matchpoints": 28
+        },
+        {
+            "money": 300,
+            "name": "Pham",
+            "matchpoints": 28
+        },
+        {
+            "money": 300,
+            "name": "Andrew Elenbogen",
+            "matchpoints": 28
+        },
+        {
+            "money": 300,
+            "name": "Magnuson",
+            "matchpoints": 28
+        },
+        {
+            "money": 300,
+            "name": "Sher",
+            "matchpoints": 28
+        },
+        {
+            "money": 300,
+            "name": "Krussow",
+            "matchpoints": 28
+        },
+        {
+            "money": 300,
+            "name": "Russell",
+            "matchpoints": 28
+        },
+        {
+            "money": 300,
+            "name": "Sloo",
+            "matchpoints": 27
+        },
+        {
+            "money": 300,
+            "name": "Weiser",
+            "matchpoints": 27
+        },
+        {
+            "money": 300,
+            "name": "Strasler",
+            "matchpoints": 27
+        },
+        {
+            "money": 300,
+            "name": "Kinkade",
+            "matchpoints": 27
+        },
+        {
+            "money": 300,
+            "name": "Ripper",
+            "matchpoints": 27
+        },
+        {
+            "money": 300,
+            "name": "Brown",
+            "matchpoints": 27
+        },
+        {
+            "money": 300,
+            "name": "Williams",
+            "matchpoints": 27
+        },
+        {
+            "money": 300,
+            "name": "Thorson",
+            "matchpoints": 27
+        },
+        {
+            "money": 300,
+            "name": "Galli",
+            "matchpoints": 27
+        },
+        {
+            "money": 300,
+            "name": "Bresett",
+            "matchpoints": 27
+        },
+        {
+            "money": 300,
+            "name": "Scheffer",
+            "matchpoints": 27
+        },
+        {
+            "money": 300,
+            "name": "Nixon",
+            "matchpoints": 27
+        },
+        {
+            "money": 300,
+            "name": "Chen",
+            "matchpoints": 27
+        },
+        {
+            "money": 300,
+            "name": "Normandin (A)",
+            "matchpoints": 27
+        },
+        {
+            "money": 300,
+            "name": "Normandin (B)",
+            "matchpoints": 27
+        },
+        {
+            "money": 300,
+            "name": "Minier",
+            "matchpoints": 27
+        },
+        {
+            "money": 300,
+            "name": "Daly",
+            "matchpoints": 27
+        },
+        {
+            "money": 300,
+            "name": "Maddasion",
+            "matchpoints": 27
+        },
+        {
+            "money": 300,
+            "name": "Medvec",
+            "matchpoints": 27
+        },
+        {
+            "money": 300,
+            "name": "Powers",
+            "matchpoints": 27
+        },
+        {
+            "money": 300,
+            "name": "Kwok",
+            "matchpoints": 27
+        },
+        {
+            "money": 300,
+            "name": "Howland",
+            "matchpoints": 27
+        },
+        {
+            "money": 300,
+            "name": "Graebner",
+            "matchpoints": 27
+        },
+        {
+            "money": 300,
+            "name": "Krueger",
+            "matchpoints": 27
+        },
+        {
+            "money": 300,
+            "name": "Kuperman",
+            "matchpoints": 27
+        },
+        {
+            "money": 300,
+            "name": "Maloney",
+            "matchpoints": 27
+        },
+        {
+            "money": 300,
+            "name": "Conklin",
+            "matchpoints": 27
+        },
+        {
+            "money": 300,
+            "name": "Peterson",
+            "matchpoints": 26
+        },
+        {
+            "money": 300,
+            "name": "Vincent",
+            "matchpoints": 26
+        },
+        {
+            "money": 300,
+            "name": "Stewart",
+            "matchpoints": 26
+        },
+        {
+            "money": 300,
+            "name": "Smith",
+            "matchpoints": 25
+        },
+        {
+            "money": 300,
+            "name": "Shuler",
+            "matchpoints": 25
+        },
+        {
+            "money": 300,
+            "name": "Thomas",
+            "matchpoints": 25
+        },
+        {
+            "money": 300,
+            "name": "Kaplan",
+            "matchpoints": 25
+        },
+        {
+            "money": 300,
+            "name": "Matthew Severa",
+            "matchpoints": 25
+        },
+        {
+            "money": 300,
+            "name": "Song",
+            "matchpoints": 25
+        },
+        {
+            "money": 300,
+            "name": "Tilsen",
+            "matchpoints": 25
+        },
+        {
+            "money": 300,
+            "name": "Birrell",
+            "matchpoints": 25
+        },
+        {
+            "money": 300,
+            "name": "Wolbers",
+            "matchpoints": 25
+        }
+    ],
+    "teamsize": 3
+}

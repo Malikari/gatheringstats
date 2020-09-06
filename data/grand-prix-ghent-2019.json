@@ -1,0 +1,496 @@
+{
+    "type": "Grand Prix",
+    "coverage": "https://magic.wizards.com/en/events/coverage/gpghent19/final-standings",
+    "date": "September 14-15, 2019",
+    "formats": [
+        "Team Modern"
+    ],
+    "medium": "Tabletop",
+    "id": "grand-prix-ghent-2019",
+    "location": "Ghent, Belgium",
+    "logo": "gplogo",
+    "name": "Grand Prix Ghent 2019",
+    "standings": [
+        {
+            "money": 3000,
+            "name": "Ruben Perez",
+            "matchpoints": 34
+        },
+        {
+            "money": 3000,
+            "name": "Joel Calafell",
+            "matchpoints": 34
+        },
+        {
+            "money": 3000,
+            "name": "Esther Trujillo",
+            "matchpoints": 34
+        },
+        {
+            "money": 1750,
+            "name": "Brent Vos",
+            "matchpoints": 34
+        },
+        {
+            "money": 1750,
+            "name": "Niels van de Sande",
+            "matchpoints": 34
+        },
+        {
+            "money": 1750,
+            "name": "Jesper Box",
+            "matchpoints": 34
+        },
+        {
+            "money": 800,
+            "name": "Dominik Görtzen",
+            "matchpoints": 35
+        },
+        {
+            "money": 800,
+            "name": "Julian Plagge",
+            "matchpoints": 35
+        },
+        {
+            "money": 800,
+            "name": "Nikolas Labahn",
+            "matchpoints": 35
+        },
+        {
+            "money": 800,
+            "name": "Laurent Cestaro",
+            "matchpoints": 34
+        },
+        {
+            "money": 800,
+            "name": "Jeremy Dezani",
+            "matchpoints": 34
+        },
+        {
+            "money": 800,
+            "name": "Nicolas Chabriac",
+            "matchpoints": 34
+        },
+        {
+            "money": 600,
+            "name": "Henry",
+            "matchpoints": 33
+        },
+        {
+            "money": 600,
+            "name": "Piotr Glogowski",
+            "matchpoints": 33
+        },
+        {
+            "money": 600,
+            "name": "Louis Deltour",
+            "matchpoints": 33
+        },
+        {
+            "money": 600,
+            "name": "Johann Wallner",
+            "matchpoints": 33
+        },
+        {
+            "money": 600,
+            "name": "Marc Tobiasch",
+            "matchpoints": 33
+        },
+        {
+            "money": 600,
+            "name": "Niklas Holtmann",
+            "matchpoints": 33
+        },
+        {
+            "money": 600,
+            "name": "Sodomirski",
+            "matchpoints": 33
+        },
+        {
+            "money": 600,
+            "name": "Korpikiewicz",
+            "matchpoints": 33
+        },
+        {
+            "money": 600,
+            "name": "Lorenc",
+            "matchpoints": 33
+        },
+        {
+            "money": 600,
+            "name": "Jochum",
+            "matchpoints": 33
+        },
+        {
+            "money": 600,
+            "name": "Bachaud",
+            "matchpoints": 33
+        },
+        {
+            "money": 600,
+            "name": "Thierry Ramboa",
+            "matchpoints": 33
+        },
+        {
+            "money": 400,
+            "name": "Toledo",
+            "matchpoints": 32
+        },
+        {
+            "money": 400,
+            "name": "Velazquez",
+            "matchpoints": 32
+        },
+        {
+            "money": 400,
+            "name": "Martinez",
+            "matchpoints": 32
+        },
+        {
+            "money": 400,
+            "name": "Arnaud Hocquemiller",
+            "matchpoints": 32
+        },
+        {
+            "money": 400,
+            "name": "Julien Stihle",
+            "matchpoints": 32
+        },
+        {
+            "money": 400,
+            "name": "Habert",
+            "matchpoints": 32
+        },
+        {
+            "money": 400,
+            "name": "Stok",
+            "matchpoints": 32
+        },
+        {
+            "money": 400,
+            "name": "Roy Oever",
+            "matchpoints": 32
+        },
+        {
+            "money": 400,
+            "name": "Cooman",
+            "matchpoints": 32
+        },
+        {
+            "money": 400,
+            "name": "Valette",
+            "matchpoints": 31
+        },
+        {
+            "money": 400,
+            "name": "Teyant",
+            "matchpoints": 31
+        },
+        {
+            "money": 400,
+            "name": "La Francois",
+            "matchpoints": 31
+        },
+        {
+            "money": 400,
+            "name": "van der Beek",
+            "matchpoints": 30
+        },
+        {
+            "money": 400,
+            "name": "van Donselaar",
+            "matchpoints": 30
+        },
+        {
+            "money": 400,
+            "name": "Prosek",
+            "matchpoints": 30
+        },
+        {
+            "money": 400,
+            "name": "Londos",
+            "matchpoints": 30
+        },
+        {
+            "money": 400,
+            "name": "Lindstrom",
+            "matchpoints": 30
+        },
+        {
+            "money": 400,
+            "name": "Nystrom",
+            "matchpoints": 30
+        },
+        {
+            "money": 400,
+            "name": "Staples",
+            "matchpoints": 30
+        },
+        {
+            "money": 400,
+            "name": "Green",
+            "matchpoints": 30
+        },
+        {
+            "money": 400,
+            "name": "Arlow",
+            "matchpoints": 30
+        },
+        {
+            "money": 400,
+            "name": "Lev Ducenko",
+            "matchpoints": 30
+        },
+        {
+            "money": 400,
+            "name": "David Joachim",
+            "matchpoints": 30
+        },
+        {
+            "money": 400,
+            "name": "Neumann",
+            "matchpoints": 30
+        },
+        {
+            "money": 300,
+            "name": "Hupkens",
+            "matchpoints": 30
+        },
+        {
+            "money": 300,
+            "name": "Splinter",
+            "matchpoints": 30
+        },
+        {
+            "money": 300,
+            "name": "Beijerink",
+            "matchpoints": 30
+        },
+        {
+            "money": 300,
+            "name": "Jones",
+            "matchpoints": 30
+        },
+        {
+            "money": 300,
+            "name": "Radosz",
+            "matchpoints": 30
+        },
+        {
+            "money": 300,
+            "name": "Przybyla",
+            "matchpoints": 30
+        },
+        {
+            "money": 300,
+            "name": "Lange",
+            "matchpoints": 30
+        },
+        {
+            "money": 300,
+            "name": "Geertsen",
+            "matchpoints": 30
+        },
+        {
+            "money": 300,
+            "name": "Brandt",
+            "matchpoints": 30
+        },
+        {
+            "money": 300,
+            "name": "Lukas Diekjobst",
+            "matchpoints": 28
+        },
+        {
+            "money": 300,
+            "name": "Sebastian Knörr",
+            "matchpoints": 28
+        },
+        {
+            "money": 300,
+            "name": "Jan Prüser",
+            "matchpoints": 28
+        },
+        {
+            "money": 300,
+            "name": "Smet",
+            "matchpoints": 28
+        },
+        {
+            "money": 300,
+            "name": "Bart van Etten",
+            "matchpoints": 28
+        },
+        {
+            "money": 300,
+            "name": "Leon van der Linden",
+            "matchpoints": 28
+        },
+        {
+            "money": 300,
+            "name": "Havelka",
+            "matchpoints": 28
+        },
+        {
+            "money": 300,
+            "name": "Muller",
+            "matchpoints": 28
+        },
+        {
+            "money": 300,
+            "name": "Kindl",
+            "matchpoints": 28
+        },
+        {
+            "money": 300,
+            "name": "Metsa",
+            "matchpoints": 28
+        },
+        {
+            "money": 300,
+            "name": "Perttula",
+            "matchpoints": 28
+        },
+        {
+            "money": 300,
+            "name": "Lehonen",
+            "matchpoints": 28
+        },
+        {
+            "money": 300,
+            "name": "Wolf",
+            "matchpoints": 28
+        },
+        {
+            "money": 300,
+            "name": "Hansen",
+            "matchpoints": 28
+        },
+        {
+            "money": 300,
+            "name": "Wery",
+            "matchpoints": 28
+        },
+        {
+            "money": 300,
+            "name": "Fornacini",
+            "matchpoints": 28
+        },
+        {
+            "money": 300,
+            "name": "Ravagli",
+            "matchpoints": 28
+        },
+        {
+            "money": 300,
+            "name": "Bartollini",
+            "matchpoints": 28
+        },
+        {
+            "money": 300,
+            "name": "Buehlbecker",
+            "matchpoints": 28
+        },
+        {
+            "money": 300,
+            "name": "Bernd Brendemühl",
+            "matchpoints": 28
+        },
+        {
+            "money": 300,
+            "name": "Volker Olbrich",
+            "matchpoints": 28
+        },
+        {
+            "money": 300,
+            "name": "Dubourg",
+            "matchpoints": 28
+        },
+        {
+            "money": 300,
+            "name": "Deschamp",
+            "matchpoints": 28
+        },
+        {
+            "money": 300,
+            "name": "Urset",
+            "matchpoints": 28
+        },
+        {
+            "money": 300,
+            "name": "Stifter",
+            "matchpoints": 28
+        },
+        {
+            "money": 300,
+            "name": "Fussi",
+            "matchpoints": 28
+        },
+        {
+            "money": 300,
+            "name": "Engl",
+            "matchpoints": 28
+        },
+        {
+            "money": 300,
+            "name": "Marc Lindrath",
+            "matchpoints": 28
+        },
+        {
+            "money": 300,
+            "name": "Philipp Drohberg",
+            "matchpoints": 28
+        },
+        {
+            "money": 300,
+            "name": "Petrick",
+            "matchpoints": 28
+        },
+        {
+            "money": 300,
+            "name": "Carrasco",
+            "matchpoints": 28
+        },
+        {
+            "money": 300,
+            "name": "Gutierrez Fernandez",
+            "matchpoints": 28
+        },
+        {
+            "money": 300,
+            "name": "Ruiz",
+            "matchpoints": 28
+        },
+        {
+            "money": 300,
+            "name": "Elings",
+            "matchpoints": 28
+        },
+        {
+            "money": 300,
+            "name": "Doets",
+            "matchpoints": 28
+        },
+        {
+            "money": 300,
+            "name": "de Vries",
+            "matchpoints": 28
+        },
+        {
+            "money": 300,
+            "name": "Winter",
+            "matchpoints": 27
+        },
+        {
+            "money": 300,
+            "name": "Loubser",
+            "matchpoints": 27
+        },
+        {
+            "money": 300,
+            "name": "Azevedo",
+            "matchpoints": 27
+        }
+    ],
+    "teamsize": 3
+}
