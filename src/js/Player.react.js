@@ -119,12 +119,10 @@ const Player = () => {
           </div>
         </div>
         <div className="Stat-alert alert alert-info">
-          <div className="Stat-value">{player.stats.mythicpoints}</div>
-          <div>
-            <Link className="Stat-link" to="rankings/mythicpoints">
-              Mythic Points
-            </Link>
+          <div className="Stat-value">
+            {player.stats.mythicpoints} / {player.stats.playerspoints}
           </div>
+          Total MP / PP
         </div>
       </div>
       <h2>Pro Tours</h2>
