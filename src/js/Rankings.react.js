@@ -64,15 +64,19 @@ const Rankings = () => {
               {col === 'points' ? sortImage : null}
             </th>
             <th className="sortableHeader">
-              <Link to="/rankings/mythicpoints">Mythic Points</Link>
-              {col === 'mythicpoints' ? sortImage : null}
+              <Link to="/rankings/gpt1">GPs won</Link>
+              {col === 'gpt1' ? sortImage : null}
+            </th>
+            <th className="sortableHeader">
+              <Link to="/rankings/gpt8">GP T8</Link>
+              {col === 'gpt8' ? sortImage : null}
             </th>
             <th className="sortableHeader">
               <Link to="/rankings/money">Money</Link>
               {col === 'money' ? sortImage : null}
             </th>
             <th className="sortableHeader">
-              <Link to="/rankings/t8pct">T8/Total</Link>
+              <Link to="/rankings/t8pct">T8/Total (PT)</Link>
               {col === 't8pct' ? sortImage : null}
             </th>
           </tr>
@@ -97,7 +101,8 @@ const Rankings = () => {
                 <td>{player.stats.t8}</td>
                 <td>{player.stats.t16}</td>
                 <td>{player.stats.points}</td>
-                <td>{player.stats.mythicpoints}</td>
+                <td>{player.stats.gpt1}</td>
+                <td>{player.stats.gpt8}</td>
                 <td>{accounting.formatMoney(player.stats.money, '$', 0)}</td>
                 <td>{player.stats.t8pct}</td>
               </tr>

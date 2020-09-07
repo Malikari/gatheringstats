@@ -116,7 +116,10 @@ module.exports = function(grunt) {
               total: 0,
               t1: 0,
               t8: 0,
-              t16: 0
+              t16: 0,
+              gptotal: 0,
+              gpt1: 0,
+              gpt8: 0
             }
           };
         }
@@ -139,24 +142,38 @@ module.exports = function(grunt) {
         players[standing.id].stats.playerspoints += standing.playerspoints || 0;
 
         // Only PTs are included in the stats below (count, T1, T8, T16)
-        if (tournament.type !== 'Pro Tour') {
+        if (tournament.type == 'Pro Tour') {
+          ++players[standing.id].stats.total;
+          if (finish === 1) {
+            ++players[standing.id].stats.t1;
+          }
+          if (
+            (tournament.teamsize > 1 && finish <= 4) ||
+            (tournament.teamsize == 1 && finish <= 8)
+          ) {
+            ++players[standing.id].stats.t8;
+          }
+          if (
+            (tournament.teamsize > 1 && finish <= 8) ||
+            (tournament.teamsize == 1 && finish <= 16)
+          ) {
+            ++players[standing.id].stats.t16;
+          }
+        }
+        else if (tournament.type == 'Grand Prix') {
+          ++players[standing.id].stats.gptotal;
+          if (finish === 1) {
+            ++players[standing.id].stats.gpt1;
+          }
+          if (
+            (tournament.teamsize > 1 && finish <= 4) ||
+            (tournament.teamsize == 1 && finish <= 8)
+          ) {
+            ++players[standing.id].stats.gpt8;
+          }
+        }
+        else {
           return;
-        }
-        ++players[standing.id].stats.total;
-        if (finish === 1) {
-          ++players[standing.id].stats.t1;
-        }
-        if (
-          (tournament.teamsize > 1 && finish <= 4) ||
-          (tournament.teamsize == 1 && finish <= 8)
-        ) {
-          ++players[standing.id].stats.t8;
-        }
-        if (
-          (tournament.teamsize > 1 && finish <= 8) ||
-          (tournament.teamsize == 1 && finish <= 16)
-        ) {
-          ++players[standing.id].stats.t16;
         }
       });
     });
