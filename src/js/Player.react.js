@@ -20,6 +20,7 @@ const TournamentsTable = ({items = {}, condition = (type) => type === 'Pro Tour'
           <th>Tournament</th>
           <th>Finish</th>
           <th>Mythic Points</th>
+          <th>Players Points</th>
           <th>Pro Points</th>
           <th>Prize Money</th>
         </tr>
@@ -44,6 +45,7 @@ const TournamentsTable = ({items = {}, condition = (type) => type === 'Pro Tour'
               </td>
               <td>{t.finish}</td>
               <td>{t.mythicpoints}</td>
+              <td>{t.playerspoints}</td>
               <td>{t.propoints}</td>
               <td>{formatMoney(t.money)}</td>
             </tr>
@@ -99,6 +101,20 @@ const Player = () => {
             {' / '}
             <Link className="Stat-link" to="/rankings/total">
               Total
+            </Link>
+          </div>
+        </div>
+        <div className="Stat-alert alert alert-info">
+          <div className="Stat-value">
+            {player.stats.gpt1} / {player.stats.gpt8}
+          </div>
+          <div>
+            <Link className="Stat-link" to="/rankings/gpt1">
+              GP Wins
+            </Link>
+            {' / '}
+            <Link className="Stat-link" to="/rankings/gpt8">
+              T8
             </Link>
           </div>
         </div>
