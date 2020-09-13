@@ -142,7 +142,7 @@ const Player = () => {
         </div>
       </div>
       <h2>Pro Tours</h2>
-      <TournamentsTable items={player.tournaments} />
+      <TournamentsTable items={player.tournaments} condition={(type) => (type === 'Pro Tour' || type === 'Players Tour Finals Online')} />
       <h2>Grand Prix</h2>
       <TournamentsTable items={player.tournaments} condition={(type) => type === 'Grand Prix'} />
       <h2>Other Tournaments</h2>
