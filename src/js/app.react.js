@@ -15,6 +15,7 @@ import { ProLeagues } from './RecentTournaments.react.js';
 import { Nationals } from './RecentTournaments.react.js';
 import { GrandPrix } from './RecentTournaments.react.js';
 import { OtherTournaments } from './RecentTournaments.react.js';
+import { Arena } from './RecentTournaments.react.js';
 import HallOfFame from "./HallOfFame.react";
 import NotFound from "./NotFound.react";
 import history from "./browserhistory";
@@ -33,6 +34,7 @@ render(
       <Route path="/pro-leagues" component={ProLeagues} />
       <Route path="/grand-prix" component={GrandPrix} />
       <Route path="/other-tournaments" component={OtherTournaments} />
+      <Route path="/arena" component={Arena} />
       <Route path="/hall-of-fame/:col" component={HallOfFame} />
       <Route path="*" component={NotFound} />
     </Switch>

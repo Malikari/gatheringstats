@@ -4,7 +4,7 @@ import React from 'react';
 import {Link} from 'react-router-dom';
 import Players from './Players.js';
 import PlayerLink from './PlayerLink.react.js';
-import {filterOnlyProTours, filterOnlyProLeagues, filterOnlyNationals, filterOnlyGrandPrix, filterOtherTournaments} from './utils.js';
+import {filterOnlyProTours, filterOnlyProLeagues, filterOnlyNationals, filterOnlyGrandPrix, filterOnlyOtherTournaments, filterOnlyArena} from './utils.js';
 import { Helmet } from "react-helmet";
 import PropTypes from 'prop-types';
 
@@ -126,7 +126,16 @@ export const GrandPrix = (props) => {
 export const OtherTournaments = (props) => {
   return (
     <RecentTournaments
-      filter={filterOtherTournaments}
+      filter={filterOnlyOtherTournaments}
+      {...props}
+    />
+  );
+};
+
+export const Arena = (props) => {
+  return (
+    <RecentTournaments
+      filter={filterOnlyArena}
       {...props}
     />
   );
