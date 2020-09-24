@@ -236,9 +236,9 @@ module.exports = function(grunt) {
           }
         }
         if (typeof players[p].mpl !== "undefined" || typeof players[p].rvl !== "undefined") {
-          if (typeof players[p].mpl !== "undefined" && players[p].mpl.includes(2020)) {
+          if (typeof players[p].mpl !== "undefined" && players[p].mpl.includes(2021)) {
             players[p].activeBadge = 'mpl';
-          } else if (typeof players[p].rvl !== "undefined" && players[p].rvl.includes(2020)) {
+          } else if (typeof players[p].rvl !== "undefined" && players[p].rvl.includes(2021)) {
             players[p].activeBadge = 'rvl';
           } else if (typeof players[p].mpl !== "undefined") {
             players[p].activeBadge = 'formermpl';
