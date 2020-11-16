@@ -112,10 +112,14 @@ module.exports = function(grunt) {
               money: 0,
               points: 0,
               mythicpoints: 0,
+              playerspoints: 0,
               total: 0,
               t1: 0,
               t8: 0,
-              t16: 0
+              t16: 0,
+              gptotal: 0,
+              gpt1: 0,
+              gpt8: 0
             }
           };
         }
@@ -135,26 +139,41 @@ module.exports = function(grunt) {
         players[standing.id].stats.money += standing.money || 0;
         players[standing.id].stats.points += standing.propoints || 0;
         players[standing.id].stats.mythicpoints += standing.mythicpoints || 0;
+        players[standing.id].stats.playerspoints += standing.playerspoints || 0;
 
         // Only PTs are included in the stats below (count, T1, T8, T16)
-        if (tournament.type !== 'Pro Tour') {
+        if (tournament.type == 'Pro Tour') {
+          ++players[standing.id].stats.total;
+          if (finish === 1) {
+            ++players[standing.id].stats.t1;
+          }
+          if (
+            (tournament.teamsize > 1 && finish <= 4) ||
+            (tournament.teamsize == 1 && finish <= 8)
+          ) {
+            ++players[standing.id].stats.t8;
+          }
+          if (
+            (tournament.teamsize > 1 && finish <= 8) ||
+            (tournament.teamsize == 1 && finish <= 16)
+          ) {
+            ++players[standing.id].stats.t16;
+          }
+        }
+        else if (tournament.type == 'Grand Prix') {
+          ++players[standing.id].stats.gptotal;
+          if (finish === 1) {
+            ++players[standing.id].stats.gpt1;
+          }
+          if (
+            (tournament.teamsize > 1 && finish <= 4) ||
+            (tournament.teamsize == 1 && finish <= 8)
+          ) {
+            ++players[standing.id].stats.gpt8;
+          }
+        }
+        else {
           return;
-        }
-        ++players[standing.id].stats.total;
-        if (finish === 1) {
-          ++players[standing.id].stats.t1;
-        }
-        if (
-          (tournament.teamsize > 1 && finish <= 4) ||
-          (tournament.teamsize == 1 && finish <= 8)
-        ) {
-          ++players[standing.id].stats.t8;
-        }
-        if (
-          (tournament.teamsize > 1 && finish <= 8) ||
-          (tournament.teamsize == 1 && finish <= 16)
-        ) {
-          ++players[standing.id].stats.t16;
         }
       });
     });
@@ -217,9 +236,9 @@ module.exports = function(grunt) {
           }
         }
         if (typeof players[p].mpl !== "undefined" || typeof players[p].rvl !== "undefined") {
-          if (typeof players[p].mpl !== "undefined" && players[p].mpl.includes(2020)) {
+          if (typeof players[p].mpl !== "undefined" && players[p].mpl.includes(2021)) {
             players[p].activeBadge = 'mpl';
-          } else if (typeof players[p].rvl !== "undefined" && players[p].rvl.includes(2020)) {
+          } else if (typeof players[p].rvl !== "undefined" && players[p].rvl.includes(2021)) {
             players[p].activeBadge = 'rvl';
           } else if (typeof players[p].mpl !== "undefined") {
             players[p].activeBadge = 'formermpl';

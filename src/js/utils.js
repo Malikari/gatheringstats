@@ -13,4 +13,6 @@ export const filterOnlyNationals = item => /Nationals/.test(item.type);
 
 export const filterOnlyGrandPrix = item => item.type === 'Grand Prix';
 
-export const filterOtherTournaments = item => (item.type !== 'Pro Tour' && item.type !== 'Grand Prix' && item.type !== 'Player Tour Finals Online' && !/Nationals/.test(item.type));
+export const filterOnlyOtherTournaments = item => (item.type !== 'Pro Tour' && item.type !== 'Grand Prix' && item.type !== 'Player Tour Finals Online' && !/Nationals/.test(item.type) && item.medium !== 'Arena');
+
+export const filterOnlyArena = item => item.medium === 'Arena';

@@ -26,6 +26,11 @@ const Page = props => (
             </Link>
           </li>
           <li>
+            <Link to="/arena">
+              Arena
+            </Link>
+          </li>
+          <li>
             <Link to="/other-tournaments">
               Other Tournaments
             </Link>
