@@ -64,6 +64,10 @@ const Rankings = () => {
               {col === 'points' ? sortImage : null}
             </th>
             <th className="sortableHeader">
+              <Link to="/rankings/amp">AMP</Link>
+              {col === 'points' ? sortImage : null}
+            </th>
+            <th className="sortableHeader">
               <Link to="/rankings/gpt1">GPs won</Link>
               {col === 'gpt1' ? sortImage : null}
             </th>
@@ -101,6 +105,7 @@ const Rankings = () => {
                 <td>{player.stats.t8}</td>
                 <td>{player.stats.t16}</td>
                 <td>{player.stats.points}</td>
+                <td>{player.stats.amp}</td>
                 <td>{player.stats.gpt1}</td>
                 <td>{player.stats.gpt8}</td>
                 <td>{accounting.formatMoney(player.stats.money, '$', 0)}</td>
