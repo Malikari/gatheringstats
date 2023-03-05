@@ -127,16 +127,16 @@ const Player = () => {
         <div className="Stat-alert alert alert-info">
           <div className="Stat-value">{player.stats.points}</div>
           <div>
-            <Link className="Stat-link" to="rankings/points">
+            <Link className="Stat-link" to="/rankings/points">
               Total Pro Points
             </Link>
           </div>
         </div>
         <div className="Stat-alert alert alert-info">
-          <div className="Stat-value">
-            {player.stats.amp}
-          </div>
-          Total AMP
+          <div className="Stat-value">{player.stats.amp}</div>
+          <Link className="Stat-link" to="/rankings/amp">
+            Total AMP
+          </Link>
         </div>
       </div>
       <h2>Pro Tours</h2>
