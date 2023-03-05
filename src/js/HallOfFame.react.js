@@ -61,7 +61,7 @@ const HallOfFame = () => {
             {col === 'points' ? sortImage : null}
           </th>
           <th className="sortableHeader">
-            <Link to="/hall-of-fame/mythicpoints">Mythic Points</Link>
+            <Link to="/hall-of-fame/amp">AMP</Link>
             {col === 'mythicpoints' ? sortImage : null}
           </th>
           <th className="sortableHeader">
@@ -94,7 +94,7 @@ const HallOfFame = () => {
               <td>{player.stats.t1}</td>
               <td>{player.stats.t8}</td>
               <td>{player.stats.points}</td>
-              <td>{player.stats.mythicpoints}</td>
+              <td>{player.stats.amp}</td>
               <td>{accounting.formatMoney(player.stats.money, '$', 0)}</td>
               <td>{player.stats.t8pct}</td>
             </tr>

@@ -40,10 +40,11 @@ const Tournament = () => {
           <tr>
             <th />
             <th>Player</th>
-            {t.type === 'Pro Tour' || t.type === 'Magic Pro League' || t.type === 'Arena Mythic Championship Qualifier' ? <th>Mythic Points</th> : null}
-            {t.type === 'Pro Tour' || t.type === 'Grand Prix' || t.type === 'WMC' || t.type === 'World Championships' || /Nationals/.test(t.type) ? <th>Pro Points</th> : null}
+            {(t.type === 'Pro Tour' && t.name < 'Mz') || t.type === 'Magic Pro League' || t.type === 'Mythic Championship' || t.type === 'Arena Mythic Championship Qualifier' ? <th>Mythic Points</th> : null}
+            {(t.type === 'Pro Tour' && (t.name > 'N' || t.name < 'Mythic Championship III')) || t.type === 'Grand Prix' || t.type === 'WMC' || t.type === 'World Championships' || /Nationals/.test(t.type) ? <th>Pro Points</th> : null}
             {t.type === 'Players Tour' || t.type === 'Players Tour Finals' ? <th>Players Points</th> : null}
             <th>Prize Money</th>
+            <th>Match Points</th>
           </tr>
         </thead>
         <tbody>
@@ -55,10 +56,11 @@ const Tournament = () => {
                   <PlayerLink player={Players.byID(p.id)} countryOverrides={t.getNationalityInfo(index)}/>{' '}
                   {p.report ? <a href={p.report}>(report)</a> : null}
                 </td>
-                {t.type === 'Pro Tour' || t.type === 'Magic Pro League' || t.type === 'Arena Mythic Championship Qualifier' ? <td>{p.mythicpoints}</td> : null}
-                {t.type === 'Pro Tour' || t.type === 'Grand Prix' || t.type === 'WMC' || t.type === 'World Championships' || /Nationals/.test(t.type) ? <td>{p.propoints}</td> : null}
+                {(t.type === 'Pro Tour' && t.name < 'Mz') || t.type === 'Magic Pro League' || t.type === 'Mythic Championship' || t.type === 'Arena Mythic Championship Qualifier' ? <td>{p.mythicpoints}</td> : null}
+                {(t.type === 'Pro Tour' && (t.name > 'N' || t.name < 'Mythic Championship III')) || t.type === 'Grand Prix' || t.type === 'WMC' || t.type === 'World Championships' || /Nationals/.test(t.type) ? <td>{p.propoints}</td> : null}
                 {t.type === 'Players Tour' || t.type === 'Players Tour Finals' ? <td>{p.playerspoints}</td> : null}
                 <td>{formatMoney(p.money)}</td>
+                <td>{p.matchpoints}</td>
               </tr>
             );
           })}
