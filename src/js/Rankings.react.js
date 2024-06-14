@@ -65,7 +65,7 @@ const Rankings = () => {
             </th>
             <th className="sortableHeader">
               <Link to="/rankings/amp">AMP</Link>
-              {col === 'points' ? sortImage : null}
+              {col === 'amp' ? sortImage : null}
             </th>
             <th className="sortableHeader">
               <Link to="/rankings/gpt1">GPs won</Link>

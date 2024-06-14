@@ -35,8 +35,8 @@
     "deepcopy": "^2.0.0",
     "eslint-plugin-react": "^7.19.0",
     "gh-pages": "^2.2.0",
-    "grunt": "^1.1.0",
-    "grunt-browserify": "^5.3.0",
+    "grunt": "^1.5.3",
+    "grunt-browserify": "^6.0.0",
     "grunt-contrib-clean": "^2.0.0",
     "grunt-contrib-connect": "^2.1.0",
     "grunt-contrib-copy": "^1.0.0",
@@ -48,9 +48,9 @@
     "grunt-jsonlint": "^2.1.2",
     "grunt-sass": "^3.1.0",
     "imagemin-webp": "^5.1.0",
-    "load-grunt-config": "^3.0.1",
-    "node-sass": "^4.13.1",
-    "sharp": "^0.25.2",
+    "load-grunt-config": "^3.0.2",
+    "node-sass": "^8.0.0",
+    "sharp": "^0.30.5",
     "uglifyify": "^5.0.2",
     "unidecode": "^0.1.8"
   },
@@ -62,6 +62,6 @@
     "react-dom": "^16.13.1",
     "react-helmet": "^5.2.1",
     "react-router-dom": "^5.1.2",
-    "underscore": "^1.10.2"
+    "underscore": "^1.12.1"
   }
 }

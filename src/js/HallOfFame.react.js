@@ -62,7 +62,7 @@ const HallOfFame = () => {
           </th>
           <th className="sortableHeader">
             <Link to="/hall-of-fame/amp">AMP</Link>
-            {col === 'mythicpoints' ? sortImage : null}
+            {col === 'amp' ? sortImage : null}
           </th>
           <th className="sortableHeader">
             <Link to="/hall-of-fame/money">Money</Link>
