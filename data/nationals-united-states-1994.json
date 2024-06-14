@@ -1,9 +1,9 @@
 {
     "type": "Nationals - United States",
-    "report": "https://magic.wizards.com/en/articles/archive/week-was/teaming-us-nationals-2011-08-04",
+    "report": "https://web.archive.org/web/20210122135209/https://magic.wizards.com/en/articles/archive/week-was/teaming-us-nationals-2011-08-04",
     "date": "July 9-10, 1994",
     "formats": [
-        "Vintage"
+        "Core Set Constructed"
     ],
     "medium": "Tabletop",
     "id": "nationals-united-states-1994",
@@ -11,9 +11,10 @@
     "logo": "nationals",
     "name": "Nationals United States 1994",
     "standings": [
-        {
-            "name": "Bo Bell"
-        }
+        {"name": "Bo Bell", "report": "https://archive.org/details/shadismagazine/Shadis/Shadis%20Magazine%20%2316/page/60/mode/2up?view=theater"},
+        {"name": "Don Smith"},
+        {"name": "Gene Rosewater", "rank": "P"},
+        {"name": "Mark Rosewater", "rank": "P"}
     ],
     "teamsize": 1
     

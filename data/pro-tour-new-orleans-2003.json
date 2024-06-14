@@ -1,6 +1,6 @@
 {
     "type": "Pro Tour",
-    "coverage": "http://www.wizards.com/default.asp?x=sideboard/events/ptno03",
+    "coverage": "https://web.archive.org/web/20031206065138/http://www.wizards.com/default.asp?x=sideboard/events/ptno03",
     "date": "October 31-November 2, 2003",
     "formats": [
         "Extended"
@@ -34,7 +34,8 @@
         {
             "money": 9500,
             "name": "Hans Joachim Höh",
-            "propoints": 12
+            "propoints": 12,
+            "report": "http://www.planetmtg.de/articles/artikel.html?id=1325"
         },
         {
             "money": 8500,

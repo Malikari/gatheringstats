@@ -1,6 +1,6 @@
 {
     "type": "Pro Tour",
-    "coverage": "https://magic.wizards.com/en/events/coverage/ptkl08",
+    "coverage": "https://web.archive.org/web/20080324125652/http://www.wizards.com/default.asp?x=mtgevent/ptkl08/welcome",
     "date": "February 15-17, 2008",
     "formats": [
         "Draft"
@@ -144,7 +144,8 @@
         {
             "money": 1700,
             "name": "André Müller",
-            "propoints": 6
+            "propoints": 6,
+            "report": "http://www.planetmtg.de/articles/artikel.html?id=3636"
         },
         {
             "money": 1600,
@@ -426,7 +427,8 @@
         },
         {
             "name": "Jan Ruess",
-            "propoints": 4
+            "propoints": 4,
+            "report": ["http://www.planetmtg.de/articles/artikel.html?id=3630", "http://www.planetmtg.de/articles/artikel.html?id=3633"]
         },
         {
             "name": "Gaudenis Vidugiris",
@@ -897,7 +899,7 @@
             "propoints": 2
         },
         {
-            "name": "Falko Goerres",
+            "name": "Falko Görres",
             "propoints": 2
         },
         {

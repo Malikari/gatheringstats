@@ -14,54 +14,22 @@
   "logo": "mtg-yellow",
   "name": "Magic Invitational 2002",
   "standings": [
-    {
-      "name": "Jens Thoren"
-    },
-    {
-      "name": "Tomi Walamies"
-    },
-    {
-      "name": "Jon Finkel"
-    },
-    {
-      "name": "Gary Wise"
-    },
-    {
-      "name": "Brian Kibler"
-    },
-    {
-      "name": "Carlos Romao"
-    },
-    {
-      "name": "David Humpherys"
-    },
-    {
-      "name": "Eivind Nitter"
-    },
-    {
-      "name": "Gabriel Nassif"
-    },
-    {
-      "name": "Brian Davis"
-    },
-    {
-      "name": "Olivier Ruel"
-    },
-    {
-      "name": "Alex Shvartsman"
-    },
-    {
-      "name": "Itaru Ishida"
-    },
-    {
-      "name": "David Price"
-    },
-    {
-      "name": "Diego Ostrovich"
-    },
-    {
-      "name": "Chris Pikula"
-    }
+    {"name": "Jens Thoren"},
+    {"name": "Tomi Walamies", "report": "https://web.archive.org/web/20030811170702/http://www.wizards.com/default.asp?x=sideboard/mi/2002walamies"},
+    {"name": "Jon Finkel"},
+    {"name": "Gary Wise", "report": "https://web.archive.org/web/20030811170702/http://www.wizards.com/default.asp?x=sideboard/mi/2002wise"},
+    {"name": "Brian Kibler", "report": "https://web.archive.org/web/20030811170702/http://www.wizards.com/default.asp?x=sideboard/mi/2002kibler"},
+    {"name": "Carlos Romao"},
+    {"name": "David Humpherys"},
+    {"name": "Eivind Nitter"},
+    {"name": "Gabriel Nassif"},
+    {"name": "Brian Davis"},
+    {"name": "Olivier Ruel"},
+    {"name": "Alex Shvartsman"},
+    {"name": "Itaru Ishida"},
+    {"name": "David Price", "report": "https://web.archive.org/web/20030811170702/http://www.wizards.com/default.asp?x=sideboard/mi/2002price"},
+    {"name": "Diego Ostrovich", "report": "https://web.archive.org/web/20030811170702/http://www.wizards.com/default.asp?x=sideboard/mi/2002ostrovich"},
+    {"name": "Chris Pikula"}
   ],
   "teamsize": 1,
     "topn": 2

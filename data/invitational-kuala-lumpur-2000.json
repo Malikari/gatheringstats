@@ -15,54 +15,22 @@
   "logo": "mtg-yellow",
   "name": "Magic Invitational 2000",
   "standings": [
-    {
-      "name": "Chris Pikula"
-    },
-    {
-      "name": "Jon Finkel"
-    },
-    {
-      "name": "Zvi Mowshowitz"
-    },
-    {
-      "name": "David Humpherys"
-    },
-    {
-      "name": "Patrick Chapin"
-    },
-    {
-      "name": "Kai Budde"
-    },
-    {
-      "name": "Michael Long"
-    },
-    {
-      "name": "Dirk Baberowski"
-    },
-    {
-      "name": "Darwin Kastle"
-    },
-    {
-      "name": "Steven O'Mahoney-Schwartz"
-    },
-    {
-      "name": "Nicolai Herzog"
-    },
-    {
-      "name": "David Price"
-    },
-    {
-      "name": "Jakub Slemr"
-    },
-    {
-      "name": "Koichiro Maki"
-    },
-    {
-      "name": "Brian Hacker"
-    },
-    {
-      "name": "Gary Wise"
-    }
+    {"name": "Chris Pikula", "report": "https://web.archive.org/web/20000619182932/http://www.wizards.com/Sideboard/article.asp?sb20000322c"},
+    {"name": "Jon Finkel", "report": "https://web.archive.org/web/20000818051853/http://www.wizards.com:80/Sideboard/article.asp?sb20000322d"},
+    {"name": "Zvi Mowshowitz", "report": "https://web.archive.org/web/20000818051853/http://www.wizards.com:80/Sideboard/article.asp?sb20000312b"},
+    {"name": "David Humpherys", "report": "https://web.archive.org/web/20000818051853/http://www.wizards.com:80/Sideboard/article.asp?sb20000316b"},
+    {"name": "Patrick Chapin"},
+    {"name": "Kai Budde", "report": "https://web.archive.org/web/20000818051853/http://www.wizards.com:80/Sideboard/article.asp?sb20000312a"},
+    {"name": "Michael Long"},
+    {"name": "Dirk Baberowski"},
+    {"name": "Darwin Kastle", "report": "https://web.archive.org/web/20000818051853/http://www.wizards.com:80/Sideboard/article.asp?sb20000317c"},
+    {"name": "Steven O'Mahoney-Schwartz", "report": "https://web.archive.org/web/20000818051853/http://www.wizards.com:80/Sideboard/article.asp?sb20000322b"},
+    {"name": "Nicolai Herzog", "report": "https://web.archive.org/web/20000818051853/http://www.wizards.com:80/Sideboard/article.asp?sb20000316a"},
+    {"name": "David Price", "report": "https://web.archive.org/web/20000818051853/http://www.wizards.com:80/Sideboard/article.asp?sb20000316c"},
+    {"name": "Jakub Slemr", "report": "https://web.archive.org/web/20000818051853/http://www.wizards.com:80/Sideboard/article.asp?sb20000312c"},
+    {"name": "Koichiro Maki", "report": "https://web.archive.org/web/20000818051853/http://www.wizards.com:80/Sideboard/article.asp?sb20000322e"},
+    {"name": "Brian Hacker", "report": "https://web.archive.org/web/20000818051853/http://www.wizards.com:80/Sideboard/article.asp?sb20000317b"},
+    {"name": "Gary Wise", "report": "https://web.archive.org/web/20000818051853/http://www.wizards.com:80/Sideboard/article.asp?sb20000327b"}
   ],
   "teamsize": 1,
     "topn": 2

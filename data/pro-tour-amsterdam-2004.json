@@ -1,6 +1,6 @@
 {
     "type": "Pro Tour",
-    "coverage": "https://magic.wizards.com/en/events/coverage/ptams04",
+    "coverage": "https://web.archive.org/web/20040201213645/http://www.wizards.com/default.asp?x=sideboard/events/ptams04",
     "date": "January 16-18, 2004",
     "formats": [
         "Rochester Draft"
@@ -84,7 +84,8 @@
         {
             "money": 3500,
             "name": "Kai Budde",
-            "propoints": 8
+            "propoints": 8,
+            "report": "http://www.planetmtg.de/articles/artikel.html?id=1407"
         },
         {
             "money": 3250,
@@ -1068,7 +1069,7 @@
             "propoints": 2
         },
         {
-            "name": "Sean Fitzgerald",
+            "name": "Sean M Fitzgerald",
             "propoints": 2
         },
         {

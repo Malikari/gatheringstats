@@ -1,6 +1,6 @@
 {
     "type": "Pro Tour",
-    "coverage": "http://www.wizards.com/default.asp?x=sideboard/events/ptchi03",
+    "coverage": "https://web.archive.org/web/20030811181610/http://www.wizards.com/default.asp?x=sideboard/events/ptchi03",
     "date": "January 17-19, 2003",
     "formats": [
         "Rochester Draft"
@@ -14,7 +14,8 @@
         {
             "money": 30000,
             "name": "Kai Budde",
-            "propoints": 32
+            "propoints": 32,
+            "report": "https://web.archive.org/web/20030805042406/http://www.wizards.com/default.asp?x=sideboard/strategy/20030130a"
         },
         {
             "money": 20000,
@@ -1374,7 +1375,7 @@
             "propoints": 2
         },
         {
-            "name": "Gerrit-Alwis Loeber",
+            "name": "Gerrit-Alwis Löber",
             "propoints": 2
         },
         {
