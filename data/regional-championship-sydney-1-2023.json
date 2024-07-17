@@ -1,0 +1,756 @@
+{
+    "type": "Regional Championship",
+    "coverage": "https://magic.gg/events/anz-super-series-finals-sydney-r3-2023",
+    "date": "June 24-25, 2023",
+    "season": "2022-23",
+    "formats": [
+        "Pioneer"
+    ],
+    "medium": "Tabletop",
+    "id": "regional-championship-sydney-1-2023",
+    "location": "Sydney, Australia",
+    "logo": "mtg-yellow",
+    "name": "ANZ Super Finals: Sydney",
+    "standings": [
+ {
+    "name": "Ben Kemp",
+    "matchpoints": 19,
+    "money": 5000
+  },
+  {
+    "name": "Willow Smith",
+    "matchpoints": 19,
+    "money": 2500
+  },
+  {
+    "name": "Yaojun Luo",
+    "matchpoints": 21,
+    "money": 1250
+  },
+  {
+    "name": "Mark Zhou",
+    "matchpoints": 21,
+    "money": 1250
+  },
+  {
+    "name": "Brennan Crawford",
+    "matchpoints": 21,
+    "money": 750
+  },
+  {
+    "name": "Michael Russell",
+    "matchpoints": 19,
+    "money": 750
+  },
+  {
+    "name": "Matthew Anderson",
+    "matchpoints": 19,
+    "money": 750
+  },
+  {
+    "name": "Alex Lim",
+    "matchpoints": 19,
+    "money": 750
+  },
+  {
+    "name": "Dillon Kikkawa",
+    "matchpoints": 19,
+    "money": 250
+  },
+  {
+    "name": "Keayn de Vries-Turnell",
+    "matchpoints": 19,
+    "money": 250
+  },
+  {
+    "name": "Mason Dutcher",
+    "matchpoints": 19,
+    "money": 250
+  },
+  {
+    "name": "Henry Sams",
+    "matchpoints": 18,
+    "money": 250
+  },
+  {
+    "name": "Jim Burgemeestre",
+    "matchpoints": 18,
+    "money": 250
+  },
+  {
+    "name": "Ivan Schroder",
+    "matchpoints": 18,
+    "money": 250
+  },
+  {
+    "name": "David Huang",
+    "matchpoints": 18,
+    "money": 250
+  },
+  {
+    "name": "Tyler Visser",
+    "matchpoints": 18,
+    "money": 250
+  },
+    {
+    "name": "Samuel Carpenter",
+    "matchpoints": 18
+  },
+  {
+    "name": "Max Outh-Aut",
+    "matchpoints": 18
+  },
+  {
+    "name": "Violet Lou",
+    "matchpoints": 18
+  },
+  {
+    "name": "Jin Poon",
+    "matchpoints": 18
+  },
+  {
+    "name": "Ian Cormick",
+    "matchpoints": 18
+  },
+  {
+    "name": "Calvin Liu",
+    "matchpoints": 18
+  },
+  {
+    "name": "Ivan Sanche",
+    "matchpoints": 18
+  },
+  {
+    "name": "Alex Humbley",
+    "matchpoints": 18
+  },
+  {
+    "name": "Nicholas Turner",
+    "matchpoints": 16
+  },
+  {
+    "name": "Malcolm Zegveld",
+    "matchpoints": 16
+  },
+  {
+    "name": "Benjamin Hipwell",
+    "matchpoints": 15
+  },
+  {
+    "name": "Nathan Bass",
+    "matchpoints": 15
+  },
+  {
+    "name": "David Brunton",
+    "matchpoints": 15
+  },
+  {
+    "name": "John Kim",
+    "matchpoints": 15
+  },
+  {
+    "name": "Sebastian Jordan",
+    "matchpoints": 15
+  },
+  {
+    "name": "Luke McGlaughlin",
+    "matchpoints": 15
+  },
+  {
+    "name": "Gary Freedman",
+    "matchpoints": 15
+  },
+  {
+    "name": "Daniel Bretherton",
+    "matchpoints": 15
+  },
+  {
+    "name": "Daniel Roper",
+    "matchpoints": 15
+  },
+  {
+    "name": "Wei-Ning Yong",
+    "matchpoints": 15
+  },
+  {
+    "name": "Sam Hughes",
+    "matchpoints": 15
+  },
+  {
+    "name": "Solomon Nivison-Smith",
+    "matchpoints": 15
+  },
+  {
+    "name": "Christopher Burrows",
+    "matchpoints": 15
+  },
+  {
+    "name": "Finn Gordon-Mckee",
+    "matchpoints": 15
+  },
+  {
+    "name": "James Larsen-Scott",
+    "matchpoints": 15
+  },
+  {
+    "name": "Matthew Giudes",
+    "matchpoints": 15
+  },
+  {
+    "name": "Timothy Rasmussen",
+    "matchpoints": 15
+  },
+  {
+    "name": "Zen Takahashi",
+    "matchpoints": 15
+  },
+  {
+    "name": "Viktor Galyer",
+    "matchpoints": 15
+  },
+  {
+    "name": "Dan Filmer",
+    "matchpoints": 15
+  },
+  {
+    "name": "Campbell Sullivan",
+    "matchpoints": 15
+  },
+  {
+    "name": "RIley Jones",
+    "matchpoints": 15
+  },
+  {
+    "name": "Andrew Virgona",
+    "matchpoints": 15
+  },
+  {
+    "name": "Anthony Lee",
+    "matchpoints": 15
+  },
+  {
+    "name": "Gabriel Dennison",
+    "matchpoints": 15
+  },
+  {
+    "name": "Kier Somerset",
+    "matchpoints": 15
+  },
+  {
+    "name": "Scott Stipkovich",
+    "matchpoints": 15
+  },
+  {
+    "name": "Slava Sheynin",
+    "matchpoints": 15
+  },
+  {
+    "name": "Samuel Maher",
+    "matchpoints": 15
+  },
+  {
+    "name": "Connor Bleakley",
+    "matchpoints": 13
+  },
+  {
+    "name": "Declan Roberts",
+    "matchpoints": 13
+  },
+  {
+    "name": "Pierce Tattersall",
+    "matchpoints": 13
+  },
+  {
+    "name": "Luke Mulcahy",
+    "matchpoints": 13
+  },
+  {
+    "name": "Ben Kleinsman-Leusink-Hill",
+    "matchpoints": 12
+  },
+  {
+    "name": "Brandon Rashad",
+    "matchpoints": 12
+  },
+  {
+    "name": "Jamie Schoneveld",
+    "matchpoints": 12
+  },
+  {
+    "name": "Ash Cole",
+    "matchpoints": 12
+  },
+  {
+    "name": "Rovilleson Lucero",
+    "matchpoints": 12
+  },
+  {
+    "name": "Dallas Summerton",
+    "matchpoints": 12
+  },
+  {
+    "name": "Liam Brown",
+    "matchpoints": 12
+  },
+  {
+    "name": "Michael Billinghurst",
+    "matchpoints": 12
+  },
+  {
+    "name": "Gaara Sendek",
+    "matchpoints": 12
+  },
+  {
+    "name": "Nick Millar",
+    "matchpoints": 12
+  },
+  {
+    "name": "Ian Tan",
+    "matchpoints": 12
+  },
+  {
+    "name": "Nicholas Malcolm Preston",
+    "matchpoints": 12
+  },
+  {
+    "name": "Chia Wei Leong",
+    "matchpoints": 12
+  },
+  {
+    "name": "Peter Hu",
+    "matchpoints": 12
+  },
+  {
+    "name": "Oscar Gray",
+    "matchpoints": 12
+  },
+  {
+    "name": "Peter Keenan",
+    "matchpoints": 12
+  },
+  {
+    "name": "JD Hawke",
+    "matchpoints": 12
+  },
+  {
+    "name": "Connor McGillivray",
+    "matchpoints": 12
+  },
+  {
+    "name": "James Laurenson",
+    "matchpoints": 12
+  },
+  {
+    "name": "Kavanagh O'Dowd",
+    "matchpoints": 12
+  },
+  {
+    "name": "Mike Taylor",
+    "matchpoints": 12
+  },
+  {
+    "name": "Calum Gittins",
+    "matchpoints": 12
+  },
+  {
+    "name": "Rowan Millers",
+    "matchpoints": 12
+  },
+  {
+    "name": "Gideon Hallam-Walsh",
+    "matchpoints": 12
+  },
+  {
+    "name": "Clara Stephenson",
+    "matchpoints": 12
+  },
+  {
+    "name": "Lewis Tolonen",
+    "matchpoints": 12
+  },
+  {
+   "name": "Connor Archer",
+    "matchpoints": 12
+  },
+  {
+    "name": "Joshua Bradbury",
+    "matchpoints": 12
+  },
+  {
+    "name": "Paul Holtzman",
+    "matchpoints": 12
+  },
+  {
+    "name": "Escher Webster",
+    "matchpoints": 12
+  },
+  {
+    "name": "Jacques van Eeden",
+    "matchpoints": 10
+  },
+  {
+    "name": "Callum Howes",
+    "matchpoints": 10
+  },
+  {
+    "name": "Samuel Loy",
+    "matchpoints": 9
+  },
+  {
+    "name": "Kyle Van Tienen",
+    "matchpoints": 9
+  },
+  {
+    "name": "Ignacio Carrasco",
+    "matchpoints": 9
+  },
+  {
+    "name": "Patrick Hawkins",
+    "matchpoints": 9
+  },
+  {
+    "name": "Andrew Drake",
+    "matchpoints": 9
+  },
+  {
+    "name": "Kyle Gibson",
+    "matchpoints": 9
+  },
+  {
+    "name": "Braden Mills",
+    "matchpoints": 9
+  },
+  {
+    "name": "Sophie Anderson",
+    "matchpoints": 9
+  },
+  {
+    "name": "Ryan Kruger",
+    "matchpoints": 9
+  },
+    {
+    "name": "Sean Goh",
+    "matchpoints": 9
+  },
+  {
+    "name": "John Brennan",
+    "matchpoints": 9
+  },
+  {
+    "name": "Matthew Dewitte",
+    "matchpoints": 9
+  },
+  {
+    "name": "Oliver Oks",
+    "matchpoints": 9
+  },
+  {
+    "name": "Jonny Gu",
+    "matchpoints": 9
+  },
+  {
+    "name": "Qihan Zhang",
+    "matchpoints": 9
+  },
+  {
+    "name": "James Wilks",
+    "matchpoints": 9
+  },
+  {
+    "name": "Daniel Zhao",
+    "matchpoints": 9
+  },
+  {
+    "name": "Richard Velvin",
+    "matchpoints": 9
+  },
+  {
+    "name": "Josh Hilzinger",
+    "matchpoints": 9
+  },
+  {
+    "name": "Jamie Rogers",
+    "matchpoints": 9
+  },
+  {
+    "name": "William Li",
+    "matchpoints": 9
+  },
+  {
+    "name": "Klarke Trezise",
+    "matchpoints": 9
+  },
+  {
+    "name": "Max Bracken",
+    "matchpoints": 9
+  },
+  {
+    "name": "Vincent Cao",
+    "matchpoints": 9
+  },
+  {
+    "name": "Harpo Barrett",
+    "matchpoints": 9
+  },
+  {
+    "name": "Mia Atcheson",
+    "matchpoints": 9
+  },
+  {
+    "name": "Isaac Lee",
+    "matchpoints": 9
+  },
+  {
+    "name": "Ryan Davey",
+    "matchpoints": 7
+  },
+  {
+    "name": "Carl Frankel",
+    "matchpoints": 7
+  },
+  {
+    "name": "Jeffrey Blancia",
+    "matchpoints": 6
+  },
+  {
+    "name": "Jacob Broom",
+    "matchpoints": 6
+  },
+  {
+    "name": "David Gonzalez",
+    "matchpoints": 6
+  },
+  {
+    "name": "Nathan Whalen",
+    "matchpoints": 6
+  },
+  {
+    "name": "Ethan Taylor",
+    "matchpoints": 6
+  },
+  {
+    "name": "Ben Simmons",
+    "matchpoints": 6
+  },
+  {
+    "name": "Joseph Wong",
+    "matchpoints": 6
+  },
+  {
+    "name": "Saher Khalil",
+    "matchpoints": 6
+  },
+  {
+    "name": "Louis Habberfield-Short",
+    "matchpoints": 6
+  },
+  {
+    "name": "Michael Antolini",
+    "matchpoints": 6
+  },
+  {
+    "name": "Ryan Jonns Lewis",
+    "matchpoints": 6
+  },
+  {
+    "name": "Ethan Bird",
+    "matchpoints": 6
+  },
+  {
+    "name": "Gordon Chan",
+    "matchpoints": 6
+  },
+  {
+    "name": "Calum Thatcher",
+    "matchpoints": 6
+  },
+  {
+    "name": "Tasman Smith",
+    "matchpoints": 6
+ },
+  {
+    "name": "Damien Hookway",
+    "matchpoints": 6
+  },
+  {
+    "name": "Karl Baumer",
+    "matchpoints": 6
+  },
+  {
+    "name": "William Kong",
+    "matchpoints": 6
+  },
+  {
+    "name": "Joe Deane",
+    "matchpoints": 6
+  },
+  {
+    "name": "Dylan Brown",
+    "matchpoints": 6
+  },
+  {
+    "name": "Jose Gabriel Hilario",
+    "matchpoints": 6
+  },
+  {
+    "name": "Reginald Young",
+    "matchpoints": 6
+  },
+  {
+    "name": "Ramy Michel",
+    "matchpoints": 5
+  },
+  {
+    "name": "Philip Skrzeczynski",
+    "matchpoints": 4
+  },
+  {
+    "name": "Adam Jazwinski",
+    "matchpoints": 3
+  },
+  {
+    "name": "Danny Thai",
+    "matchpoints": 3
+  },
+  {
+    "name": "Simon Harnden",
+    "matchpoints": 3
+  },
+  {
+    "name": "Samuel Beard",
+    "matchpoints": 3
+  },
+  {
+    "name": "Hanbin Zhou",
+    "matchpoints": 3
+  },
+  {
+    "name": "Steven Hitchcock",
+    "matchpoints": 3
+  },
+  {
+    "name": "Yunwei Song",
+    "matchpoints": 3
+  },
+  {
+    "name": "Ben Tudman",
+    "matchpoints": 3
+  },
+  {
+    "name": "Chifley Cole",
+    "matchpoints": 3
+  },
+  {
+    "name": "Conor Giblin",
+    "matchpoints": 3
+  },
+  {
+    "name": "James Moore",
+    "matchpoints": 3
+  },
+  {
+    "name": "Mikey Musgrave",
+    "matchpoints": 3
+  },
+  {
+    "name": "Robinette Cephalopod",
+    "matchpoints": 3
+  },
+  {
+    "name": "Michael De Salvo",
+    "matchpoints": 3
+  },
+  {
+    "name": "S M",
+    "matchpoints": 3
+  },
+  {
+    "name": "Jeffrey Weng",
+    "matchpoints": 3
+  },
+  {
+    "name": "Thomas Boorman",
+    "matchpoints": 3
+  },
+  {
+    "name": "Alex Skinn",
+    "matchpoints": 2
+  },
+  {
+    "name": "Caio Porto",
+    "matchpoints": 1
+  },
+  {
+    "name": "John Eastgate-Brown",
+    "matchpoints": 1
+  },
+  {
+    "name": "Trent Clarke",
+    "matchpoints": 0
+  },
+  {
+    "name": "Anthony Smith",
+    "matchpoints": 0
+  },
+  {
+    "name": "Dino Kucukovic",
+    "matchpoints": 0
+  },
+  {
+    "name": "Jacob Morhall",
+    "matchpoints": 0
+  },
+  {
+    "name": "Mitch Robinson",
+    "matchpoints": 0
+  },
+  {
+    "name": "Justin Cheung",
+    "matchpoints": 0
+  },
+  {
+    "name": "Rhys Dalli",
+    "matchpoints": 0
+  },
+  {
+    "name": "Jack Contencin",
+   "matchpoints": 0
+  },
+  {
+    "name": "Damon Buckley",
+    "matchpoints": 0
+  },
+  {
+    "name": "Shawn Rayson",
+    "matchpoints": 0
+  },
+  {
+    "name": "Liam Newbery",
+    "matchpoints": 0
+  },
+  {
+    "name": "Jared Allsop",
+    "matchpoints": 0
+  },
+  {
+    "name": "Denis Mullins",
+    "matchpoints": 0
+  },
+  {
+    "name": "Geoff Marshall",
+    "matchpoints": 0
+  },
+  {
+    "name": "Nicholas Talbot",
+    "matchpoints": 0
+  },
+  {
+    "name": "Nathan Jones",
+    "matchpoints": 0
+  }
+
+
+    ],
+    "teamsize": 1
+    
+} 

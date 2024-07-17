@@ -15,54 +15,22 @@
   "logo": "mtg-yellow",
   "name": "Magic Invitational 2001",
   "standings": [
-    {
-      "name": "Kai Budde"
-    },
-    {
-      "name": "Daniel Clegg"
-    },
-    {
-      "name": "Scott Richards"
-    },
-    {
-      "name": "Kamiel Cornelissen"
-    },
-    {
-      "name": "Michael Pustilnik"
-    },
-    {
-      "name": "Chris Pikula"
-    },
-    {
-      "name": "Gary Wise"
-    },
-    {
-      "name": "Chris Benafel"
-    },
-    {
-      "name": "Tsuyoshi Fujita"
-    },
-    {
-      "name": "Jon Finkel"
-    },
-    {
-      "name": "Scott Johns"
-    },
-    {
-      "name": "Brian Kibler"
-    },
-    {
-      "name": "David Price"
-    },
-    {
-      "name": "Tom van de Logt"
-    },
-    {
-      "name": "Antoine Ruel"
-    },
-    {
-      "name": "Olivier Ruel"
-    }
+    {"name": "Kai Budde", "report": "https://web.archive.org/web/20050112110512/http://www.wizards.com/sideboard/article.asp?x=sb20011017b"},
+    {"name": "Daniel Clegg", "report": "https://web.archive.org/web/20050112110512/http://www.wizards.com/sideboard/article.asp?x=sb20011206b"},
+    {"name": "Scott Richards", "report": "https://web.archive.org/web/20050112110512/http://www.wizards.com/sideboard/article.asp?x=sb20011207a"},
+    {"name": "Kamiel Cornelissen"},
+    {"name": "Michael Pustilnik"},
+    {"name": "Chris Pikula", "report": "https://web.archive.org/web/20050112110512/http://www.wizards.com/default.asp?x=sideboard/mi/2001pikula"},
+    {"name": "Gary Wise", "report": "https://web.archive.org/web/20050112110512/http://www.wizards.com/sideboard/article.asp?x=sb20011023a"},
+    {"name": "Chris Benafel"},
+    {"name": "Tsuyoshi Fujita"},
+    {"name": "Jon Finkel"},
+    {"name": "Scott Johns"},
+    {"name": "Brian Kibler", "report": "https://web.archive.org/web/20050112110512/http://www.wizards.com/default.asp?x=sideboard/mi/2001kibler"},
+    {"name": "David Price", "report": "https://web.archive.org/web/20050112110512/http://www.wizards.com/sideboard/article.asp?x=sb20011126b"},
+    {"name": "Tom van de Logt", "report": "https://web.archive.org/web/20050112110512/http://www.wizards.com/sideboard/article.asp?x=sb20011019b"},
+    {"name": "Antoine Ruel"},
+    {"name": "Olivier Ruel"}
   ],
   "teamsize": 1,
     "topn": 2

@@ -1,6 +1,6 @@
 {
     "type": "Pro Tour",
-    "coverage": "http://www.wizards.com/default.asp?x=sideboard/events/worlds02",
+    "coverage": "https://web.archive.org/web/20030802191925/http://www.wizards.com/default.asp?x=sideboard/events/worlds02",
     "date": "August 14-18, 2002",
     "formats": [
         "Standard",
@@ -21,7 +21,8 @@
         {
             "money": 23000,
             "name": "Mark Ziegner",
-            "propoints": 24
+            "propoints": 24,
+            "report": "http://www.planetmtg.de/articles/artikel.html?id=514"
         },
         {
             "money": 15000,
@@ -66,7 +67,8 @@
         {
             "money": 5000,
             "name": "Brian Kibler",
-            "propoints": 8
+            "propoints": 8,
+            "report": ["https://web.archive.org/web/20030814183323/http://www.wizards.com/default.asp?x=sideboard/feature/20020904a", "https://web.archive.org/web/20030811170702/http://www.wizards.com/default.asp?x=sideboard/feature/20020906s", "https://web.archive.org/web/20030811170702/http://www.wizards.com/default.asp?x=sideboard/feature/20020916a"]
         },
         {
             "money": 4500,
