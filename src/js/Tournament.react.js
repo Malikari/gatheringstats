@@ -34,15 +34,20 @@ const Tournament = () => {
         <p className="lead tournamentLead">{t.formats.join(', ')} ({t.medium})</p>
         <p className="lead tournamentLead">{t.date}</p>
         <p className="lead tournamentLead">{t.location}</p>
+        {Array.isArray(t.structure) && <p></p>}
+        {Array.isArray(t.structure) && t.structure.map((item, index) => (
+          <p key={index} className="lead tournamentLead">{item}</p>
+        ))}
       </div>
       <table className="table standingsTable table-hover">
         <thead>
           <tr>
             <th />
             <th>Player</th>
-            {(t.type === 'Pro Tour' && t.name < 'Mz') || t.type === 'Magic Pro League' || t.type === 'Mythic Championship' || t.type === 'Arena Mythic Championship Qualifier' ? <th>Mythic Points</th> : null}
-            {(t.type === 'Pro Tour' && (t.name > 'N' || t.name < 'Mythic Championship III')) || t.type === 'Grand Prix' || t.type === 'WMC' || t.type === 'World Championships' || /Nationals/.test(t.type) ? <th>Pro Points</th> : null}
+            {(t.type === 'Pro Tour' && t.name < 'Mz' && t.name > 'a') || t.type === 'Magic Pro League' || t.type === 'Mythic Championship' || t.type === 'Arena Mythic Championship Qualifier' ? <th>Mythic Points</th> : null}
+            {(t.type === 'Pro Tour' && t.season < '2022' && (t.name > 'N' || t.name < 'Mythic Championship III')) || t.type === 'Grand Prix' || t.type === 'WMC' || (t.type === 'World Championships' && t.name > '1996') || /Nationals/.test(t.type) ? <th>Pro Points</th> : null}
             {t.type === 'Players Tour' || t.type === 'Players Tour Finals' ? <th>Players Points</th> : null}
+            {t.type === 'Pro Tour' && t.season > '2022' ? <th>AMP</th> : null}
             <th>Prize Money</th>
             <th>Match Points</th>
           </tr>
@@ -54,11 +59,16 @@ const Tournament = () => {
                 <td>{p.rank || t.getPlayerIndex(index) + 1}</td>
                 <td>
                   <PlayerLink player={Players.byID(p.id)} countryOverrides={t.getNationalityInfo(index)}/>{' '}
-                  {p.report ? <a href={p.report}>(report)</a> : null}
+                  {p.deck || p.report ? "(" : null}
+                  {p.deck ? <a href={p.deck}>deck</a> : null}
+                  {p.deck && p.report ? ", " : null}
+                  {p.report ? <a href={p.report}>report</a> : null}
+                  {p.deck || p.report ? ")" : null}
                 </td>
-                {(t.type === 'Pro Tour' && t.name < 'Mz') || t.type === 'Magic Pro League' || t.type === 'Mythic Championship' || t.type === 'Arena Mythic Championship Qualifier' ? <td>{p.mythicpoints}</td> : null}
-                {(t.type === 'Pro Tour' && (t.name > 'N' || t.name < 'Mythic Championship III')) || t.type === 'Grand Prix' || t.type === 'WMC' || t.type === 'World Championships' || /Nationals/.test(t.type) ? <td>{p.propoints}</td> : null}
+                {(t.type === 'Pro Tour' && t.name < 'Mz' && t.name > 'a') || t.type === 'Magic Pro League' || t.type === 'Mythic Championship' || t.type === 'Arena Mythic Championship Qualifier' ? <td>{p.mythicpoints}</td> : null}
+                {(t.type === 'Pro Tour' && t.season < '2022' && (t.name > 'N' || t.name < 'Mythic Championship III')) || t.type === 'Grand Prix' || t.type === 'WMC' || (t.type === 'World Championships' && t.name > '1996') || /Nationals/.test(t.type) ? <td>{p.propoints}</td> : null}
                 {t.type === 'Players Tour' || t.type === 'Players Tour Finals' ? <td>{p.playerspoints}</td> : null}
+                {t.type === 'Pro Tour' && t.season > '2022' ? <td>{p.amp}</td> : null}
                 <td>{formatMoney(p.money)}</td>
                 <td>{p.matchpoints}</td>
               </tr>
