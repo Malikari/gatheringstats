@@ -7,10 +7,12 @@ export default class Tournament {
     this.teamsize = data.teamsize || 1;
     this.topn = data.topn;
     this.date = data.date;
+    this.season = data.season;
     this.name = data.name;
     this.id = data.id;
     this.coverage = data.coverage;
     this.formats = data.formats;
+    this.structure = data.structure;
     this.medium = data.medium;
     this.location = data.location;
     this.standings = data.standings;
