@@ -11,7 +11,7 @@ export default class Player {
     this.fullname = data.fullname;
     this.nationality = data.nationality;
     this.hof = data.hof;
-    this.activeBadge = data.activeBadge;
+    this.activeBadge = null; //data.activeBadge;
     this.stats = data.stats;
     this.tournaments = data.tournaments;
 
