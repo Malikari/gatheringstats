@@ -164,7 +164,7 @@ module.exports = function(grunt) {
             ++players[standing.id].stats.t16;
           }
         }
-        else if (tournament.type == 'Grand Prix') {
+        else if (tournament.type == 'Grand Prix' || tournament.type == 'Magic Spotlight') {
           ++players[standing.id].stats.gptotal;
           if (finish === 1) {
             ++players[standing.id].stats.gpt1;
