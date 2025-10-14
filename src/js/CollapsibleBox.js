@@ -3,18 +3,18 @@
 import React, { useState } from "react";
 import PropTypes from "prop-types";
 
-export default function CollapsibleBox({ data }) {
+export default function CollapsibleBox({ data, label }) {
   const [isOpen, setIsOpen] = useState(false);
   if (!data) return null;
 
   return (
     <div className="collapsible-box">
       <button className="collapsible-button" onClick={() => setIsOpen(!isOpen)}>
-        {isOpen ? "hide" : "additional information"}
+        {isOpen ? "hide" : label}
       </button>
       {isOpen && <div className="collapsible-content">
           {data.map((item, index) => (
-            item === "---" ? <hr key={index} /> : <div key={index}>{item}</div> // jedes Item in einer neuen Zeile
+            item === "---" ? <hr key={index} /> : <div key={index}>{item}</div>
           ))}</div>}
     </div>
   );
@@ -22,4 +22,5 @@ export default function CollapsibleBox({ data }) {
 
 CollapsibleBox.propTypes = {
   data: PropTypes.string,
+  label: PropTypes.string,
 };
