@@ -117,12 +117,10 @@ const Player = () => {
           </div>
         </div>
         <div className="Stat-alert alert alert-info">
-          <div className="Stat-value">{player.getMoney()}</div>
-          <div>
-            <Link className="Stat-link" to="/rankings/money">
-              Total Money
-            </Link>
-          </div>
+          <div className="Stat-value">{player.stats.amp}</div>
+          <Link className="Stat-link" to="/rankings/amp">
+            Total AMP
+          </Link>
         </div>
         <div className="Stat-alert alert alert-info">
           <div className="Stat-value">{player.stats.points}</div>
@@ -133,10 +131,12 @@ const Player = () => {
           </div>
         </div>
         <div className="Stat-alert alert alert-info">
-          <div className="Stat-value">{player.stats.amp}</div>
-          <Link className="Stat-link" to="/rankings/amp">
-            Total AMP
-          </Link>
+          <div className="Stat-value">{player.getMoney()}</div>
+          <div>
+            <Link className="Stat-link" to="/rankings/money">
+              Total Money
+            </Link>
+          </div>
         </div>
       </div>
       <h2>Pro Tours</h2>
