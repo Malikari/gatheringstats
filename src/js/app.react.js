@@ -12,10 +12,12 @@ import Tournament from './Tournament.react.js';
 import Rankings from './Rankings.react.js';
 import RecentTournaments from './RecentTournaments.react.js';
 import { ProLeagues } from './RecentTournaments.react.js';
+import { Worlds } from './RecentTournaments.react.js';
 import { Nationals } from './RecentTournaments.react.js';
 import { GrandPrix } from './RecentTournaments.react.js';
 import { OtherTournaments } from './RecentTournaments.react.js';
 import { Arena } from './RecentTournaments.react.js';
+import { MagicOnline } from './RecentTournaments.react.js';
 import HallOfFame from "./HallOfFame.react";
 import NotFound from "./NotFound.react";
 import history from "./browserhistory";
@@ -30,11 +32,13 @@ render(
       <Route path="/player/:id" component={Player} />
       <Route path="/tournament/:id" component={Tournament} />
       <Route path="/rankings/:col" component={Rankings} />
+      <Route path="/worlds" component={Worlds} />
       <Route path="/nationals" component={Nationals} />
       <Route path="/pro-leagues" component={ProLeagues} />
       <Route path="/grand-prix" component={GrandPrix} />
       <Route path="/other-tournaments" component={OtherTournaments} />
       <Route path="/arena" component={Arena} />
+      <Route path="/magic-online" component={MagicOnline} />
       <Route path="/hall-of-fame/:col" component={HallOfFame} />
       <Route path="*" component={NotFound} />
     </Switch>
