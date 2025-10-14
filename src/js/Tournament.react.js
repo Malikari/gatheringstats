@@ -9,6 +9,8 @@ import Players from './Players.js';
 import { useParams } from "react-router-dom";
 import { Helmet } from "react-helmet";
 
+import CollapsibleBox from "./CollapsibleBox";
+
 const Tournament = () => {
   let id = useParams().id;
   const t = Tournaments.byID(id);
@@ -34,10 +36,9 @@ const Tournament = () => {
         <p className="lead tournamentLead">{t.formats.join(', ')} ({t.medium})</p>
         <p className="lead tournamentLead">{t.date}</p>
         <p className="lead tournamentLead">{t.location}</p>
-        {Array.isArray(t.structure) && <p></p>}
-        {Array.isArray(t.structure) && t.structure.map((item, index) => (
-          <p key={index} className="lead tournamentLead">{item}</p>
-        ))}
+        {t.site ? <p className="lead tournamentLead">{t.site}</p> : null}
+        <CollapsibleBox data={t.structure} />
+        
       </div>
       <table className="table standingsTable table-hover">
         <thead>
