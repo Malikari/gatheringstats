@@ -9,7 +9,7 @@ import Players from './Players.js';
 import { useParams } from "react-router-dom";
 import { Helmet } from "react-helmet";
 
-import CollapsibleBox from "./CollapsibleBox";
+import { CollapsibleBox, CollapsibleIframeBox } from "./CollapsibleBox";
 
 const Tournament = () => {
   let id = useParams().id;
@@ -60,11 +60,8 @@ const Tournament = () => {
                 <td>{p.rank || t.getPlayerIndex(index) + 1}</td>
                 <td>
                   <PlayerLink player={Players.byID(p.id)} countryOverrides={t.getNationalityInfo(index)}/>{' '}
-                  {p.deck || p.report ? "(" : null}
-                  {p.deck ? <a href={p.deck}>deck</a> : null}
-                  {p.deck && p.report ? ", " : null}
-                  {p.report ? <a href={p.report}>report</a> : null}
-                  {p.deck || p.report ? ")" : null}
+                  {p.report ? <span>(<a href={p.report}>report</a>)</span> : null}
+                  {p.deck ? <CollapsibleIframeBox src={`https://moxfield.com/embed/${p.deck}?hideTotal=true`} labelDef="deck" labelOpen="hide deck" height="500"/> : null}
                 </td>
                 {(t.type === 'Pro Tour' && t.name < 'Mz' && t.name > 'a') || t.type === 'Magic Pro League' || t.type === 'Mythic Championship' || t.type === 'Arena Mythic Championship Qualifier' ? <td>{p.mythicpoints}</td> : null}
                 {(t.type === 'Pro Tour' && t.season < '2022' && (t.name > 'N' || t.name < 'Mythic Championship III')) || t.type === 'Grand Prix' || t.type === 'WMC' || (t.type === 'World Championships' && t.name > '1996') || /Nationals/.test(t.type) ? <td>{p.propoints}</td> : null}
