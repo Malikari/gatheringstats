@@ -3,7 +3,7 @@
 import React, { useState } from "react";
 import PropTypes from "prop-types";
 
-export default function CollapsibleBox({ data, label }) {
+export function CollapsibleBox({ data, label }) {
   const [isOpen, setIsOpen] = useState(false);
   if (!data) return null;
 
@@ -24,3 +24,40 @@ CollapsibleBox.propTypes = {
   data: PropTypes.string,
   label: PropTypes.string,
 };
+
+
+export function CollapsibleIframeBox({ src, labelDef = "show", labelOpen = "hide", height = "500" }) {
+  const [isOpen, setIsOpen] = React.useState(false);
+
+  return (
+    <div style={{ display: "inline" }}>
+      <button
+        className="collapsible-iframebutton"
+        style={{ display: "inline-block", marginLeft: "1.5px" }}
+        onClick={() => setIsOpen(!isOpen)}
+      >
+        {isOpen ? labelOpen : labelDef}
+      </button>
+
+      {isOpen && (
+        <div style={{ marginTop: "8px" }}>
+          <iframe
+            src={src}
+            width="100%"
+            height={height}
+            title={labelDef}
+            frameBorder="0"
+            allowFullScreen
+          />
+        </div>
+      )}
+    </div>
+  );
+}
+
+CollapsibleIframeBox.propTypes = {
+  src: PropTypes.string,
+  labelDef: PropTypes.string,
+  labelOpen: PropTypes.string,
+  height: PropTypes.string,
+}
