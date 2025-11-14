@@ -61,7 +61,8 @@ const Tournament = () => {
                 <td>{p.rank || t.getPlayerIndex(index) + 1}</td>
                 <td>
                   <PlayerLink player={Players.byID(p.id)} countryOverrides={t.getNationalityInfo(index)}/>{' '}
-                  {p.report ? <span>(<a href={p.report}>report</a>)</span> : null}
+                  <ReportsLinked report = {p.report} />
+                  {p.dq ? (<span>(<a href = {p.dq}>DQ Report</a>)</span>) : null}
                   {p.deck ? <CollapsibleIframeBox src={`https://moxfield.com/embed/${p.deck}?hideTotal=true`} labelDef="deck" labelOpen="hide deck" height="500"/> : null}
                 </td>
                 {(t.type === 'Pro Tour' && t.name < 'Mz' && t.name > 'a') || t.type === 'Magic Pro League' || t.type === 'Mythic Championship' || t.type === 'Arena Mythic Championship Qualifier' ? <td>{p.mythicpoints}</td> : null}
