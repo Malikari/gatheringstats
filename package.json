@@ -49,7 +49,7 @@
     "grunt-sass": "^3.1.0",
     "imagemin-webp": "^5.1.0",
     "load-grunt-config": "^3.0.2",
-    "node-sass": "^8.0.0",
+    "sass": "^1.94.0",
     "sharp": "^0.30.5",
     "uglifyify": "^5.0.2",
     "unidecode": "^0.1.8"
@@ -61,6 +61,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-helmet": "^5.2.1",
+    "react-markdown": "^7.0.0",
     "react-router-dom": "^5.1.2",
     "underscore": "^1.12.1"
   }
