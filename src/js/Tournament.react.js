@@ -9,7 +9,35 @@ import Players from './Players.js';
 import { useParams } from "react-router-dom";
 import { Helmet } from "react-helmet";
 
+import PropTypes from 'prop-types';
+
 import { CollapsibleBox, CollapsibleIframeBox } from "./CollapsibleBox";
+
+function ReportsLinked ({ report }) {
+
+  const reports = typeof report === 'string' ? [report] : report;
+
+  if (!reports || reports.length === 0) return null;
+  else if (reports.length === 1) {
+    return (<><span className="reports">(</span><a href = {reports[0]}>Report</a><span>)</span></>);
+  }
+  else {
+    return (
+      <>
+        <span className="reports">
+        (
+        {reports.map((rep, i) => (
+          <React.Fragment key={i}>
+            {i > 0 ? ", " : "Report Part "}
+            <a href={rep}>{i + 1}</a>
+          </React.Fragment>
+        ))}
+        )
+        </span>
+      </>
+    );
+  }
+}
 
 const Tournament = () => {
   let id = useParams().id;
@@ -80,4 +108,9 @@ const Tournament = () => {
   );
 };
 
+ReportsLinked.propTypes = {
+  report: PropTypes.string
+};
+
 export default Tournament;
+
