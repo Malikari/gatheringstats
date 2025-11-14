@@ -21,7 +21,7 @@ export function CollapsibleBox({ data, label }) {
 }
 
 CollapsibleBox.propTypes = {
-  data: PropTypes.string,
+  data: PropTypes.array,
   label: PropTypes.string,
 };
 
@@ -33,7 +33,7 @@ export function CollapsibleIframeBox({ src, labelDef = "show", labelOpen = "hide
     <div style={{ display: "inline" }}>
       <button
         className="collapsible-iframebutton"
-        style={{ display: "inline-block", marginLeft: "1.5px" }}
+        style={{ display: "inline-block", marginLeft: "0.5px" }}
         onClick={() => setIsOpen(!isOpen)}
       >
         {isOpen ? labelOpen : labelDef}
