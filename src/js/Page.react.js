@@ -55,6 +55,11 @@ const Page = props => (
               Hall of Fame
             </Link>
           </li>
+          <li>
+            <Link to="/about">
+              About
+            </Link>
+          </li>
         </ul>
         <div className="navbar-form navbar-right">
           <SearchInput />

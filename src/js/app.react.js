@@ -23,6 +23,8 @@ import NotFound from "./NotFound.react";
 import history from "./browserhistory";
 import ScrollToTop from "./ScrollToTop";
 
+import AboutPage from "./About.js";
+
 render(
   <Router history={history}>
     <ScrollToTop />
@@ -40,6 +42,7 @@ render(
       <Route path="/arena" component={Arena} />
       <Route path="/magic-online" component={MagicOnline} />
       <Route path="/hall-of-fame/:col" component={HallOfFame} />
+      <Route path="/about" component={AboutPage} />
       <Route path="*" component={NotFound} />
     </Switch>
   </Router>,
