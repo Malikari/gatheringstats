@@ -38,6 +38,7 @@ const Tournament = () => {
         <p className="lead tournamentLead">{t.location}</p>
         {t.site ? <p className="lead tournamentLead">{t.site}</p> : null}
         <CollapsibleBox data={t.structure} label="additional information"/>
+        {t.metadiversity ? <p className="lead tournamentLead">Metagame diversity: {t.metadiversity}</p> : null}
         
       </div>
       <table className="table standingsTable table-hover">
