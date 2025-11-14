@@ -3,24 +3,36 @@
   "coverage": "https://magic.gg/events/pro-tour-modern-horizons-3",
   "date": "June 28-30, 2024",
   "season": "2024",
+  "teamsize": 1,
   "formats": [
     "Modern",
-    "Modern Horizons 3 Draft"
+    "MH3 Booster Draft"
   ],
   "medium": "Tabletop",
   "id": "pro-tour-modern-horizons-3-2024",
   "location": "Amsterdam, Netherlands",
+  "site": "RAI Amsterdam Convention Center",
+  "structure": [
+        "Day 1: Booster Draft (3x Modern Horizons 3); 3 rounds of in-pod Swiss play; 5 rounds of Swiss (Modern); cut to 12 points",
+        "Day 2: Booster Draft; 3 rounds of in-pod Swiss play; 5 rounds of Swiss (Modern); cut to Top 8",
+        "Day 3: Bo5 single elimination (Modern)",
+        "---",
+        "Standard legal sets: Mirrodin – Outlaws of Thunder Junction, Eighth Edition – Core Set 2021, Modern Horizons – Modern Horizons 3 (88 sets)",
+        "---",
+        "Mulligan: London (any number of times, always draw seven cards, then return cards to the bottom equal to the number of mulligans taken)"
+  ],
+  "metadiversity": 9.9,
   "logo": "ptlogo",
   "name": "Pro Tour Modern Horizons 3",
   "standings": [
-        {"name": "Simon Nielsen", "matchpoints": 36, "money": 50000, "amp": 39, "poy": 27},
-        {"name": "Samuel Pardee", "matchpoints": 36, "money": 30000, "amp": 39, "poy": 23},
-        {"name": "Eli Kassis", "matchpoints": 42, "money": 15000, "amp": 45, "poy": 20},
-        {"name": "Daniel Goetschel", "matchpoints": 34, "money": 15000, "amp": 39, "poy": 20},
-        {"name": "No-Ah Ma", "matchpoints": 45, "money": 10000, "amp": 48, "poy": 18},
-        {"name": "Jason Ye", "matchpoints": 39, "money": 10000, "amp": 42, "poy": 18},
-        {"name": "Javier Dominguez", "matchpoints": 39, "money": 10000, "amp": 42, "poy": 18},
-        {"name": "Seth Manfield", "matchpoints": 36, "money": 10000, "amp": 39, "poy": 18},
+        {"name": "Simon Nielsen", "matchpoints": 36, "money": 50000, "amp": 39, "poy": 27, "deck": "WVmmfAyluUync5iCI2WaXA"},
+        {"name": "Samuel Pardee", "matchpoints": 36, "money": 30000, "amp": 39, "poy": 23, "deck": "z5xYlOHvskmIFF19uL5JiA"},
+        {"name": "Eli Kassis", "matchpoints": 42, "money": 15000, "amp": 45, "poy": 20, "deck": "MUEg0WXi7U6YX7kj4Sl9CA"},
+        {"name": "Daniel Goetschel", "matchpoints": 34, "money": 15000, "amp": 39, "poy": 20, "deck": "uAcw6vcZiEqa2l9JCzgrTQ"},
+        {"name": "No-Ah Ma", "matchpoints": 45, "money": 10000, "amp": 48, "poy": 18, "deck": "uXjB7qgQ0UmWHnPWMmcp9g"},
+        {"name": "Jason Ye", "matchpoints": 39, "money": 10000, "amp": 42, "poy": 18, "deck": "5_Kw1c4QyUiAG-2dujcUIg"},
+        {"name": "Javier Dominguez", "matchpoints": 39, "money": 10000, "amp": 42, "poy": 18, "deck": "Fks4RpXi7U6bTN9XgCjIZg"},
+        {"name": "Seth Manfield", "matchpoints": 36, "money": 10000, "amp": 39, "poy": 18, "deck": "oIHx8JnjY0ak52oaJRfoYg"},
         {"name": "Matthew Sperling", "matchpoints": 34, "money": 5000, "amp": 25, "poy": 12},
         {"name": "Jacob Nagro", "matchpoints": 33, "money": 5000, "amp": 24, "poy": 11},
         {"name": "Jean-Emmanuel Depraz", "matchpoints": 33, "money": 5000, "amp": 24, "poy": 11},
@@ -88,7 +100,7 @@
         {"name": "Alejandro Morales", "matchpoints": 27, "money": 1500, "amp": 18, "poy": 3},
         {"name": "Will Krueger", "matchpoints": 27, "money": 1500, "amp": 18, "poy": 3},
         {"name": "Matthieu Tassa", "matchpoints": 27, "money": 1250, "amp": 18, "poy": 3},
-        {"name": "Jeff Carr", "matchpoints": 27, "money": 1250, "amp": 18, "poy": 3},
+        {"name": "Jeffrey Carr", "matchpoints": 27, "money": 1250, "amp": 18, "poy": 3},
         {"name": "Marcio Carvalho", "matchpoints": 27, "money": 1250, "amp": 18, "poy": 3},
         {"name": "Toru Inoue", "matchpoints": 27, "money": 1250, "amp": 18, "poy": 3},
         {"name": "Kamiel Cornelissen", "matchpoints": 27, "money": 1250, "amp": 18, "poy": 3},
@@ -151,7 +163,7 @@
         {"name": "Francesco Latorre", "matchpoints": 18, "money": 1250, "amp": 9, "poy": 1},
         {"name": "Adrián Iñigo Tastet", "matchpoints": 18, "money": 1250, "amp": 9, "poy": 1},
         {"name": "Andreas Petersen", "matchpoints": 18, "money": 1250, "amp": 9, "poy": 1},
-        {"name": "Antonio Guzman", "matchpoints": 18, "money": 1250, "amp": 9, "poy": 1},
+        {"name": "Jose Antonio Guzman Vazquez", "matchpoints": 18, "money": 1250, "amp": 9, "poy": 1},
         {"name": "Kouta Ehara", "matchpoints": 16, "money": 1250, "amp": 7, "poy": 1},
         {"name": "Tom White", "matchpoints": 15, "money": 1250, "amp": 6, "poy": 1},
         {"name": "Dan MacDonald", "matchpoints": 15, "money": 1250, "amp": 6, "poy": 1},
@@ -253,7 +265,8 @@
         {"name": "Jia Wu", "matchpoints": 0, "money": 1000, "amp": 0, "poy": 1},
         {"name": "Kenta Harane", "matchpoints": 0, "money": 1000, "amp": 0, "poy": 1},
         {"name": "Mateo Ferreira", "matchpoints": 0, "money": 1000, "amp": 0, "poy": 1},
-        {"name": "Andy Garcia-Romo", "matchpoints": 0, "money": 1000, "amp": 0, "poy": 1}
+        {"name": "Andy Garcia-Romo", "matchpoints": 0, "money": 1000, "amp": 0, "poy": 1},
+        {"name": "Bart Van Etten", "result": "DQ"}
   ],
   "teamsize": 1
 }

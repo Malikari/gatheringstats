@@ -3,25 +3,29 @@
     "date": "May 6, 2003",
     "formats": [
         "Standard",
-        "? Draft"
+        "Rochester Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-peru-2003",
-    "location": "Peru",
+    "location": "Lima, Peru",
     "logo": "nationals",
     "name": "Nationals Peru 2003",
     "standings": [
         {
-            "name": "Steve Vidalon Hoyos"
+            "name": "Steve Vidalon Hoyos",
+            "money": 1250
         },
         {
-            "name": "Ronie Barrios"
+            "name": "Ronie Barrios",
+            "money": 750
         },
         {
-            "name": "Jean Paul Hindreau"
+            "name": "Jean Paul Hindreau",
+            "money": 500
         },
         {
-            "name": "Jorge Adrianzen"
+            "name": "Jorge Adrianzen",
+            "money": 500
         }
     ],
     "teamsize": 1

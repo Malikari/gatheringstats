@@ -5,54 +5,75 @@
     "season": "1996",
     "formats": [
         "Legacy",
-        "Draft",
+        "Booster Draft",
         "Standard"
     ],
     "medium": "Tabletop",
     "id": "world-championships-1996",
-    "location": "Seattle, Washington, United States",
+    "location": "Renton, Washington, United States",
+    "site": "Wizards of the Coast Tournament Center",
+    "structure": [
+        "Day 1: One Booster Draft (4th Edition + ?) followed by 3 rounds of in-pod play and 3 rounds of out-pod play; points noted down, but day 2 started from a blank slate",
+        "Day 2: 6 rounds (Standard); points noted down, but day 3 started from a blank slate",
+        "Day 3: Legacy; cut to Top 8 (from the sum of all three days' points)",
+        "Day 4: Team Competition (Team Sealed)",
+        "Day 5: Single elimination (Standard)",
+        "---",
+        "Standard legal sets: Fallen Empires – Alliances, 4th Edition, Chronicles (6 sets)",
+        "Legacy legal sets: All sets up to and including Alliances (9 sets, not counting sets containing only reprints)",
+        "---",
+        "Mulligan: Original (once when 0 or 7 lands)"
+    ],
     "logo": "ptlogo",
     "name": "1996 World Championships",
     "standings": [
         {
             "money": 26000,
             "name": "Tom Chanpheng",
-            "propoints": 30
+            "propoints": 30,
+            "deck": "QqBiHZvia0OtysaXiOlmFA"
         },
         {
             "money": 16000,
             "name": "Mark Justice",
-            "propoints": 25
+            "propoints": 25,
+            "deck": "I8s_KsYz6kyqJ5To4aVxjw"
         },
         {
             "money": 9000,
             "name": "Olle Råde",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "SgGLpG8xqkqEXw8coJ53XA"
         },
         {
             "money": 9000,
             "name": "Henry Stern",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "ujJze6svsU2Jv7MyZQ5GAw"
         },
         {
             "money": 5500,
             "name": "Tommi Hovi",
-            "propoints": 10
+            "propoints": 10,
+            "deck": "jWbjvNxC50OoMIRyXm7KPQ"
         },
         {
             "money": 5500,
             "name": "Scott Johns",
-            "propoints": 10
+            "propoints": 10,
+            "deck": "S86_lDebmkWuSt_yUgWM6Q"
         },
         {
             "money": 5500,
             "name": "Eric Tam",
-            "propoints": 10
+            "propoints": 10,
+            "deck": "PSODTNnjjkOAl24qifdl9w"
         },
         {
             "money": 5500,
             "name": "Matthew Place",
-            "propoints": 10
+            "propoints": 10,
+            "deck": "KYQOeE4mC0KtJZpikX41PA"
         },
         {
             "money": 3200,

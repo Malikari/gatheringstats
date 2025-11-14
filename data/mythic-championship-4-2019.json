@@ -3,13 +3,25 @@
   "coverage": "https://www.magic.gg/events/mythic-championship-iv",
   "date": "July 26-28, 2019",
   "season": "2018-19",
+  "teamsize": 1,
   "formats": [
     "Modern",
-    "Draft"
+    "MH1 Booster Draft"
   ],
   "medium": "Tabletop",
   "id": "mythic-championship-4-2019",
   "location": "Barcelona, Spain",
+  "site": "Fira de Barcelona",
+    "structure": [
+        "Day 1: Booster Draft (3x Modern Horizons); 3 rounds of in-pod Swiss play; 5 rounds of Swiss (Modern); cut to 12 points",
+        "Day 2: Booster Draft; 3 rounds of in-pod Swiss play; 5 rounds of Swiss (Modern); cut to Top 8",
+        "Day 3: Bo5 single elimination (Modern)",
+        "---",
+        "Modern legal sets: Mirrodin – War of the Spark, Eighth Edition – Core Set 2020, Modern Horizons (66 sets)",
+        "---",
+        "Mulligan: London (any number of times, always draw seven cards, then return cards to the bottom equal to the number of mulligans taken)"
+    ],
+  "metadiversity": 10.7,
   "logo": "mc",
   "name": "Mythic Championship IV 2019",
   "standings": [
@@ -19,56 +31,64 @@
         "matchpoints": 37,
         "name": "Thoralf Severin",
         "mythicpoints": 50,
-        "report": "https://www.channelfireball.com/articles/serious-magic-for-winners-a-mythic-victory-with-tron-in-barcelona/"
+        "report": "https://www.channelfireball.com/articles/serious-magic-for-winners-a-mythic-victory-with-tron-in-barcelona/",
+        "deck": "nWtx-_ansEmEs-GsxHfmyQ"
     },
     {
         "money": 20000,
         "propoints": null,
         "matchpoints": 38,
         "name": "Alvaro Fernandez Torres",
-        "mythicpoints": 42
+        "mythicpoints": 42,
+        "deck": "qENbopELAEi9sCRFbzqAIw"
     },
     {
         "money": 15000,
         "propoints": null,
         "matchpoints": 38,
         "name": "Sean Gifford",
-        "mythicpoints": 37
+        "mythicpoints": 37,
+        "deck": "qurUFtkx70GGA482U_iiGQ"
     },
     {
         "money": 15000,
         "propoints": null,
         "matchpoints": 37,
         "name": "Zhang Zhiyang",
-        "mythicpoints": 37
+        "mythicpoints": 37,
+        "deck": "gI2dFT0tmE-RVQ8ugN4bdA"
     },
     {
         "money": 10000,
         "propoints": null,
         "matchpoints": 38,
         "name": "Manuel Lenz",
-        "mythicpoints": 32
+        "mythicpoints": 32,
+        "deck": "q0T3JWYT2U6L80iG1m2g4Q"
     },
     {
         "money": 10000,
         "propoints": null,
         "matchpoints": 37,
         "name": "David Mines",
-        "mythicpoints": 32
+        "mythicpoints": 32,
+        "deck": "LxcMc5DSBEetkK-UwGYyBg"
     },
     {
         "money": 10000,
         "propoints": null,
         "matchpoints": 37,
         "name": "Juan Jose Rodriguez Lopez",
-        "mythicpoints": 32
+        "mythicpoints": 32,
+        "deck": "7t42FnyGPkariLZ5XdB0nQ"
     },
     {
         "money": 10000,
         "propoints": null,
         "matchpoints": 37,
         "name": "Martin Müller",
-        "mythicpoints": 32
+        "mythicpoints": 32,
+        "deck": "TaeWs5tt3Uanyo51ioe-IQ"
     },
     {
         "money": 6000,

@@ -2,8 +2,16 @@
     "type": "Pro Tour",
     "coverage": "https://web.archive.org/web/20030813034912/http://www.wizards.com/default.asp?x=sideboard/events/ptnice02",
     "date": "May 3-5, 2002",
+    "season": "2001-02",
     "formats": [
-        "Draft"
+        "Booster Draft"
+    ],
+    "structure": [
+        "Day 1: Booster Draft (2x Odyssey, 1x Torment), 4 rounds; Booster Draft, 3 rounds; cut to 13 points",
+        "Day 2: Booster Draft, 4 rounds; Booster Draft, 3 rounds; cut to Top 8",
+        "Day 3: Booster Draft, Bo5 single elimination",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-nice-2002",
@@ -14,42 +22,50 @@
         {
             "money": 30000,
             "name": "Eivind Nitter",
-            "propoints": 32
+            "propoints": 32,
+            "deck": "aNGfAzfgtUODhlVYwY-P2A"
         },
         {
             "money": 20000,
             "name": "Bram Snepvangers",
-            "propoints": 24
+            "propoints": 24,
+            "deck": "dtxoXw-UJ0mPRtrwN9-MAw"
         },
         {
             "money": 15000,
             "name": "Svend Sparre Geertsen",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "yFKPIy97Bke1lxB-SDBm4w"
         },
         {
             "money": 13000,
             "name": "Brian Davis",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "9rDFNOot3k2fGsZE1sbfJQ"
         },
         {
             "money": 9500,
             "name": "Kai Budde",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "PHDHRiY1U0macY5xbEL9mg"
         },
         {
             "money": 8500,
             "name": "Anton Jonsson",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "RMmRa8WWKEyt1RbBW2wxEw"
         },
         {
             "money": 7500,
             "name": "Gary Talim",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "FfeFRkiz7UCa6aQ1ZJcbpQ"
         },
         {
             "money": 6500,
             "name": "Benjamin Niedrig",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "2VNpMVDI6EuFnUlss0kwlA"
         },
         {
             "money": 6000,

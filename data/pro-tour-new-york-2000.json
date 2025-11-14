@@ -2,12 +2,23 @@
     "type": "Pro Tour",
     "coverage": "https://web.archive.org/web/20000603225133/http://www.wizards.com/sideboard/event.asp?event=PTNY00",
     "date": "April 14-16, 2000",
+    "season": "1999-2000",
     "formats": [
-        "Block Constructed"
+        "Mercadian Masques Block Constructed"
+    ],
+    "structure": [
+        "Day 1: 7 rounds (Mercadian Masques Block Constructed); cut to Top 96",
+        "Day 2: 7 rounds; cut to Top 8",
+        "Day 3: Bo5 single elimination",
+        "---",
+        "Block Constructed legal sets: Mercadian Masques, Nemesis (2 sets)",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-new-york-2000",
     "location": "New York, New York, United States",
+    "metadiversity": 4.8,
     "logo": "ptlogo",
     "name": "Pro Tour New York",
     "standings": [
@@ -15,43 +26,51 @@
             "money": 25000,
             "name": "Sigurd Eskeland",
             "propoints": 32,
-            "report": "http://web.archive.org/web/20010514105050/http://magic.mindripper.com/Index.cfm?ArticleID=376&SectionID=3&Show=All"
+            "report": "http://web.archive.org/web/20010514105050/http://magic.mindripper.com/Index.cfm?ArticleID=376&SectionID=3&Show=All",
+            "deck": "NiYvOQdEAkSb4k9-Xt21SA"
         },
         {
             "money": 15000,
             "name": "Warren Marsh",
-            "propoints": 24
+            "propoints": 24,
+            "deck": "0_q2uZrEEk2wn7VKMec01w"
         },
         {
             "money": 10000,
             "name": "Ben Rubin",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "3OYhYfchMUaJmxNFeQC9uQ"
         },
         {
             "money": 8000,
             "name": "Mattias Kettil",
             "propoints": 16,
-            "report": "http://web.archive.org/web/20010514110949/http://magic.mindripper.com/Index.cfm?ArticleID=379&SectionID=3&Show=All"
+            "report": "http://web.archive.org/web/20010514110949/http://magic.mindripper.com/Index.cfm?ArticleID=379&SectionID=3&Show=All",
+            "deck": "oUHA6UPezUy0VE4ktC-_8w"
         },
         {
             "money": 6500,
             "name": "John Larkin",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "IXP1HIOTn0qiMMTj50ZCAw"
         },
         {
             "money": 5500,
             "name": "Mike Bregoli",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "yLdWzcXgVES5CfkOovgG9w"
         },
         {
             "money": 4800,
             "name": "Travis Turning",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "4h6p_zyiEkKCvDl3TNm35A"
         },
         {
             "money": 4300,
             "name": "John Hunka",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "pALp-2883Ey-MSa52WD_gg"
         },
         {
             "money": 4000,
@@ -457,7 +476,8 @@
         },
         {
             "name": "Kung Chieh Wang",
-            "propoints": 3
+            "propoints": 3,
+            "report": "https://web.archive.org/web/20001214061700fw_/http://www.austrian-magic.at/forum/wan000419.htm"
         },
         {
             "name": "Skye Thomsen",

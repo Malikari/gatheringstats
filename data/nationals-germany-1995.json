@@ -1,12 +1,17 @@
 {
     "type": "Nationals - Germany",
-    "date": "April 22-May 14, 1995",
+    "date": "May 27-28, 1995",
     "formats": [
-        "Standard"
+        "Standard*"
     ],
     "medium": "Tabletop",
     "id": "nationals-germany-1995",
     "location": "Friedberg, Germany",
+    "structure": [
+        "* = Players had to chose to either play with Revised or 4th Edition in addition to the other two legal sets The Dark and Fallen Empires",
+        "Day 1: Round robin pods of 8 with the Top 2 advancing",
+        "Day 2: Allegedly 256 player single elimination (size of bracket doubtful)"
+    ],
     "logo": "nationals",
     "name": "Nationals Germany 1995",
     "standings": [
@@ -18,20 +23,24 @@
         },
         {
             "name": "Gunnar Refsdal",
-            "rank": "3-4",
+            "rank": 3,
             "nationality": "DEU"
         },
         {
             "name": "Martin Trummel",
-            "rank": "3-4"
+            "rank": 3
         },
         {
             "name": "Markus Heyduk",
-            "rank": "5-8"
+            "rank": 5
+        },
+        {
+            "name": "Frank Schacherer",
+            "rank": "Top 32"
         },
         {
             "name": "Andreas Pischner",
-            "rank": "65-128",
+            "rank": 65,
             "report": "http://www.planetmtg.de/articles/artikel.html?id=3567"
         },
         {

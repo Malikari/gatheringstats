@@ -2,55 +2,75 @@
     "type": "Pro Tour",
     "coverage": "https://web.archive.org/web/20141102091355/http://magic.wizards.com/en/events/coverage/ptktk",
     "date": "October 10-12, 2014",
+    "season": "2014-15",
     "formats": [
-        "Draft",
-        "Standard"
+        "Standard",
+        "Booster Draft"
+    ],
+    "structure": [
+        "Day 1: Booster Draft (3x Khans of Tarkir), 3 rounds; 5 rounds (Standard); cut to 12 points",
+        "Day 2: Booster Draft, 3 rounds; 5 rounds (Standard); cut to Top 8",
+        "Day 3: Single elimination: Bo3 quarter- and semi-finals, Bo5 final",
+        "---",
+        "Standard legal sets: Theros – Khans of Tarkir, Magic 2015 (5 sets)",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-khans-of-tarkir-2014",
     "location": "Honolulu, Hawaii, United States",
+    "site": "Hawaii Convention Center",
+    "metadiversity": 10.3,
     "logo": "ptktk",
     "name": "Pro Tour Khans of Tarkir",
     "standings": [
         {
             "money": 40000,
             "name": "Ari Lax",
-            "propoints": 30
+            "propoints": 30,
+            "deck": "CwGefjrdOk2GfoPxsWr60g"
         },
         {
             "money": 20000,
             "name": "Shaun McLaren",
-            "propoints": 26
+            "propoints": 26,
+            "deck": "DJ0oZIf1fkGJPshj0KaqHQ"
         },
         {
             "money": 12500,
             "name": "Thiago Saporito",
-            "propoints": 22
+            "propoints": 22,
+            "deck": "XyuDioYl80-WzCLfCVOdbA"
         },
         {
             "money": 12500,
             "name": "Mike Sigrist",
-            "propoints": 22
+            "propoints": 22,
+            "deck": "5n4MUUCPhUySLW5NKhEOkg"
         },
         {
             "money": 10000,
             "name": "Ivan Floch",
-            "propoints": 18
+            "propoints": 18,
+            "deck": "DJzSe6RuTkiMmP-5mt9Zpg"
         },
         {
             "money": 10000,
             "name": "Ondrej Stráský",
-            "propoints": 18
+            "propoints": 18,
+            "deck": "QFFLnjGoiU2VJcmJ-3BKpw"
         },
         {
             "money": 10000,
             "name": "Yuuya Watanabe",
-            "propoints": 18
+            "propoints": 18,
+            "deck": "rU7AHYDAnkabUDSrEbYOIw"
         },
         {
             "money": 10000,
             "name": "Lee Shi Tian",
-            "propoints": 18
+            "propoints": 18,
+            "deck": "2xskRLlCT0uc4NncxHQSZA"
         },
         {
             "money": 5000,
@@ -249,7 +269,7 @@
         },
         {
             "money": 1500,
-            "name": "Christopher Sparks",
+            "name": "Chris Sparks",
             "propoints": 6
         },
         {

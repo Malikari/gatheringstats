@@ -2,55 +2,75 @@
     "type": "Pro Tour",
     "coverage": "http://web.archive.org/web/20100531191210/http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/ptsj10/welcome",
     "date": "May 28-30, 2010",
+    "season": "2010",
     "formats": [
-        "Draft",
-        "Block Constructed"
+        "Booster Draft",
+        "Zendikar Block Constructed"
+    ],
+    "structure": [
+        "Day 1: 5 rounds (Zendikar-Rise of the Eldrazi Block Constructed); Booster Draft (3x Rise of the Eldrazi), 3 rounds; cut to 15 points",
+        "Day 2: Booster Draft, 3 rounds; 5 rounds (Block Constructed); cut to Top 8",
+        "Day 3: Booster Draft, Bo5 Single elimination",
+        "---",
+        "Block Constructed legal sets: Zendikar – Rise of the Eldrazi (3 sets)",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-san-juan-2010",
     "location": "San Juan, Puerto Rico, United States",
+    "site": "Puerto Rico Convention Center",
+    "metadiversity": 8.6,
     "logo": "ptlogo",
     "name": "Pro Tour San Juan",
     "standings": [
         {
             "money": 40000,
             "name": "Paulo Vitor Damo da Rosa",
-            "propoints": 25
+            "propoints": 25,
+            "deck": "Dxoat1Lv70OVC9-EqgG_-A"
         },
         {
             "money": 20000,
             "name": "Guillaume Matignon",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "n92YK2Js50GWNwkTFvCQiA"
         },
         {
             "money": 15000,
             "name": "Andrea Giarola",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "8zhZRIrp1USVl5as7hVhIg"
         },
         {
             "money": 13000,
             "name": "Noah Swartz",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "1S8ioICtREmVp8H1eeX5vg"
         },
         {
             "money": 11000,
             "name": "Josh Utter-Leyton",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "cR0r34HnEEKBWMvhGlvWqg"
         },
         {
             "money": 10500,
             "name": "Brad Nelson",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "jWY6xRkBAUGSJLvPWy4gtw"
         },
         {
             "money": 10000,
             "name": "Koutarou Ootsuka",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "jpkaDui-RkGfDAeNJ5T5VA"
         },
         {
             "money": 9500,
             "name": "Jeremy Neeman",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "TX0ISUBtv0CyYqyFLV2AKw"
         },
         {
             "money": 7000,

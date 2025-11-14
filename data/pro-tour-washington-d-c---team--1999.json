@@ -2,6 +2,7 @@
     "type": "Pro Tour",
     "coverage": "https://web.archive.org/web/20010410010718/http://www.wizards.com/sideboard/article.asp?x=PTDC9900/welcome",
     "date": "September 3-5, 1999",
+    "season": "1999-2000",
     "formats": [
         "Team Sealed",
         "Team Rochester Draft"
@@ -9,6 +10,14 @@
     "medium": "Tabletop",
     "id": "pro-tour-washington-d-c---team--1999",
     "location": "Washington D.C., United States",
+    "site": "Washington Hilton & Towers",
+    "structure": [
+        "Day 1: 3 Team Sealeds (3 Urza's Saga tournament packs, 2 Urza's Legacy boosters, 1 Urza's Destiny booster) each followed by 2 rounds; cut to Top 32 teams",
+        "Day 2: 5 times each team does a Team Rochester Draft (Urza's Saga, Urza's Legacy, Urza's Destiny) against another team, playing with corresponding seats paired against each other; cut to top 4 teams",
+        "Day 3: In the semis and the final teams do a Team Rochester Draft against each other and afterwards play Bo3 with corresponding seats paired against each other and the winner advancing",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
+    ],
     "logo": "ptlogo",
     "name": "Pro Tour Washington D.C. (Team)",
     "standings": [
@@ -16,33 +25,39 @@
             "money": 10000,
             "name": "Robert Dougherty",
             "propoints": 24,
-            "report": "https://web.archive.org/web/20000604032013/http://www.thedojo.com/ptdc99/ptdc.990909rdo.shtml"
+            "report": "https://web.archive.org/web/20000604032013/http://www.thedojo.com/ptdc99/ptdc.990909rdo.shtml",
+            "deck": "cu0rIVOusk-vCwQ7HZpOuA"
         },
         {
             "money": 10000,
             "name": "David Humpherys",
             "propoints": 24,
-            "report": "https://web.archive.org/web/20000604094820/http://www.thedojo.com/ptdc99/ptdc.990913dhu.shtml"
+            "report": "https://web.archive.org/web/20000604094820/http://www.thedojo.com/ptdc99/ptdc.990913dhu.shtml",
+            "deck": "ODgr4lkhB0GAHRgmIW28vg"
         },
         {
             "money": 10000,
             "name": "Darwin Kastle",
-            "propoints": 24
+            "propoints": 24,
+            "deck": "QP8mMIxRbEWZJhvPpk4jBQ"
         },
         {
             "money": 5000,
             "name": "Brian Selden",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "aXt58Dc9jUizfabgqCajfQ"
         },
         {
             "money": 5000,
             "name": "Kurt Burgner",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "L-JQfKIIm0moU2eypMk3WA"
         },
         {
             "money": 5000,
             "name": "Alan Comer",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "EA_TeQkOzUOFbh39AwUPGg"
         },
         {
             "money": 3000,
@@ -208,7 +223,7 @@
         },
         {
             "money": 510,
-            "name": "Chris Gartman",
+            "name": "Christopher Gartman",
             "propoints": 6
         },
         {

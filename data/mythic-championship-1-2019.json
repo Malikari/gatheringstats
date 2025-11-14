@@ -3,13 +3,25 @@
     "coverage": "https://web.archive.org/web/20190331002716/https://magic.wizards.com/en/events/coverage/2019MC1",
     "date": "February 22-24, 2019",
     "season": "2018-19",
+    "teamsize": 1,
     "formats": [
         "Standard",
-        "Draft"
+        "RNA Booster Draft"
     ],
     "medium": "Tabletop",
     "id": "mythic-championship-1-2019",
     "location": "Cleveland, Ohio, United States",
+    "site": "Huntington Convention Center of Cleveland",
+    "structure": [
+        "Day 1: Booster Draft (3x Ravnica Allegiance); 3 rounds of in-pod Swiss play; 5 rounds of Swiss (Standard); cut to 12 points",
+        "Day 2: Booster Draft; 3 rounds of in-pod Swiss play; 5 rounds of Swiss (Standard); cut to Top 8",
+        "Day 3: Bo5 single elimination (Standard)",
+        "---",
+        "Standard legal sets: Ixalan – Ravnica Allegiance, Core Set 2019 (7 sets)",
+        "---",
+        "Mulligan: Vancouver (any number of times, always draw one card less, then Scry 1 if you took at least one mulligan)"
+    ],
+    "metadiversity": 8.8,
     "logo": "mc",
     "name": "Mythic Championship I 2019",
     "standings": [
@@ -19,14 +31,16 @@
         "money": 50000,
         "name": "Autumn Burchett",
         "mythicpoints": 50,
-        "report": "http://www.starcitygames.com/articles/38371_A-Weekend-Ill-Never-Forget-Mythic-Championship-Cleveland-1st.html"
+        "report": "http://www.starcitygames.com/articles/38371_A-Weekend-Ill-Never-Forget-Mythic-Championship-Cleveland-1st.html",
+        "deck": "VH3O1XE0mUWKk9RWPiG11A"
     },
     {
         "propoints": 26,
         "matchpoints": 37,
         "money": 20000,
         "name": "Yoshihiko Ikawa",
-        "mythicpoints": 42
+        "mythicpoints": 42,
+        "deck": "rVRofpuh8UmER8_Sj1B_Nw"
     },
     {
         "propoints": 24,
@@ -34,7 +48,8 @@
         "money": 15000,
         "name": "Reid Duke",
         "mythicpoints": 37,
-        "report": "https://www.channelfireball.com/articles/mythic-championship-cleveland-report-top-4/"
+        "report": "https://www.channelfireball.com/articles/mythic-championship-cleveland-report-top-4/",
+        "deck": "997GCewwJkKKqBWR4pkZWw"
     },
     {
         "propoints": 22,
@@ -42,28 +57,32 @@
         "money": 15000,
         "name": "Luis Scott-Vargas",
         "mythicpoints": 37,
-        "report": "https://www.channelfireball.com/articles/he-cant-keep-getting-away-with-this/"
+        "report": "https://www.channelfireball.com/articles/he-cant-keep-getting-away-with-this/",
+        "deck": "ZE4g9EWU5UKdgaxBmXI9Ng"
     },
     {
         "propoints": 20,
         "matchpoints": 41,
         "money": 10000,
         "name": "Marcio Carvalho",
-        "mythicpoints": 32
+        "mythicpoints": 32,
+        "deck": "N-yHl7jd5EyAE1mK5Ewwaw"
     },
     {
         "propoints": 18,
         "matchpoints": 37,
         "money": 10000,
         "name": "Michael Bonde",
-        "mythicpoints": 32
+        "mythicpoints": 32,
+        "deck": "Ss0Vil3kUE69YCJ0bZlVZQ"
     },
     {
         "propoints": 17,
         "matchpoints": 37,
         "money": 10000,
         "name": "Julien Berteaux",
-        "mythicpoints": 32
+        "mythicpoints": 32,
+        "deck": "y875AQPLOU6PDrnctcA8gw"
     },
     {
         "propoints": 16,
@@ -71,7 +90,8 @@
         "money": 10000,
         "name": "Alex Majlaton",
         "mythicpoints": 32,
-        "report": "http://www.starcitygames.com/articles/38372_No-Excuses-Red-Aggro-At-Mythic-Championship-Cleveland-8th.html"
+        "report": "http://www.starcitygames.com/articles/38372_No-Excuses-Red-Aggro-At-Mythic-Championship-Cleveland-8th.html",
+        "deck": "E7vMAT_IukWuGFl3PSfwWA"
     },
     {
         "propoints": 15,

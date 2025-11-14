@@ -2,74 +2,95 @@
     "type": "Pro Tour",
     "coverage": "https://web.archive.org/web/20060821220913/http://www.wizards.com/default.asp?x=mtgevent/ptcha06/welcome",
     "date": "June 16-18, 2006",
+    "season": "2006",
     "formats": [
-        "Team Block Constructed"
+        "Team Ravnica Block Constructed"
+    ],
+    "structure": [
+        "Day 1: 7 rounds (Team Ravnica Block Constructed); cut to 12 points",
+        "Day 2: 7 rounds; cut to top 4 teams",
+        "Day 3: Bo3 single elimination",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-charleston--team--2006",
     "location": "Charleston, South Carolina, United States",
+    "site": "Charleston Area Convention Center",
     "logo": "ptlogo",
     "name": "Pro Tour Charleston (Team)",
     "standings": [
         {
             "money": 25000,
-            "name": "Tomoharu Saito",
-            "propoints": 20
+            "name": "Tomohiro Kaji",
+            "propoints": 20,
+            "deck": "KkFmPgli4kmxiqwMwnNonQ"
         },
         {
             "money": 25000,
             "name": "Shota Yasooka",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "84inEjkHD02LJXD_XQru4A"
         },
         {
             "money": 25000,
-            "name": "Tomohiro Kaji",
-            "propoints": 20
-        },
-        {
-            "money": 12000,
-            "name": "Paulo Vitor Damo da Rosa",
-            "propoints": 16
+            "name": "Tomoharu Saito",
+            "propoints": 20,
+            "deck": "LrdAGMG8r0i94xJpDhTO8w"
         },
         {
             "money": 12000,
             "name": "Celso Zampere Junior",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "Tqx81InNv0KNM3F7rOxvUQ"
         },
         {
             "money": 12000,
             "name": "Willy Edel",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "mTpb7qg5V0yU-T8PFXhblQ"
+        },
+        {
+            "money": 12000,
+            "name": "Paulo Vitor Damo da Rosa",
+            "propoints": 16,
+            "deck": "tnxi-fIdX0iIGvqlmy_tZQ"
         },
         {
             "money": 7000,
             "name": "Chikara Nakajima",
-            "propoints": 12
-        },
-        {
-            "money": 7000,
-            "name": "Kazuya Mitamura",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "HAMfG4eoek2EG5COl0YGTA"
         },
         {
             "money": 7000,
             "name": "Ryuichi Arita",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "cC9HfspFskONpTsfdrPcHQ"
+        },
+        {
+            "money": 7000,
+            "name": "Kazuya Mitamura",
+            "propoints": 12,
+            "deck": "JbtmYsw_HEq4vXzpJzBJgg"
         },
         {
             "money": 6000,
             "name": "Chris McDaniel",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "0LpZr0gGl0iXW_QKD4FNkg"
         },
         {
             "money": 6000,
             "name": "Gadiel Szleifer",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "ptpi655RLkKnB0WuKubQSg"
         },
         {
             "money": 6000,
             "name": "John Pelcak",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "aQoTkPyl7k-U4SoBjr3eZg"
         },
         {
             "money": 4300,

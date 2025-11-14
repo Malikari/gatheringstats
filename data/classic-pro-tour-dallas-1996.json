@@ -5,6 +5,9 @@
     "formats": [
         "Vintage"
     ],
+    "structure": [
+        "Day 1: 7 Swiss rounds; cut to Top 8; Top 8"
+    ],
     "medium": "Tabletop",
     "id": "classic-pro-tour-dallas-1996",
     "location": "Dallas, Texas, United States",
@@ -41,11 +44,14 @@
         },
         {
             "money": 2250,
-            "name": "Jeffrey Kuta"
+            "name": "Jeffrey Kuta",
+            "report": "https://web.archive.org/web/19990218053527/http://thedojo.net/tourney96/ptd1.961125jku.txt",
+            "deck": "CmiCzDaP5kSqKZRJV3x3gA"
         },
         {
             "money": 650,
-            "name": "Rudy Edwards"
+            "name": "Rudy Edwards",
+            "report": "https://web.archive.org/web/19990218080331/http://thedojo.net/tourney96/ptd1.961127red.txt"
         },
         {
             "money": 650,
@@ -124,7 +130,8 @@
             "name": "Patrick Albro"
         },
         {
-            "name": "Christopher Otwell"
+            "name": "Christopher Otwell",
+            "report": "https://web.archive.org/web/19990218061715/http://thedojo.net/tourney96/ptd1.961127cot.txt"
         },
         {
             "name": "Shane Knepshield"

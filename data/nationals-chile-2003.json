@@ -1,8 +1,9 @@
 {
     "type": "Nationals - Chile",
-    "date": "January 1-December 31, 2003",
+    "date": "May 24-25, 2003",
     "formats": [
-        "unknown"
+        "Standard",
+        "Rochester Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-chile-2003",
@@ -11,7 +12,20 @@
     "name": "Nationals Chile 2003",
     "standings": [
         {
-            "name": "Jose Luis Capdevila"
+            "name": "Jose Luis Capdevila",
+            "money": 1250
+        },
+        {
+            "name": "Felipe Ahumada",
+            "rank": "NT"
+        },
+        {
+            "name": "Francisco Gaete",
+            "rank": "NT"
+        },
+        {
+            "name": "Rodrigo Sanchez",
+            "rank": "NT"
         }
     ],
     "teamsize": 1

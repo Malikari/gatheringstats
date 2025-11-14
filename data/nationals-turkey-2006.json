@@ -1,18 +1,30 @@
 {
     "type": "Nationals - Turkey",
-    "date": "January 1-August 31, 2006",
+    "date": "September 9-10, 2006",
     "formats": [
         "Standard",
-        " Booster Draft"
+        "Booster Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-turkey-2006",
-    "location": "Turkey",
+    "location": "Istanbul, Turkey",
     "logo": "nationals",
     "name": "Nationals Turkey 2006",
     "standings": [
         {
             "name": "Cem Erdogan"
+        },
+        {
+            "name": "Berk Akbulut",
+            "rank": "NT"
+        },
+        {
+            "name": "Anil Usumezbas",
+            "rank": "NT"
+        },
+        {
+            "name": "Haluk Ornek",
+            "rank": "NT"
         }
     ],
     "teamsize": 1

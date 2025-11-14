@@ -11,11 +11,12 @@
     "logo": "nationals",
     "name": "Nationals United States 1994",
     "standings": [
-        {"name": "Bo Bell", "report": "https://archive.org/details/shadismagazine/Shadis/Shadis%20Magazine%20%2316/page/60/mode/2up?view=theater"},
+        {"name": "Bo Bell", "report": "https://archive.org/details/shadismagazine/Shadis/Shadis%20Magazine%20%2316/page/60/mode/2up?view=theater", "deck": "8aBT10tyEEy9hwgPu2rx0Q"},
         {"name": "Don Smith"},
         {"name": "Gene Rosewater", "rank": "P"},
         {"name": "Mark Rosewater", "rank": "P"}
     ],
-    "teamsize": 1
+    "teamsize": 1,
+    "topn": 2
     
 }

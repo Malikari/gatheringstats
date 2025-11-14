@@ -1,9 +1,10 @@
 {
     "type": "Nationals - Austria",
-    "date": "January 1-December 31, 2003",
+    "coverage": "https://web.archive.org/web/20030801104025/http://www.austrian-magic.at/specials/nats2003/",
+    "date": "May 3-4, 2003",
     "formats": [
         "Standard",
-        "? Draft"
+        "Rochester Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-austria-2003",
@@ -12,34 +13,29 @@
     "name": "Nationals Austria 2003",
     "standings": [
         {
-            "name": "Markus Jöbstl"
+            "name": "Markus Jöbstl",
+            "report": "https://web.archive.org/web/20030813010727/http://www.austrian-magic.at/specials/nats2003/nats_art_0516joe.shtml"
         },
         {
-            "name": "Johannes Hoelzl",
-            "rank": "2-3"
+            "name": "Andreas Enzenhofer"
         },
         {
-            "name": "Andreas Enzenhofer",
-            "rank": "2-3"
+            "name": "Johannes Hoelzl"
         },
         {
             "name": "Benedikt Klauser"
         },
         {
-            "name": "Nikolaus Eigner",
-            "rank": "5-8"
+            "name": "Thomas Preyer"
         },
         {
-            "name": "Thomas Preyer",
-            "rank": "5-8"
+            "name": "Nikolaus Eigner"
         },
         {
-            "name": "Horst Winkelmann",
-            "rank": "5-8"
+            "name": "Gerhard Zingerle"
         },
         {
-            "name": "Gerhard Zingerle",
-            "rank": "5-8"
+            "name": "Horst Winkelmann"
         }
     ],
     "teamsize": 1

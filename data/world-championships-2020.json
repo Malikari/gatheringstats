@@ -4,31 +4,46 @@
     "date": "February 14-16, 2020",
     "season": "2020",
     "formats": [
-        "Booster Draft",
-        "Standard"
+        "Standard",
+        "Booster Draft"
+    ],
+    "structure": [
+        "Day 1: Booster Draft (Theros Beyond Death); no cut",
+        "Day 2: Standard",
+        "Day 3: Standard",
+        "Mode: The tournament used some double elimination scheme too convoluted too detail here; it's in the coverage survival guide, if you desperately need to know",
+        "---",
+        "Standard legal sets: Guilds of Ravnica – Theros Beyond Death, Core Set 2020 (6 sets)",
+        "---",
+        "Mulligan: London (any number of times, always draw seven cards, then return cards to the bottom equal to the number of mulligans taken)"
     ],
     "medium": "Arena",
     "id": "world-championships-2020",
     "location": "Honolulu, Hawaii, United States",
+    "site": "Hawaiʻi Convention Center",
     "logo": "worldslogo",
     "name": "World Championship XXVI",
     "standings": [
         {
             "money": 300000,
             "name": "Paulo Vitor Damo da Rosa",
-            "report": "https://articles.starcitygames.com/premium/a-dream-come-true-how-i-won-world-championship-xxvi-with-azorius-control/"
+            "report": "https://articles.starcitygames.com/premium/a-dream-come-true-how-i-won-world-championship-xxvi-with-azorius-control/",
+            "deck": "pQUJzb5Blkm5ohmcOiUGsg"
         },
         {
             "money": 150000,
-            "name": "Marcio Carvalho"
+            "name": "Marcio Carvalho",
+            "deck": "2htlQyi5BEaiiXr3z103-A"
         },
         {
             "money": 100000,
-            "name": "Seth Manfield"
+            "name": "Seth Manfield",
+            "deck": "ukeSaN7a1EK7lxIHTgBvYw"
         },
         {
             "money": 75000,
-            "name": "Gabriel Nassif"
+            "name": "Gabriel Nassif",
+            "deck": "oF9aZI7_ZkWqm7hxy80nag"
         },
         {
             "money": 62500,

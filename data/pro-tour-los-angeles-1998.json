@@ -4,11 +4,21 @@
     "date": "March 6-8, 1998",
     "season": "1997-98",
     "formats": [
-        "Block Constructed"
+        "Tempest Block Constructed"
+    ],
+    "structure": [
+        "Day 1: 7 rounds (Tempest Block Constructed); cut to Top 96",
+        "Day 2: 7 rounds; cut to Top 8",
+        "Day 3: Bo5 single elimination",
+        "---",
+        "Block Constructed legal sets: Tempest (1 set total)",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-los-angeles-1998",
-    "location": "Los Angeles, California, United States",
+    "location": "Long Beach, California, United States",
+    "site": "RMS Queen Mary",
     "logo": "ptlogo",
     "name": "Pro Tour Los Angeles",
     "standings": [
@@ -16,44 +26,52 @@
             "money": 25000,
             "name": "David Price",
             "propoints": 32,
-            "report": "http://web.archive.org/web/19980504202952/http://thedojo.com/history/ptla98/ptla98dep.txt"
+            "report": "http://web.archive.org/web/19980504202952/http://thedojo.com/history/ptla98/ptla98dep.txt",
+            "deck": "_RiLzVH2_UqKMr7zc7oRXA"
         },
         {
             "money": 15000,
             "name": "Ben Rubin",
-            "propoints": 24
+            "propoints": 24,
+            "deck": "4Dpptz1HsESHHC6Uhuczdw"
         },
         {
             "money": 10000,
             "name": "David Bachmann",
             "propoints": 16,
-            "report": "http://web.archive.org/web/19980504203041/http://thedojo.com/history/ptla98/ptla98dba.txt"
+            "report": "http://web.archive.org/web/19980504203041/http://thedojo.com/history/ptla98/ptla98dba.txt",
+            "deck": "Lhj29hEUEEqW4CH3LszW8Q"
         },
         {
             "money": 8000,
             "name": "Adam Katz",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "eQl8uAgbVEeGJnp44Dkl2A"
         },
         {
             "money": 6500,
             "name": "Kyle Rose",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "CKtZjhVpakSEIT2SHFMe8Q"
         },
         {
             "money": 5500,
             "name": "Jakub Slemr",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "SfgffU2rs0KCQ2LeDPMJ_w"
         },
         {
             "money": 4800,
             "name": "Svend Sparre Geertsen",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "TCpj_VmiTk-izvF1vUwrCw"
         },
         {
             "money": 4300,
             "name": "Andrew Wolf",
             "propoints": 12,
-            "report": "http://web.archive.org/web/19980504203109/http://thedojo.com/history/ptla98/ptla98.awo.txt"
+            "report": "http://web.archive.org/web/19980504203109/http://thedojo.com/history/ptla98/ptla98.awo.txt",
+            "deck": "fNIWJCQgZUGchIm8okRJzw"
         },
         {
             "money": 4000,
@@ -78,7 +96,8 @@
         {
             "money": 3110,
             "name": "Itaru Ishida",
-            "propoints": 8
+            "propoints": 8,
+            "report": "https://web.archive.org/web/20040222230227/http://www.wizards.com/default.asp?x=sideboard/jpstrategy/20030328a"
         },
         {
             "money": 2920,

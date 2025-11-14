@@ -1,55 +1,75 @@
 {
     "type": "Pro Tour",
-    "coverage": "https://web.archive.org/web/20030805024730/http://www.wizards.com/default.asp?x=sideboard/events/ptosa02",
+    "coverage": "https://web.archive.org/web/20020320052300/http://www.wizards.com/default.asp?x=sideboard/events/ptosa02",
     "date": "March 15-17, 2002",
+    "season": "2001-02",
     "formats": [
-        "Block Constructed"
+        "Odyssey Block Constructed"
+    ],
+    "structure": [
+        "Day 1: 7 rounds (Odyssey Block Constructed); cut to 13 points",
+        "Day 2: 7 rounds; cut to Top 8",
+        "Day 3: Bo5 single elimination",
+        "---",
+        "Block Constructed legal sets: Odyssey, Torment (2 sets)",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-osaka-2002",
+    "site": "Osaka A.T.C.",
     "location": "Osaka, Japan",
+    "metadiversity": 5.0,
     "logo": "ptlogo",
     "name": "Pro Tour Osaka",
     "standings": [
         {
             "money": 30000,
             "name": "Ken Ho",
-            "propoints": 32
+            "propoints": 32,
+            "deck": "q9nOOCUegUOwdWlZjktcKA"
         },
         {
             "money": 20000,
             "name": "Olivier Ruel",
-            "propoints": 24
+            "propoints": 24,
+            "deck": "vjPp5zalCEeZvxfWv4Sk6w"
         },
         {
             "money": 15000,
             "name": "Robert Dougherty",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "RnEaWM5vw0qJfaqVHGF0Eg"
         },
         {
             "money": 13000,
             "name": "Jens Thorén",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "xDERVGKOw0mkI43Ujfs6pg"
         },
         {
             "money": 9500,
             "name": "Sylvain Lauriol",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "0PoMe2xEXkSHodWd5hqXag"
         },
         {
             "money": 8500,
             "name": "Nicolas Olivieri",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "E3nxCOtATUW55iJPakB_XA"
         },
         {
             "money": 7500,
             "name": "Osyp Lebedowicz",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "ZWha4gWqK0aZwUC25e-wtw"
         },
         {
             "money": 6500,
             "name": "Christophe Haim",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "-XX1dyHRW0-UrYI-AtpPzg"
         },
         {
             "money": 6000,
@@ -64,7 +84,8 @@
         {
             "money": 5000,
             "name": "Gary Wise",
-            "propoints": 8
+            "propoints": 8,
+            "report": "https://web.archive.org/web/20050523033219/http://www.starcitygames.com/php/news/expandsub.php?Article=2832"
         },
         {
             "money": 4500,
@@ -129,7 +150,8 @@
         {
             "money": 1900,
             "name": "Kai Budde",
-            "propoints": 7
+            "propoints": 7,
+            "report": "https://groups.google.com/g/fido7.ru.magic.the.gathering/c/-552aBgA680"
         },
         {
             "money": 1800,

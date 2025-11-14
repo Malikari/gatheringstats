@@ -2,54 +2,71 @@
     "type": "Pro Tour",
     "coverage": "https://web.archive.org/web/20000618095835/http://www.wizards.com/international/sideboard/ptlondon99/ptlondon.coverage.asp",
     "date": "October 15-17, 1999",
+    "season": "1999-2000",
     "formats": [
-        "Draft"
+        "Booster Draft"
+    ],
+    "structure": [
+        "Day 1: Booster Draft (Urza's Saga, Urza's Legacy, Urza's Destiny), 4 rounds; Booster Draft, 3 rounds; cut to Top 96",
+        "Day 2: Booster Draft, 4 rounds; Booster Draft, 3 rounds; cut to top 8",
+        "Day 3: Booster Draft, Bo5 single elimination",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-london-1999",
     "location": "London, United Kingdom",
+    "site": "Barbican Centre",
     "logo": "ptlogo",
     "name": "Pro Tour London",
     "standings": [
         {
             "money": 25000,
             "name": "Kyle Rose",
-            "propoints": 32
+            "propoints": 32,
+            "deck": "_6drTmDBRkebcMzj1icHdQ"
         },
         {
             "money": 15000,
             "name": "Thomas Preyer",
-            "propoints": 24
+            "propoints": 24,
+            "deck": "Ba-l_TAre0G2KVtITDk1sw"
         },
         {
             "money": 10000,
             "name": "Mike Bregoli",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "gWHGdFVSFEKetkFoKciDJQ"
         },
         {
             "money": 8000,
             "name": "Ben Rubin",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "VLAZ7Cs6UE2C31bsO71m-Q"
         },
         {
             "money": 6500,
             "name": "Gunnar Refsdal",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "s_7E3n3h2U6pahD1_xFl4g"
         },
         {
             "money": 5500,
             "name": "William Jensen",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "gKNwb9RCLEq0BevsmmjwpQ"
         },
         {
             "money": 4800,
             "name": "Marc Hernandez",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "Xmu1Bd-zaUqFysBMAMBi9g"
         },
         {
             "money": 4300,
             "name": "Darwin Kastle",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "lxQ1ggy03kO3UOM8vlBSQg"
         },
         {
             "money": 4000,

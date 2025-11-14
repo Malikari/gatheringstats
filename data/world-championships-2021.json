@@ -4,8 +4,18 @@
     "date": "October 8-10, 2021",
     "season": "2020-21",
     "formats": [
-        "Booster Draft",
-        "Standard"
+        "Standard",
+        "Booster Draft"
+    ],
+    "structure": [
+        "Day 1: Booster Draft (Innistrad: Midnight Hunt), 3 rounds; 2 rounds (Standard)",
+        "Day 2: 5 rounds (Standard); every player with 7 wins automatically advances to Top 4, remaining Top 4 slots decided with additional Standard matches",
+        "Day 3: Double elimination",
+        "Mode: The tournament used some double elimination scheme too convoluted too detail here; it's in the coverage survival guide, if you absolutely need to know",
+        "---",
+        "Standard legal sets: Zendikar Rising – Innistrad: Midnight Hunt (5 sets)",
+        "---",
+        "Mulligan: London (any number of times, always draw seven cards, then return cards to the bottom equal to the number of mulligans taken)"
     ],
     "medium": "Arena",
     "id": "world-championships-2021",
@@ -16,20 +26,24 @@
         {
             "money": 70000,
             "name": "Yuta Takahashi",
-            "report": "https://note.com/yutatakahashi4/n/n19b2ff4d3f4d"
+            "report": "https://note.com/yutatakahashi4/n/n19b2ff4d3f4d",
+            "deck": "93jhH1ZFOUWXWUx4tdNznQ"
         },
         {
             "money": 40000,
             "name": "Jean-Emmanuel Depraz",
-            "report": "https://docs.google.com/document/d/1JIu95mbJ9Q_W_vDp3I9t7eWukkNuKvFBONOH9lwmlIk/edit"
+            "report": "https://docs.google.com/document/d/1JIu95mbJ9Q_W_vDp3I9t7eWukkNuKvFBONOH9lwmlIk/edit",
+            "deck": "FffvwohWkUCOsh-zbwEyCA"
         },
         {
             "money": 25000,
-            "name": "Jan-Moritz Merkel"
+            "name": "Jan-Moritz Merkel",
+            "deck": "BoFLoRQGgUCmVwiAsuV6pw"
         },
         {
             "money": 18000,
-            "name": "Ondrej Strasky"
+            "name": "Ondrej Strasky",
+            "deck": "WhoN0NqmiEeRmUoLrDvfQQ"
         },
         {
             "money": 13500,

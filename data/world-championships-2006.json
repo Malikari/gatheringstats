@@ -2,56 +2,78 @@
     "type": "Pro Tour",
     "coverage": "http://web.archive.org/web/20061221045655/http://www.wizards.com/default.asp?x=mtgevent/worlds06/welcome",
     "date": "November 29-December 3, 2006",
+    "season": "2006",
     "formats": [
         "Standard",
-        "Draft",
+        "Booster Draft",
         "Extended"
+    ],
+    "structure": [
+        "Day 1: 6 rounds (Standard)",
+        "Day 2: 2 Booster Drafts (3x Time Spiral) each followed by 3 rounds",
+        "Day 3: 6 rounds (Extended); cut to Top 8",
+        "Day 4: Team play (four rounds of teams doing a Team Rochester Draft against each other and afterwards playing Bo3 with corresponding seats paired against each other), cut to Top 2 teams",
+        "Day 5: Bo3 Team competition; Bo5 single elimination (Standard decks from day 1)",
+        "---",
+        "Standard legal sets: Ravnica: City of Guilds – Time Spiral, Ninth Edition (5 sets)",
+        "Extended legal sets: Invasion – Time Spiral, Seventh Edition – Ninth Edition (22 sets)",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "world-championships-2006",
     "location": "Paris, France",
+    "site": "Carrousel du Louvre",
     "logo": "ptlogo",
     "name": "2006 World Championships",
     "standings": [
         {
             "money": 50000,
             "name": "Makihito Mihara",
-            "propoints": 25
+            "propoints": 25,
+            "deck": "ZvGfrg8t10GDkHeKxfCkCg"
         },
         {
             "money": 25000,
             "name": "Ryou Ogura",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "FU6vZIUg30ONsFP4dkvtNg"
         },
         {
             "money": 16000,
             "name": "Nicholas Lovett",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "u5TV0lEaC0SVppIel7KIIQ"
         },
         {
             "money": 15000,
             "name": "Gabriel Nassif",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "XbRFBzpkV0-yUUM6jT9uIA"
         },
         {
             "money": 11500,
             "name": "Paulo Carvalho",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "5GqnnsDaoUquiQcQ09-1UQ"
         },
         {
             "money": 11000,
             "name": "Paulo Vitor Damo da Rosa",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "atDUiZpm1UeZHrJQnrfPiA"
         },
         {
             "money": 10500,
             "name": "Tiago Chan",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "6HYc8WinKEWBcFy83yHrBA"
         },
         {
             "money": 10000,
             "name": "Katsuhiro Mori",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "t26Z-spR4E6sZm1QJW8w0g"
         },
         {
             "money": 7000,
@@ -1496,27 +1518,33 @@
         {
             "name": "Amiel Tenenbaum",
             "rank": "DQ",
-            "nationality": "DEU"
+            "nationality": "DEU",
+            "dq": "https://web.archive.org/web/20061223130300/http://www.wizards.com/default.asp?x=mtgevent/worlds06/ddq"
         },
         {
             "name": "Haluk Ornek",
-            "rank": "DQ"
+            "rank": "DQ",
+            "dq": "https://web.archive.org/web/20061223130300/http://www.wizards.com/default.asp?x=mtgevent/worlds06/ddq"
         },
         {
             "name": "Maximilian Bracht",
-            "rank": "DQ"
+            "rank": "DQ",
+            "dq": "https://web.archive.org/web/20071121213011/http://www.wizards.com/default.asp?x=mtgevent/worlds06/dq2"
         },
         {
             "name": "Hyun-Il Jang",
-            "rank": "DQ"
+            "rank": "DQ",
+            "dq": "https://web.archive.org/web/20071121213011/http://www.wizards.com/default.asp?x=mtgevent/worlds06/dq2"
         },
         {
             "name": "Takahiro Suzuki",
-            "rank": "DQ"
+            "rank": "DQ",
+            "dq": "https://web.archive.org/web/20071121213011/http://www.wizards.com/default.asp?x=mtgevent/worlds06/dq2"
         },
         {
             "name": "Francisco Barboza",
-            "rank": "DQ"
+            "rank": "DQ",
+            "dq": "https://web.archive.org/web/20071121213011/http://www.wizards.com/default.asp?x=mtgevent/worlds06/dq2"
         }
     ],
     "teamsize": 1

@@ -2,54 +2,74 @@
     "type": "Pro Tour",
     "coverage": "https://web.archive.org/web/20051226092157/http://www.wizards.com/default.asp?x=mtgevent/ptphi05/welcome",
     "date": "May 6-8, 2005",
+    "season": "2005",
     "formats": [
-        "Block Constructed"
+        "Kamigawa Block Constructed"
+    ],
+    "structure": [
+        "Day 1: 6 rounds (Kamigawa Block Constructed); everyone with three non-wins is automatically dropped",
+        "Day 2: 6 rounds; everyone with three non-wins is automatically dropped; cut to Top 8",
+        "Day 3: Bo5 single elimination (same decks)",
+        "---",
+        "Legal sets: Champions of Kamigawa, Betrayers of Kamigawa (2 sets)",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-philadelphia-2005",
     "location": "Philadelphia, Pennsylvania, United States",
+    "site": "Pennsylvania Convention Center",
+    "matadiversity": 5.7,
     "logo": "ptlogo",
     "name": "Pro Tour Philadelphia",
     "standings": [
         {
             "money": 21725,
             "name": "Gadiel Szleifer",
-            "propoints": 25
+            "propoints": 25,
+            "deck": "4qUdVXx8d0W1eeH8c_Hk6Q"
         },
         {
             "money": 12275,
             "name": "Kenji Tsumura",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "bfGab_1-AEmS0pmQvQ5O2Q"
         },
         {
             "money": 7475,
             "name": "Steven Wolfman",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "iP7-WNl0akqoRMxAuyBP4g"
         },
         {
             "money": 6950,
             "name": "Olivier Ruel",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "mO2IVwRRbECyeeDFEt2zrw"
         },
         {
             "money": 2825,
             "name": "Ryan Cimera",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "U1lvvCOxmUGbjMVugSqWmg"
         },
         {
             "money": 4750,
             "name": "Jeff Novekoff",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "WGstGaHAbkeVsoipx01cwQ"
         },
         {
             "money": 3175,
             "name": "Mark Herberholz",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "pHiLYppTA0-LLQjYjqK1bg"
         },
         {
             "money": 2075,
             "name": "André Müller",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "U_iYEr7r9E-jQ-M7pSX80w"
         },
         {
             "money": 3375,

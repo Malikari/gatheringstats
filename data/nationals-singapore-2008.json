@@ -1,5 +1,6 @@
 {
     "type": "Nationals - Singapore",
+    "coverage": "https://web.archive.org/web/20090726112010/http://www.top8magic.com/2009/07/",
     "date": "August 23-24, 2008",
     "season": "2008",
     "formats": [
@@ -14,16 +15,19 @@
     "standings": [
         {
             "name": "Yong Han Choo",
-            "propoints": 10
+            "propoints": 10,
+            "money": 1800
         },
         {
             "name": "Ding Leong",
-            "propoints": 8
+            "propoints": 8,
+            "money": 1400
         },
         {
             "name": "Russell Thio",
             "rank": 4,
-            "propoints": 6
+            "propoints": 6,
+            "money": 700
         },
         {
             "name": "Ruizi Lin",

@@ -2,13 +2,25 @@
     "type": "Pro Tour",
     "coverage": "https://web.archive.org/web/20170515014332/http://magic.wizards.com/en/events/coverage/ptakh",
     "date": "May 12-14, 2017",
+    "season": "2016-17",
     "formats": [
-        "Draft",
-        "Standard"
+        "Standard",
+        "Booster Draft"
+    ],
+    "structure": [
+        "Day 1: Booster Draft (3x Amonkhet), 3 rounds; 5 rounds (Standard); cut to 12 points",
+        "Day 2: Booster Draft, 3 rounds; 5 rounds (Standard); cut to Top 8",
+        "Day 3: Bo5 single elimination",
+        "---",
+        "Standard legal sets: Battle for Zendikar – Amonkhet (7 sets)",
+        "---",
+        "Mulligan: Vancouver (any number of times, always draw one card less, then Scry 1 if you took at least one mulligan)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-amonkhet-2017",
     "location": "Nashville, Tennessee, United States",
+    "site": "Music City Center",
+    "metadiversity": 7.1,
     "logo": "ptakh",
     "name": "Pro Tour Amonkhet",
     "standings": [
@@ -16,49 +28,57 @@
             "name": "Gerry Thompson",
             "propoints": 30,
             "matchpoints": 37,
-            "money": 50000
+            "money": 50000,
+            "deck": "FaA6XtUyKkarzUAsilVm-w"
         },
         {
             "name": "Yuuya Watanabe",
             "propoints": 26,
             "matchpoints": 36,
-            "money": 20000
+            "money": 20000,
+            "deck": "hfTS6JUEMEWx_xAz9Xn8Lg"
         },
         {
             "name": "Ken Yukuhiro",
             "propoints": 24,
             "matchpoints": 39,
-            "money": 15000
+            "money": 15000,
+            "deck": "5hsNENhwn0mFHj_XQkAOIw"
         },
         {
             "name": "Martin Müller",
             "propoints": 22,
             "matchpoints": 37,
-            "money": 12500
+            "money": 12500,
+            "deck": "AvexGyYZWUOowr_Db3HInA"
         },
         {
             "name": "Christopher Fennell",
             "propoints": 20,
             "matchpoints": 42,
-            "money": 10000
+            "money": 10000,
+            "deck": "ubLZ3NMuKUKAk-8j2uIj8A"
         },
         {
             "name": "Marc Tobiasch",
             "propoints": 18,
             "matchpoints": 38,
-            "money": 9000
+            "money": 9000,
+            "deck": "k9fD0r9nZEOaPc36hAlHRw"
         },
         {
             "name": "Christian Calcano",
             "propoints": 17,
             "matchpoints": 38,
-            "money": 7500
+            "money": 7500,
+            "deck": "BehUE-ZKdkyiJZYSL0mL0w"
         },
         {
             "name": "Eric Froehlich",
             "propoints": 16,
             "matchpoints": 36,
-            "money": 6000
+            "money": 6000,
+            "deck": "ouL-9DFWdEeoY2Ic0UymSQ"
         },
         {
             "name": "Gerard Fabiano",

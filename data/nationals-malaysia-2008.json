@@ -15,35 +15,43 @@
     "standings": [
         {
             "name": "Wai Kin Au Yong",
-            "propoints": 10
+            "propoints": 10,
+            "money": 2100
         },
         {
             "name": "Kin Leong Chong",
-            "propoints": 8
+            "propoints": 8,
+            "money": 1600
         },
         {
             "name": "Jason Yap",
-            "propoints": 6
+            "propoints": 6,
+            "money": 1100
         },
         {
             "name": "Nico Surinindran",
-            "propoints": 6
+            "propoints": 6,
+            "money": 800
         },
         {
             "name": "Adrian Shen Jong Kuan",
-            "propoints": 4
+            "propoints": 4,
+            "money": 400
         },
         {
             "name": "Kim Yin Kok",
-            "propoints": 4
+            "propoints": 4,
+            "money": 400
         },
         {
             "name": "Wei San Ng",
-            "propoints": 4
+            "propoints": 4,
+            "money": 300
         },
         {
             "name": "Terry Soh",
-            "propoints": 4
+            "propoints": 4,
+            "money": 300
         }
     ],
     "teamsize": 1   

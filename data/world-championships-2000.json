@@ -2,56 +2,79 @@
     "type": "Pro Tour",
     "coverage": "https://web.archive.org/web/20000815060828/http://www.wizards.com/sideboard/worlds2000/",
     "date": "August 2-6, 2000",
+    "season": "1999-2000",
     "formats": [
-        "Draft",
-        "Block Constructed",
+        "Booster Draft",
+        "Mercadian Masques Block Constructed",
         "Standard"
+    ],
+    "structure": [
+        "Day 1: 6 rounds (Standard)",
+        "Day 2: 2 Booster Drafts (Mercadian Masques, Nemesis, Prophecy) each followed by 3 rounds",
+        "Day 3: 6 rounds (Mercadian Masques Block Constructed); cut to Top 8",
+        "Day 4: Team play",
+        "Day 5: Bo5 single elimination (Standard decks from day 1)",
+        "---",
+        "Standard legal sets: Urza's Saga – Prophecy, Sixth Edition (7 sets)",
+        "Block Constructed legal sets: Mercadian Masques – Prophecy (3 sets)",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "world-championships-2000",
     "location": "Brussels, Belgium",
+    "site": "Brussels Expo",
+    "metadiversity": 10.8,
     "logo": "ptlogo",
     "name": "2000 World Championships",
     "standings": [
         {
             "money": 34000,
             "name": "Jon Finkel",
-            "propoints": 32
+            "propoints": 32,
+            "deck": "pcWA7n43tk6XK7eVOv8CQQ"
         },
         {
             "money": 22000,
             "name": "Robert Maher",
-            "propoints": 24
+            "propoints": 24,
+            "deck": "kbbkxykc2kKlJnVLxkb0Zw"
         },
         {
             "money": 16000,
             "name": "Dominik Hothow",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "g34XUrgP70uvrkm8TaQeHQ"
         },
         {
             "money": 13000,
             "name": "Benedikt Klauser",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "6dTnoG3urkK6kXm8CEJWkg"
         },
         {
             "money": 11000,
             "name": "Tom Van de Logt",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "X4QlkjtlLkCGtrldSBVBcw"
         },
         {
             "money": 9500,
             "name": "Helmut Summersberger",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "dNkBbAHuGUWWs0OaxTY8uA"
         },
         {
             "money": 8250,
             "name": "Janosch Kühn",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "rybKXT6A5UK5kuUCQQ5vlQ"
         },
         {
             "money": 7250,
             "name": "Nicolas Labarre",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "etL1a-rZhkquJobwn1ioKw"
         },
         {
             "money": 6350,
@@ -744,7 +767,8 @@
         },
         {
             "name": "Christian Fehr",
-            "propoints": 2
+            "propoints": 2,
+            "report": "https://web.archive.org/web/20001019231359fw_/http://swiss-magic.ch/stories/worldsfehr.htm"
         },
         {
             "name": "Nicolas Enjamio",
@@ -851,7 +875,7 @@
             "propoints": 2
         },
         {
-            "name": "Gianis Filippidis",
+            "name": "Ioannis Filippidis",
             "propoints": 2
         },
         {
@@ -1177,6 +1201,10 @@
         {
             "name": "Tanel Lumiste",
             "propoints": 2
+        },
+        {
+            "name": "Ladislav Zupancic",
+            "rank": "DQ?"
         }
     ],
     "teamsize": 1

@@ -2,55 +2,75 @@
     "type": "Pro Tour",
     "coverage": "https://web.archive.org/web/20031206065138/http://www.wizards.com/default.asp?x=sideboard/events/ptno03",
     "date": "October 31-November 2, 2003",
+    "season": "2003-04",
     "formats": [
         "Extended"
+    ],
+    "structure": [
+        "Day 1: 8 rounds (Extended); cut to 15 points",
+        "Day 2: 8 rounds; cut to Top 8",
+        "Day 3: Bo5 single elimination",
+        "---",
+        "Extended legal sets: Tempest – Mirrodin, Sixth Edition – Eighth Edition (22 sets)",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-new-orleans-2003",
     "location": "New Orleans, Louisiana, United States",
+    "site": "Ernest N. Morial Convention Center",
+    "metadiversity": 10.1,
     "logo": "ptlogo",
     "name": "Pro Tour New Orleans",
     "standings": [
         {
             "money": 30000,
             "name": "Rickard Österberg",
-            "propoints": 32
+            "propoints": 32,
+            "deck": "3rF_wHyyc0eixwonLNWoMg"
         },
         {
             "money": 20000,
             "name": "Gabriel Nassif",
-            "propoints": 24
+            "propoints": 24,
+            "deck": "PTIPKwaolku1A-ekzRa3jw"
         },
         {
             "money": 15000,
             "name": "Yann Hamon",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "UprSV9tnckuR0H7-3qUrOQ"
         },
         {
             "money": 13000,
             "name": "Masashi Oiso",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "sTxZ8fOHo0yy9lJMrJTWew"
         },
         {
             "money": 9500,
             "name": "Hans Joachim Höh",
             "propoints": 12,
-            "report": "http://www.planetmtg.de/articles/artikel.html?id=1325"
+            "report": "http://www.planetmtg.de/articles/artikel.html?id=1325",
+            "deck": "sqI86xHo4kCI7W3N1S_iZg"
         },
         {
             "money": 8500,
             "name": "Eugene Harvey",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "1w5KpjPSJEKvd22UfdNSpQ"
         },
         {
             "money": 7500,
             "name": "Tomohiro Yokosuka",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "JJHbFGJ9JUmze8jW5n-pIQ"
         },
         {
             "money": 6500,
             "name": "Nicolas Labarre",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "WWs1JmZw7kWw9n6kEVSRxQ"
         },
         {
             "money": 6000,

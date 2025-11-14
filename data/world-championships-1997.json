@@ -11,28 +11,44 @@
     "medium": "Tabletop",
     "id": "world-championships-1997",
     "location": "Seattle, Washington, United States",
+    "site": "The Seattle Center",
+    "structure": [
+        "Day 1: Rochester Draft; Swiss play",
+        "Day 2: Swiss play (Standard)",
+        "Day 3: Swiss play (Extended); cut to Top 8",
+        "Day 4: Team Competition (Fifth Edition-Weatherlight Limited)",
+        "Day 5: Single elimination (Standard)",
+        "---",
+        "Standard-legal sets: Ice Age – Weatherlight, Fifth Edition (7 sets total)",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
+    ],
     "logo": "ptlogo",
     "name": "1997 World Championships",
     "standings": [
         {
             "money": 34000,
             "name": "Jakub Slemr",
-            "propoints": 30
+            "propoints": 30,
+            "deck": "MUVFRv3UyEynrN-kZ_hfXQ"
         },
         {
             "money": 22000,
             "name": "Janosch Kühn",
-            "propoints": 25
+            "propoints": 25,
+            "deck": "Z4OUwDodW0SuhgY7tULXxA"
         },
         {
             "money": 12000,
             "name": "Svend Sparre Geertsen",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "zyFqpq2YqE6G4uHpEYxhqQ"
         },
         {
             "money": 12000,
             "name": "Paul McCabe",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "oFLAnYIzP0Cfpr-ZE-3vVQ"
         },
         {
             "money": 8000,
@@ -52,7 +68,8 @@
         {
             "money": 8000,
             "name": "John Chinnock",
-            "propoints": 10
+            "propoints": 10,
+            "deck": "dpFWxBZO6EuCkJLviI6oqg"
         },
         {
             "money": 4200,

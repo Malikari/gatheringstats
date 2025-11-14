@@ -8,31 +8,45 @@
         "Standard",
         "Explorer"
     ],
+    "structure": [
+        "Day 1: Booster Draft (Dominaria United), 3 rounds; 5 rounds (Standard)",
+        "Day 2: 6 rounds (Explorer); players with 11 wins automatically advance to Top 4, remaining Top 4 slots decided after round 14",
+        "Day 3: Bo3 double elimination (Standard decks from day one) with grand final",
+        "---",
+        "Standard legal sets: Innistrad: Midnight Hunt – Dominaria United (5 sets)",
+        "---",
+        "Mulligan: London (any number of times, always draw seven cards, then return cards to the bottom equal to the number of mulligans taken)"
+    ],
     "medium": "Arena",
     "id": "world-championships-2022",
     "location": "Las Vegas, Nevada, United States",
+    "site": "The Expo at World Market Center",
     "logo": "worldslogo",
     "name": "World Championship XXVIII",
     "standings": [
         {
             "money": 100000,
             "name": "Nathan Steuer",
-            "matchpoints": 27
+            "matchpoints": 27,
+            "deck": "Dhp6mU-U1kujZAmVV2jBZg"
         },
         {
             "money": 50000,
             "name": "Eli Kassis",
-            "matchpoints": 33
+            "matchpoints": 33,
+            "deck": "ycvE9DHqekqKhiWDjGzqhg"
         },
         {
             "money": 25000,
-            "name": "Jakub Toth",
-            "matchpoints": 30
+            "name": "Jakub Tóth",
+            "matchpoints": 30,
+            "deck": "LND2kO3XBEenfVYRbdmrmw"
         },
         {
             "money": 25000,
             "name": "Karl Sarap",
-            "matchpoints": 30
+            "matchpoints": 30,
+            "deck": "IEOtKU06tUyL5SI3ZxdePQ"
         },
         {
             "money": 20000,

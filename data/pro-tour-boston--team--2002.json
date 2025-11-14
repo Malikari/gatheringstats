@@ -2,45 +2,60 @@
     "type": "Pro Tour",
     "coverage": "https://web.archive.org/web/20030811181519/http://www.wizards.com/default.asp?x=sideboard/events/ptbos02",
     "date": "September 27-29, 2002",
+    "season": "2002-03",
     "formats": [
-        "Team sealed",
+        "Team Sealed",
         "Team Rochester Draft"
+    ],
+    "structure": [
+        "Day 1: Team Sealed (Odyssey, Torment, Judgment), 6 rounds; cut to 12 points",
+        "Day 2: 5 times each team does a Team Rochester Draft (Odyssey, Torment, Judgment) against another team, playing with corresponding seats paired against each other; cut to top 4 teams",
+        "Day 3: In the semis and the final teams do a Team Rochester Draft against each other and afterwards play Bo3 with corresponding seats paired against each other and the winner advancing",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-boston--team--2002",
     "location": "Boston, Massachussetts, United States",
+    "site": "Boston Exposition Center",
     "logo": "ptlogo",
     "name": "Pro Tour Boston (Team)",
     "standings": [
         {
             "money": 20000,
-            "name": "Kai Budde",
-            "propoints": 24
+            "name": "Dirk Baberowski",
+            "propoints": 24,
+            "deck": "-6830A7wi0auVOhP1xvbJg"
         },
         {
             "money": 20000,
-            "name": "Dirk Baberowski",
-            "propoints": 24
+            "name": "Kai Budde",
+            "propoints": 24,
+            "deck": "EhNW1njK-kGEA8X56M5kjQ"
         },
         {
             "money": 20000,
             "name": "Marco Blume",
-            "propoints": 24
+            "propoints": 24,
+            "deck": "IQcguML7n0--G3U4SdtOvg"
         },
         {
             "money": 10000,
             "name": "Steven Wolfman",
-            "propoints": 18
-        },
-        {
-            "money": 10000,
-            "name": "Elijah Pollock",
-            "propoints": 18
+            "propoints": 18,
+            "deck": "_-X0B_osA0it8md11c9BKA"
         },
         {
             "money": 10000,
             "name": "David Rood",
-            "propoints": 18
+            "propoints": 18,
+            "deck": "YYfYo2vFzUiwr4K1aa9lFw"
+        },
+        {
+            "money": 10000,
+            "name": "Elijah Pollock",
+            "propoints": 18,
+            "deck": "7yIWvb_wlUCX8QtbC2UaSQ"
         },
         {
             "money": 6000,

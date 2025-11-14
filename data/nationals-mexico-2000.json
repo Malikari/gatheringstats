@@ -12,21 +12,25 @@
     "name": "Nationals Mexico 2000",
     "standings": [
         {
-            "name": "Alexander Sacal",
-            "rank": "1-8"
-        },
-        {
-            "name": "Gerardo Godinez Estrada",
-            "rank": "1-8"
-        },
-        {
             "name": "Hector Fuentes",
-            "rank": "1-8",
+            "rank": "NT",
             "nationality": "MEX"
         },
         {
             "name": "Salomon Chacon",
-            "rank": "1-8"
+            "rank": "NT"
+        },
+        {
+            "name": "Gerardo Godinez Estrada",
+            "rank": 3
+        },
+        {
+            "name": "Alexander Sacal",
+            "rank": "NT"
+        },
+        {
+            "name": "Francisco Barboza",
+            "rank": 6
         }
     ],
     "teamsize": 1

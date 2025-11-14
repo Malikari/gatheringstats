@@ -1,6 +1,6 @@
 {
     "type": "Grand Prix",
-    "coverage": "https://magic.wizards.com/en/events/coverage/gpbar99",
+    "coverage": "https://web.archive.org/web/19991008190750/http://www.wizards.be/MAGAZINES/Coverage_Barcelona99.html",
     "date": "February 6-7, 1999",
     "season": "1998-99",
     "formats": [
@@ -148,6 +148,11 @@
         {
             "money": 350,
             "name": "Umberto Bosco"
+        },
+        {
+            "name": "Roger Leu",
+            "rank": 42,
+            "report": "https://web.archive.org/web/19990824150717fw_/http://swiss-magic.ch/stories/gpbarcelona.htm"
         }
     ],
     "teamsize": 1

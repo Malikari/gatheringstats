@@ -2,56 +2,76 @@
     "type": "Pro Tour",
     "coverage": "http://web.archive.org/web/20110613035959/http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/ptnag11/welcome",
     "date": "June 10-12, 2011",
+    "season": "2011",
     "formats": [
-        "Draft",
-        "Block Constructed"
+        "Booster Draft",
+        "Scars of Mirrodin Block Constructed"
+    ],
+    "structure": [
+        "Day 1: 5 rounds (Scars of Mirrodin Block Constructed); Booster Draft (New Phyrexia, Mirrodin Besieged, Scars of Mirrodin), 3 rounds; cut to 15 points",
+        "Day 2: Booster Draft, 3 rounds; 5 rounds (Block Constructed); cut to Top 8",
+        "Day 3: Booster Draft, Bo5 single elimination",
+        "---",
+        "Block Constructed legal sets: Scars of Mirrodin – New Phyrexia (3 sets)",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-nagoya-2011",
     "location": "Nagoya, Japan",
+    "site": "Nagoya Trade & Industry Center",
+    "metadiversity": 8.7,
     "logo": "ptlogo",
     "name": "Pro Tour Nagoya",
     "standings": [
         {
             "money": 40000,
             "name": "David Sharfman",
-            "propoints": 25
+            "propoints": 25,
+            "deck": "xCx-XTtgZ0KLD-FZaQygZg"
         },
         {
             "money": 20000,
             "name": "Toshiyuki Kadooka",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "LRo38ehYPUWAZWuuN8QudQ"
         },
         {
             "money": 15000,
             "name": "Elie Pichon",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "Ay5DqhANHUaUEX9zACX0IA"
         },
         {
             "money": 13000,
             "name": "Fabian Thiele",
             "propoints": 16,
-            "report": "http://www.planetmtg.de/articles/artikel.html?id=5913"
+            "report": "http://www.planetmtg.de/articles/artikel.html?id=5913",
+            "deck": "4HedfSJW20uC6B7D7bxqcw"
         },
         {
             "money": 11000,
             "name": "Tsuyoshi Fujita",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "lqZcYI8qwEOaKd4hRZSPeg"
         },
         {
             "money": 10500,
             "name": "Gaudenis Vidugiris",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "jit0qrxgjka2uh2zX-x9mA"
         },
         {
             "money": 10000,
             "name": "Luis Scott-Vargas",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "0xV-vRQT3EOwBfS32fR1Uw"
         },
         {
             "money": 9500,
             "name": "Patrick Cox",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "dg-p0R5uckiLq07oMv_KAg"
         },
         {
             "money": 7000,

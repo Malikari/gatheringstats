@@ -1,18 +1,31 @@
 {
     "type": "Nationals - Venezuela",
-    "date": "January 1-August 31, 2004",
+    "date": "June 26, 2004",
     "formats": [
         "Standard",
-        "? Draft"
+        "Booster Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-venezuela-2004",
-    "location": "Venezuela",
+    "location": "Merida, Venezuela",
     "logo": "nationals",
     "name": "Nationals Venezuela 2004",
     "standings": [
         {
-            "name": "Daniel Fior"
+            "name": "Daniel Fior",
+            "money": 1250
+        },
+        {
+            "name": "Daniele D'Aversa",
+            "money": 750
+        },
+        {
+            "name": "Fidel Arellano",
+            "money": 500
+        },
+        {
+            "name": "Jhonnie Goncalves",
+            "money": 500
         }
     ],
     "teamsize": 1

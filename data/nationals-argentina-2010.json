@@ -1,6 +1,6 @@
 {
     "type": "Nationals - Argentina",
-    "coverage": "https://web.archive.org/web/20160117194043/http://themagictutor.com.ar/index.php?option=com_content&view=article&id=558%3Aarcon-de-los-recuerdos-2-nacional-99-parte-2&catid=39%3Arevolviendo-el-cajon-de-la-abuela&Itemid=58",
+    "coverage": "https://web.archive.org/web/20100901051352/http://www.themagictutor.com/",
     "date": "September 6-7, 2010",
     "season": "2010",
     "formats": [
@@ -15,7 +15,8 @@
     "standings": [
         {
             "name": "Franco Bonazza",
-            "propoints": 10
+            "propoints": 10,
+            "report": "https://web.archive.org/web/20101203044647/http://themagictutor.com/index.php?option=com_content&view=article&id=823%3Areporte-nacional-2010-campeon&catid=42%3Areportes&Itemid=30"
         },
         {
             "name": "Martin Quiroga",
@@ -30,8 +31,20 @@
             "propoints": 6
         },
         {
+            "name": "Sebastian Pozzo",
+            "propoints": 4
+        },
+        {
+            "name": "Matias Leveratto",
+            "propoints": 4
+        },
+        {
             "name": "Jorge Quintero",
-            "rank": "5-8"
+            "propoints": 4
+        },
+        {
+            "name": "Damian Llorente",
+            "propoints": 4
         }
     ],
     "teamsize": 1

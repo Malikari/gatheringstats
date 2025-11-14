@@ -2,56 +2,76 @@
     "type": "Pro Tour",
     "coverage": "http://web.archive.org/web/20090302061623/http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/ptkyo09/welcome",
     "date": "February 27-March 1, 2009",
+    "season": "2009",
     "formats": [
-        "Draft",
-        "Standard"
+        "Standard",
+        "Booster Draft"
+    ],
+    "structure": [
+        "Day 1: 4 rounds (Standard); Booster Draft (2x Shards of Alara, 1x Conflux), 3 rounds; cut to 12 points",
+        "Day 2: Booster Draft, 3 rounds; 4 rounds (Standard); cut to Top 8",
+        "Day 3: Bo5 single elimination",
+        "---",
+        "Legal sets: Lorwyn – Conflux, Tenth Edition (7 sets)",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-kyoto-2009",
     "location": "Kyoto, Japan",
+    "site": "Pulse Plaza",
+    "metadiversity": 8.0,
     "logo": "ptlogo",
     "name": "Pro Tour Kyoto",
     "standings": [
         {
             "money": 40000,
             "name": "Gabriel Nassif",
-            "propoints": 25
+            "propoints": 25,
+            "deck": "G3n8ZNyF6kKlXFHYtTdRUA"
         },
         {
             "money": 20000,
             "name": "Luis Scott-Vargas",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "IZkTxizEq0y36OF3pcIbLg"
         },
         {
             "money": 15000,
             "name": "Akimasa Yamamoto",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "tSH5H5YMwE-I9Hs6hNcIOg"
         },
         {
             "money": 13000,
             "name": "Brian Robinson",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "1eS2jDFWMEmVYbG6wFHzgA"
         },
         {
             "money": 11000,
             "name": "Matteo Orsini Jones",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "ydG02TC5YU6WY_VySN2U4Q"
         },
         {
             "money": 10500,
             "name": "Cedric Phillips",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "6-6eQgYShEmGPKQCXstbyg"
         },
         {
             "money": 10000,
             "name": "Jan Ruess",
             "propoints": 12,
-            "report": ["http://www.planetmtg.de/articles/artikel.html?id=4731", "http://www.planetmtg.de/articles/artikel.html?id=4738"]
+            "report": ["http://www.planetmtg.de/articles/artikel.html?id=4731", "http://www.planetmtg.de/articles/artikel.html?id=4738"],
+            "deck": "RodknmT6dE692VVIh7dTTA"
         },
         {
             "money": 9500,
             "name": "Masayasu Tanahashi",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "Dv9ePLZqHEKSuHe-iVL9Ng"
         },
         {
             "money": 7000,

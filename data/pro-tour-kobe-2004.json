@@ -2,55 +2,75 @@
     "type": "Pro Tour",
     "coverage": "http://web.archive.org/web/20040308003352/http://www.wizards.com/default.asp?x=mtgevent/ptkob04/welcome",
     "date": "February 27-29, 2004",
+    "season": "2003-04",
     "formats": [
-        "Block Constructed"
+        "Mirrodin Block Constructed"
+    ],
+    "structure": [
+        "Day 1: 8 rounds (Mirrodin Block Constructed); cut to 15 points",
+        "Day 2: 8 rounds; cut to Top 8",
+        "Day 3: Bo5 single elimination",
+        "---",
+        "Block Constructed legal sets: Mirrodin, Darksteel (2 sets)",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-kobe-2004",
     "location": "Kobe, Japan",
+    "site": "Kobe International Exhibition Hall",
+    "metadiversity": 3.6,
     "logo": "ptlogo",
     "name": "Pro Tour Kobe",
     "standings": [
         {
             "money": 30000,
             "name": "Masashiro Kuroda",
-            "propoints": 32
+            "propoints": 32,
+            "deck": "0geaiUI9qEaqbKd26bPp3g"
         },
         {
             "money": 20000,
             "name": "Gabriel Nassif",
-            "propoints": 24
+            "propoints": 24,
+            "deck": "rzR9sfttCU6eVaviHuv6nQ"
         },
         {
             "money": 15000,
             "name": "Alexandre Peset",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "1IDX47CZM0e8FHubk6IW2g"
         },
         {
             "money": 13000,
             "name": "Jelger Wiegersma",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "pJK1pAK4wkKVD4DpTxilLw"
         },
         {
             "money": 9500,
             "name": "Luigi Sbrozzi",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "BK4fw4UIpE-j-v0CSdV1gA"
         },
         {
             "money": 8500,
             "name": "Raffaele Lo Moro",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "VgOMqPqOG0eNmtJMoj_IRQ"
         },
         {
             "money": 7500,
             "name": "Ben Stark",
             "propoints": 12,
-            "report": "http://magic.tcgplayer.com/db/article.asp?ID=3856"
+            "report": "http://magic.tcgplayer.com/db/article.asp?ID=3856",
+            "deck": "8ZIfTwl3EEi1d0_UWUtAZA"
         },
         {
             "money": 6500,
             "name": "Stefano Fiore",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "d2aXINQflkGZ33lU8fAYWw"
         },
         {
             "money": 6000,

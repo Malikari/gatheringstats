@@ -2,56 +2,79 @@
     "type": "Pro Tour",
     "coverage": "http://web.archive.org/web/20101218150225/http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/worlds10/welcome",
     "date": "December 9-12, 2010",
+    "season": "2010",
     "formats": [
         "Standard",
-        "Draft",
+        "Booster Draft",
         "Extended"
+    ],
+    "structure": [
+        "Day 1: 6 rounds (Standard), 2 rounds of National Teams (Standard / Extended / Legacy Team Trios)",
+        "Day 2: 2 Booster Drafts (3x Scars of Mirrodin) each followed by 3 rounds",
+        "Day 3: 2 rounds of National Teams; cut to Top 2 teams; 6 rounds (Extended); cut to Top 8",
+        "Day 4: Single elimination Team competition; Bo5 single elimination (Standard decks from day 1)",
+        "---",
+        "Standard legal sets: Zendikar – Scars of Mirrodin, Magic 2011 (5 sets)",
+        "Extended legal sets: Time Spiral – Scars of Mirrodin, Tenth Edition – Magic 2011 (17 sets)",
+        "Legacy legal sets: All sets up to and including Scars of Mirrodin (65 sets)",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "world-championships-2010",
     "location": "Chiba, Japan",
+    "site": "Makuhari Messe",
+    "metadiversity": 5.8,
     "logo": "ptlogo",
     "name": "2010 World Championships",
     "standings": [
         {
             "money": 45000,
             "name": "Guillaume Matignon",
-            "propoints": 25
+            "propoints": 25,
+            "deck": "QX7l0Pyh30a83kfai7Ee9A"
         },
         {
             "money": 24000,
             "name": "Guillaume Wafo-Tapa",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "kJw13hFkS0qpXafZYKk94Q"
         },
         {
             "money": 15000,
             "name": "Paulo Vitor Damo da Rosa",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "Jt5V_By7tEWxcwh6Srg08w"
         },
         {
             "money": 14000,
             "name": "Love Janse",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "7rz9Jpz96EqJfutz1u8iTw"
         },
         {
             "money": 11000,
             "name": "Eric Froehlich",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "qq16S1IDW06qsdug4mt6Kg"
         },
         {
             "money": 10500,
             "name": "Lukas Jaklovsky",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "O8o_XaeTZUWfkIQZYJ5tZQ"
         },
         {
             "money": 10000,
             "name": "Christopher Wolf",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "9-LMbUiikEiHyUpVfhQyQg"
         },
         {
             "money": 9500,
             "name": "Jonathan Randle",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "UIIEkRMfNU2msjwF322SKQ"
         },
         {
             "money": 7000,

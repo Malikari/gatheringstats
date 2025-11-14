@@ -1,28 +1,32 @@
 {
     "type": "Nationals - Argentina",
     "coverage": "https://web.archive.org/web/20110717015153/http://www.themagictutor.com/torneospremier/nacarg2005/nacarg05mazos/nacarg05mazos.html",
-    "date": "January 1-August 31, 2005",
+    "date": "August 20-21, 2005",
     "formats": [
         "Standard",
         "Booster Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-argentina-2005",
-    "location": "Argentina",
+    "location": "Buenos Aires, Argentina",
     "logo": "nationals",
     "name": "Nationals Argentina 2005",
     "standings": [
         {
-            "name": "Victor Villanueva"
+            "name": "Victor Villanueva",
+            "money": 1700
         },
         {
-            "name": "Pedro de Diego"
+            "name": "Pedro de Diego",
+            "money": 1000
         },
         {
-            "name": "Ariel Russo"
+            "name": "Ariel Russo",
+            "money": 650
         },
         {
-            "name": "Dan Brunello"
+            "name": "Dan Brunello",
+            "money": 650
         },
         {
             "name": "Santiago Guzzetti"

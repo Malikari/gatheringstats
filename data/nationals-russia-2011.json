@@ -1,5 +1,6 @@
 {
     "type": "Nationals - Russia",
+    "coverage": "https://web.archive.org/web/20110927165310/http://www.mymagic.ru/nationals",
     "date": "June 24-26, 2011",
     "season": "2011",
     "formats": [
@@ -10,7 +11,7 @@
     "id": "nationals-russia-2011",
     "location": "Moscow, Russia",
     "logo": "nationals",
-    "name": "Nationals Russia 2011",
+    "name": "Nationals Russian Federation 2011",
     "standings": [
         {
             "name": "Dmitry Olenin",
@@ -27,6 +28,54 @@
         {
             "name": "Aleksei Petrykin",
             "propoints": 6
+        },
+        {
+            "name": "Andrey Kochurov",
+            "propoints": 4
+        },
+        {
+            "name": "Alexey Khrusalev",
+            "propoints": 4
+        },
+        {
+            "name": "Alexey Shashov",
+            "propoints": 4
+        },
+        {
+            "name": "Eugene Bormusov",
+            "propoints": 4
+        },
+        {
+            "name": "Kirill Tsarkov",
+            "propoints": 2
+        },
+        {
+            "name": "Andrey Tsarev",
+            "propoints": 2
+        },
+        {
+            "name": "Ruslan Birukov",
+            "propoints": 2
+        },
+        {
+            "name": "Nikita Gaponov",
+            "propoints": 2
+        },
+        {
+            "name": "Yuriy Danishevskiy",
+            "propoints": 1
+        },
+        {
+            "name": "Alexey Suhih",
+            "propoints": 1
+        },
+        {
+            "name": "Vlad Belonogov",
+            "propoints": 1
+        },
+        {
+            "name": "Igor Gorbunov",
+            "propoints": 1
         }
     ],
     "teamsize": 1

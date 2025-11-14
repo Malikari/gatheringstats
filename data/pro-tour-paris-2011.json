@@ -2,56 +2,76 @@
     "type": "Pro Tour",
     "coverage": "http://web.archive.org/web/20110228140832/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/ptpar11/welcome",
     "date": "February 10-13, 2011",
+    "season": "2011",
     "formats": [
-        "Draft",
-        "Standard"
+        "Standard",
+        "Booster Draft"
+    ],
+    "structure": [
+        "Day 1: 5 rounds (Standard); Booster Draft (1x Mirrodin Besieged, 2x Scars of Mirrodin), 3 rounds; cut to 15 points",
+        "Day 2: Booster Draft, 3 rounds; 5 rounds (Standard); cut to Top 8",
+        "Day 3: Bo5 single elimination (Standard)",
+        "---",
+        "Standard legal sets: Zendikar – Mirrodin Besieged, Magic 2011 (6 sets)",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-paris-2011",
     "location": "Paris, France",
+    "site": "Espace Champerret",
+    "metadiversity": 7.8,
     "logo": "ptlogo",
     "name": "Pro Tour Paris",
     "standings": [
         {
             "money": 40000,
             "name": "Ben Stark",
-            "propoints": 25
+            "propoints": 25,
+            "deck": "plhDxfUOHkm_d4iK-Se5PA"
         },
         {
             "money": 20000,
             "name": "Paul Rietzl",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "uo4R0IL93EaIXPwvA9CmpQ"
         },
         {
             "money": 15000,
             "name": "Vincent Lemoine",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "yrx4BUjZvkucqe3wZu-vPw"
         },
         {
             "money": 13000,
             "name": "Naoki Nakada",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "mZne5Fq5j0KDQPo04hxlUQ"
         },
         {
             "money": 11000,
             "name": "Nico Bohny",
             "propoints": 12,
-            "report": ["http://www.planetmtg.de/articles/artikel.html?id=5827"]
+            "report": ["https://web.archive.org/web/20201125085143/http://www.planetmtg.de/articles/artikel.html?id=5827"],
+            "deck": "uQI2NqNjjUC8S8FcJ4HFnA"
         },
         {
             "money": 10500,
             "name": "Patrick Chapin",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "Nrn4D_cBUU2vQZeNei29GA"
         },
         {
             "money": 10000,
             "name": "Tom Martell",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "5ryGSHNhDkaYUAF_s1htAQ"
         },
         {
             "money": 9500,
             "name": "Shintaro Ishimura",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "1cL06t-P-EurhfwcVJqngg"
         },
         {
             "money": 7000,

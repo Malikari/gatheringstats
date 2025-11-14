@@ -1,13 +1,16 @@
 {
     "type": "Nationals - Czech Republic",
-    "date": "January 1-August 31, 1997",
+    "date": "April 19-20, 1997",
     "formats": [
         "Standard",
-        "? Limited"
+        "Rochester Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-czech-republic-1997",
-    "location": "Czech Republic",
+    "location": "Prague, Czech Republic",
+    "structure": [
+        "Slovak players were allowed to participate"
+    ],
     "logo": "nationals",
     "name": "Nationals Czech Republic 1997",
     "standings": [
@@ -22,6 +25,18 @@
         },
         {
             "name": "Ondrej Baudys"
+        },
+        {
+            "name": "Ivan Stanoev"
+        },
+        {
+            "name": "Tomas Kosicka"
+        },
+        {
+            "name": "Petr Laca"
+        },
+        {
+            "name": "Robert Karc"
         }
     ],
     "teamsize": 1

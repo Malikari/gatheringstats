@@ -2,54 +2,71 @@
     "type": "Pro Tour",
     "coverage": "https://web.archive.org/web/20070812093202/http://www.wizards.com/default.asp?x=mtgevent/ptsdg07/welcome",
     "date": "June 29-July 1, 2007",
+    "season": "2007",
     "formats": [
-        "Two-Headed Giant Draft"
+        "Two-Headed Giant Booster Draft"
+    ],
+    "structure": [
+        "Day 1: 3 2HG-Drafts (Time Spiral, Planar Chaos, Future Sight) each followed by 2 rounds of in-pod (?) Bo1 Swiss; cut to 12 points",
+        "Day 2: 3 2HG-Drafts each followed by 2 rounds of in-pod (?) Bo1 Swiss; cut to top 4 teams",
+        "Day 3: 2HG-Draft; Bo1 single elimination",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-san-diego--team--2007",
     "location": "San Diego, California, United States",
+    "site": "San Diego Convention Center",
     "logo": "ptlogo",
     "name": "Pro Tour San Diego (Team)",
     "standings": [
         {
             "money": 25000,
             "name": "Chris Lachmann",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "dVYbBdyQ3ka38N6GKiHFbQ"
         },
         {
             "money": 25000,
             "name": "Jacob Van Lunen",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "Vw74sd6pFECYk5JIrr4tnA"
         },
         {
             "money": 15000,
             "name": "Yuta Takahashi",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "EEN1GQvSqU2uPrKxasd2Pw"
         },
         {
             "money": 15000,
             "name": "Kentaro Yamamoto",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "YCI6NiX2MkGotQpwW0bQiQ"
         },
         {
             "money": 11000,
             "name": "John Fiorillo",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "KUmT01sj_0G_pi6uFZWLEQ"
         },
         {
             "money": 11000,
             "name": "Eugene Harvey",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "qdTJZ4qUKU-UgHl2NpabNQ"
         },
         {
             "money": 10000,
             "name": "Masami Kaneko",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "ZpjWddrqfkiUugLWiDx-zw"
         },
         {
             "money": 10000,
             "name": "Genki Taru",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "p74hsIPpCk2Ugm54qtFJJw"
         },
         {
             "money": 7000,

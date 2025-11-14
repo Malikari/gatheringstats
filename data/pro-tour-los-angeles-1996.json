@@ -4,18 +4,27 @@
     "date": "May 5-7, 1996",
     "season": "1996",
     "formats": [
-        "Draft"
+        "Booster Draft"
     ],
     "medium": "Tabletop",
+    "structure": [
+        "Day 1: Booster Draft (4th Edition, 4th Edition, Homelands), Swiss rounds; cut to Top 64",
+        "Day 2: Booster Draft, Swiss rounds; cut to Top 8",
+        "Day 3: Booster Draft, Bo5 single elimination",
+        "---",
+        "Mulligan: Original (once when 0 or 7 lands)"
+    ],
     "id": "pro-tour-los-angeles-1996",
-    "location": "Los Angeles, California, United States",
+    "location": "Long Beach, California, United States",
+    "site": "RMS Queen Mary",
     "logo": "ptlogo",
     "name": "Pro Tour Los Angeles",
     "standings": [
         {
             "money": 17000,
             "name": "Shawn Regnier",
-            "propoints": 30
+            "propoints": 30,
+            "deck": "QMn5erVBckytO2JnNg0XTg"
         },
         {
             "money": 10000,
@@ -25,7 +34,8 @@
         {
             "money": 5900,
             "name": "Darwin Kastle",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "SwLIoVHlwU2GzenwRVPB_g"
         },
         {
             "money": 5900,
@@ -675,7 +685,8 @@
         },
         {
             "name": "Mario Robaina",
-            "rank": "Attended (65+)"
+            "rank": "Attended (65+)",
+            "report": "https://web.archive.org/web/19990210084142/http://thedojo.net/tourney96/pt2.960507mr.txt"
         },
         {
             "name": "James Robinson",

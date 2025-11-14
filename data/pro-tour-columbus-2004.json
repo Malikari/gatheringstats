@@ -2,54 +2,74 @@
     "type": "Pro Tour",
     "coverage": "http://web.archive.org/web/20041104030234/http://www.wizards.com/default.asp?x=mtgevent/ptcol05/welcome",
     "date": "October 29-31, 2004",
+    "season": "2005",
     "formats": [
         "Extended"
+    ],
+    "structure": [
+        "Day 1: 8 rounds (Extended); cut to 15 points",
+        "Day 2: 8 rounds; cut to Top 8",
+        "Day 3: Bo5 single elimination",
+        "---",
+        "Extended legal sets: Tempest – Champions of Kamigawa, Sixth Edition – Eighth Edition (25 sets)",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-columbus-2004",
     "location": "Columbus, Ohio, United States",
+    "site": "Greater Columbus Convention Center",
+    "metadiversity": 8.5,
     "logo": "ptlogo",
     "name": "Pro Tour Columbus",
     "standings": [
         {
             "money": 30000,
             "name": "Pierre Canali",
-            "propoints": 25
+            "propoints": 25,
+            "deck": "Q9N_K76-jk2rr_AWVn8-lQ"
         },
         {
             "money": 20000,
             "name": "Shuhei Nakamura",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "MrU36zGzdUujg_lgdjPoAQ"
         },
         {
             "money": 15000,
             "name": "Nicholas West",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "n2KHgHMc6kGx0vBnlhfwhw"
         },
         {
             "money": 13000,
             "name": "Olivier Ruel",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "p0dCv87zx0mEzXHv_SMVRg"
         },
         {
             "money": 9500,
             "name": "Gadiel Szleifer",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "eE2FjgRM1Uaoyo7ExqAepQ"
         },
         {
             "money": 8500,
             "name": "Masashi Oiso",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "74TtAZmwJUim6hdyUdBJGQ"
         },
         {
             "money": 7500,
             "name": "Ryuichi Arita",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "QllhfKibdU6WgMURNRAnbw"
         },
         {
             "money": 6500,
             "name": "Geoffrey Siron",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "bSeSw4IGz0S1Rjxbc40eFg"
         },
         {
             "money": 6000,

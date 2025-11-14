@@ -2,56 +2,76 @@
     "type": "Pro Tour",
     "coverage": "http://web.archive.org/web/20110924014814/http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/ptphi11/welcome",
     "date": "September 2-4, 2011",
+    "season": "2011",
     "formats": [
-        "Draft",
-        "Modern"
+        "Modern",
+        "Booster Draft"
+    ],
+    "structure": [
+        "Day 1: 5 rounds (Modern); Booster Draft (Modern 2012), 3 rounds; cut to 15 points",
+        "Day 2: Booster Draft, 3 rounds; 5 rounds (Modern); cut to Top 8",
+        "Day 3: Bo5 single elimination (Modern)",
+        "---",
+        "Modern legal sets: Mirrodin – New Phyrexia, Eighth Edition – Magic 2012 (32 sets)",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-philadelphia-2011",
     "location": "Philadelphia, Pennsylvania, United States",
+    "site": "Pennsylvania Convention Center",
+    "metadiversity": 9.2,
     "logo": "ptlogo",
     "name": "Pro Tour Philadelphia",
     "standings": [
         {
             "money": 40000,
             "name": "Samuele Estratti",
-            "propoints": 25
+            "propoints": 25,
+            "deck": "DicsZzydPkeG9uya52coBQ"
         },
         {
             "money": 20000,
             "name": "Josh Utter-Leyton",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "F8t6vrwi8UaNFbDvqqBffA"
         },
         {
             "money": 15000,
             "name": "Samuel Black",
             "propoints": 16,
-            "report": "https://articles.starcitygames.com/articles/black-magic-pro-tour-philadelphia-3rd-place/"
+            "report": "https://articles.starcitygames.com/articles/black-magic-pro-tour-philadelphia-3rd-place/",
+            "deck": "aLYrelu_20GyYUZSLbd52A"
         },
         {
             "money": 13000,
             "name": "Chikara Nakajima",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "dp-27LH86EqiHBae4jmc8A"
         },
         {
             "money": 11000,
             "name": "Max Sjöblom",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "5SvKedRErkSqZ0ujlNx1fA"
         },
         {
             "money": 10500,
             "name": "Jesse Hampton",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "qS0AVyFRpkmk5VZZd6JXZw"
         },
         {
             "money": 10000,
             "name": "Andrejs Prost",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "VNcg5pF92kOjhWZeQFHsTQ"
         },
         {
             "money": 9500,
             "name": "Alessandro Portaro",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "R5hyMiEq_kuyphpvt3dNXg"
         },
         {
             "money": 7000,

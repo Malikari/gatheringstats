@@ -2,55 +2,75 @@
     "type": "Pro Tour",
     "coverage": "http://web.archive.org/web/20120221094842/http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/ptdka12/welcome",
     "date": "February 10-12, 2012",
+    "season": "2012",
     "formats": [
-        "Draft",
-        "Standard"
+        "Standard",
+        "Booster Draft"
+    ],
+    "structure": [
+        "Day 1: 5 rounds (Standard); Booster Draft (1x Dark Ascension, 2x Innistrad), 3 rounds; cut to 15 points",
+        "Day 2: Booster Draft, 3 rounds; 5 rounds (Standard); cut to Top 8",
+        "Day 3: Bo5 single elimination",
+        "---",
+        "Standard legal sets: Scars of Mirrodin – Dark Ascension, Magic 2012 (6 sets)",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-dark-ascension-2012",
     "location": "Honolulu, Hawaii, United States",
+    "site": "Hawaii Convention Center",
+    "metadiversity": 9.3,
     "logo": "ptdka",
     "name": "Pro Tour Dark Ascension",
     "standings": [
         {
             "money": 40000,
             "name": "Brian Kibler",
-            "propoints": 30
+            "propoints": 30,
+            "deck": "hxs0I9bGsUGvywPTCM_NoA"
         },
         {
             "money": 20000,
             "name": "Paulo Vitor Damo da Rosa",
-            "propoints": 24
+            "propoints": 24,
+            "deck": "RJSuFPCEDUiEgtnyGPm2qw"
         },
         {
             "money": 12500,
             "name": "Jon Finkel",
-            "propoints": 22
+            "propoints": 22,
+            "deck": "whbcyIrlR0GeUDOUCOaW2A"
         },
         {
             "money": 12500,
             "name": "Mamoru Nagai",
-            "propoints": 22
+            "propoints": 22,
+            "deck": "rRqoaMkM2kuaLHhk_-BqHg"
         },
         {
             "money": 10000,
             "name": "Denniz Rachid",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "49mzLK0NXU-OmWqGP8OAvw"
         },
         {
             "money": 10000,
             "name": "Lukas Blohon",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "sby7w5wPNECdTFpPCn5oBg"
         },
         {
             "money": 10000,
             "name": "Matthew Costa",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "uEuEHity8EePbHxM5Q4YCQ"
         },
         {
             "money": 10000,
             "name": "Jelger Wiegersma",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "tY1JMJWlJEO_eMOaobQWTg"
         },
         {
             "money": 3500,

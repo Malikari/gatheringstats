@@ -1,56 +1,75 @@
 {
     "type": "Pro Tour",
-    "coverage": "https://web.archive.org/web/20020802171301/http://www.wizards.com/sideboard/event.asp?event=PTNOR01",
+    "coverage": "https://web.archive.org/web/20020210134200/http://www.wizards.com/sideboard/event.asp?event=PTNOR01",
     "date": "November 2-4, 2001",
+    "season": "2001-02",
     "formats": [
         "Extended"
+    ],
+    "structure": [
+        "Day 1: 7 rounds (Extended); cut to 13 points",
+        "Day 2: 7 rounds; cut to Top 8",
+        "Day 3: Bo5 single elimination",
+        "---",
+        "Extended legal sets: Ice Age – Odyssey, Fifth Edition – Seventh Edition, the 10 original dual lands (22 sets)",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-new-orleans-2001",
     "location": "New Orleans, Louisiana, United States",
+    "site": "Municipal Auditorium",
     "logo": "ptlogo",
     "name": "Pro Tour New Orleans",
     "standings": [
         {
             "money": 30000,
             "name": "Kai Budde",
-            "propoints": 32
+            "propoints": 32,
+            "deck": "JEafrkZjuUaZtccoGspzNw"
         },
         {
             "money": 20000,
             "name": "Tomi Walamies",
             "propoints": 24,
-            "report": "http://web.archive.org/web/20020605073728/http://www.brainburst.com/reports/extended/011115.asp"
+            "report": "http://web.archive.org/web/20020605073728/http://www.brainburst.com/reports/extended/011115.asp",
+            "deck": "-Xx2LdTBGUi2gfi4Fy9G3g"
         },
         {
             "money": 15000,
             "name": "Jelger Wiegersma",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "aJcGWaT2N0uWe-i43rQhLQ"
         },
         {
             "money": 13000,
             "name": "David Humpherys",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "tB4l60odv0yz1GZgVY573Q"
         },
         {
             "money": 9500,
             "name": "Anton Jonsson",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "Y8F7BB5OGE27pYESuPYioA"
         },
         {
             "money": 8500,
             "name": "Raphaël Gennari",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "ke3ZAD1r40GnIdvtUSc-YQ"
         },
         {
             "money": 7500,
             "name": "Darwin Kastle",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "2HJWHRino0G2Cli9trm6zQ"
         },
         {
             "money": 6500,
             "name": "Benedikt Klauser",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "nzyRhT7UoUqh14-Ws5tmDg"
         },
         {
             "money": 6000,
