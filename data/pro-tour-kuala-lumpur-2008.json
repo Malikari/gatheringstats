@@ -2,54 +2,71 @@
     "type": "Pro Tour",
     "coverage": "https://web.archive.org/web/20080324125652/http://www.wizards.com/default.asp?x=mtgevent/ptkl08/welcome",
     "date": "February 15-17, 2008",
+    "season": "2008",
     "formats": [
-        "Draft"
+        "Booster Draft"
+    ],
+    "structure": [
+        "Day 1: Booster Draft (2x Lorwyn, 1x Morningtide), 3 rounds; Booster Draft, 3 rounds; cut to 12 points; Booster Draft, 1 round",
+        "Day 2: 2 rounds (decks from the previous day's 3rd draft); Booster Draft, 3 rounds; Booster Draft, 3 rounds on in-pod Swiss play; cut to Top 8",
+        "Day 3: Booster Draft, Bo5 single elimination",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-kuala-lumpur-2008",
     "location": "Kuala Lumpur, Malaysia",
+    "site": "Kuala Lumpur Convention Center",
     "logo": "ptlogo",
     "name": "Pro Tour Kuala Lumpur",
     "standings": [
         {
             "money": 40000,
             "name": "Jon Finkel",
-            "propoints": 25
+            "propoints": 25,
+            "deck": "sm0Ffe92uk-wgApyqFbzfA"
         },
         {
             "money": 20000,
             "name": "Mario Pascoli",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "gcAOk8WXrkiVd_jqpy0F9g"
         },
         {
             "money": 15000,
             "name": "Marcio Carvalho",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "S-9U8AJsx0y2ruOT7nTPyg"
         },
         {
             "money": 13000,
             "name": "Ming Xu",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "-QFzWU4weUOQWpM_PFCGqw"
         },
         {
             "money": 11000,
             "name": "Guillaume Wafo-Tapa",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "S2BxwOdHT0mnbPKCKKA26g"
         },
         {
             "money": 10500,
             "name": "Mike Hron",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "jP3eMy9-r0CImqfpB9owHw"
         },
         {
             "money": 10000,
             "name": "Joel Calafell",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "577ff-RwAkeXIx4VY8jD_w"
         },
         {
             "money": 9500,
             "name": "Nicolai Herzog",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "N_57uiSWR0W_LojE70rdfA"
         },
         {
             "money": 7000,

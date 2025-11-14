@@ -1,31 +1,47 @@
 {
     "type": "Nationals - Brazil",
-    "date": "January 1-August 31, 2004",
+    "date": "June 19-20, 2004",
     "formats": [
         "Standard",
-        "? Draft"
+        "Booster Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-brazil-2004",
-    "location": "Brazil",
+    "location": "São Paulo, Brazil",
     "logo": "nationals",
     "name": "Nationals Brazil 2004",
     "standings": [
         {
-            "name": "Osvaldo Barbosa"
+            "name": "Osvaldo Barbosa",
+            "money": 1700
         },
         {
-            "name": "Elton Fior"
+            "name": "Elton Fior",
+            "money": 1000
         },
         {
-            "name": "Sergio Fialho Martins"
+            "name": "Sergio Fialho Martins",
+            "money": 600
         },
         {
-            "name": "Eduardo Simao Teixeira"
+            "name": "Eduardo Simao Teixeira",
+            "money": 500
+        },
+        {
+            "name": "Lucas Esper Berthoud",
+            "money": 350
         },
         {
             "name": "Willy Edel",
-            "rank": "5-8"
+            "money": 350
+        },
+        {
+            "name": "Leopoldo Martins Moreira Neto",
+            "money": 250
+        },
+        {
+            "name": "Vagner Casatti",
+            "money": 250
         }
     ],
     "teamsize": 1

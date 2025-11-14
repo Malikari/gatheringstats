@@ -1,6 +1,7 @@
 {
     "type": "Nationals - Costa Rica",
-    "date": "January 1-September 30, 2010",
+    "coverage": "https://web.archive.org/web/20100805173934/http://www.deckcheck.net/event.php?event=Nationals+2010+-+Costa+Rica",
+    "date": "July 25, 2010",
     "season": "2010",
     "formats": [
         "Standard",
@@ -8,7 +9,7 @@
     ],
     "medium": "Tabletop",
     "id": "nationals-costa-rica-2010",
-    "location": "Costa Rica",
+    "location": "San Juan, Costa Rica",
     "logo": "nationals",
     "name": "Nationals Costa Rica 2010",
     "standings": [
@@ -17,18 +18,35 @@
             "propoints": 10
         },
         {
+            "name": "Jose de la O Castillo",
+            "propoints": 8
+        },
+        {
+            "name": "Josue Feng",
+            "propoints": 6
+        },
+        {
+            "name": "Andres Loria Rojas",
+            "propoints": 6
+        },
+        {
+            "name": "Allan Quesada",
+            "propoints": 4
+        },
+        {
             "name": "Cristian Zuniga",
-            "rank": 6,
+            "propoints": 4
+        },
+        {
+            "name": "Marino Donato",
             "propoints": 4
         },
         {
             "name": "Jose Pablo Umana Chaves",
-            "rank": 8,
             "propoints": 4
         },
         {
             "name": "Mauricio Aguero",
-            "rank": 9,
             "propoints": 2
         }
     ],

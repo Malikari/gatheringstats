@@ -8,33 +8,41 @@
     ],
     "medium": "Tabletop",
     "id": "nationals-italy-2005",
-    "location": "Italy",
+    "location": "Rome, Italy",
     "logo": "nationals",
     "name": "Nationals Italy 2005",
     "standings": [
         {
-            "name": "Manuel Alvisi"
+            "name": "Manuel Alvisi",
+            "money": 3000
         },
         {
-            "name": "Bruno Panara"
+            "name": "Bruno Panara",
+            "money": 2000
         },
         {
-            "name": "Andrea Peloso"
+            "name": "Andrea Peloso",
+            "money": 1500
         },
         {
-            "name": "Simone Carboni"
+            "name": "Simone Carboni",
+            "money": 1000
         },
         {
-            "name": "Alessandro Selvaggi"
+            "name": "Alessandro Selvaggi",
+            "money": 800
         },
         {
-            "name": "Stefano Fiore"
+            "name": "Stefano Fiore",
+            "money": 650
         },
         {
-            "name": "Andrea Cerasari"
+            "name": "Andrea Cerasari",
+            "money": 550
         },
         {
-            "name": "Gennaro Mango"
+            "name": "Gennaro Mango",
+            "money": 500
         }
     ],
     "teamsize": 1

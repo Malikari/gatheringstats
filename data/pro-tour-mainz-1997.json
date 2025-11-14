@@ -6,6 +6,13 @@
     "formats": [
         "Rochester Draft"
     ],
+    "structure": [
+        "Day 1: 2 Rochester Drafts (3x Tempest) each followed by 3 rounds; cut to Top 64",
+        "Day 2: 2 Rochester Drafts each followed by 3 rounds; cut to Top 8",
+        "Day 3: Rochester Draft, Bo5 single elimination",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
+    ],
     "medium": "Tabletop",
     "id": "pro-tour-mainz-1997",
     "location": "Mainz, Germany",
@@ -15,7 +22,8 @@
         {
             "money": 25000,
             "name": "Matthew Place",
-            "propoints": 32
+            "propoints": 32,
+            "deck": "-sv3g86U9E25KIlzfh5-Wg"
         },
         {
             "money": 15000,

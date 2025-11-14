@@ -2,55 +2,75 @@
     "type": "Pro Tour",
     "coverage": "https://web.archive.org/web/20151022052143/http://magic.wizards.com:80/en/events/coverage/ptbfz",
     "date": "October 16-18, 2015",
+    "season": "2015-16",
     "formats": [
-        "Draft",
-        "Standard"
+        "Standard",
+        "Booster Draft"
+    ],
+    "structure": [
+        "Day 1: Booster Draft (3x Battle for Zendikar); 3 rounds of in-pod Swiss play; 5 rounds of Swiss (Standard); cut to 12 points",
+        "Day 2: Booster Draft; 3 rounds of in-pod Swiss play; 5 rounds of Swiss (Standard); cut to Top 8",
+        "Day 3: Single elimination (Standard): Bo3 quarter- and semi-finals, Bo5 final",
+        "---",
+        "Standard legal sets: Khans of Tarkir – Battle for Zendikar, Magic Origins (5 sets)",
+        "---",
+        "Mulligan: Vancouver (any number of times, always draw one card less, then Scry 1 if you took at least one mulligan)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-battle-for-zendikar-2015",
     "location": "Milwaukee, Wisconsin, United States",
+    "site": "Wisconsin Center",
+    "metadiversity": 14.7,
     "logo": "ptbfz",
     "name": "Pro Tour Battle for Zendikar",
     "standings": [
         {
             "money": 40000,
             "name": "Kazuyuki Takimura",
-            "propoints": 30
+            "propoints": 30,
+            "deck": "oxnSteUSC0W-iWZEBSXX-A"
         },
         {
             "money": 20000,
             "name": "Ryoichi Tamada",
-            "propoints": 26
+            "propoints": 26,
+            "deck": "f8xM6uJYcUKMNq9cqHqOGQ"
         },
         {
             "money": 12500,
             "name": "Jon Finkel",
-            "propoints": 22
+            "propoints": 22,
+            "deck": "bMUM5Q_190-_PigLxhvUJQ"
         },
         {
             "money": 12500,
             "name": "Paul Dean",
-            "propoints": 22
+            "propoints": 22,
+            "deck": "bNw4DZFMUEKafRdbIStaxA"
         },
         {
             "money": 10000,
             "name": "Owen Turtenwald",
-            "propoints": 18
+            "propoints": 18,
+            "deck": "IO36n5Rl6kWne_2hO1UCDg"
         },
         {
             "money": 10000,
             "name": "Ricky Chin",
-            "propoints": 18
+            "propoints": 18,
+            "deck": "k9uVGzi3b0STirwi2htJkQ"
         },
         {
             "money": 10000,
             "name": "Paulo Vitor Damo Da Rosa",
-            "propoints": 18
+            "propoints": 18,
+            "deck": "RglO6yO4wUqRGn7xUyEAIQ"
         },
         {
             "money": 10000,
             "name": "Martin Müller",
-            "propoints": 18
+            "propoints": 18,
+            "deck": "Wow6scrdiEm9iWv1VifyAw"
         },
         {
             "money": 5000,

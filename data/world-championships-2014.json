@@ -1,10 +1,22 @@
 {
   "type": "World Championships",
-  "coverage": "https://magic.wizards.com/en/events/coverage/2014WC",
+  "coverage": "https://web.archive.org/web/20141227233501/https://magic.wizards.com/en/events/coverage/2014WC",
     "date": "December 2-3 & 7, 2014",
     "formats": [
-        "Draft",
-        "Modern"
+        "Standard",
+        "Booster Draft",
+        "Modern",
+        "Booster Draft"
+    ],
+    "structure": [
+        "Day 1: Booster Draft (3x Vintage Masters), 3 rounds; 4 rounds (Modern)",
+        "Day 2: Booster Draft (3x Khans of Tarkir), 3 rounds; 4 rounds (Standard); cut to Top 4",
+        "Day 3: Bo5 single elimination (Standard decks from day two)",
+        "---",
+        "Standard legal sets: Theros – Khans of Tarkir, Magic 2015 (5 sets)",
+        "Modern legal sets: Mirrodin – Khans of Tarkir, Eighth Edition – Magic 2015 (45 sets)",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "world-championships-2014",
@@ -15,22 +27,27 @@
         {
             "money": 50000,
             "name": "Shahar Shenhar",
-            "propoints": 13
+            "propoints": 13,
+            "deck": "hv5WXnDVBEa-pYLHZNL2yw"
         },
         {
             "money": 20000,
             "name": "Patrick Chapin",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "s6l1COe8FEeY-sQaw-PvyQ",
+            "report": "https://articles.starcitygames.com/articles/the-world-championship-2nd/"
         },
         {
             "money": 10000,
             "name": "Yuuya Watanabe",
-            "propoints": 10
+            "propoints": 10,
+            "deck": "Q0szPuJ8jEqnke587IZD-Q"
         },
         {
             "money": 10000,
             "name": "Kentaro Yamamoto",
-            "propoints": 9
+            "propoints": 9,
+            "deck": "GVF2Ppq6w0mgYIZGUXTGQg"
         },
         {
             "money": 5000,

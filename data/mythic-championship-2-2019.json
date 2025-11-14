@@ -3,13 +3,27 @@
   "coverage": "https://www.magic.gg/events/mythic-championship-ii",
   "date": "April 26-28, 2019",
   "season": "2018-19",
+  "teamsize": 1,
   "formats": [
     "Modern",
-    "Draft"
+    "WAR Booster Draft"
   ],
   "medium": "Tabletop",
   "id": "mythic-championship-2-2019",
   "location": "London, United Kingdom",
+  "site": "Excel London",
+    "structure": [
+        "Day 1: Booster Draft (3x War of the Spark); 3 rounds of in-pod Swiss play; 5 rounds of Swiss (Modern); cut to 12 points",
+        "Day 2: Booster Draft; 3 rounds of in-pod Swiss play; 5 rounds of Swiss (Modern); cut to Top 8",
+        "Day 3: Bo5 single elimination (Modern)",
+        "---",
+        "Modern legal sets: Mirrodin – War of the Spark, Eighth Edition – Core Set 2019 (64 sets)",
+        "---",
+        "Mulligan: London (any number of times, always draw seven cards, then return cards to the bottom equal to the number of mulligans taken)",
+        "---",
+        "Special incident: Yuuya Watanabe was disqualified after round 16, the final Swiss round. Watanabe would have ranked among the Top 8, but Matthew Sperling took his place in the quarterfinal instead. During a deck check in round 15 the judges had found several of Watanabe's Urza's lands to be marked in a way exceedingly unlikely to have happened by chance and disqualified him for cheating."
+    ],
+  "metadiversity": 14.2,
   "logo": "mc",
   "name": "Mythic Championship II 2019",
   "standings": [
@@ -19,7 +33,8 @@
       "money": 50000,
       "name": "Eli Loveman",
       "mythicpoints": 50,
-        "report": "https://www.channelfireball.com/articles/1st-place-at-mythic-championship-london/"
+      "report": "https://www.channelfireball.com/articles/1st-place-at-mythic-championship-london/",
+      "deck": "yuMh-jd-IkqHGwErdw8QfA"
     },
     {
       "propoints": 26,
@@ -27,21 +42,24 @@
       "money": 20000,
       "name": "Matthew Sperling",
       "mythicpoints": 42,
-        "report": "https://www.channelfireball.com/articles/sperlings-sick-of-it-2nd-place-at-mythic-championship-ii-part-one/"
+      "report": "https://www.channelfireball.com/articles/sperlings-sick-of-it-2nd-place-at-mythic-championship-ii-part-one/",
+      "deck": "5NC5WIDrwUizrWpz5BCNSw"
     },
     {
       "propoints": 24,
       "matchpoints": 37,
       "money": 15000,
       "name": "Alexander Hayne",
-      "mythicpoints": 37
+      "mythicpoints": 37,
+      "deck": "nFnn_ziwK0WQwpd5CNUoYA"
     },
     {
       "propoints": 22,
       "matchpoints": 37,
       "money": 15000,
       "name": "Adrian Zhu",
-      "mythicpoints": 37
+      "mythicpoints": 37,
+      "deck": "BUQeB1DTikGyKj0gZSXZSQ"
     },
     {
       "propoints": 20,
@@ -49,28 +67,32 @@
       "money": 10000,
       "name": "Thien Nguyen",
       "mythicpoints": 32,
-      "report": "https://article.hareruyamtg.com/article/26153/?lang=en"
+      "report": "https://article.hareruyamtg.com/article/26153/?lang=en",
+      "deck": "B9fkiyTflU615yfRsRH24Q"
     },
     {
       "propoints": 18,
       "matchpoints": 37,
       "money": 10000,
       "name": "Brian Braun-Duin",
-      "mythicpoints": 32
+      "mythicpoints": 32,
+      "deck": "EDiYBcnZSUayHBTbhqSsDw"
     },
     {
       "propoints": 17,
       "matchpoints": 37,
       "money": 10000,
       "name": "Christopher Kvartek",
-      "mythicpoints": 32
+      "mythicpoints": 32,
+      "deck": "s13QHIqFIE2ffJWUJnpQBw"
     },
     {
       "propoints": 16,
       "matchpoints": 37,
       "money": 10000,
       "name": "Javier Dominguez",
-      "mythicpoints": 32
+      "mythicpoints": 32,
+      "deck": "OIwumJlOd0OOxCszwGuQHQ"
     },
     {
       "propoints": 15,
@@ -3605,7 +3627,8 @@
     },
     {
       "name": "Yuuya Watanabe",
-      "rank": "DQ"
+      "rank": "DQ",
+      "dq": "https://web.archive.org/web/20190427224318/https://magic.wizards.com/en/events/coverage/2019MC2/round-16-disqualification-2019-04-27"
     }
   ],
   "teamsize": 1

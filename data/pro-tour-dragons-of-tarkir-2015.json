@@ -2,55 +2,75 @@
     "type": "Pro Tour",
     "coverage": "https://web.archive.org/web/20150416192146/http://magic.wizards.com:80/en/events/coverage/ptdtk",
     "date": "April 10-12, 2015",
+    "season": "2014-15",
     "formats": [
-        "Draft",
-        "Standard"
+        "Standard",
+        "Booster Draft"
+    ],
+    "structure": [
+        "Day 1: Booster Draft (2x Dragons of Tarkir, 1x Fate Reforged), 3 rounds; 5 rounds (Standard); cut to 12 points",
+        "Day 2: Booster Draft, 3 rounds; 5 rounds (Modern); cut to Top 8",
+        "Day 3: Single elimination: Bo3 quarter- and semi-finals, Bo5 final",
+        "---",
+        "Modern legal sets: Mirrodin – Fate Reforged, Eighth Edition – Magic 2015 (46 sets)",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-dragons-of-tarkir-2015",
     "location": "Brussels, Belgium",
+    "site": "Tours and Taxis",
+    "metadiversity": 17.0,
     "logo": "ptdtk",
     "name": "Pro Tour Dragons of Tarkir",
     "standings": [
         {
             "money": 40000,
             "name": "Martin Dang",
-            "propoints": 30
+            "propoints": 30,
+            "deck": "H4GfT1jn5UmkWZnuYgxcNg"
         },
         {
             "money": 20000,
             "name": "Shota Yasooka",
-            "propoints": 26
+            "propoints": 26,
+            "deck": "jp59SHxvxEKkk7nk2sR1Vg"
         },
         {
             "money": 12500,
             "name": "Ondrej Stráský",
-            "propoints": 22
+            "propoints": 22,
+            "deck": "UeN-RLyV6kaO-DaSEcwFGA"
         },
         {
             "money": 12500,
             "name": "Adrian Sullivan",
-            "propoints": 22
+            "propoints": 22,
+            "deck": "8Y8e-_RDW0yYiS3wMRn7Dg"
         },
         {
             "money": 10000,
             "name": "Jason Chung",
-            "propoints": 18
+            "propoints": 18,
+            "deck": "CnEHtb53ukmkC9KZYz-D4Q"
         },
         {
             "money": 10000,
             "name": "Marco Cammilluzzi",
-            "propoints": 18
+            "propoints": 18,
+            "deck": "H4uiuH5GO0K1DDhyYI2Brg"
         },
         {
             "money": 10000,
             "name": "Thomas Hendriks",
-            "propoints": 18
+            "propoints": 18,
+            "deck": "BgmtNmXLy06a3pebjEqupA"
         },
         {
             "money": 10000,
             "name": "Andrew Ohlschwager",
-            "propoints": 18
+            "propoints": 18,
+            "deck": "40gUBaFnckmTUyIoCCrwcQ"
         },
         {
             "money": 5000,

@@ -2,55 +2,75 @@
     "type": "Pro Tour",
     "coverage": "http://web.archive.org/web/20120520210143/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/ptavr12/welcome",
     "date": "May 11-13, 2012",
+    "season": "2012",
     "formats": [
-        "Draft",
-        "Block Constructed"
+        "Innistrad Block Constructed",
+        "Booster Draft"
+    ],
+    "structure": [
+        "Day 1: 5 rounds (Innistrad-Avacyn Restored Block Constructed); Booster Draft (3x Avacyn Restored), 3 rounds; cut to 12 points",
+        "Day 2: Booster Draft, 3 rounds; 5 rounds of Swiss (Block Constructed); cut to Top 8",
+        "Day 3: Bo5 single elimination",
+        "---",
+        "Block Constructed legal sets: Innistrad – Avacyn Restored (3 sets)",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-avacyn-restored-2012",
     "location": "Barcelona, Spain",
+    "site": "Fira de Barcelona",
+    "metadiversity": 9.6,
     "logo": "ptavr",
     "name": "Pro Tour Avacyn Restored",
     "standings": [
         {
             "money": 40000,
             "name": "Alexander Hayne",
-            "propoints": 30
+            "propoints": 30,
+            "deck": "1XLTwrV79Ui-_dsMzrqxDg"
         },
         {
             "money": 20000,
             "name": "Gaudenis Vidugiris",
-            "propoints": 24
+            "propoints": 24,
+            "deck": "mhkAwZs7ekCmVbtOPiVl4A"
         },
         {
             "money": 12500,
             "name": "Joshua Cho",
-            "propoints": 22
+            "propoints": 22,
+            "deck": "S44RpF2DHkatOhNk0Ihhwg"
         },
         {
             "money": 12500,
             "name": "Ken Yukuhiro",
-            "propoints": 22
+            "propoints": 22,
+            "deck": "vMdC55sjI0KrncMIEGvQUA"
         },
         {
             "money": 10000,
             "name": "Jon Finkel",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "C1aGW-RYz0GlEOIJe5SHcQ"
         },
         {
             "money": 10000,
             "name": "Denniz Rachid",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "5IflQivetEGGFKBaR6YLjg"
         },
         {
             "money": 10000,
             "name": "Thomas Holzinger",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "yLvmFZwuOEOFydM8G4w1TQ"
         },
         {
             "money": 10000,
             "name": "Naoki Shimizu",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "nRy82Gx_R0yuCb8O02VCzQ"
         },
         {
             "money": 3500,

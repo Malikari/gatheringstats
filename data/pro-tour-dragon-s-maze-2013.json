@@ -2,55 +2,75 @@
     "type": "Pro Tour",
     "coverage": "http://web.archive.org/web/20130520023532/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/ptdgm13/welcome",
     "date": "May 17-19, 2013",
+    "season": "2012-13",
     "formats": [
-        "Draft",
-        "Block Constructed"
+        "Return to Ravnica Block Constructed",
+        "Booster Draft"
+    ],
+    "structure": [
+        "Day 1: Booster Draft (Dragon's Maze, Gatecrash, Return to Ravnica), 3 rounds; 5 rounds (Return to Ravnica Block Constructed); cut to 12 points",
+        "Day 2: Booster Draft, 3 rounds; 5 rounds (Block Constructed); cut to Top 8",
+        "Day 3: Bo5 single elimination",
+        "---",
+        "Block Constructed legal sets: Return to Ravnica – Dragon's Maze (3 sets)",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-dragon-s-maze-2013",
     "location": "San Diego, California, United States",
+    "site": "San Diego Concourse",
+    "metadiversity": 9.3,
     "logo": "ptdgm",
     "name": "Pro Tour Dragon's Maze",
     "standings": [
         {
             "money": 40000,
             "name": "Craig Wescoe",
-            "propoints": 30
+            "propoints": 30,
+            "deck": "T3RdnXYEx0Cwpritx_gnbQ"
         },
         {
             "money": 20000,
             "name": "Dusty Ochoa",
-            "propoints": 24
+            "propoints": 24,
+            "deck": "Aw9jlOcjxk61xwak0-20rQ"
         },
         {
             "money": 12500,
             "name": "Makihito Mihara",
-            "propoints": 22
+            "propoints": 22,
+            "deck": "Jvvzxv3nDU2R1wrUKOR8Ag"
         },
         {
             "money": 12500,
             "name": "Josh Utter-Leyton",
-            "propoints": 22
+            "propoints": 22,
+            "deck": "SyrYxpGgHUGF4rpMvQEThw"
         },
         {
             "money": 10000,
             "name": "Rob Castellon",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "1vqQGqNH60CBBZH3xmGkzQ"
         },
         {
             "money": 10000,
             "name": "Andrew Shrout",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "_uWnGKX-HEulOLb7EQp3Ag"
         },
         {
             "money": 10000,
             "name": "Matej Zatlkaj",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "7dOw8ietaEarzJ-UTMuSAA"
         },
         {
             "money": 10000,
             "name": "Andrejs Prost",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "XGHEpiDGy0WroCkV1uitMw"
         },
         {
             "money": 5000,

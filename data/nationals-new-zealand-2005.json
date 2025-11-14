@@ -1,29 +1,31 @@
 {
     "type": "Nationals - New Zealand",
-    "date": "January 1-September 30, 2005",
+    "date": "August 12-14, 2005",
     "formats": [
         "Standard",
-        "? Draft"
+        "Booster Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-new-zealand-2005",
-    "location": "New Zealand",
+    "location": "Christchurch, New Zealand",
     "logo": "nationals",
     "name": "Nationals New Zealand 2005",
     "standings": [
         {
-            "name": "Glenn Patel"
+            "name": "Glenn Patel",
+            "money": 2000
         },
         {
             "name": "Julian Brown-Santirso",
-            "rank": "2-3"
+            "money": 1600
         },
         {
             "name": "Luke Tsavousis",
-            "rank": "2-3"
+            "money": 1200
         },
         {
-            "name": "Ray Walkinshaw"
+            "name": "Ray Walkinshaw",
+            "money": 1200
         }
     ],
     "teamsize": 1

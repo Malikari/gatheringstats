@@ -2,55 +2,75 @@
     "type": "Pro Tour",
     "coverage": "https://web.archive.org/web/20150210150031/http://magic.wizards.com/en/events/coverage/ptfrf",
     "date": "February 6-8, 2015",
+    "season": "2014-15",
     "formats": [
-        "Draft",
-        "Modern"
+        "Modern",
+        "Booster Draft"
+    ],
+    "structure": [
+        "Day 1: Booster Draft (1x Fate Reforged, 2x Khans of Tarkir), 3 rounds; 5 rounds (Modern); cut to 12 points",
+        "Day 2: Booster Draft, 3 rounds; 5 rounds (Modern); cut to Top 8",
+        "Day 3: Single elimination: Bo3 quarter- and semi-finals, Bo5 final",
+        "---",
+        "Modern legal sets: Mirrodin – Fate Reforged, Eighth Edition – Magic 2015 (46 sets)",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-fate-reforged-2015",
-    "location": "Washington D.C., United States",
+    "location": "National Harbor, Maryland, United States",
+    "site": "Gaylord National Resort & Convention Center",
+    "metadiversity": 8.6,
     "logo": "ptfrf",
     "name": "Pro Tour Fate Reforged",
     "standings": [
         {
             "money": 40000,
             "name": "Antonio Del Moral León",
-            "propoints": 30
+            "propoints": 30,
+            "deck": "vl6yYMzLgk-519cyg6MdOg"
         },
         {
             "money": 20000,
             "name": "Justin Cohen",
-            "propoints": 26
+            "propoints": 26,
+            "deck": "TvZy6Z1-WUaxDaO-Os3SZA"
         },
         {
             "money": 12500,
             "name": "Jelger Wiegersma",
-            "propoints": 22
+            "propoints": 22,
+            "deck": "elUSqmLwdEGWo-WB9UEudg"
         },
         {
             "money": 12500,
             "name": "Jesse Hampton",
-            "propoints": 22
+            "propoints": 22,
+            "deck": "gRKXPxnC6kaSad5kgLPhJQ"
         },
         {
             "money": 10000,
             "name": "Eric Froehlich",
-            "propoints": 18
+            "propoints": 18,
+            "deck": "YKnCZC_4PkmmsypZboTPyw"
         },
         {
             "money": 10000,
             "name": "Seth Manfield",
-            "propoints": 18
+            "propoints": 18,
+            "deck": "XDCp8zAH_EKXwL0EaDWkkg"
         },
         {
             "money": 10000,
             "name": "Jacob Wilson",
-            "propoints": 18
+            "propoints": 18,
+            "deck": "AF3YYW7_BEamGxohk5sVSg"
         },
         {
             "money": 10000,
             "name": "Lee Shi Tian",
-            "propoints": 18
+            "propoints": 18,
+            "deck": "q3YXnFxJdECJ6EXzcmBsfA"
         },
         {
             "money": 5000,

@@ -2,7 +2,10 @@
     "type": "Nationals - Brazil",
     "date": "January 1-August 31, 1995",
     "formats": [
-        "Standard"
+        "Standard *"
+    ],
+    "structure": [
+        "* = 4th Edition and Fallen Empires only"
     ],
     "medium": "Tabletop",
     "id": "nationals-brazil-1995",
@@ -10,9 +13,11 @@
     "logo": "nationals",
     "name": "World Championship Selection Tournament Brazil 1995",
     "standings": [
-        {
-            "name": "Fabiano de Castro e Castro"
-        }
+        {"name": "Fabiano de Castro e Castro"},
+        {"name": "Marco Provolone"},
+        {"name": "Rodolfo Ribeiro"},
+        {"name": "Francisco Loylola"}
+
     ],
     "teamsize": 1
 }

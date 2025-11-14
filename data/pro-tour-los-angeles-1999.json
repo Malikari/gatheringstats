@@ -6,9 +6,19 @@
     "formats": [
         "Rochester Draft"
     ],
+    "structure": [
+        "Day 1: Rochester Draft (3x Urza's Saga), 4 rounds; Rochester Draft, 3 rounds; cut to Top 96",
+        "Day 2: Rochester Draft, 4 rounds; Rochester Draft, 3 rounds; cut to top 8",
+        "Day 3: Rochester Draft, double elimination: regular Bo5 winners' bracket, Bo3 losers' bracket of only two rounds",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)",
+        "---",
+        "Special incidents: Steven O'Mahoney-Schwartz drew game 5 of the semi-final with his Pestilence, leading to a six-game match."
+    ],
     "medium": "Tabletop",
     "id": "pro-tour-los-angeles-1999",
-    "location": "Los Angeles, California, United States",
+    "location": "Long Beach, California, United States",
+    "site": "RMS Queen Mary",
     "logo": "ptlogo",
     "name": "Pro Tour Los Angeles",
     "standings": [
@@ -16,7 +26,8 @@
             "money": 25000,
             "name": "Steven O'Mahoney-Schwartz",
             "propoints": 32,
-            "report": "http://web.archive.org/web/19991014015649/http://www.thedojo.com/t991/ptla.990311som.txt"
+            "report": "http://web.archive.org/web/19991014015649/http://www.thedojo.com/t991/ptla.990311som.txt",
+            "deck": "qx4A4pc68UiTPb3X89O2yg"
         },
         {
             "money": 15000,
@@ -1106,7 +1117,8 @@
         },
         {
             "name": "Itaru Ishida",
-            "propoints": 2
+            "propoints": 2,
+            "report": "https://web.archive.org/web/20040222233307/http://www.wizards.com/default.asp?x=sideboard/jpstrategy/20030910a"
         },
         {
             "name": "Dan Burdick",

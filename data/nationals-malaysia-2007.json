@@ -1,18 +1,31 @@
 {
     "type": "Nationals - Malaysia",
-    "date": "January 1-September 30, 2007",
+    "date": "September 1-2, 2007",
     "formats": [
         "Standard",
         "Booster Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-malaysia-2007",
-    "location": "Malaysia",
+    "location": "Kuala Lumpur, Malaysia",
     "logo": "nationals",
     "name": "Nationals Malaysia 2007",
     "standings": [
         {
-            "name": "Weng Sheng Wong"
+            "name": "Weng Sheng Wong",
+            "money": 2100
+        },
+        {
+            "name": "Adrian Shen Jong Kuan",
+            "rank": "NT"
+        },
+        {
+            "name": "Mohd Hafiz Mokhtaruddin",
+            "rank": "NT"
+        },
+        {
+            "name": "Rajesh Ganesan",
+            "rank": "NT"
         }
     ],
     "teamsize": 1

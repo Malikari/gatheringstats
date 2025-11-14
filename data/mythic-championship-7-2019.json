@@ -3,12 +3,23 @@
   "coverage": "https://www.magic.gg/events/mythic-championship-vii",
   "date": "December 6-8, 2019",
   "season": "2018-19",
+  "teamsize": 1,
   "formats": [
     "Standard"
   ],
   "medium": "Arena",
   "id": "mythic-championship-7-2019",
   "location": "Long Beach, California, United States",
+  "site": "Thunder Studios",
+    "structure": [
+        "Day 1: 7 rounds of modified Swiss (Standard): players with 5 wins automatically advance, players with 4 losses are eliminated, players with 4 wins and best tiebreakers advance until 24 players have been selected for day two",
+        "Day 2: 7 rounds of modified Swiss (same decks): the 24 top players from day one are joined by the 8 Magic Pro League divison winners; players with 5 wins qualify directly for Top 8 plus the best players with 4 wins",
+        "Day 3: Bo3 double elimination (same decks), winner from lower brackets needs to defeat the winner from the upper bracket twice to win the tournament",
+        "---",
+        "Standard legal sets: Guilds of Ravnica – Throne of Eldraine, Core Set 2020 (5 sets)",
+        "---",
+        "Mulligan: London (any number of times, always draw seven cards, then return cards to the bottom equal to the number of mulligans taken)"
+  ],
   "logo": "mc",
   "name": "Mythic Championship VII 2019",
   "standings": [

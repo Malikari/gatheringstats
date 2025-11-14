@@ -2,57 +2,79 @@
     "type": "Pro Tour",
     "coverage": "https://web.archive.org/web/20030802191925/http://www.wizards.com/default.asp?x=sideboard/events/worlds02",
     "date": "August 14-18, 2002",
+    "season": "2001-02",
     "formats": [
         "Standard",
-        "Draft",
-        "Block Constructed"
+        "Booster Draft",
+        "Odyssey Block Constructed"
+    ],
+    "structure": [
+        "Day 1: 6 rounds (Standard)",
+        "Day 2: 2 Booster Drafts (Odyssey, Torment, Judgment) each followed by 3 rounds",
+        "Day 3: 6 rounds (Odyssey Block Constructed); cut to Top 8",
+        "Day 4: Team play",
+        "Day 5: Bo5 single elimination (Standard decks from day 1)",
+        "---",
+        "Standard legal sets: Invasion – Judgment, Seventh Edition (7 sets)",
+        "Block Constructed legal sets: Odyssey, Torment, Judgment (3 sets)",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "world-championships-2002",
     "location": "Sydney, Australia",
+    "metadiversity": 4.1,
     "logo": "ptlogo",
     "name": "2002 World Championships",
     "standings": [
         {
             "money": 35000,
             "name": "Carlos Romão",
-            "propoints": 32
+            "propoints": 32,
+            "deck": "OC7znannz0i_yOK2oA3BXA"
         },
         {
             "money": 23000,
             "name": "Mark Ziegner",
             "propoints": 24,
-            "report": "http://www.planetmtg.de/articles/artikel.html?id=514"
+            "report": "http://www.planetmtg.de/articles/artikel.html?id=514",
+            "deck": "3Rw6xAGtO0Cg52n_zWxJ0w"
         },
         {
             "money": 15000,
             "name": "Diego Ostrovich",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "e7gmvehcPUKR0mEZ0BbS9w"
         },
         {
             "money": 13000,
             "name": "David Humpherys",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "y7CR_BXiy0SpX1zclDHGSg"
         },
         {
             "money": 9500,
             "name": "Sim Han How",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "-zFRFMCP-kuBGyF1qr45pg"
         },
         {
             "money": 8500,
             "name": "John Larkin",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "vDHBKyu9kUKdTQpnais6-w"
         },
         {
             "money": 7500,
             "name": "Tuomas Kotiranta",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "8v_nrYPeQ0iq7ozTm012FQ"
         },
         {
             "money": 6500,
             "name": "Ken Krouner",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "a9n70x2TzUmpQSa_B21uMQ"
         },
         {
             "money": 6000,

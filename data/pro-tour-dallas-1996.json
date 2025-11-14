@@ -6,42 +6,45 @@
     "formats": [
         "Standard"
     ],
+    "structure": [
+        "Day 1: 9 rounds (Standard); cut to Top 8",
+        "Day 2: Single elimination (Bo3 quarterfinals, Bo5 thereafter)",
+        "---",
+        "Standard legal sets: Fallen Empires – Mirage, 4th Edition, Chronicles (7 sets total)",
+        "---",
+        "Mulligan: Original (once when 0 or 7 lands)"
+    ],
     "medium": "Tabletop",
     "id": "pro-tour-dallas-1996",
-    "location": "Dallas, Texas, United States",
+    "location": "Grapevine, Texas, United States",
+    "site": "The Dallas-Fort Worth Lakes Hilton",
     "logo": "ptlogo",
     "name": "Pro Tour Dallas",
     "standings": [
         {
             "money": 26000,
             "name": "Paul McCabe",
-            "propoints": 30
+            "propoints": 30,
+            "deck": "1M3W-Fulmka-1gvBK6kgqg"
         },
         {
             "money": 16000,
             "name": "Jason Zila",
-            "propoints": 25
+            "propoints": 25,
+            "deck": "Y2Q0asJU1EScEecEAoNdgw"
         },
         {
             "money": 9000,
             "name": "Brian Hacker",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "jelSQ6ydZUu-FsVHLFPr7g"
         },
         {
             "money": 9000,
             "name": "Chris Pikula",
             "propoints": 20,
-            "report": "https://groups.google.com/g/rec.games.trading-cards.magic.misc/c/T5qa_c1HD-8/m/wgsb5zdGZz4J?pli=1"
-        },
-        {
-            "money": 5500,
-            "name": "George Baxter",
-            "propoints": 10
-        },
-        {
-            "money": 5500,
-            "name": "Olle Råde",
-            "propoints": 10
+            "report": "https://groups.google.com/g/rec.games.trading-cards.magic.misc/c/T5qa_c1HD-8/m/wgsb5zdGZz4J?pli=1",
+            "deck": "Qnp0F1XDEU260QS2PnEz3Q"
         },
         {
             "money": 5500,
@@ -50,8 +53,20 @@
         },
         {
             "money": 5500,
+            "name": "George Baxter",
+            "propoints": 10,
+            "deck": "dQXWkOQ9XEOr_XxhpEeoXA"
+        },
+        {
+            "money": 5500,
             "name": "Peer Kröger",
             "propoints": 10
+        },
+        {
+            "money": 5500,
+            "name": "Olle Råde",
+            "propoints": 10,
+            "deck": "e-fa-algZUy-O0JHWVqgWw"
         },
         {
             "money": 3200,
@@ -278,7 +293,8 @@
         {
             "money": 400,
             "name": "Jay Luo",
-            "propoints": 1
+            "propoints": 1,
+            "report": "https://web.archive.org/web/19991011134830/http://thedojo.net/tourney96/ptd.961126jsc.txt"
         },
         {
             "money": 400,
@@ -725,6 +741,9 @@
             "name": "Terry Tsang"
         },
         {
+            "name": "Aaron Muranaka"
+        },
+        {
             "name": "Christopher Czuba"
         },
         {
@@ -791,7 +810,8 @@
             "name": "Peter Thorsbro"
         },
         {
-            "name": "Thomas Guevin"
+            "name": "Thomas Guevin",
+            "report": "https://groups.google.com/g/rec.games.trading-cards.magic.misc/c/anzBCChxyoU/m/dBF63PPSnJoJ"
         },
         {
             "name": "Taerthrum Bluett"
@@ -867,6 +887,10 @@
         },
         {
             "name": "Doug Evans"
+        },
+        {
+            "name": "Nate Clarke",
+            "rank": "DQ"
         }
     ],
     "teamsize": 1

@@ -2,13 +2,25 @@
     "type": "Pro Tour",
     "coverage": "https://web.archive.org/web/20170206000350/http://magic.wizards.com/en/events/coverage/ptaer",
     "date": "February 3-5, 2017",
+    "season": "2016-17",
     "formats": [
-        "Draft",
-        "Standard"
+        "Standard",
+        "Booster Draft"
+    ],
+    "structure": [
+        "Day 1: Booster Draft (2x Aether Revolt, 1x Kaladesh), 3 rounds; 5 rounds (Standard); cut to 12 points",
+        "Day 2: Booster Draft, 3 rounds; 5 rounds (Standard); cut to Top 8",
+        "Day 3: Bo5 staggered single elimination: Seeds 5-8 play pre-QF, winners play QF against seed 3/4, QF winners play SF against seed 1/2",
+        "---",
+        "Standard legal sets: Battle for Zendikar – Aether Revolt (6 sets)",
+        "---",
+        "Mulligan: Vancouver (any number of times, always draw one card less, then Scry 1 if you took at least one mulligan)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-aether-revolt-2017",
     "location": "Dublin, Ireland",
+    "site": "Royal Dublin Society",
+    "metadiversity": 8.5,
     "logo": "ptaer",
     "name": "Pro Tour Aether Revolt",
     "standings": [
@@ -16,49 +28,57 @@
             "name": "Lucas Esper Berthoud",
             "propoints": 31,
             "matchpoints": 39,
-            "money": 50000
+            "money": 50000,
+            "deck": "bfvzWM6MfkWRdY1GqljPDQ"
         },
         {
             "name": "Marcio Carvalho",
             "propoints": 27,
             "matchpoints": 40,
-            "money": 20000
+            "money": 20000,
+            "deck": "y6kCiECUn0u4p8pSZdRgCA"
         },
         {
             "name": "Donald Smith",
             "propoints": 23,
             "matchpoints": 38,
-            "money": 15000
+            "money": 15000,
+            "deck": "lEHC5tNq4EmSzhxKQJy8VQ"
         },
         {
             "name": "Eduardo Sajgalik",
             "propoints": 23,
             "matchpoints": 37,
-            "money": 15000
+            "money": 15000,
+            "deck": "01P7Z3Q7y0eNI3JhoDdjwg"
         },
         {
             "name": "Yuchen Liu",
             "propoints": 19,
             "matchpoints": 38,
-            "money": 10000
+            "money": 10000,
+            "deck": "NrDLEsb4yEOeEgOAnLjbSw"
         },
         {
             "name": "Paulo Vitor Damo Da Rosa",
             "propoints": 19,
             "matchpoints": 36,
-            "money": 10000
+            "money": 10000,
+            "deck": "_zomXTD6WUOmMc-IpACkPA"
         },
         {
             "name": "Jan Ksandr",
             "propoints": 15,
             "matchpoints": 37,
-            "money": 5000
+            "money": 5000,
+            "deck": "oAqcVF9JRkGrn8fLzWRfuQ"
         },
         {
             "name": "Martin Juza",
             "propoints": 15,
             "matchpoints": 37,
-            "money": 5000
+            "money": 5000,
+            "deck": "TblpExU3HECdlm43o4Jodg"
         },
         {
             "name": "Ivan Floch",

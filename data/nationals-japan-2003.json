@@ -1,6 +1,6 @@
 {
     "type": "Nationals - Japan",
-    "coverage": "https://magic.wizards.com/en/events/coverage/japnat03",
+    "coverage": "https://web.archive.org/web/20060116110947/http://www.wizards.com/default.asp?x=sideboard/events/natjp03",
     "date": "June 20-22, 2003",
     "formats": [
         "Standard",
@@ -8,7 +8,7 @@
     ],
     "medium": "Tabletop",
     "id": "nationals-japan-2003",
-    "location": "Japan",
+    "location": "Tokyo, Japan",
     "logo": "nationals",
     "name": "Nationals Japan 2003",
     "standings": [
@@ -43,6 +43,38 @@
         {
             "money": 1500,
             "name": "Makihito Mihara"
+        },
+        {
+            "name": "Ken'ichi Fujita",
+            "money": 750
+        },
+        {
+            "name": "Hirotaka Hata",
+            "money": 750
+        },
+        {
+            "name": "Masahiko Morita",
+            "money": 750
+        },
+        {
+            "name": "Masaya Kitayama",
+            "money": 750
+        },
+        {
+            "name": "Itaru Ishida",
+            "money": 500
+        },
+        {
+            "name": "Yasunori Baba",
+            "money": 500
+        },
+        {
+            "name": "Masashiro Kuroda",
+            "money": 500
+        },
+        {
+            "name": "Akira Asahara",
+            "money": 500
         }
     ],
     "teamsize": 1

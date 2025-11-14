@@ -4,9 +4,17 @@
     "date": "August 12-16, 1998",
     "season": "1997-98",
     "formats": [
-        "Draft",
+        "Booster Draft",
         "Standard",
-        "Block Constructed"
+        "Tempest Block Constructed"
+    ],
+    "structure": [
+        "Details unknown, but each day would have consisted of 6 rounds, one each for Booster Draft (Tempest, Stronghold, Exodus), Standard, and Block Constructed",
+        "---",
+        "Standard-legal sets: Mirage – Exodus, Fifth Edition (7 sets total)",
+        "Block Constructed legal sets: Tempest – Exodus (3 sets total)",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "world-championships-1998",
@@ -18,53 +26,60 @@
             "money": 34000,
             "name": "Brian Selden",
             "propoints": 32,
-            "report": "http://web.archive.org/web/19981207043344/http://thedojo.com/t983/tw.980826bse.txt"
+            "report": "http://web.archive.org/web/19981207043344/http://thedojo.com/t983/tw.980826bse.txt",
+            "deck": "t1KIX02V2kmb5oFvkqBvxg"
         },
         {
             "money": 22000,
             "name": "Ben Rubin",
             "propoints": 24,
-            "report": "http://web.archive.org/web/19981207043344/http://thedojo.com/t983/tw.980819bru.txt"
+            "report": "http://web.archive.org/web/19981207043344/http://thedojo.com/t983/tw.980819bru.txt",
+            "deck": "IiSWxwO0MkKwY3cVnK9uHw"
         },
         {
             "money": 16000,
             "name": "Jon Finkel",
             "propoints": 16,
-            "report": "http://web.archive.org/web/19981207043344/http://thedojo.com/t983/tw.980826jfi.txt"
+            "report": "http://web.archive.org/web/19981207043344/http://thedojo.com/t983/tw.980826jfi.txt",
+            "deck": "9G_cZPc_t0qTAVUMTklWBg"
         },
         {
             "money": 13000,
             "name": "Raphaël Lévy",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "pUFclv284Eib6Ohl9hO58g"
         },
         {
             "money": 11000,
             "name": "Scott Johns",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "HWhmYrATB0mwAgQt-RgYiQ"
         },
         {
             "money": 9500,
             "name": "Chris Pikula",
             "propoints": 12,
-            "report": "http://web.archive.org/web/19981207043344/http://thedojo.com/t983/tw.980821cpi.txt"
+            "report": "http://web.archive.org/web/19981207043344/http://thedojo.com/t983/tw.980821cpi.txt",
+            "deck": "pRmkLcQYFUaqZn6cn6Jclg"
         },
         {
             "money": 8250,
             "name": "Brian Hacker",
             "propoints": 12,
-            "report": "http://web.archive.org/web/19981207043344/http://thedojo.com/t983/tw.980824bha.txt"
+            "report": "http://web.archive.org/web/19981207043344/http://thedojo.com/t983/tw.980824bha.txt",
+            "deck": "KycDv3zRZUSg9XbRxFcyNw"
         },
         {
             "money": 7250,
             "name": "Alan Comer",
             "propoints": 12,
-            "report": "http://web.archive.org/web/19981207043344/http://thedojo.com/t983/tw.980821aco.txt"
+            "report": "http://web.archive.org/web/19981207043344/http://thedojo.com/t983/tw.980821aco.txt",
+            "deck": "piQSBrEFlEKOFGS1q7BipQ"
         },
         {
             "money": 6350,
             "name": "Daniel Brickwell",
-            "propoints": 8,
-            "report": "http://web.archive.org/web/19981207043344/http://thedojo.com/t983/tw.980826dbr.txt"
+            "propoints": 8
         },
         {
             "money": 5500,
@@ -646,7 +661,8 @@
         },
         {
             "name": "Itaru Ishida",
-            "propoints": 2
+            "propoints": 2,
+            "report": "https://web.archive.org/web/20030608225709/http://www.wizards.com/default.asp?x=sideboard/jpstrategy/20030531a,,ja"
         },
         {
             "name": "Nate Clarke",

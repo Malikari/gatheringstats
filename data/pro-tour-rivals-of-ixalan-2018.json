@@ -2,65 +2,84 @@
     "type": "Pro Tour",
     "coverage": "https://web.archive.org/web/20180218034347/https://magic.wizards.com/en/events/coverage/ptrix",
     "date": "February 2-4, 2018",
+    "season": "2017-18",
     "teamsize": 1,
     "formats": [
-        "Draft",
-        "Modern"
+        "Modern",
+        "Booster Draft"
+    ],
+    "structure": [
+        "Day 1: Booster Draft (2x Rivals of Ixalan, 1x Ixalan), 3 rounds; 5 rounds (Modern); cut to 12 points",
+        "Day 2: Booster Draft, 3 rounds; 5 rounds (Modern); cut to Top 8",
+        "Day 3: Bo5 single elimination",
+        "---",
+        "Modern legal sets: Mirrodin – Rivals of Ixalan, Eighth Edition – Magic Origins (59 sets)",
+        "---",
+        "Mulligan: Vancouver (any number of times, always draw one card less, then Scry 1 if you took at least one mulligan)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-rivals-of-ixalan-2018",
     "location": "Bilbao, Spain",
+    "site": "Bilbao Exhibition Center",
+    "metadiversity": 21.1,
     "logo": "ptrix",
     "name": "Pro Tour Rivals of Ixalan",
-    "standings":
-[
+    "standings": [
     {
         "name": "Luis Salvatto",
         "propoints": 30,
         "matchpoints": 39,
-        "money": 50000
+        "money": 50000,
+        "deck": "Deje1-yAYU2FiDAZHVG0nQ"
     },
     {
         "name": "Gerry Thompson",
         "propoints": 26,
         "matchpoints": 37,
-        "money": 20000
+        "money": 20000,
+        "deck": "BeNexTlOZEmxQ09oTNzWvg"
     },
     {
         "name": "Pascal Vieren",
         "propoints": 24,
         "matchpoints": 40,
-        "money": 15000
+        "money": 15000,
+        "deck": "fF3SDkSZw0OYnBrs2hxs-A"
     },
     {
         "name": "Ken Yukuhiro",
         "propoints": 22,
         "matchpoints": 38,
-        "money": 12500
+        "money": 12500,
+        "deck": "OCxFL8VLTUO8ekDGx-rBKg"
     },
     {
         "name": "Javier Dominguez",
         "propoints": 20,
         "matchpoints": 37,
-        "money": 10000
+        "money": 10000,
+        "deck": "BGXCS3RjnkCLkxlbgKBEiw"
     },
     {
         "name": "Reid Duke",
         "propoints": 18,
         "matchpoints": 37,
-        "money": 9000
+        "money": 9000,
+        "deck": "2HN0HyF4JUClHlnaaAnM6g"
     },
     {
         "name": "Jean-Emmanuel Depraz",
         "propoints": 17,
         "matchpoints": 37,
-        "money": 7500
+        "money": 7500,
+        "deck": "DAdm9fLDFEybUSqGhzb9Mw"
     },
     {
         "name": "Andrea Mengucci",
         "propoints": 16,
         "matchpoints": 36,
-        "money": 6000
+        "money": 6000,
+        "deck": "lVF3_aSKuEmC71nL8p00ew"
     },
     {
         "name": "Jon Finkel",

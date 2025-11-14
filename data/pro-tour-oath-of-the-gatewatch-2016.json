@@ -2,13 +2,24 @@
     "type": "Pro Tour",
     "coverage": "https://web.archive.org/web/20160208005905/http://magic.wizards.com:80/en/events/coverage/ptogw",
     "date": "February 5-7, 2016",
+    "season": "2015-16",
     "formats": [
-        "Draft",
-        "Modern"
+        "Modern",
+        "Booster Draft"
+    ],
+    "structure": [
+        "Day 1: Booster Draft (2x Oath of the Gatewatch, 1x Battle for Zendikar), 3 rounds; 5 rounds (Modern); cut to 12 points",
+        "Day 2: Booster Draft, 3 rounds; 5 rounds (Modern); cut to Top 8",
+        "Day 3: Bo5 single elimination (Modern)",
+        "---",
+        "Modern legal sets: Mirrodin – Oath of the Gatewatch, Eighth Edition – Magic Origins (50 sets)",
+        "---",
+        "Mulligan: Vancouver (any number of times, always draw one card less, then Scry 1 if you took at least one mulligan)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-oath-of-the-gatewatch-2016",
     "location": "Atlanta, Georgia, United States",
+    "metadiversity": 15.7,
     "logo": "ptogw",
     "name": "Pro Tour Oath of the Gatewatch",
     "standings": [
@@ -16,51 +27,59 @@
             "money": 40000,
             "name": "Jiachen Tao",
             "propoints": 30,
-            "team": "East West Bowl"
+            "team": "East West Bowl",
+            "deck": "0qXZk72StUmHmQ9Xt8mseA"
         },
         {
             "money": 20000,
             "name": "Ivan Floch",
             "propoints": 26,
-            "team": "ChannelFireball / Face to Face Games"
+            "team": "ChannelFireball / Face to Face Games",
+            "deck": "S8vFPtvsTUu0JT4Hl3mq9A"
         },
         {
             "money": 12500,
             "name": "Luis Scott-Vargas",
             "propoints": 22,
             "team": "ChannelFireball / Face to Face Games",
-            "report": "http://www.channelfireball.com/articles/eye-made-top-8/"
+            "report": "http://www.channelfireball.com/articles/eye-made-top-8/",
+            "deck": "BJk6HshSqUmRdqn1ZQ98kw"
         },
         {
             "money": 12500,
             "name": "Patrick Dickmann",
             "propoints": 22,
-            "report": "http://www.mtgmintcard.com/articles/writers/patrick-dickmann/tournament-report-pt-oath-of-the-gatewatch-4th"
+            "report": "http://www.mtgmintcard.com/articles/writers/patrick-dickmann/tournament-report-pt-oath-of-the-gatewatch-4th",
+            "deck": "eiQG42vQEEe4jFa_J7VJpg"
         },
         {
             "money": 10000,
             "name": "Shuhei Nakamura",
             "propoints": 18,
-            "team": "ChannelFireball / Face to Face Games"
+            "team": "ChannelFireball / Face to Face Games",
+            "deck": "1xIMQDJJMk-ilxXR1nEAjg"
         },
         {
             "money": 10000,
             "name": "Andrew Brown",
             "propoints": 18,
-            "team": "East West Bowl"
+            "team": "East West Bowl",
+            "deck": "wCKkVoibUUm5gxSwlFzpQg"
         },
         {
             "money": 10000,
             "name": "Pascal Maynard",
             "propoints": 18,
             "team": "East West Bowl",
-            "report": "http://www.channelfireball.com/articles/the-diary-of-a-pro-player-top-8-at-pro-tour-oath-of-the-gatewatch/"
+            "report": "http://www.channelfireball.com/articles/the-diary-of-a-pro-player-top-8-at-pro-tour-oath-of-the-gatewatch/",
+            "deck": "cQ_cKara10m-t5Vv5DI60w"
         },
         {
             "money": 10000,
             "name": "Frank Lepore",
             "propoints": 18,
-            "report": "http://www.starcitygames.com/article/32384_I-Will-Take-The-Oath-To-Top-8-My-First-Pro-Tour.html"
+            "report": "http://www.starcitygames.com/article/32384_I-Will-Take-The-Oath-To-Top-8-My-First-Pro-Tour.html",
+            "deck": "4SWW11bnYk-J1w3w5-nubA"
         },
         {
             "money": 5000,

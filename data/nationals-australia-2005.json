@@ -7,21 +7,25 @@
     ],
     "medium": "Tabletop",
     "id": "nationals-australia-2005",
-    "location": "Australia",
+    "location": "Canberra, Australia",
     "logo": "nationals",
     "name": "Nationals Australia 2005",
     "standings": [
         {
-            "name": "Chris Allen"
+            "name": "Chris Allen",
+            "money": 3000
         },
         {
-            "name": "David Zhao"
+            "name": "David Zhao",
+            "money": 2500
         },
         {
-            "name": "Richard Johnston"
+            "name": "Richard Johnston",
+            "money": 1750
         },
         {
-            "name": "Jason Whitby"
+            "name": "Jason Whitby",
+            "money": 1750
         }
     ],
     "teamsize": 1

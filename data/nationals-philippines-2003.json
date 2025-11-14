@@ -1,24 +1,31 @@
 {
     "type": "Nationals - Philippines",
-    "date": "January 1-June 13, 2003",
+    "date": "June 14-15, 2003",
     "formats": [
         "Standard",
         "Rochester Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-philippines-2003",
-    "location": "Philippines",
+    "location": "Makati City, Philippines",
     "logo": "nationals",
     "name": "Nationals Philippines 2003",
     "standings": [
         {
-            "name": "Gerald Camangon"
+            "name": "Gerald Camangon",
+            "money": 1200
         },
         {
-            "name": "Francis Robert Profeta"
+            "name": "Francis Robert Profeta",
+            "money": 800
         },
         {
-            "name": "Michael Tom Batac"
+            "name": "Michael Tom Batac",
+            "money": 600
+        },
+        {
+            "name": "Dominic Ortega",
+            "money": 400
         }
     ],
     "teamsize": 1

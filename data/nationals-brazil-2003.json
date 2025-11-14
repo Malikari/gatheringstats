@@ -1,9 +1,9 @@
 {
     "type": "Nationals - Brazil",
-    "date": "January 1-August 31, 2003",
+    "date": "June 14-15, 2003",
     "formats": [
         "Standard",
-        "? Draft"
+        "Rochester Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-brazil-2003",
@@ -12,16 +12,36 @@
     "name": "Nationals Brazil 2003",
     "standings": [
         {
-            "name": "Rafael Vieira"
+            "name": "Rafael Vieira",
+            "money": 1700
         },
         {
-            "name": "Carlos Romao"
+            "name": "Carlos Romao",
+            "money": 1000
         },
         {
-            "name": "Pedro Motta"
+            "name": "Pedro Motta",
+            "money": 600
         },
         {
-            "name": "Andre Nascimento"
+            "name": "Andre Nascimento",
+            "money": 500
+        },
+        {
+            "name": "Cesar Coelho",
+            "money": 350
+        },
+        {
+            "name": "Christiano Pereira",
+            "money": 350
+        },
+        {
+            "name": "Walter Sant'anna",
+            "money": 250
+        },
+        {
+            "name": "Rafael Mendonca",
+            "money": 250
         }
     ],
     "teamsize": 1

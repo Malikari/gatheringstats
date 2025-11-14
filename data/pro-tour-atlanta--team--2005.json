@@ -2,13 +2,22 @@
     "type": "Pro Tour",
     "coverage": "https://web.archive.org/web/20050403175641/http://www.wizards.com/default.asp?x=mtgevent/ptatl05/welcome",
     "date": "March 11-13, 2005",
+    "season": "2005",
     "formats": [
         "Team Sealed",
         "Team Rochester Draft"
     ],
+    "structure": [
+        "Day 1: 3 Team Sealeds (2 Champions of Kamigawa Tournament Packs, 4 Betrayers of Kamigawa Booster) each followed by 2 rounds; cut to 12 points",
+        "Day 2: 5 times each team does a Team Rochester Draft (2x Champions of Kamigawa, 1x Betrayers of Kamigawa) against another team, playing with corresponding seats paired against each other; cut to top 4 teams",
+        "Day 3: In the semis and the final teams do a Team Rochester Draft against each other and afterwards play Bo3 with corresponding seats paired against each other and the winner advancing",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
+    ],
     "medium": "Tabletop",
     "id": "pro-tour-atlanta--team--2005",
     "location": "Atlanta, Georgia, United States",
+    "site": "Cobb Galleria Centre",
     "logo": "ptlogo",
     "name": "Pro Tour Atlanta (Team)",
     "standings": [

@@ -2,54 +2,74 @@
     "type": "Pro Tour",
     "coverage": "https://web.archive.org/web/20051231151859/http://www.wizards.com/default.asp?x=mtgevent/ptla05/welcome",
     "date": "October 28-30, 2005",
+    "season": "2005",
     "formats": [
         "Extended"
+    ],
+    "structure": [
+        "Day 1: 8 rounds (Extended); cut to 15 points",
+        "Day 2: 8 rounds; cut to Top 8",
+        "Day 3: Bo5 single elimination",
+        "---",
+        "Extended legal sets: Invasion – Ravnica: City of Guilds, Seventh Edition – Ninth Edition (19 sets)",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-los-angeles-2005",
     "location": "Los Angeles, California, United States",
+    "site": "Los Angeles Convention Center",
+    "metadiversity": 16.6,
     "logo": "ptlogo",
     "name": "Pro Tour Los Angeles",
     "standings": [
         {
             "money": 30000,
             "name": "Antoine Ruel",
-            "propoints": 25
+            "propoints": 25,
+            "deck": "DImmbGHp8UG-xMc2roPGzA"
         },
         {
             "money": 20000,
             "name": "William Moreno",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "6jHFx-_1dk-K5kHYw1BNvA"
         },
         {
             "money": 15000,
             "name": "Kenji Tsumura",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "53f5RRcD5E2Ft8F4Aa4ojg"
         },
         {
             "money": 13000,
             "name": "Chris McDaniel",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "hx85OBF-Mk6BUZAweGZlRA"
         },
         {
             "money": 9500,
             "name": "Tsuyoshi Fujita",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "-QXGWuIS_06kJoFLGwNY2Q"
         },
         {
             "money": 8500,
             "name": "Chih-Hsiang Chang",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "wIqjbMPdGkiDoUaHxIG_Mg"
         },
         {
             "money": 7500,
             "name": "Ervin Tormos",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "ii0p0h_jVkS0OG99389LTw"
         },
         {
             "money": 6500,
             "name": "Ryuichi Arita",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "ixu_azuTJ0qP4CymZ9RVoQ"
         },
         {
             "money": 6000,

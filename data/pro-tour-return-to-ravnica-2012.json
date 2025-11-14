@@ -2,55 +2,75 @@
     "type": "Pro Tour",
     "coverage": "http://web.archive.org/web/20121023081551/http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/ptrtr12/welcome",
     "date": "October 19-21, 2012",
+    "season": "2012-13",
     "formats": [
-        "Draft",
-        "Modern"
+        "Modern",
+        "Booster Draft"
+    ],
+    "structure": [
+        "Day 1: 5 rounds (Modern); Booster Draft (3x Return to Ravnica), 3 rounds; cut to 12 points",
+        "Day 2: Booster Draft, 3 rounds; 5 rounds (Modern); cut to Top 8",
+        "Day 3: Bo5 single elimination",
+        "---",
+        "Modern legal sets: Mirrodin – Return to Ravnica, Eighth Edition – Magic 2013 (37 sets)",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-return-to-ravnica-2012",
     "location": "Seattle, Washington, United States",
+    "site": "Smith Cove Event Center at Pier 91",
+    "metadiversity": 8.0,
     "logo": "ptrtr",
     "name": "Pro Tour Return to Ravnica",
     "standings": [
         {
             "money": 40000,
             "name": "Stanislav Cifka",
-            "propoints": 30
+            "propoints": 30,
+            "deck": "FZbyLHrGy0SgkjzKHZPhuw"
         },
         {
             "money": 20000,
             "name": "Yuuya Watanabe",
-            "propoints": 24
+            "propoints": 24,
+            "deck": "1lhnXOomhka66tQ9OYHjhA"
         },
         {
             "money": 12500,
             "name": "David Ochoa",
-            "propoints": 22
+            "propoints": 22,
+            "deck": "nSUV3C0gHUyVqROQufX-RQ"
         },
         {
             "money": 12500,
             "name": "Lee Shi Tian",
-            "propoints": 22
+            "propoints": 22,
+            "deck": "57y6IgXo_k2PfaMtlN9Pmg"
         },
         {
             "money": 10000,
             "name": "Eduardo Sajgalik",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "hzplLAsIyk6aM_SWWhZh3Q"
         },
         {
             "money": 10000,
             "name": "Kelvin Chew",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "oTZHMkcaO0uEW7vNoxNUmQ"
         },
         {
             "money": 10000,
             "name": "Willy Edel",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "wBGVfyjwbUG_o72Cb6Bw1w"
         },
         {
             "money": 10000,
             "name": "Pedro Carvalho",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "i-DgRrqGC0G4n506UGsM2g"
         },
         {
             "money": 3500,

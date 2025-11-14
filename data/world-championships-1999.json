@@ -8,51 +8,72 @@
         "Rochester Draft",
         "Extended"
     ],
+    "structure": [
+        "Day 1: 6 rounds (Standard)",
+        "Day 2: 2 Rochester Drafts (Urza's Saga, Urza's Legacy, Urza's Destiny) each followed by 3 rounds",
+        "Day 3: 6 rounds (Extended); cut to Top 8",
+        "Day 4: Team play",
+        "Day 5: Bo5 Single Elimination (Standard decks from day 1)",
+        "---",
+        "Standard legal sets: Tempest – Urza's Destiny, Sixth Edition (7 sets total)",
+        "Extended legal sets: The Dark – Urza's Destiny, Revised – Sixth Edition, Chronicles (19 sets total)",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
+    ],
     "medium": "Tabletop",
     "id": "world-championships-1999",
     "location": "Yokohama, Japan",
+    "metadiversity": 9.3,
     "logo": "ptlogo",
     "name": "1999 World Championships",
     "standings": [
         {
             "money": 34000,
             "name": "Kai Budde",
-            "propoints": 32
+            "propoints": 32,
+            "deck": "YlgdZM4Ngk-WIaxc_po2w"
         },
         {
             "money": 22000,
             "name": "Mark Le Pine",
-            "propoints": 24
+            "propoints": 24,
+            "deck": "tLCnZ4FQGEqUF8GjPeJ_Ow"
         },
         {
             "money": 16000,
             "name": "Raffaele Lo Moro",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "O2KwxAxc5EmS4mUJOYsSpg"
         },
         {
             "money": 13000,
             "name": "Matthew Linde",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "mAVVdXXz7kqXUd-Ae5C8kw"
         },
         {
             "money": 11000,
             "name": "Jakub Slemr",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "r2rGZBiA0EG5-LUuO_hDwQ"
         },
         {
             "money": 9500,
             "name": "Jamie Parke",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "IZQZGDTbIkyYNXsR8z4yjg"
         },
         {
             "money": 8250,
             "name": "Gary Wise",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "CFFZLR1t10OBtzEPE2Gdww"
         },
         {
             "money": 7250,
             "name": "Nicolai Herzog",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "nGkB5N4-dEi0X0JlFuOfsA"
         },
         {
             "money": 6350,
@@ -484,7 +505,8 @@
         },
         {
             "name": "Michael Doecke",
-            "propoints": 3
+            "propoints": 3,
+            "report": "https://web.archive.org/web/20000118201508/http://australia.ccgnews.com/reports/2608doeckeworlds.shtml"
         },
         {
             "name": "John Ormerod",
@@ -677,7 +699,8 @@
         },
         {
             "name": "Adam Kemp",
-            "propoints": 2
+            "propoints": 2,
+            "report": ["https://web.archive.org/web/20000304035432/http://australia.ccgnews.com/reports/1908kempworlds.shtml", "https://web.archive.org/web/20000118212659/http://australia.ccgnews.com/reports/2708kempworlds2.shtml"]
         },
         {
             "name": "Allan Mortensen",

@@ -1,18 +1,48 @@
 {
     "type": "Nationals - United Kingdom",
-    "date": "January 1-August 31, 1997",
+    "coverage": "https://web.archive.org/web/19970708182433/http://wotc.ukonline.co.uk/nationals/final.html",
+    "date": "June 28-29, 1997",
     "formats": [
         "Standard",
         "Rochester Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-united-kingdom-1997",
-    "location": "United Kingdom",
+    "location": "Warwick, England, United Kingdom",
     "logo": "nationals",
     "name": "Nationals United Kingdom 1997",
     "standings": [
         {
-            "name": "Oliver Schneider"
+            "name": "Oliver Schneider",
+            "matchpoints": 40
+        },
+        {
+            "name": "Rob Salmon",
+            "matchpoints": 37
+        },
+        {
+            "name": "Mike Dando",
+            "matchpoints": 36
+        },
+        {
+            "name": "Steve Hill",
+            "matchpoints": 34
+        },
+        {
+            "name": "Timothy Reader",
+            "matchpoints": 34
+        },
+        {
+            "name": "Benjamin Sanders",
+            "matchpoints": 33
+        },
+        {
+            "name": "Sonny Schneider",
+            "matchpoints": 33
+        },
+        {
+            "name": "Guy Brew",
+            "matchpoints": 33
         }
     ],
     "teamsize": 1

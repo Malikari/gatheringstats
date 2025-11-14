@@ -3,13 +3,25 @@
   "coverage": "https://www.magic.gg/events/mythic-championship-vi",
   "date": "November 8-10, 2019",
   "season": "2018-19",
+  "teamsize": 1,
   "formats": [
     "Standard",
-    "Draft"
+    "ELD Booster Draft"
   ],
   "medium": "Tabletop",
   "id": "mythic-championship-6-2019",
   "location": "Richmond, Virginia, United States",
+  "site": "Greater Richmond Convention Center",
+    "structure": [
+        "Day 1: Booster Draft (3x Throne of Eldraine); 3 rounds of in-pod Swiss play; 5 rounds of Swiss (Standard); cut to 12 points",
+        "Day 2: Booster Draft; 3 rounds of in-pod Swiss play; 5 rounds of Swiss (Standard); cut to Top 8",
+        "Day 3: Bo5 single elimination (Standard)",
+        "---",
+        "Standard legal sets: Guilds of Ravnica – Throne of Eldraine, Core Set 2020 (5 sets)",
+        "---",
+        "Mulligan: London (any number of times, always draw seven cards, then return cards to the bottom equal to the number of mulligans taken)"
+    ],
+  "metadiversity": 5.3,
   "logo": "mc",
   "name": "Mythic Championship VI 2019",
   "standings": [
@@ -18,21 +30,24 @@
         "propoints": null,
         "matchpoints": 37,
         "name": "Ondrej Strasky",
-        "mythicpoints": 50
+        "mythicpoints": 50,
+        "deck": "KGAWbYeGnUe1bhMtB941uA"
     },
     {
         "money": 20000,
         "propoints": null,
         "matchpoints": 37,
         "name": "Paulo Vitor Damo da Rosa",
-        "mythicpoints": 42
+        "mythicpoints": 42,
+        "deck": "U_6KL5cPzkOAlo6wzlHHQQ"
     },
     {
         "money": 15000,
         "propoints": null,
         "matchpoints": 37,
         "name": "Oscar Christensen",
-        "mythicpoints": 37
+        "mythicpoints": 37,
+        "deck": "x-MyvoQ3x0-gPAcUQCa0-g"
     },
     {
         "money": 15000,
@@ -40,35 +55,40 @@
         "matchpoints": 37,
         "name": "Sebastian Pozzo",
         "mythicpoints": 37,
-        "report": "https://article.hareruyamtg.com/article/33664/?lang=en"
+        "report": "https://article.hareruyamtg.com/article/33664/?lang=en",
+        "deck": "_tC4ak4I3Ue92iwQp8b6zQ"
     },
     {
         "money": 10000,
         "propoints": null,
         "matchpoints": 41,
         "name": "Austin Bursavich",
-        "mythicpoints": 32
+        "mythicpoints": 32,
+        "deck": "RtXn4CvfDkeRs_uQ0J9m0g"
     },
     {
         "money": 10000,
         "propoints": null,
         "matchpoints": 38,
         "name": "Louis Deltour",
-        "mythicpoints": 32
+        "mythicpoints": 32,
+        "deck": "gNzWZA6BYEiVg7qxMxqe1g"
     },
     {
         "money": 10000,
         "propoints": null,
         "matchpoints": 37,
         "name": "Eli Kassis",
-        "mythicpoints": 32
+        "mythicpoints": 32,
+        "deck": "XE8D6mlPKUKvh4E79fH5Pw"
     },
     {
         "money": 10000,
         "propoints": null,
         "matchpoints": 37,
         "name": "Andrew Cuneo",
-        "mythicpoints": 32
+        "mythicpoints": 32,
+        "deck": "tmtGtbGu_ECHd2agkS0SIQ"
     },
     {
         "money": 6000,

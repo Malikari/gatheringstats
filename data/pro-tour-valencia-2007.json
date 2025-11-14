@@ -1,55 +1,76 @@
 {
     "type": "Pro Tour",
     "coverage": "http://web.archive.org/web/20081002011051/http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/ptval07/welcome",
-    "date": "October 12-14, 2007",
+    "date": "October 13-14, 2007",
+    "season": "2007",
     "formats": [
         "Extended"
+    ],
+    "structure": [
+        "Day 1: 10 rounds (Extended); cut to 21 points",
+        "Day 2: 3 rounds; cut to Top 8; Bo5 single elimination",
+        "---",
+        "Extended legal sets: Invasion – Future Sight, Seventh Edition – Tenth Edition (25 sets)",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)",
+        "---",
+        "Special incident: Pro Tour Valencia was scheduled to be a regular 3-day-event, however there was no play on Friday due to flooding and the tournament structure adapted accordingly"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-valencia-2007",
     "location": "Valencia, Spain",
+    "site": "Ciudad De Las Artes Y Las Ciencias",
+    "metadiversity": 16.7,
     "logo": "ptlogo",
     "name": "Pro Tour Valencia",
     "standings": [
         {
             "money": 40000,
             "name": "Remi Fortier",
-            "propoints": 25
+            "propoints": 25,
+            "deck": "WuuZDx54hE-LY1VAozy2AA"
         },
         {
             "money": 22000,
             "name": "André Müller",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "0tYt2a5Tf0OUFnIqiryhDA"
         },
         {
             "money": 15000,
             "name": "Giulio Barra",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "x6brt7LjTkaQYMtu996vBQ"
         },
         {
             "money": 14000,
             "name": "Shuhei Nakamura",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "C712iJLh2Eet-rZoGGYejQ"
         },
         {
             "money": 11500,
             "name": "Takayuki Koike",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "Too69xACrESZVilOsxRgow"
         },
         {
             "money": 11000,
             "name": "Tine Rus",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "Ubsd4efWykes6-2zsSFuNQ"
         },
         {
             "money": 10500,
             "name": "Sam Stein",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "ilDVWUt8UUakn_eSxSh9-A"
         },
         {
             "money": 10000,
             "name": "Makihito Mihara",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "QGhPgO_eek2BhGvViT34EA"
         },
         {
             "money": 7000,

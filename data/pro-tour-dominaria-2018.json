@@ -2,13 +2,26 @@
   "type": "Pro Tour",
   "coverage": "https://web.archive.org/web/20200330120612/https://magic.wizards.com/en/events/coverage/ptdom",
   "date": "June 1-3, 2018",
+  "season": "2017-18",
+  "teamsize": 1,
   "formats": [
-    "Draft",
-    "Standard"
+    "Standard",
+    "Booster Draft"
   ],
+  "structure": [
+        "Day 1: Booster Draft (3x Dominaria), 3 rounds; 5 rounds (Standard); cut to 12 points",
+        "Day 2: Booster Draft, 3 rounds; 5 rounds (Standard); cut to Top 8",
+        "Day 3: Bo5 single elimination",
+        "---",
+        "Standard legal sets: Kaladesh – Dominaria (7 sets)",
+        "---",
+        "Mulligan: Vancouver (any number of times, always draw one card less, then Scry 1 if you took at least one mulligan)"
+    ],
   "medium": "Tabletop",
   "id": "pro-tour-dominaria-2018",
   "location": "Richmond, Virginia, United States",
+  "site": "Greater Virginia Convention Center",
+  "metadiversity": 13.8,
   "logo": "ptdom",
   "name": "Pro Tour Dominaria",
   "standings": [
@@ -16,49 +29,57 @@
       "name": "Wyatt Darby",
       "propoints": 30,
       "matchpoints": 37,
-      "money": 50000
+      "money": 50000,
+      "deck": "wQicNB_fGkuMCAShzT1KuA"
     },
     {
       "name": "Goncalo Pinto",
       "propoints": 26,
       "matchpoints": 37,
-      "money": 20000
+      "money": 20000,
+      "deck": "SXN8yNBsa0O4j2wXRtR4dg"
     },
     {
       "name": "Owen Turtenwald",
       "propoints": 24,
       "matchpoints": 38,
-      "money": 15000
+      "money": 15000,
+      "deck": "EInoXxr4rEq5-IZSWp22zQ"
     },
     {
       "name": "Marcio Carvalho",
       "propoints": 22,
       "matchpoints": 37,
-      "money": 12500
+      "money": 12500,
+      "deck": "80uhEYeNqkSSgOwxQsd-IQ"
     },
     {
       "name": "Kazuyuki Takimura",
       "propoints": 20,
       "matchpoints": 39,
-      "money": 10000
+      "money": 10000,
+      "deck": "j8sukMptTUaFWbJwSgOH4Q"
     },
     {
       "name": "Thomas Hendriks",
       "propoints": 18,
       "matchpoints": 38,
-      "money": 9000
+      "money": 9000,
+      "deck": "j7eti5qBt0SYCyutWYkP0g"
     },
     {
       "name": "Ernest Lim",
       "propoints": 17,
       "matchpoints": 37,
-      "money": 7500
+      "money": 7500,
+      "deck": "iJVoBn-LZEGOzgOrZnksWg"
     },
     {
       "name": "Manuel Lenz",
       "propoints": 16,
       "matchpoints": 37,
-      "money": 6000
+      "money": 6000,
+      "deck": "d131-u0BHkuunX7QYlyqrA"
     },
     {
       "name": "Morgan McLaughlin",

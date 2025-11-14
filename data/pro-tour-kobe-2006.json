@@ -2,54 +2,71 @@
     "type": "Pro Tour",
     "coverage": "https://web.archive.org/web/20070124062801/http://www.wizards.com/default.asp?x=mtgevent/ptkob06/welcome",
     "date": "October 20-22, 2006",
+    "season": "2006",
     "formats": [
-        "Draft"
+        "Booster Draft"
+    ],
+    "structure": [
+        "Day 1: Booster Draft (3x Time Spiral); 3 rounds; Booster Draft, 3 rounds; cut to 12 points; Booster Draft, 1 round",
+        "Day 2: 2 rounds (decks from the previous day's 3rd draft); Booster Draft, 3 rounds; Booster Draft, 3 rounds; cut to Top 8",
+        "Day 3: Booster Draft, Bo5 single elimination",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-kobe-2006",
     "location": "Kobe, Japan",
+    "site": "Kobe International Exhibition Hall",
     "logo": "ptlogo",
     "name": "Pro Tour Kobe",
     "standings": [
         {
             "money": 40000,
             "name": "Jan-Moritz Merkel",
-            "propoints": 25
+            "propoints": 25,
+            "deck": "axM2f--hg06_RkKvGSj1aA"
         },
         {
             "money": 22000,
             "name": "Willy Edel",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "CeBUdhPOVkak4oB3wT17sA"
         },
         {
             "money": 15000,
             "name": "Bastien Perez",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "7w4vjQdkEUm10c3p9ZIEmg"
         },
         {
             "money": 14000,
             "name": "Thomas Didierjean",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "lnAVskAbh0S0jofZtgfjEw"
         },
         {
             "money": 11500,
             "name": "Kenji Tsumura",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "YkUZBFyTFE-CRfogrAHfdA"
         },
         {
             "money": 11000,
             "name": "Bram Snepvangers",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "gZHrjbx0fEKAJanHdPjP5w"
         },
         {
             "money": 10500,
             "name": "Tomoharu Saito",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "hUe_3JYctUKerNwzDkqF0g"
         },
         {
             "money": 10000,
             "name": "Takahiro Suzuki",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "wgUAZx_fi0uY6P07ucrO-w"
         },
         {
             "money": 7000,

@@ -1,41 +1,43 @@
 {
     "type": "Nationals - Argentina",
-    "date": "June 21-22, 2004",
+    "date": "June 19-20, 2004",
     "formats": [
         "Standard",
-        "? Draft"
+        "Booster Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-argentina-2004",
-    "location": "Argentina",
+    "location": "Buenos Aires, Argentina",
     "logo": "nationals",
     "name": "Nationals Argentina 2004",
     "standings": [
         {
-            "name": "Mauro Kina"
+            "name": "Mauro Kina",
+            "money": 1700
         },
         {
-            "name": "Lucas Ramirez"
-        },
-        {
-            "name": "Miguel Rafael",
-            "rank": "3-4"
+            "name": "Lucas Ramirez",
+            "money": 1000
         },
         {
             "name": "Matias Bollati",
-            "rank": "3-4"
+            "money": 650
+        },
+        {
+            "name": "Miguel Rafael",
+            "money": 650
         },
         {
             "name": "Ernesto Mingorance",
-            "rank": "5-8"
-        },
-        {
-            "name": "Pedro de Diego",
-            "rank": "5-8"
+            "rank": "5-7"
         },
         {
             "name": "Martin Miguez",
-            "rank": "5-8"
+            "rank": "5-7"
+        },
+        {
+            "name": "Pedro de Diego",
+            "rank": 8
         }
     ],
     "teamsize": 1   

@@ -2,13 +2,25 @@
     "type": "Pro Tour",
     "coverage": "https://web.archive.org/web/20170731090445/http://magic.wizards.com/en/events/coverage/pthou",
     "date": "July 28-30, 2017",
+    "season": "2016-17",
     "formats": [
-        "Draft",
-        "Standard"
+        "Standard",
+        "Booster Draft"
+    ],
+    "structure": [
+        "Day 1: Booster Draft (2x Hour of Devastation, 1x Amonkhet); 3 rounds; 5 rounds (Standard); cut to 12 points",
+        "Day 2: Booster Draft, 3 rounds; 5 rounds (Standard); cut to Top 8",
+        "Day 3: Bo5 single elimination",
+        "---",
+        "Standard legal sets: Battle for Zendikar – Hour oF Devastation (8 sets)",
+        "---",
+        "Mulligan: Vancouver (any number of times, always draw one card less, then Scry 1 if you took at least one mulligan)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-hour-of-devastation-2017",
     "location": "Kyoto, Japan",
+    "site": "Miyako Messe",
+    "metadiversity": 9.7,
     "logo": "pthou",
     "name": "Pro Tour Hour of Devastation",
     "standings": [
@@ -16,49 +28,57 @@
         "name": "Paulo Vitor Damo Da Rosa",
         "matchpoints": 40,
         "propoints": 30,
-        "money": 50000
+        "money": 50000,
+        "deck": "drk7uVTD202VnCjMInOZyg"
     },
     {
         "name": "Samuel Pardee",
         "matchpoints": 40,
         "propoints": 26,
-        "money": 20000
+        "money": 20000,
+        "deck": "A-C61pSKRkC1H8Fh8xUCwg"
     },
     {
         "name": "Samuel Black",
         "matchpoints": 39,
         "propoints": 24,
-        "money": 15000
+        "money": 15000,
+        "deck": "LnKx08Co7E6kswssHpA1yg"
     },
     {
         "name": "Wing Chun Yam",
         "matchpoints": 39,
         "propoints": 22,
-        "money": 12500
+        "money": 12500,
+        "deck": "dzhNxUo6GkOsMVVEnTUh7w"
     },
     {
         "name": "Shintaro Kurata",
         "matchpoints": 37,
         "propoints": 20,
-        "money": 10000
+        "money": 10000,
+        "deck": "aAa0zJ4rnkej7UmB9f4ifA"
     },
     {
         "name": "Felix Leong",
         "matchpoints": 37,
         "propoints": 18,
-        "money": 9000
+        "money": 9000,
+        "deck": "N8gGnCx4ZE6JPhJYjuVW1g"
     },
     {
         "name": "Yusuke Sasabe",
         "matchpoints": 36,
         "propoints": 17,
-        "money": 7500
+        "money": 7500,
+        "deck": "GAyM_8Fd7U6Ot6iIc-0bmA"
     },
     {
         "name": "Seth Manfield",
         "matchpoints": 36,
         "propoints": 16,
-        "money": 6000
+        "money": 6000,
+        "deck": "WYUqndw5PEuX4SxHakGEMg"
     },
     {
         "name": "Javier Dominguez",

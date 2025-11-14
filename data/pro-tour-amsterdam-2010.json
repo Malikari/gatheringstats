@@ -2,55 +2,74 @@
     "type": "Pro Tour",
     "coverage": "https://web.archive.org/web/20100906130009/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/ptams10/welcome",
     "date": "September 3-5, 2010",
+    "season": "2010",
     "formats": [
-        "Draft",
-        "Extended"
+        "Extended",
+        "Booster Draft"
+    ],
+    "structure": [
+        "Day 1: 5 rounds (Extended); Booster Draft (3x Magic 2011), 3 rounds; cut to 15 points",
+        "Day 2: Booster Draft, 3 rounds; 5 rounds (Extended); cut to Top 8",
+        "Day 3: Bo5 single elimination",
+        "---",
+        "Extended legal sets: Time Spiral – Rise of the Eldrazi, Tenth Edition – Magic 2011 (16 sets)",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-amsterdam-2010",
     "location": "Amsterdam, Netherlands",
+    "metadiversity": 13.5,
     "logo": "ptlogo",
     "name": "Pro Tour Amsterdam",
     "standings": [
         {
             "money": 40000,
             "name": "Paul Rietzl",
-            "propoints": 25
+            "propoints": 25,
+            "deck": "EnGMVoTDj0CaQGzOZ-QHoQ"
         },
         {
             "money": 20000,
             "name": "Brad Nelson",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "vCnmDohbmEGHJ1SZqdIeQw"
         },
         {
             "money": 15000,
             "name": "Michael Jacob",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "iMVw3Y7oT0y4y8VwynLmAQ"
         },
         {
             "money": 13000,
             "name": "Marijn Lybaert",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "wlRcNPE9XkSkqCXHAdXCrA"
         },
         {
             "money": 11000,
             "name": "Guillaume Wafo-Tapa",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "3HpprLagIkyG-NXmArYCSA"
         },
         {
             "money": 10500,
             "name": "Brian Kibler",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "UXbxYzN6qkqU0YxUDSojiQ"
         },
         {
             "money": 10000,
             "name": "Thomas Ma",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "jHPsHtK-Jkif6LFJRJyCVg"
         },
         {
             "money": 9500,
             "name": "Kai Budde",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "E9pRp4ODb0i2prUBvBrzuA"
         },
         {
             "money": 7000,

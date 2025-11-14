@@ -1,6 +1,6 @@
 {
     "type": "Nationals - Argentina",
-    "coverage": "https://web.archive.org/web/20010622111444/http://www.themagictutor.com/torneos/Nacional_Argentino_2001/nacional_argentino_2001.html",
+    "coverage": "https://web.archive.org/web/20011120171817/http://themagictutor.com:80/torneos/Nacional_Argentino_2001/nacional_argentino_2001.html",
     "date": "May 19-20, 2001",
     "formats": [
         "Standard",
@@ -13,28 +13,36 @@
     "name": "Nationals Argentina 2001",
     "standings": [
         {
-            "name": "Diego Ostrovich"
+            "name": "Diego Ostrovich",
+            "money": 1700
         },
         {
-            "name": "Emiliano Onorati"
+            "name": "Emiliano Onorati",
+            "money": 1000
         },
         {
-            "name": "Matias Bollati"
+            "name": "Matias Bollati",
+            "money": 600
         },
         {
-            "name": "Jose Barbero"
+            "name": "Jose Barbero",
+            "money": 500
         },
         {
-            "name": "Santiago Guzzetti"
+            "name": "Santiago Guzzetti",
+            "money": 350
         },
         {
-            "name": "Dario Carusso"
+            "name": "Dario Carusso",
+            "money": 350
         },
         {
-            "name": "Matias Chiappe"
+            "name": "Matias Chiappe",
+            "money": 250
         },
         {
-            "name": "Damian Buckley"
+            "name": "Damian Buckley",
+            "money": 250
         }
     ],
     "teamsize": 1

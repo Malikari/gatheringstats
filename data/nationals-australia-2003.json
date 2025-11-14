@@ -1,40 +1,58 @@
 {
     "type": "Nationals - Australia",
-    "coverage": "https://magic.wizards.com/en/events/coverage/ausnat03",
-    "date": "January 1-May 31, 2003",
+    "coverage": "https://web.archive.org/web/20151205224517/https://magic.wizards.com/en/events/coverage/ausnat03",
+    "date": "April 26-27, 2003",
     "formats": [
         "Standard",
-        "? Draft"
+        "Rochester Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-australia-2003",
-    "location": "Australia",
+    "location": "Canberra, Australia",
     "logo": "nationals",
     "name": "Nationals Australia 2003",
     "standings": [
         {
-            "name": "Andrew Varga"
+            "name": "Andrew Varga",
+            "money": 2100
         },
         {
-            "name": "Chris Allen"
+            "name": "Chris Allen",
+            "money": 1600
         },
         {
-            "name": "Bryce Trevilyan"
+            "name": "Bryce Trevilyan",
+            "money": 1100,
+            "report": "https://web.archive.org/web/20030622051151/http://www.mtgparadise.com/reports/may2003/2905trevilyan_aunats.shtml"
         },
         {
-            "name": "Justin West"
+            "name": "Justin West",
+            "money": 800
         },
         {
-            "name": "Chris Nadebaum"
+            "name": "Chris Nadebaum",
+            "money": 400
         },
         {
-            "name": "Anatoli Lightfoot"
+            "name": "Anatoli Lightfoot",
+            "money": 400
         },
         {
-            "name": "David Robertson"
+            "name": "David Robertson",
+            "money": 300,
+            "report": "https://web.archive.org/web/20030622051418/http://www.mtgparadise.com/reports/may2003/3105robertson_aunats.shtml"
         },
         {
-            "name": "Dominic Musolino"
+            "name": "Dominic Musolino",
+            "money": 300
+        },
+        {
+            "name": "Scott Smith",
+            "report": "https://web.archive.org/web/20030622051418/http://www.mtgparadise.com/reports/may2003/0905smith_aunats.shtml"
+        },
+        {
+            "name": "Daniel Turner",
+            "report": "https://web.archive.org/web/20030622045418/http://www.mtgparadise.com/reports/may2003/2305turner_aunats.shtml"
         }
     ],
     "teamsize": 1

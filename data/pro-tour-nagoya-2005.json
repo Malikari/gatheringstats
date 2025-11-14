@@ -2,54 +2,71 @@
     "type": "Pro Tour",
     "coverage": "http://web.archive.org/web/20050207173801/http://www.wizards.com/default.asp?x=mtgevent/ptnag05/welcome",
     "date": "January 28-30, 2005",
+    "season": "2005",
     "formats": [
         "Rochester Draft"
+    ],
+    "structure": [
+        "Day 1: Rochester Draft (3x Champions of Kamigawa), 3 rounds; Rochester Draft, 3 rounds; cut to 12 points; Rochester Draft, 1 round",
+        "Day 2: 2 rounds (decks from the previous day's 3rd draft); Rochester Draft, 3 rounds; Rochester Draft, 3 rounds; cut to Top 8",
+        "Day 3: Rochester Draft, Bo5 single elimination",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-nagoya-2005",
     "location": "Nagoya, Japan",
+    "site": "Port Messe Nagoya International Exhibition Hall",
     "logo": "ptlogo",
     "name": "Pro Tour Nagoya",
     "standings": [
         {
             "money": 30000,
             "name": "Shuu Komuro",
-            "propoints": 25
+            "propoints": 25,
+            "deck": "xLbveJ_ClUqA6Bmw52leVQ"
         },
         {
             "money": 20000,
             "name": "Anton Jonsson",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "jA_XFurV5U257h5bjkLMGg"
         },
         {
             "money": 15000,
             "name": "Terry Soh",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "D7pXlEqE-kev9H4um8B8Mg"
         },
         {
             "money": 13000,
             "name": "Murray Evans",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "YN18KLUARUOsIF2pAOL1ew"
         },
         {
             "money": 9500,
             "name": "Masashiro Kuroda",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "vnjT6cWfhU2zyeDoWKMiYQ"
         },
         {
             "money": 8500,
             "name": "Frank Karsten",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "e6RT0RxpFkeWgvYQcLaWqQ"
         },
         {
             "money": 7500,
             "name": "Jarno Harkonen",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "jn8GCDpqlEucCgRujdlyHA"
         },
         {
             "money": 6500,
             "name": "Vasilis Fatouros",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "QEYMk8rnDUG_PbN4EBMExA"
         },
         {
             "money": 6000,

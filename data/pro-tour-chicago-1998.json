@@ -4,7 +4,14 @@
     "date": "September 25-27, 1998",
     "season": "1998-99",
     "formats": [
-        "Rochester Draft"
+        "Booster Draft"
+    ],
+    "structure": [
+        "Day 1: Booster Draft (Tempest, Stronghold, Exodus), 4 rounds; Booster Draft, 3 rounds; cut to Top 96",
+        "Day 2: Booster Draft, 4 rounds; Booster Draft, 3 rounds; cut to top 8",
+        "Day 3: Booster Draft, double elimination: regular Bo5 winners' bracket, Bo3 losers' bracket of only two rounds",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-chicago-1998",
@@ -16,19 +23,22 @@
             "money": 25000,
             "name": "Dirk Baberowski",
             "propoints": 32,
-            "report": "http://web.archive.org/web/19981207043344/http://thedojo.com/t983/ptc.980930dba.txt"
+            "report": "http://web.archive.org/web/19981207043344/http://thedojo.com/t983/ptc.980930dba.txt",
+            "deck": "5oDi9ErVJEa9is68ARSQpQ"
         },
         {
             "money": 15000,
             "name": "Casey McCarrel",
             "propoints": 24,
-            "report": "http://web.archive.org/web/19981207043344/http://thedojo.com/t984/ptc.981005cmc.txt"
+            "report": "http://web.archive.org/web/19981207043344/http://thedojo.com/t984/ptc.981005cmc.txt",
+            "deck": "hldyhuD3EEe02ccjUYKKLg"
         },
         {
             "money": 10000,
             "name": "Jeffrey Fung",
             "propoints": 16,
-            "report": "http://web.archive.org/web/19981207043344/http://thedojo.com/t984/ptc.981003jfu.txt"
+            "report": "http://web.archive.org/web/19981207043344/http://thedojo.com/t984/ptc.981003jfu.txt",
+            "deck": "T0i7fi1YYEunoiSA7p50bQ"
         },
         {
             "money": 8000,
@@ -780,7 +790,8 @@
         },
         {
             "name": "Alexander Blumke",
-            "propoints": 2
+            "propoints": 2,
+            "report": "https://web.archive.org/web/19981201080201/http://swiss-magic.ch/"
         },
         {
             "name": "David Devenport",
@@ -917,7 +928,8 @@
         },
         {
             "name": "Itaru Ishida",
-            "propoints": 2
+            "propoints": 2,
+            "report": "https://web.archive.org/web/20031227041455/http://www.wizards.com/default.asp?x=sideboard/jpstrategy/20030702a"
         },
         {
             "name": "Thomas Girard",

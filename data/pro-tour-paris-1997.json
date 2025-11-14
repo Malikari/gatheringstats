@@ -4,53 +4,71 @@
     "date": "April 11-13, 1997",
     "season": "1996-97",
     "formats": [
-        "Block Constructed"
+        "Mirage Block Constructed"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-paris-1997",
     "location": "Paris, France",
+    "site": "Cirque d'Hiver-Bouglione",
+    "structure": [
+        "Day 1: 6 rounds (Mirage Block Constructed); cut to Top 64",
+        "Day 2: 6 rounds; cut to Top 8",
+        "Day 3: Single elimination (Bo3 quarterfinals, Bo5 thereafter)",
+        "---",
+        "Block Constructed legal sets: Mirage, Visions (2 sets total)",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
+    ],
     "logo": "ptlogo",
     "name": "Pro Tour Paris",
     "standings": [
         {
             "money": 26000,
             "name": "Michael Long",
-            "propoints": 30
+            "propoints": 30,
+            "deck": "kPcmRM_COk-j2eixDlnZpQ"
         },
         {
             "money": 16000,
             "name": "Mark Justice",
-            "propoints": 25
+            "propoints": 25,
+            "deck": "SFv0VE4qFUukMvQOTJmy3g"
         },
         {
             "money": 9000,
             "name": "Darwin Kastle",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "5Hs01_YLWkK9eTs9k_xHmg"
         },
         {
             "money": 9000,
             "name": "Henning Rimkus",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "iHMr6Z8-hEGAiCSHGg7Mgg"
         },
         {
             "money": 5500,
             "name": "Sturla Bingen",
-            "propoints": 10
+            "propoints": 10,
+            "deck": "7OT6Sg-9NUeSS-5E2g5xjQ"
         },
         {
             "money": 5500,
             "name": "Paul Ferker",
-            "propoints": 10
+            "propoints": 10,
+            "deck": "EATePWzAV0ma8GSYCUclyg"
         },
         {
             "money": 5500,
             "name": "Jason Gordon",
-            "propoints": 10
+            "propoints": 10,
+            "deck": "A3G2p3hANkadIabxAl4waw"
         },
         {
             "money": 5500,
             "name": "Jason Zila",
-            "propoints": 10
+            "propoints": 10,
+            "deck": "SccrufLGaU2knb18Fv3BKw"
         },
         {
             "money": 3200,
@@ -75,7 +93,8 @@
         {
             "money": 3200,
             "name": "Brian Hacker",
-            "propoints": 4
+            "propoints": 4,
+            "report": "https://groups.google.com/g/rec.games.trading-cards.magic.misc/c/FTuov-Sh3V4/m/dq5tQc6gqOIJ"
         },
         {
             "money": 3200,
@@ -351,10 +370,12 @@
             "name": "Alessio Accardi"
         },
         {
-            "name": "Itaru Ishida"
+            "name": "Itaru Ishida",
+            "report": "https://web.archive.org/web/20040222233124/http://www.wizards.com/default.asp?x=sideboard/jpstrategy/20030227a"
         },
         {
-            "name": "Chris Pikula"
+            "name": "Chris Pikula",
+            "report": "https://groups.google.com/g/rec.games.trading-cards.magic.misc/c/I-B_wCZ99HI/m/mGjJBTQMbw0J"
         },
         {
             "name": "Andrew Cuneo"

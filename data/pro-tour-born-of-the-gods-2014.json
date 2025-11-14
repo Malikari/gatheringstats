@@ -2,55 +2,75 @@
     "type": "Pro Tour",
     "coverage": "https://web.archive.org/web/20140424154236/http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/ptbng14/welcome",
     "date": "February 21-23, 2014",
+    "season": "2013-14",
     "formats": [
-        "Draft",
-        "Modern"
+        "Modern",
+        "Booster Draft"
+    ],
+    "structure": [
+        "Day 1: Booster Draft (1x Born of the Gods, 2x Theros), 3 rounds; 5 rounds (Modern); cut to 12 points",
+        "Day 2: Booster Draft, 3 rounds; 5 rounds (Modern); cut to Top 8",
+        "Day 3: Single elimination: Bo3 quarter- and semi-finals, Bo5 final",
+        "---",
+        "Modern legal sets: Mirrodin – Born of the Gods, Eighth Edition – Magic 2014 (42 sets)",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-born-of-the-gods-2014",
     "location": "Valencia, Spain",
+    "site": "Ciudad de las Artes y las Ciencias",
+    "metadiversity": 14.0,
     "logo": "ptbng",
     "name": "Pro Tour Born of the Gods",
     "standings": [
         {
             "money": 40000,
             "name": "Shaun McLaren",
-            "propoints": 30
+            "propoints": 30,
+            "deck": "9aEdEDbjckKb07w-JlOloQ"
         },
         {
             "money": 20000,
             "name": "Jacob Wilson",
-            "propoints": 24
+            "propoints": 24,
+            "deck": "CXNh_1nPE0mgNLiT7vaukg"
         },
         {
             "money": 12500,
             "name": "Patrick Dickmann",
-            "propoints": 22
+            "propoints": 22,
+            "deck": "UfhD-ySPPUOPDFNeTfyooA"
         },
         {
             "money": 12500,
             "name": "Anssi Alkio",
-            "propoints": 22
+            "propoints": 22,
+            "deck": "8JZGvOXprU-xk8fehkl35A"
         },
         {
             "money": 10000,
             "name": "Lee Shi Tian",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "_fRiGiYt8k24o8-lOs1Zgw"
         },
         {
             "money": 10000,
             "name": "Christian Seibold",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "WDwNHIWYa02kruE54WjTbQ"
         },
         {
             "money": 10000,
             "name": "Christopher Fennell",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "GsA_0aCOpUuPRFdT2BWM5A"
         },
         {
             "money": 10000,
             "name": "Timothy Rivera",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "4tb2q5__10Ou8TfqY-f5nw"
         },
         {
             "money": 5000,

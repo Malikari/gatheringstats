@@ -1,9 +1,9 @@
 {
     "type": "Nationals - Venezuela",
-    "date": "January 1-August 31, 2003",
+    "date": "June 14, 2003",
     "formats": [
         "Standard",
-        "? Draft"
+        "Rochester Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-venezuela-2003",
@@ -12,7 +12,20 @@
     "name": "Nationals Venezuela 2003",
     "standings": [
         {
-            "name": "Daniele D'Aversa"
+            "name": "Daniele D'Aversa",
+            "money": 1250
+        },
+        {
+            "name": "Edgar Morillo",
+            "rank": "NT"
+        },
+        {
+            "name": "Daniel Fior",
+            "rank": "NT"
+        },
+        {
+            "name": "Adalberto Palencia",
+            "rank": "NT"
         }
     ],
     "teamsize": 1

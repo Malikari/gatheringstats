@@ -2,56 +2,79 @@
     "type": "Pro Tour",
     "coverage": "http://web.archive.org/web/20111125184613/http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/worlds11/welcome",
     "date": "November 17-20, 2011",
+    "season": "2011",
     "formats": [
         "Standard",
-        "Draft",
+        "Booster Draft",
         "Modern"
+    ],
+    "structure": [
+        "Day 1: 6 rounds (Standard); 2 rounds of National Teams (Standard / Extended / Legacy Team Trios)",
+        "Day 2: 2 Booster Drafts (Innistrad) each followed by 3 rounds",
+        "Day 3: 2 rounds of National Teams; cut to Top 2 teams; 6 rounds (Modern); cut to Top 8",
+        "Day 4: Single elimination Team competition; Bo5 single elimination (Standard decks from day 1)",
+        "---",
+        "Standard legal sets: Scars of Mirrodin – Innistrad, Magic 2012 (5 sets)",
+        "Modern legal sets: Mirrodin – Innistrad, Eighth Edition – Magic 2012 (33 sets)",
+        "Legacy legal sets: All sets up to and including Innistrad (69 sets)",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "world-championships-2011",
     "location": "San Francisco, California, United States",
+    "site": "Fort Mason Center",
+    "metadiversity": 9.8,
     "logo": "ptlogo",
     "name": "2011 World Championships",
     "standings": [
         {
             "money": 45000,
             "name": "Jun'ya Iyanaga",
-            "propoints": 25
+            "propoints": 25,
+            "deck": "KIp9P1eUJEWARy1R0howgA"
         },
         {
             "money": 24000,
             "name": "Richard Bland",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "SULPq8GUl0uR2xvt5uirCw"
         },
         {
             "money": 15000,
             "name": "Conley Woods",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "YKsqT8K-A02qhxXCLA12jA"
         },
         {
             "money": 23000,
             "name": "David Caplan",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "4POdHlql7EWDXRl2YSPZPA"
         },
         {
             "money": 11000,
             "name": "Paulo Vitor Damo da Rosa",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "NfWnPIQ2xkKpiUa445YROQ"
         },
         {
             "money": 10500,
             "name": "Luis Scott-Vargas",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "HI-qHal4JUWPZrSB0kZ_4A"
         },
         {
             "money": 10000,
             "name": "Josh Utter-Leyton",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "5AAGucKTSUW51geijCQi2A"
         },
         {
             "money": 9500,
             "name": "Craig Wescoe",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "lVQJx6FunEWxEx11fxg_mQ"
         },
         {
             "money": 7000,

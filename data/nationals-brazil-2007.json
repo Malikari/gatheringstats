@@ -13,18 +13,32 @@
     "name": "Nationals Brazil 2007",
     "standings": [
         {
-            "name": "Lucas Esper Berthoud"
+            "name": "Lucas Esper Berthoud",
+            "money": 1500
         },
         {
-            "name": "Nicholas Damian"
+            "name": "Nicholas Damian",
+            "money": 1000
         },
         {
             "name": "Francisco Braga",
-            "rank": "3-4"
+            "money": 750
         },
         {
             "name": "Guilherme Fonseca",
-            "rank": "3-4"
+            "money": 750
+        },
+        {
+            "name": "Rafael Coqueiro"
+        },
+        {
+            "name": "Eloi Pattaro"
+        },
+        {
+            "name": "Aristides Camara"
+        },
+        {
+            "name": "Eduardo Lopes"
         }
     ],
     "teamsize": 1

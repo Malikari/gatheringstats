@@ -1,6 +1,6 @@
 {
     "type": "Nationals - China",
-    "date": "January 1-September 30, 2009",
+    "date": "July 25-26, 2009",
     "season": "2009",
     "formats": [
         "Standard",
@@ -8,24 +8,27 @@
     ],
     "medium": "Tabletop",
     "id": "nationals-china-2009",
-    "location": "China",
+    "location": "Beijing, China",
     "logo": "nationals",
     "name": "Nationals China 2009",
     "standings": [
         {
             "name": "Bo Li",
             "propoints": 6,
-            "rank": 3
+            "rank": 3,
+            "money": 1170
         },
         {
             "name": "Wu Tong",
             "propoints": 6,
-            "rank": 4
+            "rank": 4,
+            "money": 880
         },
         {
             "name": "Zhang Zhiyang",
             "propoints": 4,
-            "rank": 8
+            "rank": 8,
+            "money": 365
         },
         {
             "name": "Bo Sun",

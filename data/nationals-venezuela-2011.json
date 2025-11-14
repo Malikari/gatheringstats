@@ -1,9 +1,11 @@
 {
     "type": "Nationals - Venezuela",
+    "coverage": "https://web.archive.org/web/20111008121407/http://www.magicvenezuela.com/2011/09/22/reporte-campeonato-nacional-de-magic-venezuela-2011/#more-3019",
     "date": "September 18, 2011",
     "season": "2011",
     "formats": [
-        "unknown"
+        "Standard",
+        "Booster Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-venezuela-2011",
@@ -13,6 +15,33 @@
     "standings": [
         {
             "name": "Pedro Elias Gutierrez"
+        },
+        {
+            "name": "Jose Nasiff"
+        },
+        {
+            "name": "Tomas Castillo",
+            "rank": "T8"
+        },
+        {
+            "name": "Jorge Acosta",
+            "rank": "T8"
+        },
+        {
+            "name": "Carlo Baldacci",
+            "rank": "T8"
+        },
+        {
+            "name": "Alfredo Torres",
+            "rank": "T8"
+        },
+        {
+            "name": "Adolfo Gonzalez",
+            "rank": "T8"
+        },
+        {
+            "name": "Emilio Nigro",
+            "rank": "T8"
         }
     ],
     "teamsize": 1   

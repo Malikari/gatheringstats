@@ -2,45 +2,60 @@
     "type": "Pro Tour",
     "coverage": "http://web.archive.org/web/20040812090459/http://www.wizards.com/default.asp?x=mtgevent/ptsea04/welcome",
     "date": "July 9-11, 2004",
+    "season": "2003-04",
     "formats": [
         "Team Sealed",
         "Team Rochester Draft"
     ],
+    "structure": [
+        "Day 1: 3 Team Sealeds (2 Mirrodin Tournament Packs, 2 Darksteel Booster, 2 Fifth Dawn Booster) each followed by 2 rounds; cut to 12 points",
+        "Day 2: 5 times each team does a Team Rochester Draft (Mirrodin, Darksteel, Fifth Dawn) against another team, playing with corresponding seats paired against each other; cut to top 4 teams",
+        "Day 3: In the semis and the final teams do a Team Rochester Draft against each other and afterwards play Bo3 with corresponding seats paired against each other and the winner advancing",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
+    ],
     "medium": "Tabletop",
     "id": "pro-tour-seattle--team--2004",
     "location": "Seattle, Washington, United States",
+    "site": "Washington State Convention & Trade Center",
     "logo": "ptlogo",
     "name": "Pro Tour Seattle (Team)",
     "standings": [
         {
             "money": 20000,
-            "name": "Kamiel Cornelissen",
-            "propoints": 20
-        },
-        {
-            "money": 20000,
             "name": "Jeroen Remie",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "gYbsgcGFz0G5TqQHZzI7cA"
         },
         {
             "money": 20000,
             "name": "Jelger Wiegersma",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "DrpV4FvDT0-3F3GMAAcAog"
+        },
+        {
+            "money": 20000,
+            "name": "Kamiel Cornelissen",
+            "propoints": 20,
+            "deck": "v1AAdlThJUSdKk1f0bgIjw"
         },
         {
             "money": 10000,
             "name": "Itaru Ishida",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "i0GSr8XfzEKmOzvcOCgtZA"
         },
         {
             "money": 10000,
             "name": "Tsuyoshi Ikeda",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "v-9q2Rx9wUWFm2RrA6LtAw"
         },
         {
             "money": 10000,
             "name": "Jin Okamoto",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "uilMqfIR9E2xE3Mf1AuYiw"
         },
         {
             "money": 6000,

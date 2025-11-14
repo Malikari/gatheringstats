@@ -1,6 +1,6 @@
 {
     "type": "Nationals - Poland",
-    "date": "January 1-September 30, 2009",
+    "date": "July 4-5, 2009",
     "season": "2009",
     "formats": [
         "Standard",
@@ -8,25 +8,29 @@
     ],
     "medium": "Tabletop",
     "id": "nationals-poland-2009",
-    "location": "Poland",
+    "location": "Warsaw, Poland",
     "logo": "nationals",
     "name": "Nationals Poland 2009",
     "standings": [
         {
             "name": "Slawomir Jabs",
-            "propoints": 10
+            "propoints": 10,
+            "money": 1500
         },
         {
             "name": "Leszek Dutkiewicz",
-            "propoints": 8
+            "propoints": 8,
+            "money": 1200
         },
         {
             "name": "Jacek Skiba",
-            "propoints": 6
+            "propoints": 6,
+            "money": 700
         },
         {
             "name": "Daniel Sarnowski",
-            "propoints": 6
+            "propoints": 6,
+            "money": 700
         }
     ],
     "teamsize": 1

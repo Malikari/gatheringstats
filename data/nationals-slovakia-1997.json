@@ -1,17 +1,42 @@
 {
     "type": "Nationals - Slovakia",
-    "date": "January 1-August 31, 1997",
+    "date": "March 22-23, 1997",
     "formats": [
-        "unknown"
+        "Standard",
+        "Booster Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-slovakia-1997",
-    "location": "Slovakia",
+    "location": "Bratislava, Slovakia",
+    "structure": [
+        "Czech players were allowed to participate"
+    ],
     "logo": "nationals",
     "name": "Nationals Slovakia 1997",
     "standings": [
         {
+            "name": "Peter Marcinko"
+        },
+        {
+            "name": "Jaroslav Sita"
+        },
+        {
             "name": "Rastislav Stranak"
+        },
+        {
+            "name": "Michal Srba"
+        },
+        {
+            "name": "Jakub Slemr"
+        },
+        {
+            "name": "Erik Stankovic"
+        },
+        {
+            "name": "Marin Stranak"
+        },
+        {
+            "name": "Richard Glasner"
         }
     ],
     "teamsize": 1

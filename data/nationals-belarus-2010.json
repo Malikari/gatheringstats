@@ -1,18 +1,41 @@
 {
     "type": "Nationals - Belarus",
-    "date": "January 1-September 30, 2010",
+    "coverage": "https://web.archive.org/web/20100723090049/http://rpg.by/index.php?showtopic=13433",
+    "date": "July 4, 2010",
     "season": "2010",
     "formats": [
-        "unknown"
+        "Standard",
+        "Booster Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-belarus-2010",
-    "location": "Belarus",
+    "location": "Minsk, Belarus",
     "logo": "nationals",
     "name": "Nationals Belarus 2010",
     "standings": [
         {
             "name": "Yehor Polschak"
+        },
+        {
+            "name": "Andrei Pazniak"
+        },
+        {
+            "name": "Alexander Volkov"
+        },
+        {
+            "name": "Pavel Medvedsky"
+        },
+        {
+            "name": "Dmitry Chyzhevsky"
+        },
+        {
+            "name": "Leshko Boris"
+        },
+        {
+            "name": "Pavel Sanachkin"
+        },
+        {
+            "name": "Pavel Ostapchenko"
         }
     ],
     "teamsize": 1

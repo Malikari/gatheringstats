@@ -2,64 +2,84 @@
     "type": "Pro Tour",
     "coverage": "https://web.archive.org/web/20171203142919/https://magic.wizards.com/en/events/coverage/ptxln",
     "date": "November 3-5, 2017",
+    "season": "2017-18",
+    "teamsize": 1,
     "formats": [
-        "Draft",
-        "Standard"
+        "Standard",
+        "Booster Draft"
+    ],
+    "structure": [
+        "Day 1: Booster Draft (3x Ixalan), 3 rounds; 5 rounds (Standard); cut to 12 points",
+        "Day 2: Booster Draft, 3 rounds; 5 rounds (Standard); cut to Top 8",
+        "Day 3: Bo5 single elimination",
+        "---",
+        "Standard legal sets: Kaladesh – Ixalan (5 sets)",
+        "---",
+        "Mulligan: Vancouver (any number of times, always draw one card less, then Scry 1 if you took at least one mulligan)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-ixalan-2017",
     "location": "Albuquerque, New Mexico, United States",
+    "site": "Albuquerque Convention Center",
+    "metadiversity": 7.0,
     "logo": "ptxln",
     "name": "Pro Tour Ixalan",
-    "teamsize": 1,
-  "standings": [
+    "standings": [
     {
         "name": "Seth Manfield",
         "propoints": 30,
         "matchpoints": 38,
-        "money": 50000
+        "money": 50000,
+        "deck": "yJXx2T_ACkCRRNOHYgPyqw"
     },
     {
         "name": "Pascal Maynard",
         "propoints": 26,
         "matchpoints": 38,
-        "money": 20000
+        "money": 20000,
+        "deck": "X6vBHc3j3UmH-1k0qjlspg"
     },
     {
         "name": "John Rolf",
         "propoints": 24,
         "matchpoints": 37,
-        "money": 15000
+        "money": 15000,
+        "deck": "plWPxMHUnUuhbU_1sISDcQ"
     },
     {
         "name": "Samuel Ihlenfeldt",
         "propoints": 22,
         "matchpoints": 36,
-        "money": 12500
+        "money": 12500,
+        "deck": "xYrYkzn0u0Kos_GwT-faqA"
     },
     {
         "name": "Mike Sigrist",
         "propoints": 20,
         "matchpoints": 39,
-        "money": 10000
+        "money": 10000,
+        "deck": "tCPUUwvWN0S_smUbZTSyPA"
     },
     {
         "name": "Christian Hauck",
         "propoints": 18,
         "matchpoints": 39,
-        "money": 9000
+        "money": 9000,
+        "deck": "D3qEh5RAO0WIe-7AzY73pQ"
     },
     {
         "name": "Guillaume Matignon",
         "propoints": 17,
         "matchpoints": 37,
-        "money": 7500
+        "money": 7500,
+        "deck": "f8Op5x_OFk2GhC3TJxr-Hw"
     },
     {
         "name": "Piotr Glogowski",
         "propoints": 16,
         "matchpoints": 37,
-        "money": 6000
+        "money": 6000,
+        "deck": "98MZxmeXYUOh8XVrta1XHQ"
     },
     {
         "name": "Kentaro Yamamoto",

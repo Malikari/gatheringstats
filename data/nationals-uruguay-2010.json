@@ -1,17 +1,39 @@
 {
     "type": "Nationals - Uruguay",
-    "date": "January 1-September 30, 2010",
+    "date": "August 22, 2010",
     "formats": [
-        "unknown"
+        "Standard",
+        "Booster Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-uruguay-2010",
-    "location": "Uruguay",
+    "location": "Montevideo, Uruguay",
     "logo": "nationals",
     "name": "Nationals Uruguay 2010",
     "standings": [
         {
             "name": "Alejandro Betschart"
+        },
+        {
+            "name": "Carlos Garcia"
+        },
+        {
+            "name": "Juan Briozzo"
+        },
+        {
+            "name": "Adrian Garcia"
+        },
+        {
+            "name": "Jorge Sierra"
+        },
+        {
+            "name": "Joaquin Fuentes"
+        },
+        {
+            "name": "Juan Odriozola"
+        },
+        {
+            "name": "Fabian Alvez"
         }
     ],
     "teamsize": 1   

@@ -1,17 +1,40 @@
 {
     "type": "Nationals - El Salvador",
-    "date": "January 1-September 30, 2010",
+    "coverage": "https://web.archive.org/web/20100730215753/http://www.deckcheck.net/event.php?event=Nationals+2010+-+El+Salvador",
+    "date": "July 25, 2010",
     "formats": [
-        "unknown"
+        "Standard",
+        "Booster Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-el-salvador-2010",
-    "location": "El Salvador",
+    "location": "Antiguo Cuscatlan, El Salvador",
     "logo": "nationals",
     "name": "Nationals El Salvador 2010",
     "standings": [
         {
             "name": "Ricardo Cabrero"
+        },
+        {
+            "name": "Carlos Huezo"
+        },
+        {
+            "name": "Jonathan Amaya"
+        },
+        {
+            "name": "Javier Morales"
+        },
+        {
+            "name": "Carlos Borja"
+        },
+        {
+            "name": "Enrique Javier Lemus Molina"
+        },
+        {
+            "name": "Jose Eduardo Nasser"
+        },
+        {
+            "name": "Luis Carlos Tenorio"
         }
     ],
     "teamsize": 1   

@@ -2,14 +2,29 @@
     "type": "Pro Tour",
     "coverage": "https://web.archive.org/web/20030819054943/http://www.wizards.com/default.asp?x=sideboard/events/worlds03",
     "date": "August 6-10, 2003",
+    "season": "2002-03",
     "formats": [
         "Standard",
-        "Draft",
-        "Block Constructed"
+        "Rochester Draft",
+        "Extended"
+    ],
+    "structure": [
+        "Day 1: 6 rounds (Standard)",
+        "Day 2: 2 Rochester Drafts (Onslaught, Legions, Scourge) each followed by 3 rounds",
+        "Day 3: 6 rounds (Extended); cut to Top 8",
+        "Day 4: Team play",
+        "Day 5: Bo5 single elimination (Standard decks from day 1)",
+        "---",
+        "Standard legal sets: Odyssey – Scourge, Eighth Edition (7 sets)",
+        "Extended legal sets: Tempest – Scourge, Sixth Edition – Eighth Edition (21 sets)",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "world-championships-2003",
     "location": "Berlin, Germany",
+    "site": "Estrel Convention Center",
+    "metadiversity": 6.7,
     "logo": "ptlogo",
     "name": "2003 World Championships",
     "standings": [
@@ -17,44 +32,52 @@
             "money": 35000,
             "name": "Daniel Zink",
             "propoints": 32,
-            "report": ["http://magic.tcgplayer.com/db/article.asp?ID=3282", "http://magic.tcgplayer.com/db/article.asp?ID=3287"]
+            "report": ["http://magic.tcgplayer.com/db/article.asp?ID=3282", "http://magic.tcgplayer.com/db/article.asp?ID=3287"],
+            "deck": "Rr2PxKmBlkyhbQ2U63FbTQ"
         },
         {
             "money": 23000,
             "name": "Jin Okamoto",
-            "propoints": 24
+            "propoints": 24,
+            "deck": "f0NYJIRycUWSemkMn2DLaA"
         },
         {
             "money": 15000,
             "name": "Tuomo Nieminen",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "1VYb8AeeEUSkRetlXFiUJw"
         },
         {
             "money": 13000,
             "name": "David Humpherys",
             "propoints": 16,
-            "report": ["http://magic.tcgplayer.com/db/article.asp?ID=3298", "http://magic.tcgplayer.com/db/article.asp?ID=3311"]
+            "report": ["http://magic.tcgplayer.com/db/article.asp?ID=3298", "http://magic.tcgplayer.com/db/article.asp?ID=3311"],
+            "deck": "TXypVCf2ikC5eg_dMPPBDg"
         },
         {
             "money": 9500,
             "name": "Jeroen Remie",
             "propoints": 12,
-            "report": ["http://magic.tcgplayer.com/db/article.asp?ID=3263", "http://magic.tcgplayer.com/db/article.asp?ID=3286"]
+            "report": ["http://magic.tcgplayer.com/db/article.asp?ID=3263", "http://magic.tcgplayer.com/db/article.asp?ID=3286"],
+            "deck": "5Qer4Cqx4Uq4pMdiHHmUzQ"
         },
         {
             "money": 8500,
             "name": "Peer Kröger",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "HsPlA8pxWkaFmhvNhqXOBA"
         },
         {
             "money": 7500,
             "name": "Wolfgang Eder",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "-CxMvFM1uEqBvPKio2daPg"
         },
         {
             "money": 6500,
             "name": "Gabe Walls",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "CI6TvaLtBk-W9p9Vz5y9tQ"
         },
         {
             "money": 6000,
@@ -100,7 +123,8 @@
         {
             "money": 3000,
             "name": "Kai Budde",
-            "propoints": 7
+            "propoints": 7,
+            "report": "http://web.archive.org/web/20031009012635/http://www.wizards.com/default.asp?x=sideboard/feature/20030815b"
         },
         {
             "money": 2750,
@@ -109,7 +133,7 @@
         },
         {
             "money": 2550,
-            "name": "Han Yuen Soh",
+            "name": "Joe Soh",
             "propoints": 7
         },
         {
@@ -406,7 +430,11 @@
         },
         {
             "name": "Brian Kibler",
-            "propoints": 3
+            "propoints": 3,
+            "report":[
+                "http://web.archive.org/web/20031003232436/http://www.wizards.com/default.asp?x=sideboard/strategy/20030821a",
+                "http://web.archive.org/web/20031216082452/http://www.wizards.com/default.asp?x=sideboard/strategy/20030822a"
+            ]
         },
         {
             "name": "Matthew Linde",

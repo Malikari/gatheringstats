@@ -2,51 +2,74 @@
     "type": "Pro Tour",
     "coverage": "https://web.archive.org/web/20021004090608/http://www.wizards.com/sideboard/event.asp?event=Worlds2001",
     "date": "August 8-12, 2001",
+    "season": "2000-01",
     "formats": [
         "Standard",
         "Rochester Draft",
         "Extended"
     ],
+    "structure": [
+        "Day 1: 6 rounds (Standard)",
+        "Day 2: 2 Rochester Drafts (Invasion, Planeshift, Apocalypse) each followed by 3 rounds",
+        "Day 3: 6 rounds (Extended); cut to Top 8",
+        "Day 4: Team play",
+        "Day 5: Bo5 single Elimination (Standard decks from day 1)",
+        "---",
+        "Standard legal sets: Mercadian Masques – Apocalypse , Seventh Edition (7 sets)",
+        "Extended legal sets: Ice Age – Apocalypse, Fifth Edition – Seventh Edition, the 10 original dual lands (21 sets)",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)",
+        "---",
+        "Special incident: David Williams was disqualified after the fourth game of his quarterfinal match against Tom van de Logt. The judges deemed three of Williams's Accumulated Knowledges to be marked, and Williams to have used this to his advantage. John Ormerod thus moved up into 8th position without having played on Sunday."
+    ],
     "medium": "Tabletop",
     "id": "world-championships-2001",
     "location": "Toronto, Canada",
+    "site": "Metro Toronto Convention Center",
     "logo": "ptlogo",
     "name": "2001 World Championships",
     "standings": [
         {
             "money": 35000,
             "name": "Tom Van de Logt",
-            "propoints": 32
+            "propoints": 32,
+            "deck": "45wr2DeubE2oMdiasK_bLw"
         },
         {
             "money": 23000,
             "name": "Alex Borteh",
-            "propoints": 24
+            "propoints": 24,
+            "deck": "LI7KKbJ0QE-_YqGnA9GSSw"
         },
         {
             "money": 15000,
             "name": "Antoine Ruel",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "zAmoeXL5J0C0tTcA-Aixfg"
         },
         {
             "money": 13000,
             "name": "Andrea Santin",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "i0cwUj2Plk2EFeVCE5KG1w"
         },
         {
             "money": 9500,
             "name": "Michael Turian",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "K9y20TJ9T0GdE5A-EEhmjw"
         },
         {
             "money": 8500,
             "name": "Jan Tomcani",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "pSAaOGNFhUejnPvDLvlhyA"
         },
         {
             "money": 7500,
             "name": "Tommi Hovi",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "mfsMooFRPU2TPzfNWxzeJg"
         },
         {
             "money": 6500,
@@ -1260,11 +1283,13 @@
         },
         {
             "name": "David Williams",
-            "rank": "DQ"
+            "rank": "DQ",
+            "dq": "https://web.archive.org/web/20021018184657/http://www.wizards.com/sideboard/article.asp?x=Worlds2001%5c466williamsdq"
         },
         {
             "name": "Ding Leong",
-            "rank": "DQ"
+            "rank": "DQ",
+            "dq": "https://web.archive.org/web/20021019135534/http://www.wizards.com/sideboard/article.asp?x=Worlds2001%5c791dq"
         }
     ],
     "teamsize": 1

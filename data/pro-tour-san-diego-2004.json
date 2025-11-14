@@ -2,55 +2,72 @@
     "type": "Pro Tour",
     "coverage": "http://web.archive.org/web/20040605200459/http://www.wizards.com/default.asp?x=mtgevent/ptsd04/welcome",
     "date": "May 14-16, 2004",
+    "season": "2003-04",
     "formats": [
-        "Draft"
+        "Booster Draft"
+    ],
+    "structure": [
+        "Day 1: Booster Draft (2x Mirrodin, 1x Darksteel), 3 rounds; Booster Draft, 3 rounds; cut to 12 points; Booster Draft, 1 round",
+        "Day 2: 2 rounds (decks from the previous day's 3rd draft); Booster Draft, 3 rounds; 3 rounds on in-pod Swiss play; cut to Top 8",
+        "Day 3: Booster Draft, Bo5 single elimination",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-san-diego-2004",
     "location": "San Diego, California, United States",
+    "site": "San Diego Convention Center",
     "logo": "ptlogo",
     "name": "Pro Tour San Diego",
     "standings": [
         {
             "money": 30000,
             "name": "Nicolai Herzog",
-            "propoints": 32
+            "propoints": 32,
+            "deck": "u_-7sO9ORkiRA6ZC38YgRA"
         },
         {
             "money": 20000,
             "name": "Antoine Ruel",
-            "propoints": 24
+            "propoints": 24,
+            "deck": "hrBJa5_ytkOOp16PSX1w3A"
         },
         {
             "money": 15000,
             "name": "Michael Turian",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "FJvoZaEqfkqJV44STYFkwA"
         },
         {
             "money": 13000,
             "name": "Anton Jonsson",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "hqnFUjAL50KQEAB8tj4pWg"
         },
         {
             "money": 9500,
             "name": "Mark Herberholz",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "_oFfG0Q_a0imLpzXUpwlZA"
         },
         {
             "money": 8500,
             "name": "Ben Stark",
             "propoints": 12,
-            "report": "http://magic.tcgplayer.com/db/article.asp?ID=4116"
+            "report": "http://magic.tcgplayer.com/db/article.asp?ID=4116",
+            "deck": "1KLQpRz4xUWNFvLntitA8w"
         },
         {
             "money": 7500,
             "name": "Angel Perez del Pozo",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "3gA_Qhml-UqpbSrWX5KT9w"
         },
         {
             "money": 6500,
             "name": "Masashi Oiso",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "QMBs_MFRCEWRtGgiPVK2Cw"
         },
         {
             "money": 6000,
@@ -853,7 +870,7 @@
             "propoints": 2
         },
         {
-            "name": "Daniel Kramer-Stein",
+            "name": "Daniel Kramer",
             "propoints": 2
         },
         {

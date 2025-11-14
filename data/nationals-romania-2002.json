@@ -1,9 +1,10 @@
 {
     "type": "Nationals - Romania",
+    "report": "https://web.archive.org/web/20020610072014/http://deckmaster.ems.ro/section/concurs/rapoarte/top8-nationale2002.html",
     "date": "May 4-5, 2002",
     "formats": [
         "Standard",
-        "? Draft"
+        "Booster Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-romania-2002",
@@ -12,7 +13,37 @@
     "name": "Nationals Romania 2002",
     "standings": [
         {
-            "name": "Kostya Bogdan"
+            "name": "Bogdan Costea"
+        },
+        {
+            "name": "Valentin Urziceanu"
+        },
+        {
+            "name": "Tudor Serban"
+        },
+        {
+            "name": "Andrei Joghiu"
+        },
+        {
+            "name": "Vlad Gheorghiu",
+            "rank": "5-8"
+        },
+        {
+            "name": "Alex Cernahoschi",
+            "rank": "5-8"
+        },
+        {
+            "name": "Bogdan Rapa",
+            "rank": "5-8"
+        },
+        {
+            "name": "Gheorghe Catalin",
+            "rank": "5-8"
+        },
+        {
+            "name": "Alexandru Dumitrescu",
+            "rank": "A",
+            "report": "https://web.archive.org/web/20030304132103/http://deckmaster.ems.ro/section/concurs/rapoarte/Type%20II%20Nationale%2021.04.2002-%20Andu.html"
         }
     ],
     "teamsize": 1
