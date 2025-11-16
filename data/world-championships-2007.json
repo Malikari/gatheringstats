@@ -2,56 +2,78 @@
     "type": "Pro Tour",
     "coverage": "https://web.archive.org/web/20080212094840/http://www.wizards.com/default.asp?x=mtgevent/worlds07/welcome",
     "date": "December 6-9, 2007",
+    "season": "2007",
     "formats": [
         "Standard",
-        "Draft",
+        "Booster Draft",
         "Legacy"
+    ],
+    "structure": [
+        "Day 1: 5 rounds (Standard); Booster Draft (3x Lorwyn), 3 rounds",
+        "Day 2: Booster Draft (3x Lorwyn), 3 rounds; 5 rounds (Legacy); cut to Top 8",
+        "Day 3: Team play (3 2HG-Booster Drafts each followed by 2 rounds); cut to Top 2 teams",
+        "Day 4: Bo1 Team competition (2HG-Booster Draft); Bo5 single elimination (Standard decks from day 1)",
+        "---",
+        "Standard legal sets: Time Spiral – Lorwyn, Tenth Edition (5 sets)",
+        "Legacy legal sets: All sets up to and including Lorwyn (53 sets)",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "world-championships-2007",
     "location": "New York, New York, United States",
+    "site": "Jacob K. Javits Center of New York",
+    "metadiversity": 13.6,
     "logo": "ptlogo",
     "name": "2007 World Championships",
     "standings": [
         {
             "money": 40000,
             "name": "Uri Peleg",
-            "propoints": 25
+            "propoints": 25,
+            "deck": "GtbHyRJiHEqim4bYEEbfCw"
         },
         {
             "money": 22000,
             "name": "Patrick Chapin",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "sOba4Jj8jUyIBk-cEWhnqA"
         },
         {
             "money": 15000,
             "name": "Gabriel Nassif",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "td3BZrw3bkeIiae6FZPOIQ"
         },
         {
             "money": 14000,
             "name": "Koutarou Ootsuka",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "NHbk7fXVkEuFcu_nXYWPog"
         },
         {
             "money": 11000,
             "name": "Christoph Huber",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "gfT81ml7_kmhaI7W9qg_Ig"
         },
         {
             "money": 10000,
             "name": "Yoshitaka Nakano",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "WmrZmzihJUKtVZn7SwF6MA"
         },
         {
             "money": 9000,
             "name": "Katsuhiro Mori",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "s_fIUu4kYkq_6BZQB9FaTQ"
         },
         {
             "money": 8000,
             "name": "Roel van Heeswijk",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "0dvOfMmXek6_cugYaQQfxQ"
         },
         {
             "money": 6000,
@@ -914,7 +936,7 @@
             "propoints": 2
         },
         {
-            "name": "Andres Mejia",
+            "name": "Andres Mejia Gallego",
             "propoints": 2
         },
         {

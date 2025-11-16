@@ -1,9 +1,10 @@
 {
     "type": "Nationals - Singapore",
-    "date": "January 1-August 31, 2003",
+    "coverage": "https://web.archive.org/web/20030703112130/http://wizards.com/default.asp?x=sideboard/info/natsing03decks",
+    "date": "June 21-22, 2003",
     "formats": [
         "Standard",
-        "? Draft"
+        "Rochester Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-singapore-2003",
@@ -12,20 +13,32 @@
     "name": "Nationals Singapore 2003",
     "standings": [
         {
-            "name": "Kok Seng Ong"
+            "name": "Kok Seng Ong",
+            "money": 1800
         },
         {
-            "name": "Way Leong Zee"
+            "name": "Way Leong Zee",
+            "money": 1400
         },
         {
-            "name": "Rondy Krish"
+            "name": "Rondy Krish",
+            "money": 900
         },
         {
-            "name": "Chapman Sim"
+            "name": "Chapman Sim",
+            "money": 700
         },
         {
-            "name": "Kelvin Yew Teck Hoon",
-            "rank": "5-8"
+            "name": "Kelvin Yew Teck Hoon"
+        },
+        {
+            "name": "Joseph Tan Boon Kiat"
+        },
+        {
+            "name": "Lance Chin-Wei Yeong"
+        },
+        {
+            "name": "Gary Tan"
         }
     ],
     "teamsize": 1

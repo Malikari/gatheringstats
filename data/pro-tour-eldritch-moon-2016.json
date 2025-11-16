@@ -2,13 +2,25 @@
     "type": "Pro Tour",
     "coverage": "https://web.archive.org/web/20160830213609/http://magic.wizards.com/en/events/coverage/ptemn",
     "date": "August 5-7, 2016",
+    "season": "2015-16",
     "formats": [
-        "Draft",
-        "Standard"
+        "Standard",
+        "Booster Draft"
+    ],
+    "structure": [
+        "Day 1: Booster Draft (2x Eldritch Moon, 1x Shadows over Innistrad), 3 rounds; 5 rounds (Standard); cut to 12 points",
+        "Day 2: Booster Draft, 3 rounds; 5 rounds (Standard); cut to Top 8",
+        "Day 3: Bo5 single elimination",
+        "---",
+        "Standard legal sets: Khans of Tarkir – Eldritch Moon, Magic Origins (6 sets)",
+        "---",
+        "Mulligan: Vancouver (any number of times, always draw one card less, then Scry 1 if you took at least one mulligan)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-eldritch-moon-2016",
     "location": "Sydney, Australia",
+    "site": "Sydney Showground/Sydney Olympic Park",
+    "metadiversity": 13.0,
     "logo": "ptemn",
     "name": "Pro Tour Eldritch Moon",
     "standings": [
@@ -23,7 +35,8 @@
             "fiwin": true,
             "t8rounds": 3,
             "money": 40000,
-            "team": "Cabin Crew"
+            "team": "Cabin Crew",
+            "deck": "NwEQHGKJxUevPdO9pRm_kA"
         },
         {
             "name": "Owen Turtenwald",
@@ -36,7 +49,8 @@
             "fiwin": false,
             "t8rounds": 3,
             "money": 20000,
-            "team": "The Pantheon"
+            "team": "The Pantheon",
+            "deck": "WVOFeE2OJkeP-3ETBsTHSA"
         },
         {
             "name": "Samuel Pardee",
@@ -48,7 +62,8 @@
             "sfwin": false,
             "t8rounds": 2,
             "money": 12500,
-            "team": "Face to Face Games"
+            "team": "Face to Face Games",
+            "deck": "nV_hYBuLSUyqnI-aWZPg-g"
         },
         {
             "name": "Luis Scott-Vargas",
@@ -60,7 +75,8 @@
             "sfwin": false,
             "t8rounds": 2,
             "money": 12500,
-            "team": "ChannelFireball"
+            "team": "ChannelFireball",
+            "deck": "_j6YpFBcaEmcR7LpUHiwTQ"
         },
         {
             "name": "Yuta Takahashi",
@@ -71,7 +87,8 @@
             "qfwin": false,
             "t8rounds": 1,
             "money": 10000,
-            "team": "Hareruya Pros"
+            "team": "Hareruya Pros",
+            "deck": "hQk1u3ME2UijnZvvUGETmA"
         },
         {
             "name": "Ken Yukuhiro",
@@ -81,7 +98,8 @@
             "seed": 5,
             "qfwin": false,
             "t8rounds": 1,
-            "money": 10000
+            "money": 10000,
+            "deck": "ybJh913ON0-J8OSpK5Wj_A"
         },
         {
             "name": "Reid Duke",
@@ -92,7 +110,8 @@
             "qfwin": false,
             "t8rounds": 1,
             "money": 10000,
-            "team": "The Pantheon"
+            "team": "The Pantheon",
+            "deck": "qamwhkmBIk-gHAOrPS41ag"
         },
         {
             "name": "Andrew Brown",
@@ -103,7 +122,8 @@
             "qfwin": false,
             "t8rounds": 1,
             "money": 10000,
-            "team": "East West Bowl"
+            "team": "East West Bowl",
+            "deck": "atJYVcbhPE2ZJt9CQIOjEg"
         },
         {
             "name": "Katsuhiro Mori",

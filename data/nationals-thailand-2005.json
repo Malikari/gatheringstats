@@ -1,30 +1,31 @@
 {
     "type": "Nationals - Thailand",
-    "date": "January 1-September 30, 2005",
+    "date": "September 3-4, 2005",
     "formats": [
         "Standard",
         "Booster Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-thailand-2005",
-    "location": "Thailand",
+    "location": "Bangkok, Thailand",
     "logo": "nationals",
     "name": "Nationals Thailand 2005",
     "standings": [
         {
-            "name": "Mongkol Tachasukjai"
+            "name": "Mongkol Tachasukjai",
+            "money": 1200
         },
         {
             "name": "Seangchak Sattabanasuk",
-            "rank": "2-8"
+            "money": 800
         },
         {
             "name": "Chet Surapanpitak",
-            "rank": "2-8"
+            "money": 600
         },
         {
             "name": "Teerachai Teeradechsakul",
-            "rank": "2-8"
+            "money": 400
         }
     ],
     "teamsize": 1

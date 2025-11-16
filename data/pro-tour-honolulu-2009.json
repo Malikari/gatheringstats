@@ -2,55 +2,75 @@
     "type": "Pro Tour",
     "coverage": "http://web.archive.org/web/20090611145959/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/pthon09/welcome",
     "date": "June 5-7, 2009",
+    "season": "2009",
     "formats": [
-        "Draft",
-        "Block Constructed"
+        "Booster Draft",
+        "Alara Block Constructed"
+    ],
+    "structure": [
+        "Day 1: 5 rounds (Alara Block Constructed); Booster Draft (Shards of Alara, Conflux, Alara Reborn), 3 rounds; cut to 15 points",
+        "Day 2: Booster Draft, 3 rounds; 5 rounds (Alara Block Constructed); cut to Top 8",
+        "Day 3: Booster Draft, Bo5 single elimination",
+        "---",
+        "Legal sets: Shards of Alara, Conflux (2 sets)",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-honolulu-2009",
     "location": "Honolulu, Hawaii, United States",
+    "site": "Hawaii Convention Center",
+    "metadiversity": 7.4,
     "logo": "ptlogo",
     "name": "Pro Tour Honolulu",
     "standings": [
         {
             "money": 40000,
             "name": "Kazuya Mitamura",
-            "propoints": 25
+            "propoints": 25,
+            "deck": "V33Ic0c0fU2Ip6SpJXnSfw"
         },
         {
             "money": 20000,
             "name": "Michal Hebky",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "U7U9gofFrES6ckqo8yVV5Q"
         },
         {
             "money": 15000,
             "name": "Paul Rietzl",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "wtHAQdZTz0O6uSikEl3oPA"
         },
         {
             "money": 13000,
             "name": "Conley Woods",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "k0jF1AIjQkCfjIVdJXPcdw"
         },
         {
             "money": 11000,
             "name": "Christophe Gregoir",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "jqBbggYAnUi-Skmuz_Dnrg"
         },
         {
             "money": 10500,
             "name": "Zac Hill",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "ZpeJrhoUdEaN59f4aXm_WQ"
         },
         {
             "money": 10000,
             "name": "Brian Kibler",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "fpQ65roKr0-S2J-jTr8Txg"
         },
         {
             "money": 9500,
             "name": "Tom Ross",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "eP6v8ZR2NkOF49Lu7RFcDg"
         },
         {
             "money": 7000,

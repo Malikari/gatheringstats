@@ -117,12 +117,10 @@ const Player = () => {
           </div>
         </div>
         <div className="Stat-alert alert alert-info">
-          <div className="Stat-value">{player.getMoney()}</div>
-          <div>
-            <Link className="Stat-link" to="/rankings/money">
-              Total Money
-            </Link>
-          </div>
+          <div className="Stat-value">{player.stats.amp}</div>
+          <Link className="Stat-link" to="/rankings/amp">
+            Total AMP
+          </Link>
         </div>
         <div className="Stat-alert alert alert-info">
           <div className="Stat-value">{player.stats.points}</div>
@@ -133,18 +131,20 @@ const Player = () => {
           </div>
         </div>
         <div className="Stat-alert alert alert-info">
-          <div className="Stat-value">{player.stats.amp}</div>
-          <Link className="Stat-link" to="/rankings/amp">
-            Total AMP
-          </Link>
+          <div className="Stat-value">{player.getMoney()}</div>
+          <div>
+            <Link className="Stat-link" to="/rankings/money">
+              Total Money
+            </Link>
+          </div>
         </div>
       </div>
       <h2>Pro Tours</h2>
       <TournamentsTable items={player.tournaments} condition={(type) => (type === 'Pro Tour')} />
-      <h2>Grand Prix</h2>
-      <TournamentsTable items={player.tournaments} condition={(type) => type === 'Grand Prix'} />
+      <h2>Grand Prix / Spotlights</h2>
+      <TournamentsTable items={player.tournaments} condition={(type) => (type === 'Grand Prix' || type === 'Magic Spotlight')} />
       <h2>Other Tournaments</h2>
-      <TournamentsTable items={player.tournaments} condition={(type) => (type !== 'Pro Tour' && type !== 'Grand Prix')} />
+      <TournamentsTable items={player.tournaments} condition={(type) => (type !== 'Pro Tour' && type !== 'Grand Prix' && type !== 'Magic Spotlight')} />
     </div>
   );
 };

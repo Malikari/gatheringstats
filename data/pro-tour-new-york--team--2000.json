@@ -2,13 +2,22 @@
     "type": "Pro Tour",
     "coverage": "https://web.archive.org/web/20010619204219/http://www.wizards.com/sideboard/article.asp?x=PTNY0001/welcome",
     "date": "September 29-October 1, 2000",
+    "season": "2000-01",
     "formats": [
         "Team Sealed",
-        "Team Draft"
+        "Team Rochester Draft"
+    ],
+    "structure": [
+        "Day 1: 3 Team Sealeds (Mercadian Masquest, Nemesis, Prophecy) each followed by 2 rounds; cut to Top 32 teams",
+        "Day 2: 5 times each team does a Team Rochester Draft (Mercadian Masques, Nemesis, Prophecy) against another team, playing with corresponding seats paired against each other; cut to top 4 teams",
+        "Day 3: In the semis and the final teams do a Team Rochester Draft against each other and afterwards play Bo3 with corresponding seats paired against each other and the winner advancing",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-new-york--team--2000",
     "location": "New York, New York, United States",
+    "site": "Madison Square Garden",
     "logo": "ptlogo",
     "name": "Pro Tour New York (Team)",
     "standings": [
@@ -16,35 +25,41 @@
             "money": 20000,
             "name": "Scott Johns",
             "propoints": 24,
-            "report": "http://web.archive.org/web/20010726210554/http://magic.mindripper.com/Index.cfm?ArticleID=935&SectionID=3&Show=All"
+            "report": "http://web.archive.org/web/20010726210554/http://magic.mindripper.com/Index.cfm?ArticleID=935&SectionID=3&Show=All",
+            "deck": "JvlWihHKrkeURQfI4CkJbg"
         },
         {
             "money": 20000,
             "name": "Gary Wise",
-            "propoints": 24
+            "propoints": 24,
+            "deck": "Tfdhg6j2RUetF7gSOLWKXQ"
         },
         {
             "money": 20000,
             "name": "Michael Turian",
             "propoints": 24,
-            "report": "http://web.archive.org/web/20010528024143/http://magic.mindripper.com/Index.cfm?ArticleID=950&SectionID=3&Show=All"
+            "report": "http://web.archive.org/web/20010528024143/http://magic.mindripper.com/Index.cfm?ArticleID=950&SectionID=3&Show=All",
+            "deck": "Z51b2jcGxU2fRjD80Do5jw"
         },
         {
             "money": 10000,
             "name": "Andrew Cuneo",
             "propoints": 12,
-            "report": "https://web.archive.org/web/20010110050100/http://thedojo.com/t001/ptny.001004acu.shtml"
+            "report": "https://web.archive.org/web/20010110050100/http://thedojo.com/t001/ptny.001004acu.shtml",
+            "deck": "5YYC5laJbEW0G8lMaVrXKQ"
         },
         {
             "money": 10000,
             "name": "Andrew Johnson",
             "propoints": 12,
-            "report": "http://web.archive.org/web/20010430164553/http://magic.mindripper.com/Index.cfm?ArticleID=1058&SectionID=3&Show=All"
+            "report": "http://web.archive.org/web/20010430164553/http://magic.mindripper.com/Index.cfm?ArticleID=1058&SectionID=3&Show=All",
+            "deck": "0S_T6Cfu6EOiu_eZyh3n6w"
         },
         {
             "money": 10000,
             "name": "Aaron Forsythe",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "Lpo5ZL8CIk676FWLk6JMTw"
         },
         {
             "money": 6000,

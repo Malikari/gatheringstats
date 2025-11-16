@@ -2,54 +2,74 @@
     "type": "Pro Tour",
     "coverage": "https://web.archive.org/web/20030325062546/http://www.wizards.com/default.asp?x=sideboard/events/ptven03",
     "date": "March 21-23, 2003",
+    "season": "2002-03",
     "formats": [
-        "Block Constructed"
+        "Onslaught Block Constructed"
+    ],
+    "structure": [
+        "Day 1: 7 rounds (Onslaught Block Constructed); cut to 13 points",
+        "Day 2: 7 rounds; cut to Top 8",
+        "Day 3: Bo5 single elimination",
+        "---",
+        "Block Constructed legal sets: Onslaught, Legions (2 sets)",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-venice-2003",
     "location": "Venice, Italy",
+    "site": "Palazzo dell'Ex Casino di Venezia",
     "logo": "ptlogo",
     "name": "Pro Tour Venice",
     "standings": [
         {
             "money": 30000,
             "name": "Osyp Lebedowicz",
-            "propoints": 32
+            "propoints": 32,
+            "deck": "dz77r7U8AUKllwlkpvdcZQ"
         },
         {
             "money": 20000,
             "name": "Tomi Walamies",
-            "propoints": 24
+            "propoints": 24,
+            "deck": "ldtxYmYah065IeNjgGwW8Q"
         },
         {
             "money": 15000,
             "name": "Jordan Berkowitz",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "pfQAuD5GDkGuUU-Lw1XbVA"
         },
         {
             "money": 13000,
             "name": "William Jensen",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "YuiypgxiBEude5cUPQJ3BA"
         },
         {
             "money": 9500,
             "name": "Gabriel Nassif",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "QyC2KSPQqUm7v2FgbLemmA"
         },
         {
             "money": 8500,
             "name": "Darwin Kastle",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "YX2QoGId60O-TlDNiO_AfA"
         },
         {
             "money": 7500,
             "name": "Akihiro Kashima",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "SK05oOygAkaabfsvstvdog",
+            "report": "https://web.archive.org/web/20031014110220/http://www.wizards.com/default.asp?x=sideboard/jpstrategy/20030522a,,ja"
         },
         {
             "money": 6500,
             "name": "Mattias Jorstedt",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "ovLmCrAchEaWeFvSms-dXg"
         },
         {
             "money": 6000,
@@ -1324,7 +1344,8 @@
         },
         {
             "name": "Ryan Fuller",
-            "rank": "DQ"
+            "rank": "DQ",
+            "dq": "https://web.archive.org/web/20030415061127/http://www.wizards.com/default.asp?x=sideboard/ptven03/dqfuller,,en"
         }
     ],
     "teamsize": 1

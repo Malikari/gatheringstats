@@ -1,30 +1,47 @@
 {
     "type": "Nationals - Brazil",
-    "date": "January 1-September 30, 2005",
+    "date": "September 10-11, 2005",
     "formats": [
         "Standard",
         "Booster Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-brazil-2005",
-    "location": "Brazil",
+    "location": "Sao Paulo, Brazil",
     "logo": "nationals",
     "name": "Nationals Brazil 2005",
     "standings": [
         {
-            "name": "Pedro Henrique Uehara"
+            "name": "Pedro Henrique Uehara",
+            "money": 2300
         },
         {
             "name": "Willy Edel",
-            "rank": "2-8"
+            "money": 1400
         },
         {
             "name": "Lucas Esper Berthoud",
-            "rank": "2-8"
+            "money": 900
         },
         {
             "name": "Sergio Costa",
-            "rank": "2-8"
+            "money": 700
+        },
+        {
+            "name": "Sergio Fialho Martins",
+            "money": 550
+        },
+        {
+            "name": "Rafael Mendonca",
+            "money": 500
+        },
+        {
+            "name": "Joao Paulo Araujo",
+            "money": 350
+        },
+        {
+            "name": "Otavio Pereira",
+            "money": 300
         }
     ],
     "teamsize": 1

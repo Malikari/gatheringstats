@@ -1,8 +1,9 @@
 {
     "type": "Nationals - Chile",
-    "date": "January 1-December 31, 2006",
+    "date": "September 2-3, 2006",
     "formats": [
-        "unknown"
+        "Standard",
+        "Booster Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-chile-2006",
@@ -18,6 +19,13 @@
         },
         {
             "name": "Andres Camargo"
+        },
+        {
+            "name": "Sebastian Oyarzun"
+        },
+        {
+            "name": "Jose Luis Capdevila",
+            "rank": "NT"
         }
     ],
     "teamsize": 1

@@ -8,19 +8,31 @@
     ],
     "medium": "Tabletop",
     "id": "pro-tour-los-angeles-1997",
-    "location": "Los Angeles, California, United States",
+    "location": "Long Beach, California, United States",
+    "site": "RMS Queen Mary",
+    "structure": [
+        "Day 1: 2 Rochester Drafts (2x Mirage, 1x Visions) each followed by 3 rounds; cut to Top 64",
+        "Day 2: 2 Rochester Drafts each followed by 3 rounds; cut to top 8",
+        "Day 3: Rochester Draft, single elimination (Bo3 quarterfinals, Bo5 thereafter)",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)",
+        "---",
+        "Special incidents: David Mills was disqualfied during the final. Leading two games to one, he cast a spell before tapping his lands, an action illegal at the time. As Mills had accrued two penalties for this already, the judges followed the upgrade path, escalating the penalty to the next and final level, disqualification from the tournament. Mills would have lost his prize money as well as the match, but Tournament Manager Andrew Finch decided that leniency would be shown, and Mills got to keep his 2nd place including $16,000 in prize money."
+    ],
     "logo": "ptlogo",
     "name": "Pro Tour Los Angeles",
     "standings": [
         {
             "money": 26000,
             "name": "Tommi Hovi",
-            "propoints": 30
+            "propoints": 30,
+            "deck": "q3CACSABukChbkMGgH3iEA"
         },
         {
             "money": 16000,
             "name": "David Mills",
-            "propoints": 25
+            "propoints": 25,
+            "deck": "ARkNb0JXxEqO0tptVNltCw"
         },
         {
             "money": 9000,
@@ -768,7 +780,8 @@
             "name": "Julien Mozziconacci"
         },
         {
-            "name": "Chris Pikula"
+            "name": "Chris Pikula",
+            "report": "https://groups.google.com/g/rec.games.trading-cards.magic.misc/c/PwiiCTTEicA/m/RtVlZUGKM2MJ"
         },
         {
             "name": "Travis Thomas"

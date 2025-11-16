@@ -2,54 +2,72 @@
     "type": "Pro Tour",
     "coverage": "https://web.archive.org/web/20030516115557/http://www.wizards.com/default.asp?x=sideboard/events/ptyok03",
     "date": "May 9-11, 2003",
+    "season": "2002-03",
     "formats": [
-        "Draft"
+        "Booster Draft"
+    ],
+    "structure": [
+        "Day 1: Booster Draft (2x Onslaught, 1x Legions), 4 rounds; Booster Draft, 3 rounds; cut to 13 points",
+        "Day 2: Booster Draft, 4 rounds; Booster Draft, 3 rounds; cut to Top 8",
+        "Day 3: Booster Draft, Bo5 single elimination",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-yokohama-2003",
     "location": "Yokohama, Japan",
+    "site": "Pacifico Yokohama",
     "logo": "ptlogo",
     "name": "Pro Tour Yokohama",
     "standings": [
         {
             "money": 30000,
             "name": "Mattias Jorstedt",
-            "propoints": 32
+            "propoints": 32,
+            "deck": "F729WW-rx0mmCV6igVqz4w"
         },
         {
             "money": 20000,
             "name": "Masashi Oiso",
-            "propoints": 24
+            "propoints": 24,
+            "deck": "fuvev06zC0evtRleYCtw_Q"
         },
         {
             "money": 15000,
             "name": "Tsuyoshi Ikeda",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "vES7Jdcc_UCKLcsfISrTxQ",
+            "report": "https://web.archive.org/web/20031128121842/http://www.wizards.com/default.asp?x=sideboard/jpstrategy/20030625a,,ja"
         },
         {
             "money": 13000,
             "name": "Jon Finkel",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "ZhlT3QUCSEmL8va_h9v1lQ"
         },
         {
             "money": 9500,
             "name": "Benjamin Caumes",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "4_sK4xVre0SlASQKO23QvQ"
         },
         {
             "money": 8500,
             "name": "Jose Barbero",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "nxEJ6ANVc0CSyy9NHINsiw"
         },
         {
             "money": 7500,
             "name": "Benjamin Seck",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "nvFHQSuqpk-kvz-2RNqhVg"
         },
         {
             "money": 6500,
             "name": "Richard Hoaen",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "rZz2z8mwx02xN5sdlP3fqA"
         },
         {
             "money": 6000,

@@ -1,18 +1,31 @@
 {
     "type": "Nationals - Venezuela",
-    "date": "January 1-August 31, 2005",
+    "date": "September 10, 2005",
     "formats": [
         "Standard",
         "Booster Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-venezuela-2005",
-    "location": "Venezuela",
+    "location": "Valencia, Venezuela",
     "logo": "nationals",
     "name": "Nationals Venezuela 2005",
     "standings": [
         {
-            "name": "Frankin Montero"
+            "name": "Frankin Montero",
+            "money": 1250
+        },        
+        {
+            "name": "Antonio Fedon",
+            "money": 750
+        },        
+        {
+            "name": "Daniel Fior",
+            "money": 500
+        },        
+        {
+            "name": "Rogerio Moya",
+            "money": 500
         }
     ],
     "teamsize": 1

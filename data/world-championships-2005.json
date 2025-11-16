@@ -2,56 +2,79 @@
     "type": "Pro Tour",
     "coverage": "http://web.archive.org/web/20051229184925/http://www.wizards.com/default.asp?x=mtgevent/worlds05/welcome",
     "date": "November 30-December 4, 2005",
+    "season": "2005",
     "formats": [
         "Standard",
-        "Draft",
+        "Booster Draft",
         "Extended"
+    ],
+    "structure": [
+        "Day 1: 6 rounds (Standard)",
+        "Day 2: 2 Booster Drafts (3x Ravnica: City of Guilds) each followed by 3 rounds",
+        "Day 3: 6 rounds (Extended); cut to Top 8",
+        "Day 4: Team play (fou4 rounds of teams doing a Team Rochester Draft against each other and afterwards playing Bo3 with corresponding seats paired against each other), cut to Top 2 teams",
+        "Day 5: Bo3 Team competition; Bo5 single elimination (Standard decks from day 1)",
+        "---",
+        "Standard legal sets: Champions of Kamigawa – Ravnica: City of Guilds, Ninth Edition (5 sets)",
+        "Extended legal sets: Invasion – Ravnica: City of Guilds, Seventh Edition – Ninth Edition (19 sets)",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "world-championships-2005",
     "location": "Yokohama, Japan",
+    "site": "Pacifico Yokohama",
+    "metadiversity": 9.0,
     "logo": "ptlogo",
     "name": "2005 World Championships",
     "standings": [
         {
             "money": 35000,
             "name": "Katsuhiro Mori",
-            "propoints": 32
+            "propoints": 32,
+            "deck": "1Dy74MnGW0OnjA9VAYWHuA"
         },
         {
             "money": 23000,
             "name": "Frank Karsten",
-            "propoints": 24
+            "propoints": 24,
+            "deck": "3fbSexBlvUaLNH6xPR8srw"
         },
         {
             "money": 15000,
             "name": "Tomohiro Kaji",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "LvsQ-VXT30aCzojZBMJ0AA"
         },
         {
             "money": 13000,
             "name": "Akira Asahara",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "NKb9QRSqSkmlq2PGhBMGNA"
         },
         {
             "money": 9500,
             "name": "Marcio Carvalho",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "HTdQz9wmbEqmqCP6Q4ahuQ"
         },
         {
             "money": 8500,
             "name": "Ding Leong",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "pqQtlnWBwkeMeGiiz0SKQA"
         },
         {
             "money": 7500,
             "name": "Shuhei Nakamura",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "T2Y1e8oGekWXPZxZzvVFqQ"
         },
         {
             "money": 6500,
             "name": "André Coimbra",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "7vusm_EAokuJjcGa3dgRkw"
         },
         {
             "money": 6000,

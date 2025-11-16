@@ -2,55 +2,72 @@
     "type": "Pro Tour",
     "coverage": "https://web.archive.org/web/20070826102156/http://www.wizards.com/default.asp?x=mtgevent/ptgen07/welcome",
     "date": "February 9-11, 2007",
+    "season": "2007",
     "formats": [
-        "Draft"
+        "Booster Draft"
+    ],
+    "structure": [
+        "Day 1: Booster Draft (2x Time Spiral, 1x Planar Chaos); 3 rounds; Booster Draft, 3 rounds; cut to 12 points; Booster Draft, 1 round",
+        "Day 2: 2 rounds (decks from the previous day's 3rd draft); Booster Draft, 3 rounds; Booster Draft, 3 rounds; cut to Top 8",
+        "Day 3: Booster Draft, Bo5 single elimination",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-geneva-2007",
     "location": "Geneva, Switzerland",
+    "site": "Geneva Palexpo",
     "logo": "ptlogo",
     "name": "Pro Tour Geneva",
     "standings": [
         {
             "money": 40000,
             "name": "Mike Hron",
-            "propoints": 25
+            "propoints": 25,
+            "deck": "4AP_1CqLYk-CROTPITvjTg"
         },
         {
             "money": 22000,
             "name": "Takuya Osawa",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "MxlIMc0Nuk6HQIDjRh_z9A"
         },
         {
             "money": 15000,
             "name": "Kenji Tsumura",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "Bp7lMw9dY0STji7_-WvFOw"
         },
         {
             "money": 14000,
             "name": "Shingou Kurihara",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "MoWp5nGvjkGstbiBL4H44A"
         },
         {
             "money": 11500,
             "name": "Marijn Lybaert",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "T6hZelcZsEGdZ2dct5Mt1w"
         },
         {
             "money": 11000,
             "name": "Jim Herold",
             "propoints": 12,
+            "deck": "DtYwDjlP00GnJiooTRnHig",
             "report": "http://www.planetmtg.de/articles/artikel.html?id=2622"
         },
         {
             "money": 10500,
             "name": "Willy Edel",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "T1BKZNqS_Uy1fqwE2xF0gQ"
         },
         {
             "money": 10000,
             "name": "Ervin Tormos",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "MIBubLD72U-azz2mm423lw"
         },
         {
             "money": 7000,

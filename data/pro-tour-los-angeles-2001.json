@@ -2,54 +2,71 @@
     "type": "Pro Tour",
     "coverage": "https://web.archive.org/web/20020808153817/http://www.wizards.com/sideboard/event.asp?event=PTLA01",
     "date": "February 2-4, 2001",
+    "season": "2000-01",
     "formats": [
         "Rochester Draft"
     ],
+    "structure": [
+        "Day 1: Rochester Draft (3x Invasion), 3 rounds; Rochester Draft, 4 rounds; cut to 12 points",
+        "Day 2: Rochester Draft, 4 rounds; Rochester Draft, cut to Top 8",
+        "Day 3: Rochester Draft, Bo5 single elimination",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
+    ],
     "medium": "Tabletop",
     "id": "pro-tour-los-angeles-2001",
-    "location": "Los Angeles, California, United States",
+    "location": "Long Beach, California, United States",
+    "site": "RMS Queen Mary",
     "logo": "ptlogo",
     "name": "Pro Tour Los Angeles",
     "standings": [
         {
             "money": 30000,
             "name": "Michael Pustilnik",
-            "propoints": 32
+            "propoints": 32,
+            "deck": "A8adPsS1a0aHsUwaErFTvA"
         },
         {
             "money": 20000,
             "name": "Kamiel Cornelissen",
-            "propoints": 24
+            "propoints": 24,
+            "deck": "pk2M76S66UKHv2EMe5O_Zg"
         },
         {
             "money": 15000,
             "name": "Benedikt Klauser",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "d1zw7dwZN0uqRVYp6BYD8A"
         },
         {
             "money": 13000,
             "name": "Jon Finkel",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "N4jJG4s0_0O10j_QerpZEg"
         },
         {
             "money": 9000,
             "name": "Kyle Rose",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "lF8aKxfnzESFFHiWWVB-ng"
         },
         {
             "money": 8500,
             "name": "Michael Gurney",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "_HOWZ395hEKhiMnttEJksA"
         },
         {
             "money": 8000,
             "name": "Erno Ekebom",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "ivzeUX27A06IhxoD_dL3yA"
         },
         {
             "money": 7500,
             "name": "Lawrence Creech",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "RbzACPBH8UOCTiKdXzfY8Q"
         },
         {
             "money": 5600,

@@ -3,12 +3,23 @@
   "coverage": "https://www.magic.gg/events/mythic-championship-iii",
   "date": "June 21-23, 2019",
   "season": "2018-19",
+  "teamsize": 1,
   "formats": [
     "Standard"
   ],
   "medium": "Arena",
   "id": "mythic-championship-3-2019",
   "location": "Las Vegas, Nevada, United States",
+  "site": "Mandala Bay Convention Center",
+  "structure": [
+        "Day 1: 8 rounds of modified Swiss (Standard): players with 6 wins automatically advance, players with 4 losses are eliminated, players with 5 wins and best tiebreakers advance until 12 players have been selected for day two",
+        "Day 2: Double elimination (same decks) with Top 12 from day one and the four Magic Pro League divisional champions; top 4 advance to sunday",
+        "Day 3: Bo3 double elimination (same decks), winner from lower brackets needs to defeat the winner from the upper bracket twice to win the tournament",
+        "---",
+        "Standard legal sets: Ixalan – War of the Spark, Core Set 2021 (8 sets)",
+        "---",
+        "Mulligan: London (any number of times, always draw seven cards, then return cards to the bottom equal to the number of mulligans taken)"
+  ],
   "logo": "mc",
   "name": "Mythic Championship III 2019",
   "standings": [

@@ -15,35 +15,43 @@
     "standings": [
         {
             "name": "Dan Lanthier",
-            "propoints": 10
+            "propoints": 10,
+            "money": 3200
         },
         {
             "name": "Steven Wolfman",
-            "propoints": 8
+            "propoints": 8,
+            "money": 2200
         },
         {
             "name": "Eduardo Sajgalik",
-            "propoints": 6
+            "propoints": 6,
+            "money": 1600
         },
         {
             "name": "Francis Toussaint",
-            "propoints": 6
+            "propoints": 6,
+            "money": 1000
         },
         {
             "name": "Matt Lapierre",
-            "propoints": 4
+            "propoints": 4,
+            "money": 500
         },
         {
             "name": "Maximilien Bouchard",
-            "propoints": 4
+            "propoints": 4,
+            "money": 500
         },
         {
             "name": "Vincent Le",
-            "propoints": 4
+            "propoints": 4,
+            "money": 500
         },
         {
             "name": "Daniel Kramer",
-            "propoints": 4
+            "propoints": 4,
+            "money": 500
         }
     ],
     "teamsize": 1

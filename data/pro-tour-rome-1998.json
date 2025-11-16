@@ -6,6 +6,15 @@
     "formats": [
         "Extended"
     ],
+    "structure": [
+        "Day 1: 7 rounds (Extended); cut to Top 96",
+        "Day 2: 7 rounds; cut to Top 8",
+        "Day 3: Double elimination: Regular winners' bracket with Bo5, only two rounds of losers' bracket with Bo3",
+        "---",
+        "Legal sets: The Dark – Urza's Saga, Revised – Fifth Edition, Chronicles (16 sets total)",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
+    ],
     "medium": "Tabletop",
     "id": "pro-tour-rome-1998",
     "location": "Rome, Italy",
@@ -16,46 +25,54 @@
             "money": 25000,
             "name": "Tommi Hovi",
             "propoints": 32,
-            "report": "http://web.archive.org/web/19981212033404/http://thedojo.com/t984/ptro.981208tho.txt"
+            "report": "http://web.archive.org/web/19981212033404/http://thedojo.com/t984/ptro.981208tho.txt",
+            "deck": "JDbTp6rqQUegx2qg-FW8kg"
         },
         {
             "money": 15000,
             "name": "Nicolas Labarre",
             "propoints": 24,
-            "report": "http://web.archive.org/web/19981203090210/http://thedojo.com/t984/ptro.981125nla.txt"
+            "report": "http://web.archive.org/web/19981203090210/http://thedojo.com/t984/ptro.981125nla.txt",
+            "deck": "dgMPZQzbfUC1mA6YtYuz2w"
         },
         {
             "money": 10000,
             "name": "Mark Le Pine",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "yG0khYO-x066UQlW-hThVg"
         },
         {
             "money": 8000,
             "name": "Federico Dato",
             "propoints": 16,
-            "report": "http://web.archive.org/web/19981203090210/http://thedojo.com/t984/ptro.981125fda.txt"
+            "report": "http://web.archive.org/web/19981203090210/http://thedojo.com/t984/ptro.981125fda.txt",
+            "deck": "gB7-h8REoEaMgRVHP55LnA"
         },
         {
             "money": 6500,
             "name": "Olle Råde",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "kCaS8nPuu0O_kENhuLDEvg"
         },
         {
             "money": 5500,
             "name": "Justin Gary",
             "propoints": 12,
-            "report": "http://web.archive.org/web/19990202080828/http://thedojo.com/t984/ptro.981130jga.txt"
+            "report": "http://web.archive.org/web/19990202080828/http://thedojo.com/t984/ptro.981130jga.txt",
+            "deck": "7XLM_auvfkOk-7OkgIj50w"
         },
         {
             "money": 4800,
             "name": "Erik Lauer",
             "propoints": 12,
-            "report": "http://web.archive.org/web/19981203090210/http://thedojo.com/t984/ptro.981118ela.txt"
+            "report": "http://web.archive.org/web/19981203090210/http://thedojo.com/t984/ptro.981118ela.txt",
+            "deck": "W3Y1U24uJUyEB69Euf-nIg"
         },
         {
             "money": 4300,
             "name": "Andre Konstanczer",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "P7dc89Foz0K59CZYkmwJ6Q"
         },
         {
             "money": 4000,
@@ -242,7 +259,7 @@
             "money": 690,
             "name": "Carl Devos",
             "propoints": 5,
-            "report": "http://web.archive.org/web/19981203090210/http://thedojo.com/t984/ptro.981124cde.txt"
+            "report": "https://zongo.be/magic/report/98_11_13.txt"
         },
         {
             "money": 660,

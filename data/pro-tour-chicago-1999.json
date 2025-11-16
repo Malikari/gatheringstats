@@ -2,55 +2,75 @@
     "type": "Pro Tour",
     "coverage": "https://web.archive.org/web/20000604182240/http://www.wizards.com:80/sideboard/eventarticle.asp?event=PTCHICAGO99&name=welcome",
     "date": "December 3-5, 1999",
+    "season": "1999-2000",
     "formats": [
         "Extended"
     ],
+    "structure": [
+        "Day 1: 7 rounds (Extended); cut to Top 96",
+        "Day 2: 7 rounds; cut to Top 8",
+        "Day 3: Bo5 single elimination",
+        "---",
+        "Extended legal sets: Ice Age – Mercadian Masques, Fifth Edition, Sixth Edition, the 10 original dual lands (15 sets)",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
+    ],
     "medium": "Tabletop",
     "id": "pro-tour-chicago-1999",
+    "site": "(was originally to be held in St. Louis)",
     "location": "Chicago, Illinois, United States",
+    "metadiversity": 17.0,
     "logo": "ptlogo",
     "name": "Pro Tour Chicago",
     "standings": [
         {
             "money": 25000,
             "name": "Robert Maher",
-            "propoints": 32
+            "propoints": 32,
+            "deck": "2Am9C3Obm0uUWShmaJwNmw"
         },
         {
             "money": 15000,
             "name": "Brian Davis",
-            "propoints": 24
+            "propoints": 24,
+            "deck": "hIitJoDzCUKoXN4wqK0MLw"
         },
         {
             "money": 10000,
             "name": "Christian Lührs",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "CUkJN_GZzkqe1Wa3ryDFvw"
         },
         {
             "money": 8000,
             "name": "Raphaël Lévy",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "iTGe5atzF0KaJHmQQokaVg"
         },
         {
             "money": 6500,
             "name": "Alan Comer",
             "propoints": 12,
-            "report": "http://web.archive.org/web/20010506211739/http://magic.mindripper.com/Index.cfm?ArticleID=148&SectionID=3&Show=All"
+            "report": "http://web.archive.org/web/20010506211739/http://magic.mindripper.com/Index.cfm?ArticleID=148&SectionID=3&Show=All",
+            "deck": "RKPOkaAa1UqSgQkgJwiVzg"
         },
         {
             "money": 5500,
             "name": "Dirk Baberowski",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "bRJlLd6F30ObVDg9KXRc6Q"
         },
         {
             "money": 4800,
             "name": "Tony Dobson",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "XQsQkmLzTE60VCG-o6hl3A"
         },
         {
             "money": 4300,
             "name": "Hector Fuentes",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "GCvbJ7Gbk0O2HE3_wQnX-w"
         },
         {
             "money": 4000,
@@ -1145,7 +1165,7 @@
             "propoints": 2
         },
         {
-            "name": "Jeff Moeller",
+            "name": "Jeffrey Moeller",
             "propoints": 2
         },
         {

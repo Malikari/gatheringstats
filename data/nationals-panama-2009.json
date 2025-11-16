@@ -1,17 +1,40 @@
 {
     "type": "Nationals - Panama",
-    "date": "January 1-September 30, 2009",
+    "coverage": "https://web.archive.org/web/20090723111310/http://www.mtglatino.com/22-PANAMA-NATIONALS-2009",
+    "date": "July 5, 2009",
     "formats": [
-        "unknown"
+        "Standard",
+        "Booster Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-panama-2009",
-    "location": "Panama",
+    "location": "Panama City, Panama",
     "logo": "nationals",
     "name": "Nationals Panama 2009",
     "standings": [
         {
             "name": "Saul Alvarado"
+        },
+        {
+            "name": "Adolfo Berrios"
+        },
+        {
+            "name": "Nikola Mislov"
+        },
+        {
+            "name": "Jose Carvajal"
+        },
+        {
+            "name": "Juan Miguel Evans"
+        },
+        {
+            "name": "Alvaro Nicosia"
+        },
+        {
+            "name": "Eric Espino"
+        },
+        {
+            "name": "Carlos de Arco"
         }
     ],
     "teamsize": 1

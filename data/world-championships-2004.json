@@ -2,14 +2,29 @@
     "type": "Pro Tour",
     "coverage": "http://web.archive.org/web/20041011073857/http://www.wizards.com/default.asp?x=mtgevent/worlds04/welcome",
     "date": "September 1-5, 2004",
+    "season": "2003-04",
     "formats": [
         "Standard",
-        "Draft",
-        "Block Constructed"
+        "Booster Draft",
+        "Mirrodin Block Constructed"
+    ],
+    "structure": [
+        "Day 1: 6 rounds (Standard)",
+        "Day 2: 2 Booster Drafts (Mirrodin, Darksteel, Fifth Dawn) each followed by 3 rounds",
+        "Day 3: 6 rounds (Mirrodin Block Constructed); cut to Top 8",
+        "Day 4: Team play (four rounds of teams doing a Team Rochester Draft against each other and afterwards playing Bo3 with corresponding seats paired against each other)",
+        "Day 5: Bo5 single elimination (Standard decks from day 1)",
+        "---",
+        "Standard legal sets: Onslaught – Fifth Dawn, Eighth Edition (7 sets)",
+        "Block Constructed legal sets: Mirrodin – Fifth Dawn (3 sets)",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "world-championships-2004",
     "location": "San Francisco, California, United States",
+    "site": "Fort Mason Center",
+    "metadiversity": 6.6,
     "logo": "ptlogo",
     "name": "2004 World Championships",
     "standings": [
@@ -17,42 +32,50 @@
             "money": 35000,
             "name": "Julien Nuijten",
             "propoints": 32,
-            "report": "http://magic.tcgplayer.com/db/article.asp?ID=4477"
+            "report": "http://magic.tcgplayer.com/db/article.asp?ID=4477",
+            "deck": "HayU0AQUXEmg3el2rW3jvw"
         },
         {
             "money": 23000,
             "name": "Aeo Paquette",
-            "propoints": 24
+            "propoints": 24,
+            "deck": "3HqHAGIr206kfr_RBb-YWQ"
         },
         {
             "money": 15000,
             "name": "Ryou Ogura",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "HjWbGdi_70KuJ2UjiKEebg"
         },
         {
             "money": 13000,
             "name": "Manuel Bevand",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "REamL4_6TkqyHz_txLj_vg"
         },
         {
             "money": 9500,
             "name": "Kamiel Cornelissen",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "kVepjjG0kkG49EBOK0BZeQ"
         },
         {
             "money": 8500,
             "name": "Terry Soh",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "w4zFbj-cC0KlR-4-K4OBpw"
         },
         {
             "money": 7500,
             "name": "Gabriel Nassif",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "hJprjVO860KY9LH2UhE3FQ"
         },
         {
             "money": 6500,
             "name": "Murray Evans",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "sTG7HMNzME-XBbC_1eoE_Q"
         },
         {
             "money": 6000,

@@ -1,56 +1,74 @@
 {
     "type": "Pro Tour",
-    "coverage": "https://web.archive.org/web/20000525050047/http://www.wizards.com/protour/PTNY96.asp",
+    "coverage": "https://groups.google.com/g/rec.games.trading-cards.magic.misc/c/CEq8bRove2Y/m/BTGxw9U6oOwJ",
     "date": "February 17-18, 1996",
     "season": "1996",
     "formats": [
-        "Standard NY Style"
+        "Standard NY style*"
     ],
     "medium": "Tabletop",
+    "structure": [
+        "Day 1: 6 rounds (Standard NY style*)",
+        "Day 2: 1 round; cut to Top 16; single elimination Bo3",
+        "* = Each deck had to include at least 5 cards from each legal expansion",
+        "---",
+        "Standard legal sets: Fallen Empires – Homelands, 4th Edition, Chronicles (5 sets)",
+        "---",
+        "Mulligan: Original (once when 0 or 7 lands)"
+    ],
     "id": "pro-tour-new-york-1996",
     "location": "New York, New York, United States",
+    "site": "Puck Building",
     "logo": "ptlogo",
     "name": "Pro Tour New York",
     "standings": [
         {
             "money": 12000,
             "name": "Michael Loconto",
-            "propoints": 30
+            "propoints": 30,
+            "deck": "a0rSsUx-kEigeGZ3pY9RMw"
         },
         {
             "money": 5000,
             "name": "Bertrand Lestree",
-            "propoints": 25
+            "propoints": 25,
+            "deck": "PagYTGfQdU6-h2OiQvMxjg"
         },
         {
             "money": 2500,
             "name": "Leon Lindback",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "q_TmZ1DkwkKL9scO7gzY6w"
         },
         {
             "money": 2500,
             "name": "Preston Poulter",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "mQvGnIkQ6UiC2HtaudSU1A"
         },
         {
             "money": 1000,
             "name": "George Baxter",
-            "propoints": 10
+            "propoints": 10,
+            "deck": "5tSEEVT7bUWmTMs8OWWu1Q"
         },
         {
             "money": 1000,
             "name": "Mark Justice",
-            "propoints": 10
+            "propoints": 10,
+            "deck": "JjImIgF6QUCrq1uBb8Q1IQ"
         },
         {
             "money": 1000,
             "name": "Shawn Regnier",
-            "propoints": 10
+            "propoints": 10,
+            "deck": "RiTVDqOlJUi-cqBLm-Cf7A"
         },
         {
             "money": 1000,
             "name": "Eric Tam",
-            "propoints": 10
+            "propoints": 10,
+            "deck": "W0g58iBhcU6r4A7uq_qB4Q"
         },
         {
             "money": 500,
@@ -330,7 +348,8 @@
         },
         {
             "name": "Daniel Brickwell",
-            "rank": "Attended (65+)"
+            "rank": "Attended (65+)",
+            "report": "https://web.archive.org/web/19990210055352/http://thedojo.net/tourney96/pt1.960311db.txt"
         },
         {
             "name": "Jason Bulmahn",
@@ -854,7 +873,7 @@
         },
         {
             "name": "Jack Stanton",
-            "rank": "Attended (65+)"
+            "rank": "107"
         },
         {
             "name": "Ryan Stapleton",
@@ -886,7 +905,8 @@
         },
         {
             "name": "Yoshiyuki Tsuruta",
-            "rank": "Attended (65+)"
+            "rank": "Attended (65+)",
+            "report": "https://web.archive.org/web/20090523042630/http://www.wizards.com/default.asp?x=sideboard/jpfeature/20021116a"
         },
         {
             "name": "P. Zwalmen",

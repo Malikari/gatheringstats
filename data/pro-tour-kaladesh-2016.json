@@ -2,13 +2,25 @@
     "type": "Pro Tour",
     "coverage": "https://web.archive.org/web/20161021093059/http://magic.wizards.com:80/en/events/coverage/ptkld",
     "date": "October 14-16, 2016",
+    "season": "2016-17",
     "formats": [
-        "Draft",
-        "Standard"
+        "Standard",
+        "Booster Draft"
+    ],
+    "structure": [
+        "Day 1: Booster Draft (3x Kaladesh), 3 rounds; 5 rounds (Standard); cut to 12 points",
+        "Day 2: Booster Draft, 3 rounds; 5 rounds (Standard); cut to Top 8",
+        "Day 3: Bo5 staggered single elimination: Seeds 5-8 play pre-QF, winners play QF against seed 3/4, QF winners play SF against seed 1/2",
+        "---",
+        "Standard legal sets: Battle for Zendikar – Kaladesh (5 sets)",
+        "---",
+        "Mulligan: Vancouver (any number of times, always draw one card less, then Scry 1 if you took at least one mulligan)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-kaladesh-2016",
     "location": "Honolulu, Hawaii, United States",
+    "site": "Hawaii Convention Center",
+    "metadiversity": 14.4,
     "logo": "ptkld",
     "name": "Pro Tour Kaladesh",
     "standings": [
@@ -16,49 +28,57 @@
             "name": "Shota Yasooka",
             "propoints": 31,
             "matchpoints": 40,
-            "money": 50000
+            "money": 50000,
+            "deck": "FdYfGe0QAk6kgtjMhuBdew"
         },
         {
             "name": "Carlos Romao",
             "propoints": 27,
             "matchpoints": 37,
-            "money": 20000
+            "money": 20000,
+            "deck": "SBVvtlD_NkmBwotLDwj2jQ"
         },
         {
             "name": "Makis Matsoukas",
             "propoints": 23,
             "matchpoints": 41,
-            "money": 15000
+            "money": 15000,
+            "deck": "7VqM_rakhEe40UvGpZzI4g"
         },
         {
             "name": "Ben Hull",
             "propoints": 23,
             "matchpoints": 37,
-            "money": 15000
+            "money": 15000,
+            "deck": "SZzgZZMYKk-4modMQlLP5w"
         },
         {
             "name": "Pierre Dagen",
             "propoints": 19,
             "matchpoints": 39,
-            "money": 10000
+            "money": 10000,
+            "deck": "Q6-sOtgKok2Gzpv_thd8yw"
         },
         {
             "name": "Matthew Nass",
             "propoints": 19,
             "matchpoints": 37,
-            "money": 10000
+            "money": 10000,
+            "deck": "sNTt2yUW4EG9mhN3hGKYJg"
         },
         {
             "name": "Lee Shi Tian",
             "propoints": 15,
             "matchpoints": 37,
-            "money": 5000
+            "money": 5000,
+            "deck": "a_6JmMHPc0SEobXRrww5_A"
         },
         {
             "name": "Joey Manner",
             "propoints": 15,
             "matchpoints": 37,
-            "money": 5000
+            "money": 5000,
+            "deck": "kmjDlk2Us0Gg2cj0vRJPxw"
         },
         {
             "name": "Matteo Moure",

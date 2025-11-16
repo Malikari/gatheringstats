@@ -2,55 +2,75 @@
     "type": "Pro Tour",
     "coverage": "http://web.archive.org/web/20130218001444/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/ptgtc13/welcome",
     "date": "February 16-17, 2013",
+    "season": "2012-13",
     "formats": [
-        "Draft",
-        "Standard"
+        "Standard",
+        "Booster Draft"
+    ],
+    "structure": [
+        "Day 1: Booster Draft (3x Gatecrash), 3 rounds; 5 rounds (Standard); cut to 12 points",
+        "Day 2: Booster Draft, 3 rounds; 5 rounds (Standard); cut to Top 8",
+        "Day 3: Bo5 single elimination",
+        "---",
+        "Standard legal sets: Innistrad – Gatecrash, Magic 2013 (6 sets)",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-gatecrash-2013",
     "location": "Montreal, Canada",
+    "site": "Palais des Congres",
+    "metadiversity": 14.4,
     "logo": "ptgtc",
     "name": "Pro Tour Gatecrash",
     "standings": [
         {
             "money": 40000,
             "name": "Tom Martell",
-            "propoints": 30
+            "propoints": 30,
+            "deck": "ouUvPpJkakaECeM-kK9SBQ"
         },
         {
             "money": 20000,
             "name": "Joel Larsson",
-            "propoints": 24
+            "propoints": 24,
+            "deck": "J_GWYGNRdUCJnxaSnHoPxg"
         },
         {
             "money": 12500,
             "name": "Ben Stark",
-            "propoints": 22
+            "propoints": 22,
+            "deck": "DwWEIlgVPEeLtKqJppetcQ"
         },
         {
             "money": 12500,
             "name": "Eric Froehlich",
-            "propoints": 22
+            "propoints": 22,
+            "deck": "CWCC06_FcUKIb8y9o8zOFw"
         },
         {
             "money": 10000,
             "name": "Owen Turtenwald",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "uhx2xUqIokSHjrKqj5QnTw"
         },
         {
             "money": 10000,
             "name": "Melissa DeTora",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "IJ68zn6Sh0KgS_C1PdJzdQ"
         },
         {
             "money": 10000,
             "name": "Gerry Thompson",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "_qcILRHndEe7rI-sTRswtw"
         },
         {
             "money": 10000,
             "name": "Stephen Mann",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "EytwhcgSnUWiA-8-CkF_XQ"
         },
         {
             "money": 5000,

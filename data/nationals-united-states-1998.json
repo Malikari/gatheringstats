@@ -6,6 +6,11 @@
         "Standard",
         "Booster Draft"
     ],
+    "structure": [
+        "Day 1: Booster Drafts; 6 rounds of Swiss",
+        "Day 2: Standard (6 rounds of Swiss)",
+        "Day 3: Standard (double elimination with W-bracket finalists automatic 1st and 2nd)"
+    ],
     "medium": "Tabletop",
     "id": "nationals-united-states-1998",
     "location": "Columbus, Ohio, United States",
@@ -14,42 +19,43 @@
     "standings": [
         {
             "money": 25000,
-            "name": "Matthew Linde"
+            "name": "Matthew Linde",
+            "deck": "Mgh2aqWm60qaM0Rzkopmqg"
         },
         {
             "money": 15000,
-            "name": "Michael Long"
+            "name": "Michael Long",
+            "deck": "lgUcVspHNky7vESW6m6ArA"
         },
         {
             "money": 10000,
             "name": "Jon Finkel",
-            "rank": "2-4"
+            "deck": "vxctk4UxLUGvQDGeXdaanw"
         },
         {
             "money": 8000,
             "name": "Bryce Currence",
-            "propoints": 1
-        },
-        {
-            "name": "Andrew Pacifico",
-            "rank": "5-6",
-            "report": "https://web.archive.org/web/20000926010626/http://www.thedojo.com/t983/nat.980709apa.txt"
+            "deck": "Sf-ADLD-_kKZQh9PsQo51A"
         },
         {
             "name": "David Price",
-            "rank": "5-6"
+            "deck": "HAy-jIZHB0GpOCPg_4t8yQ"
+        },
+        {
+            "name": "Andrew Pacifico",
+            "report": "https://web.archive.org/web/20000926010626/http://www.thedojo.com/t983/nat.980709apa.txt",
+            "deck": "1bpQKvgDDk69WrEgC5Bb9w"
         },
         {
             "name": "Peter Leiher",
-            "rank": "7-8"
+            "deck": "P74objBMpUevkSXaae87JA"
         },
         {
             "name": "Ryan Kelly",
-            "rank": "7-8"
+            "deck": "-j3N-uMrZ0KIpIxhT0hjGA"
         },
         {
             "name": "Brian Selden",
-            "rank": 9,
             "report": "https://web.archive.org/web/20000607014723/http://www.thedojo.com/t983/nat.980707bse.txt"
         },
         {

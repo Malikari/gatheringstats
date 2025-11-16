@@ -1,25 +1,38 @@
 'use strict';
 
 import React from 'react';
+import { useState } from 'react';
 import Players from './Players.js';
 import PlayerLink from './PlayerLink.react.js';
 import { useParams, Link } from "react-router-dom";
 import { Helmet } from "react-helmet";
+import { nationGroups } from './utils.js';
 
 const _ = require('underscore');
 const accounting = require('accounting');
 
 const Rankings = () => {
-  let col = useParams().col;
+  const { col } = useParams();
+  const [nationFilter, setNationFilter] = useState('');
+  
+  const nations = Object.keys(nationGroups);
   const sortedPlayers = _.chain(window.Players)
     .values()
+      .filter(player => {
+        if (!nationFilter || nationFilter === 'All') return true;
+        const validNations = nationGroups[nationFilter] || [nationFilter];
+        return validNations.includes(player.nationality);
+      })
     .filter(player => player.stats[col] !== 'too few PTs')
     .filter(player => player.stats[col] !== 'no Top 8s')
     .sortBy(player => -Number(String(player.stats[col]).replace(/[^\d]/, '')))
     .value();
 
+
+
   // Include anyone tied with the 100th rank
-  const cutoff = sortedPlayers[99].stats[col];
+  const cutoffIndex = Math.min(99, sortedPlayers.length - 1);
+  const cutoff = sortedPlayers.length > 0 ? sortedPlayers[cutoffIndex].stats[col] : 0;
   const players = _.filter(sortedPlayers, function(p) {
     return p.stats[col] >= cutoff;
   });
@@ -37,6 +50,19 @@ const Rankings = () => {
       </Helmet>
       <div className="page-header pageHeader">
         <h1>Player Rankings</h1>
+      </div>
+      <div className="nation-filter">
+        <label htmlFor="nationSelect">Filter players by nation or region: </label>
+        <select
+          id="nationSelect"
+          value={nationFilter}
+          onChange={e => setNationFilter(e.target.value)}
+        >
+          <option value="">All</option>
+          {nations.map(nat => (
+            <option key={nat} value={nat}>{nat}</option>
+          ))}
+        </select>
       </div>
       <table className="table table-hover sortable standingsTable">
         <thead>

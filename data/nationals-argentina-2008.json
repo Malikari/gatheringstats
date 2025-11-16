@@ -13,28 +13,40 @@
     "name": "Nationals Argentina 2008",
     "standings": [
         {
-            "name": "Adrian Saredo"
+            "name": "Adrian Saredo",
+            "money": 1250,
+            "propoints": 10
         },
         {
-            "name": "Matias Rodriguez"
+            "name": "Matias Rodriguez",
+            "money": 750,
+            "propoints": 8
         },
         {
-            "name": "Joaquin Alvarez Rivera"
+            "name": "Joaquin Alvarez Rivera",
+            "money": 500,
+            "propoints": 6
         },
         {
-            "name": "Santiago Guzzetti"
+            "name": "Santiago Guzzetti",
+            "money": 500,
+            "propoints": 6
         },
         {
-            "name": "Sebastian Pozzo"
+            "name": "Sebastian Pozzo",
+            "propoints": 4
         },
         {
-            "name": "Gonzalo Ferrari Spampinato"
+            "name": "Gonzalo Ferrari Spampinato",
+            "propoints": 4
         },
         {
-            "name": "Damian Buckley"
+            "name": "Damian Buckley",
+            "propoints": 4
         },
         {
-            "name": "Pablo Olejavetzsky"
+            "name": "Pablo Olejavetzsky",
+            "propoints": 4
         }
     ],
     "teamsize": 1 

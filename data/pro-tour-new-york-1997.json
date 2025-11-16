@@ -4,7 +4,14 @@
     "date": "May 30-June 1, 1997",
     "season": "1996-97",
     "formats": [
-        "Draft"
+        "Booster Draft"
+    ],
+    "structure": [
+        "Day 1: 2 Booster Drafts (2x Fifth Edition, 1x Visions) each followed by 3 rounds; cut to Top 64",
+        "Day 2: 2 Booster Drafts each followed by 3 rounds; cut to Top 8",
+        "Day 3: Booster Draft, single elimination (Bo3 quarterfinals, Bo5 thereafter)",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-new-york-1997",
@@ -15,7 +22,8 @@
         {
             "money": 26000,
             "name": "Terry Borer",
-            "propoints": 30
+            "propoints": 30,
+            "deck": "x7G395huj0Grs7G7SUKHBQ"
         },
         {
             "money": 16000,
@@ -34,11 +42,6 @@
         },
         {
             "money": 5500,
-            "name": "Mark Chalice",
-            "propoints": 10
-        },
-        {
-            "money": 5500,
             "name": "John Chinnock",
             "propoints": 10
         },
@@ -53,9 +56,15 @@
             "propoints": 10
         },
         {
+            "money": 5500,
+            "name": "Mark Chalice",
+            "propoints": 10
+        },
+        {
             "money": 3200,
             "name": "John Yoo",
-            "propoints": 4
+            "propoints": 4,
+            "report": "https://groups.google.com/g/rec.games.trading-cards.magic.misc/c/F6jfIaiRzQg?pli=1"
         },
         {
             "money": 3200,

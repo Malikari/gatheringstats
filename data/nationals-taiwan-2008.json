@@ -14,19 +14,23 @@
     "standings": [
         {
             "name": "Ming Chee Wang",
-            "propoints": 10
+            "propoints": 10,
+            "money": 1800
         },
         {
             "name": "Ko Chang Ching",
-            "propoints": 8
+            "propoints": 8,
+            "money": 1400
         },
         {
             "name": "Jim Tim Lee",
-            "propoints": 6
+            "propoints": 6,
+            "money": 900
         },
         {
             "name": "Chi-Chung Hwang",
-            "propoints": 6
+            "propoints": 6,
+            "money": 700
         }
     ],
     "teamsize": 1   

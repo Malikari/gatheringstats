@@ -1,6 +1,6 @@
 {
     "type": "Latin America Championship",
-    "coverage": "https://magic.wizards.com/en/events/coverage/lach01",
+    "coverage": "https://web.archive.org/web/20020605234820/http://www.wizards.com/sideboard/event.asp?event=LAC01",
     "date": "June 29 - July 1, 2001",
     "formats": [
         "Standard",
@@ -466,7 +466,8 @@
         },
         {
             "name": "Carlos Terrera",
-            "rank": "DQ"
+            "rank": "DQ",
+            "dq": "https://web.archive.org/web/20020726192850/http://www.wizards.com/sideboard/article.asp?x=LAC01%5c880terreradq"
         }
     ],
     "teamsize": 1

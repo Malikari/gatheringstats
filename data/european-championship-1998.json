@@ -1,9 +1,10 @@
 {
     "type": "European Championship",
+    "coverage": "https://web.archive.org/web/19981205015517/http://www.wizards.be/ProTour/EC_Final_Standings.html",
     "date": "July 10-12, 1998",
     "formats": [
         "Standard",
-        "Booster Draft"
+        "Rochester Draft"
     ],
     "medium": "Tabletop",
     "id": "european-championship-1998",
@@ -12,32 +13,113 @@
     "name": "European Championship 1998",
     "standings": [
         {
-            "name": "Sturla Bingen"
+            "name": "Sturla Bingen",
+            "money": 11500
         },
         {
-            "name": "Jakub Slemr"
+            "name": "Jakub Slemr",
+            "money": 7000
         },
         {
-            "name": "Jan Pieter Groenhof"
+            "name": "Jan Pieter Groenhof",
+            "money": 4600
         },
         {
-            "name": "Jakob Steinaa"
+            "name": "Jakob Steinaa",
+            "money": 3700
         },
         {
-            "name": "Tony Dobson"
+            "name": "Tony Dobson",
+            "money": 3035
         },
         {
-            "name": "Tom van de Logt"
+            "name": "Tom van de Logt",
+            "money": 2555
         },
         {
-            "name": "Arho Toikka"
+            "name": "Arho Toikka",
+            "money": 2225
         },
         {
-            "name": "Gabor Papp"
+            "name": "Gabor Papp",
+            "money": 2000
+        },
+        {
+            "name": "Victor van den Broek",
+            "money": 1845
+        },
+        {
+            "name": "Martin Valkyser",
+            "money": 1715
+        },
+        {
+            "name": "Holger Meinecke",
+            "money": 1600
+        },
+        {
+            "name": "Svend Sparre Geertsen",
+            "money": 1495
+        },
+        {
+            "name": "Ivan Garcia-Gonzalez",
+            "money": 1400
+        },
+        {
+            "name": "Leif Stockdale",
+            "money": 1315
+        },
+        {
+            "name": "Pierre Malherbaud",
+            "money": 1235
+        },
+        {
+            "name": "Emmanuel Vernay",
+            "money": 1160
+        },
+        {
+            "name": "Thomas Dall Jensen",
+            "money": 1090
+        },
+        {
+            "name": "Petr Blatny",
+            "money": 1025
+        },
+        {
+            "name": "Andre Konstanczer",
+            "money": 965
+        },
+        {
+            "name": "Lubos Lauer",
+            "money": 910
+        },
+        {
+            "name": "Gunnar Refsdal",
+            "money": 860
         },
         {
             "name": "Tim Glöckner",
-            "rank": 22
+            "rank": 22,
+            "money": 815
+        },
+        {
+            "name": "Peter Gysemans",
+            "money": 770
+        },
+        {
+            "name": "Björn Falenski",
+            "money": 730
+        },
+        {
+            "name": "Gabriele Pisicchio",
+            "money": 695
+        },
+        {
+            "name": "Frederico Bastos",
+            "money": 660
+        },
+        {
+            "name": "Jürg Häberli",
+            "money": 630
         },
         {
             "money": 600,
@@ -50,6 +132,146 @@
             "name": "Manuel Bevand",
             "rank": 29,
             "report": "https://web.archive.org/web/19991021212811/http://thedojo.com/t983/reg.980714mbe.txt"
+        },
+        {
+            "name": "Michael Debard",
+            "money": 550
+        },
+        {
+            "name": "Andreas Pischner",
+            "money": 525
+        },
+        {
+            "name": "Dominique Coene",
+            "money": 505
+        },
+        {
+            "name": "Arto Hiltunen",
+            "money": 485
+        },
+        {
+            "name": "Alexis Dumay",
+            "money": 465
+        },
+        {
+            "name": "Dirk Hein",
+            "money": 445
+        },
+        {
+            "name": "Warren Marsh",
+            "money": 430
+        },
+        {
+            "name": "Nicolas Moss-Allison",
+            "money": 415
+        },
+        {
+            "name": "Federico Dato",
+            "money": 400
+        },
+        {
+            "name": "Julian Wagner",
+            "money": 385
+        },
+        {
+            "name": "Olle Rade",
+            "money": 370
+        },
+        {
+            "name": "Han Tesselaar",
+            "money": 355
+        },
+        {
+            "name": "Jonas Mathiasson",
+            "money": 345
+        },
+        {
+            "name": "Loic Degrou",
+            "money": 335
+        },
+        {
+            "name": "Florian Dworak",
+            "money": 325
+        },
+        {
+            "name": "Simon Grünauer",
+            "money": 315
+        },
+        {
+            "name": "Matthias Schindler",
+            "money": 305
+        },
+        {
+            "name": "Martin Lüdecke",
+            "money": 295
+        },
+        {
+            "name": "Janosch Kühn",
+            "money": 285
+        },
+        {
+            "name": "Juraj Smrek",
+            "money": 275
+        },
+        {
+            "name": "Christian Strebel",
+            "money": 270
+        },
+        {
+            "name": "Tore Fiil",
+            "money": 265
+        },
+        {
+            "name": "Benjamin Sanders",
+            "money": 260
+        },
+        {
+            "name": "Kim Eikefet",
+            "money": 255
+        },
+        {
+            "name": "Xiao-Gun Cheng",
+            "money": 250
+        },
+        {
+            "name": "Nicolas Olivieri",
+            "money": 245
+        },
+        {
+            "name": "Jaroslav Sita",
+            "money": 240
+        },
+        {
+            "name": "Jeremie Bonte",
+            "money": 235
+        },
+        {
+            "name": "Dimitris Kopsidas",
+            "money": 230
+        },
+        {
+            "name": "Raphael Levy",
+            "money": 225
+        },
+        {
+            "name": "Ivan Stanoev",
+            "money": 220
+        },
+        {
+            "name": "Robin McCandless",
+            "money": 215
+        },
+        {
+            "name": "Mattias Jorstedt",
+            "money": 210
+        },
+        {
+            "name": "Gisle Salem",
+            "money": 205
+        },
+        {
+            "name": "John Larkin",
+            "money": 200
         },
         {
             "name": "Gordon Benson",

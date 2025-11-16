@@ -2,12 +2,24 @@
     "type": "Pro Tour",
     "coverage": "https://web.archive.org/web/20030811181502/http://www.wizards.com/default.asp?x=sideboard/events/pthou02",
     "date": "November 8-10, 2002",
+    "season": "2002-03",
     "formats": [
         "Extended"
+    ],
+    "structure": [
+        "Day 1: 7 rounds (Extended); cut to 13 points",
+        "Day 2: 7 rounds; cut to Top 8",
+        "Day 3: Bo5 single elimination",
+        "---",
+        "Legal sets: Tempest – Onslaught, Sixth Edition, Seventh Edition (18 sets)",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-houston-2002",
     "location": "Houston, Texas, United States",
+    "site": "Astrodomain Arena, Reliant Arena",
+    "metadiversity": 12.8,
     "logo": "ptlogo",
     "name": "Pro Tour Houston",
     "standings": [
@@ -15,45 +27,53 @@
             "money": 30000,
             "name": "Justin Gary",
             "propoints": 32,
-            "report": "http://magic.tcgplayer.com/db/article.asp?ID=2537"
+            "report": "http://magic.tcgplayer.com/db/article.asp?ID=2537",
+            "deck": "1ZwH6UJXFUu17Ff5klrjXA"
         },
         {
             "money": 20000,
             "name": "Robert Dougherty",
-            "propoints": 24
+            "propoints": 24,
+            "deck": "TuNT-0TvMUikYTRu-V4EkA"
         },
         {
             "money": 15000,
             "name": "Darwin Kastle",
             "propoints": 16,
-            "report": "http://magic.tcgplayer.com/db/article.asp?ID=2542"
+            "report": "http://magic.tcgplayer.com/db/article.asp?ID=2542",
+            "deck": "bmpp2DyHSUKRrC0Bddxs_Q"
         },
         {
             "money": 13000,
             "name": "John Larkin",
             "propoints": 16,
-            "report": "http://magic.tcgplayer.com/db/article.asp?ID=2554"
+            "report": "http://magic.tcgplayer.com/db/article.asp?ID=2554",
+            "deck": "IwRQg7DYnU2NYo5hcn90DQ"
         },
         {
             "money": 9500,
             "name": "Peter Myrvig",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "9dK6T_9Ebkql0_uQqpSOZg"
         },
         {
             "money": 8500,
             "name": "Mattias Jorstedt",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "229aRJdVPUydXpTwsKYX2w"
         },
         {
             "money": 7500,
             "name": "Robert Maher",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "EQVqkv7MPEiTFLeHaPMjIg"
         },
         {
             "money": 6500,
             "name": "Jeroen Remie",
             "propoints": 12,
-            "report": "http://magic.tcgplayer.com/db/article.asp?ID=2535"
+            "report": "http://magic.tcgplayer.com/db/article.asp?ID=2535",
+            "deck": "0KmigAdoO02f1JcP6Sgzeg"
         },
         {
             "money": 6000,
@@ -133,7 +153,8 @@
         {
             "money": 1900,
             "name": "Jinpei Hassaku",
-            "propoints": 7
+            "propoints": 7,
+            "report": ["https://web.archive.org/web/20040222203127/http://www.wizards.com/default.asp?x=sideboard/jpstrategy/20021127a", "https://web.archive.org/web/20040222204700/http://www.wizards.com/default.asp?x=sideboard/jpstrategy/20030321a"]
         },
         {
             "money": 1800,

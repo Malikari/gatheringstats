@@ -2,54 +2,71 @@
     "type": "Pro Tour",
     "coverage": "https://web.archive.org/web/20060616164032/http://www.wizards.com/default.asp?x=mtgevent/ptpra06/welcome",
     "date": "May 5-7, 2006",
+    "season": "2006",
     "formats": [
-        "Draft"
+        "Booster Draft"
+    ],
+    "structure": [
+        "Day 1: Booster Draft (Ravnica: City of Guilds, Guildpact, Dissension); 3 rounds; Booster Draft, 3 rounds; cut to 12 points; Booster Draft, 1 round",
+        "Day 2: 2 rounds (decks from the previous day's 3rd draft); Booster Draft, 3 rounds; Booster Draft, 3 rounds; cut to Top 8",
+        "Day 3: Booster Draft, Bo5 single elimination",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-prague-2006",
     "location": "Prague, Czech Republic",
+    "site": "Sazka Arena",
     "logo": "ptlogo",
     "name": "Pro Tour Prague",
     "standings": [
         {
             "money": 40000,
             "name": "Takuya Osawa",
-            "propoints": 25
+            "propoints": 25,
+            "deck": "r4FJR6zz8kKSq4bhz3q5JA"
         },
         {
             "money": 22000,
             "name": "Aaron Brackmann",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "JsTzveEtvUycsSMW0IcPIQ"
         },
         {
             "money": 15000,
             "name": "Shuhei Nakamura",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "A7grEKbheUiBbfUR0HnoKQ"
         },
         {
             "money": 14000,
             "name": "Christian Hüttenberger",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "joFemmtKzUee7YElv1SEqg"
         },
         {
             "money": 11500,
             "name": "Rasmus Sibast",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "kJH1o6R6aUynXp97qjeAew"
         },
         {
             "money": 11000,
             "name": "Antonino De Rosa",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "U09IIcrQm0il3u3BLX9Z-A"
         },
         {
             "money": 10500,
             "name": "Joseph Crosby",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "sR_coSh77k6EQO2a_dpLuw"
         },
         {
             "money": 10000,
             "name": "Quentin Martin",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "k4_FmKN7X0q6-4_xbMWH6A"
         },
         {
             "money": 7000,

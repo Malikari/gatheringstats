@@ -1,6 +1,6 @@
 'use strict';
 
-const sass = require('node-sass');
+const sass = require('sass');
 module.exports = {
   options: {
     implementation: sass,

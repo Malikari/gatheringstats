@@ -35,5 +35,8 @@ export default class SearchInput extends React.Component {
         this.textInput.value = '';
       }
     });
+    setTimeout(() => {
+      this.textInput.focus();
+    }, 0);
   }
 }

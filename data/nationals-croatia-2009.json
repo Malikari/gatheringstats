@@ -1,6 +1,6 @@
 {
     "type": "Nationals - Croatia",
-    "date": "January 1-September 30, 2009",
+    "date": "July 11, 2009",
     "season": "2009",
     "formats": [
         "Standard",
@@ -8,45 +8,53 @@
     ],
     "medium": "Tabletop",
     "id": "nationals-croatia-2009",
-    "location": "Croatia",
+    "location": "Sesvete Kraljevec, Croatia",
     "logo": "nationals",
     "name": "Nationals Croatia 2009",
     "standings": [
         {
             "name": "Niko Bacic",
-            "propoints": 10
+            "propoints": 10,
+            "money": 380
         },
         {
             "name": "Grgur Petric Maretic",
-            "propoints": 8
+            "propoints": 8,
+            "money": 270
         },
         {
             "name": "Toni Portolan",
-            "propoints": 6
+            "propoints": 6,
+            "money": 190
         },
         {
             "name": "Dinko Sulicic",
-            "propoints": 6
+            "propoints": 6,
+            "money": 190
         },
         {
             "name": "Filip Popovic",
             "rank": "5-8",
-            "propoints": 4
+            "propoints": 4,
+            "money": 80
         },
         {
             "name": "Zvonimir Petrovic",
             "rank": "5-8",
-            "propoints": 4
+            "propoints": 4,
+            "money": 80
         },
         {
             "name": "Stjepan Sucic",
             "rank": "5-8",
-            "propoints": 4
+            "propoints": 4,
+            "money": 80
         },
         {
             "name": "Goran Elez",
             "rank": "5-8",
-            "propoints": 4
+            "propoints": 4,
+            "money": 80
         }
     ],
     "teamsize": 1   

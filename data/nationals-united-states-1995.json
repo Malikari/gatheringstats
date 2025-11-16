@@ -9,6 +9,10 @@
     "medium": "Tabletop",
     "id": "nationals-united-states-1995",
     "location": "Philadelphia, Pennsylvania, United States",
+    "structure": [
+        "Day 1: 4 Swiss rounds of Sealed Deck (1 4th Edition Starter, 2 Ice Age Booster, 2 Fallen Empires Booster + 4 basic lands), 4 Swiss rounds of Standard (each always 3 games per match, 2/1/0 pts for w/d/l); cut to Top 8",
+        "Day 2: Standard (Bo3 double elimination, Bo5 final)"
+    ],
     "logo": "nationals",
     "name": "Nationals United States 1995",
     "standings": [
@@ -17,7 +21,11 @@
         },
         {
             "name": "Henry Stern",
-            "report": "https://groups.google.com/forum/#!searchin/rec.games.trading-cards.magic.misc/nationals|sort:date/rec.games.trading-cards.magic.misc/dW02yHMKdLo/I1xVBRSTToAJ"
+            "report": [
+                "https://groups.google.com/forum/#!searchin/rec.games.trading-cards.magic.misc/nationals|sort:date/rec.games.trading-cards.magic.misc/dW02yHMKdLo/I1xVBRSTToAJ",
+                "https://web.archive.org/web/19981205232309/http://thedojo.net/tourney96/orig.950815hs.txt"
+            ],
+            "deck": "VF_t-iC0YUSYk5G0Q4uT0Q"
         },
         {
             "name": "Michael Long"
@@ -42,7 +50,10 @@
         {
             "name": "Scott Burke",
             "rank": 11,
-            "report": ["https://archive.org/details/ScryeMagazineIssue9-September_October_1995/page/n87/mode/2up?view=theater", "https://twitter.com/JasonVorthos/status/1463571074289909765", "https://web.archive.org/web/20000308010412/http://thedojo.net/tourney96/orig.950718sb.txt"]
+            "report": [
+                "https://archive.org/details/ScryeMagazineIssue9-September_October_1995/page/n87/mode/2up?view=theater",
+                "https://twitter.com/JasonVorthos/status/1463571074289909765", "https://web.archive.org/web/20000308010412/http://thedojo.net/tourney96/orig.950718sb.txt"
+            ]
         },
         {
             "name": "Bo Bell",

@@ -1,12 +1,12 @@
 {
     "type": "Nationals - Belgium",
-    "date": "May 10, 1997",
+    "date": "May 17, 1997",
     "formats": [
         "Standard"
     ],
     "medium": "Tabletop",
     "id": "nationals-belgium-1997",
-    "location": "Belgium",
+    "location": "Brussels, Belgium",
     "logo": "nationals",
     "name": "Nationals Belgium 1997",
     "standings": [
@@ -20,13 +20,24 @@
             "name": "Dominique Coene"
         },
         {
-            "name": "Freek de Backer",
-            "rank": "4-8"
+            "name": "Freek de Backer"
+        },
+        {
+            "name": "Jean-Louis D'Hondt",
+            "rank": 15
+        },
+        {
+            "name": "Werner van der Haegen",
+            "rank": "P"
         },
         {
             "name": "Carl Devos",
             "rank": "P",
-            "report": "https://web.archive.org/web/19991103215453fw_/http://www.hebel.net/~ehanuise/tournaments/reports/carl_devos/belg_nat97.txt"
+            "report": "https://zongo.be/magic/report/97_05_17.txt"
+        },
+        {
+            "name": "Luc Jeangille",
+            "rank": "P"
         }
     ],
     "teamsize": 1

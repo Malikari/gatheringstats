@@ -2,55 +2,75 @@
     "type": "Pro Tour",
     "coverage": "http://web.archive.org/web/20100223044814/http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/ptsd10/welcome",
     "date": "February 19-21, 2010",
+    "season": "2010",
     "formats": [
-        "Draft",
-        "Standard"
+        "Standard",
+        "Booster Draft"
+    ],
+    "structure": [
+        "Day 1: 5 rounds (Standard); Booster Draft (2x Zendikar, 1x Worldwake), 3 rounds; cut to 15 points",
+        "Day 2: Booster Draft, 3 rounds; 5 rounds of Swiss (Standard); cut to Top 8",
+        "Day 3: Bo5 single elimination (Standard)",
+        "---",
+        "Standard Legal sets: Shards of Alara – Worldwake, Magic 2010 (6 sets)",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-san-diego-2010",
     "location": "San Diego, California, United States",
+    "site": "San Diego Convention Center",
+    "metadiversity": 8.9,
     "logo": "ptlogo",
     "name": "Pro Tour San Diego",
     "standings": [
         {
             "money": 40000,
             "name": "Simon Görtzen",
-            "propoints": 25
+            "propoints": 25,
+            "deck": "Qs4rNwDYB0mJdpjClM4dBw"
         },
         {
             "money": 20000,
             "name": "Kyle Boggemes",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "RtHvb-Q_YUeNoqL3JhIYag"
         },
         {
             "money": 15000,
             "name": "Luis Scott-Vargas",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "EK_kcwPGik6Xdn825a78Xg"
         },
         {
             "money": 13000,
             "name": "Craig Wescoe",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "fFtkjVX_VUKnv42REy9CZg"
         },
         {
             "money": 11000,
             "name": "Daniel Gräfensteiner",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "zkqRF5iPukmD1_iGySSj1w"
         },
         {
             "money": 10500,
             "name": "Niels Viaene",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "uPt0xh3cCUu3lm21CIEIDg"
         },
         {
             "money": 10000,
             "name": "Yoshihiko Ikawa",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "hd9XHs-G2kKs1S6AJtkFWg"
         },
         {
             "money": 9500,
             "name": "Jeroen Kanis",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "JvHj9prpbkuslYTOxG4Hlw"
         },
         {
             "money": 7000,

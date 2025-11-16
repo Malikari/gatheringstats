@@ -2,55 +2,75 @@
     "type": "Pro Tour",
     "coverage": "https://web.archive.org/web/20150805101506/http://magic.wizards.com:80/en/events/coverage/ptori",
     "date": "July 31-August 1, 2015",
+    "season": "2014-15",
     "formats": [
-        "Draft",
-        "Standard"
+        "Standard",
+        "Booster Draft"
+    ],
+    "structure": [
+        "Day 1: Booster Draft (3x Magic Origins), 3 rounds; 5 rounds (Standard); cut to 12 points",
+        "Day 2: Booster Draft, 3 rounds; 5 rounds (Standard); cut to Top 8",
+        "Day 3: Single elimination: Bo3 quarter- and semi-finals, Bo5 final",
+        "---",
+        "Standard legal sets: Theros – Dragons of Tarkir, Magic 2015, Magic Origins (8 sets)",
+        "---",
+        "Mulligan: Vancouver (any number of times, always draw one card less, then Scry 1 if you took at least one mulligan)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-magic-origins-2015",
+    "site": "Vancouver Convention Center",
     "location": "Vancouver, Canada",
+    "metadiverstiy": 12.3,
     "logo": "ptorg",
     "name": "Pro Tour Magic Origins",
     "standings": [
         {
             "money": 40000,
             "name": "Joel Larsson",
-            "propoints": 30
+            "propoints": 30,
+            "deck": "36yYxUTfc0yH1jtuSbuXsQ"
         },
         {
             "money": 20000,
             "name": "Mike Sigrist",
-            "propoints": 26
+            "propoints": 26,
+            "deck": "SmVWozw1HU2tXkubolb5qw"
         },
         {
             "money": 12500,
             "name": "Paul Jackson",
-            "propoints": 22
+            "propoints": 22,
+            "deck": "DHqEfwmgykCYNXgl2vDemA"
         },
         {
             "money": 12500,
             "name": "Matthew Sperling",
-            "propoints": 22
+            "propoints": 22,
+            "deck": "Z1HcSsd_ZUus53LXb2D6cg"
         },
         {
             "money": 10000,
             "name": "Kentaro Yamamoto",
-            "propoints": 18
+            "propoints": 18,
+            "deck": "dcuJoUNzREul449vln83Qg"
         },
         {
             "money": 10000,
             "name": "Stephen Neal",
-            "propoints": 18
+            "propoints": 18,
+            "deck": "XuwXQ4HlV0m1ShdEx7kNpA"
         },
         {
             "money": 10000,
             "name": "Patrick Cox",
-            "propoints": 18
+            "propoints": 18,
+            "deck": "jvOjnlux3UC4dLXBtKP9fw"
         },
         {
             "money": 10000,
             "name": "Stephen Berrios",
-            "propoints": 18
+            "propoints": 18,
+            "deck": "TOJX1wpVAEajItSgSx1t5g"
         },
         {
             "money": 5000,

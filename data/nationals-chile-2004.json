@@ -1,8 +1,9 @@
 {
     "type": "Nationals - Chile",
-    "date": "January 1-December 31, 2004",
+    "date": "June 26-27, 2004",
     "formats": [
-        "unknown"
+        "Standard",
+        "Booster Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-chile-2004",
@@ -11,13 +12,28 @@
     "name": "Nationals Chile 2004",
     "standings": [
         {
-            "name": "Waldemar Barrientos"
+            "name": "Waldemar Barrientos",
+            "money": 1700
         },
         {
-            "name": "Andres Pablo Hojman Cruz"
+            "name": "Andres Pablo Hojman Cruz",
+            "money": 1000
         },
         {
-            "name": "Ignacio Parot"
+            "name": "Ignacio Parot",
+            "money": 650
+        },
+        {
+            "name": "Ignacio Sanchez",
+            "money": 650
+        },
+        {
+            "name": "Ignacio Sanchez",
+            "rank": 9
+        },
+        {
+            "name": "Rafael Le Saux",
+            "rank": 19
         }
     ],
     "teamsize": 1

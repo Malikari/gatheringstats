@@ -2,54 +2,71 @@
     "type": "Pro Tour",
     "coverage": "https://web.archive.org/web/20050829195909/http://www.wizards.com/default.asp?x=mtgevent/ptlon05/welcome",
     "date": "July 8-10, 2005",
+    "season": "2005",
     "formats": [
-        "Draft"
+        "Booster Draft"
+    ],
+    "structure": [
+        "Day 1: Booster Draft (Champions of Kamigawa, Betrayers of Kamigawa, Saviors of Kamigawa), 3 rounds; Booster Draft, 3 rounds; cut to 12 points; Booster Draft, 1 round",
+        "Day 2: 2 rounds (decks from the previous day's 3rd draft); Booster Draft, 3 rounds; Booster Draft, 3 rounds; cut to Top 8",
+        "Day 3: Booster Draft, Bo5 single elimination",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-london-2005",
     "location": "London, United Kingdom",
+    "site": "Earls Court Exhibition Center",
     "logo": "ptlogo",
     "name": "Pro Tour London",
     "standings": [
         {
             "money": 30000,
             "name": "Geoffrey Siron",
-            "propoints": 25
+            "propoints": 25,
+            "deck": "PN1ZG2uRCk6p_IjBaekJNA"
         },
         {
             "money": 20000,
             "name": "Tsuyoshi Fujita",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "HSMQJz6h9USZF8ovcpJusA"
         },
         {
             "money": 15000,
             "name": "Johan Sadeghpour",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "q3uZVzEDrUSOpuOrpp9bJg"
         },
         {
             "money": 13000,
             "name": "Antti Malin",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "5Y_phGpsEkClMnlj7-uvzg"
         },
         {
             "money": 9500,
             "name": "Masashi Oiso",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "0BT6134Mq0CIfWIY5QhpcA"
         },
         {
             "money": 8500,
             "name": "Tomi Walamies",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "C1gjC8vYyEeSKVOMMRXSfQ"
         },
         {
             "money": 7500,
             "name": "Arnost Zidek",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "yGhbiAgERk61c8XAWx_BEg"
         },
         {
             "money": 6500,
             "name": "David Larsson",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "qui3KGFWgkucM2ovmaMrtg"
         },
         {
             "money": 6000,
@@ -652,7 +669,7 @@
             "propoints": 2
         },
         {
-            "name": "Daniel Kramer-Stein",
+            "name": "Daniel Kramer",
             "propoints": 2
         },
         {

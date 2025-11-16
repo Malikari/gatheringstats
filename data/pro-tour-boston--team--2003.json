@@ -2,45 +2,60 @@
     "type": "Pro Tour",
     "coverage": "https://web.archive.org/web/20031008184013/http://www.wizards.com/default.asp?x=sideboard/events/ptbos03",
     "date": "September 12-14, 2003",
+    "season": "2003-04",
     "formats": [
         "Team Sealed",
         "Team Rochester Draft"
     ],
+    "structure": [
+        "Day 1: 3 Team Sealeds (2 Onslaught Tournament Packs, 2 Legions Booster, 2 Scourge Booster) each followed by 2 rounds; cut to 12 points",
+        "Day 2: 5 times each team does a Team Rochester Draft (Onslaught, Legions, Scourge) against another team, playing with corresponding seats paired against each other; cut to top 4 teams",
+        "Day 3: In the semis and the final teams do a Team Rochester Draft against each other and afterwards play Bo3 with corresponding seats paired against each other and the winner advancing",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
+    ],
     "medium": "Tabletop",
     "id": "pro-tour-boston--team--2003",
     "location": "Boston, Massachussetts, United States",
+    "site": "Bayside Exposition Center",
     "logo": "ptlogo",
     "name": "Pro Tour Boston (Team)",
     "standings": [
         {
             "money": 20000,
-            "name": "Matthew Linde",
-            "propoints": 24
+            "name": "Brock Parker",
+            "propoints": 24,
+            "deck": "QOpZwu1_xkmXpHxjfVetRg"
         },
         {
             "money": 20000,
             "name": "William Jensen",
-            "propoints": 24
+            "propoints": 24,
+            "deck": "6eXe_L1uR0u5avqA1Ad9tw"
         },
         {
             "money": 20000,
-            "name": "Brock Parker",
-            "propoints": 24
-        },
-        {
-            "money": 10000,
-            "name": "Jake Smith",
-            "propoints": 18
-        },
-        {
-            "money": 10000,
-            "name": "Rickard Österberg",
-            "propoints": 18
+            "name": "Matthew Linde",
+            "propoints": 24,
+            "deck": "lxwl2MPkZUu3GpIOqW9qMw"
         },
         {
             "money": 10000,
             "name": "Lovre Crnobori",
-            "propoints": 18
+            "propoints": 18,
+            "deck": "d7EM2P7y0Eqtc2uNfrZhHg"
+        },
+        {
+            "money": 10000,
+            "name": "Jake Smith",
+            "propoints": 18,
+            "deck": "oPsKwbBuC0SkOriT39RUrw"
+        },
+        {
+            "money": 10000,
+            "name": "Rickard Österberg",
+            "propoints": 18,
+            "deck": "551L7DMocUGBHx7c3aPufA"
         },
         {
             "money": 6000,

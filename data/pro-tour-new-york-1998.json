@@ -4,7 +4,14 @@
     "date": "April 17-19, 1998",
     "season": "1997-98",
     "formats": [
-        "Draft"
+        "Booster Draft"
+    ],
+    "structure": [
+        "Day 1: Booster Draft (2x Tempest, 1x Stronghold), 4 rounds; Booster Draft, 3 rounds; cut to Top 96",
+        "Day 2: Booster Draft, 4 rounds; Booster Draft, 3 rounds; cut to Top 8",
+        "Day 3: Booster Draft, Bo5 single elimination",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-new-york-1998",
@@ -17,44 +24,52 @@
             "money": 25000,
             "name": "Jon Finkel",
             "propoints": 32,
-            "report": "http://web.archive.org/web/19980504175700/http://thedojo.com/t982/ptny.980422jfi.txt"
+            "report": "http://web.archive.org/web/19980504175700/http://thedojo.com/t982/ptny.980422jfi.txt",
+            "deck": "MYV0kxhIUUiBxjSh_JKzcw"
         },
         {
             "money": 15000,
             "name": "Dominic Crapuchettes",
-            "propoints": 24
+            "propoints": 24,
+            "deck": "N7Rq0TZ7cUKltlgS1IpDDA"
         },
         {
             "money": 10000,
             "name": "John Chinnock",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "AT_gT799aEmuIQpwRaFpAg"
         },
         {
             "money": 8000,
             "name": "David Bachmann",
             "propoints": 16,
-            "report": "http://web.archive.org/web/19980504175004/http://thedojo.com/t982/ptny.980422dba.txt"
+            "report": "http://web.archive.org/web/19980504175004/http://thedojo.com/t982/ptny.980422dba.txt",
+            "deck": "PAZFgcopYkWS4GrxbZt-fA"
         },
         {
             "money": 6500,
             "name": "Truc Bui",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "m-fQpd9Ix0aP9KDk3e060Q"
         },
         {
             "money": 5500,
             "name": "Nate Clarke",
             "propoints": 12,
-            "report": "http://web.archive.org/web/19980504175004/http://thedojo.com/t982/ptny.980422ncl.txt"
+            "report": "http://web.archive.org/web/19980504175004/http://thedojo.com/t982/ptny.980422ncl.txt",
+            "deck": "tI2WO-nKxkK8v5oIsdv6aQ"
         },
         {
             "money": 4800,
             "name": "Mark Justice",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "ZuhJCBtx8E-VPhOrTld7NA"
         },
         {
             "money": 4300,
             "name": "Casey McCarrel",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "DJb1kAzapky4_FB1oqJpyw"
         },
         {
             "money": 4000,
@@ -142,7 +157,8 @@
         {
             "money": 1580,
             "name": "Itaru Ishida",
-            "propoints": 7
+            "propoints": 7,
+            "report": "https://web.archive.org/web/20040222233149/http://www.wizards.com/default.asp?x=sideboard/jpstrategy/20030419a"
         },
         {
             "money": 1500,

@@ -2,54 +2,71 @@
     "type": "Pro Tour",
     "coverage": "https://web.archive.org/web/20020606105455/http://www.wizards.com/sideboard/event.asp?event=PTBAR01",
     "date": "May 4-6, 2001",
+    "season": "2000-01",
     "formats": [
-        "Draft"
+        "Booster Draft"
+    ],
+    "structure": [
+        "Day 1: Booster Draft (2x Invasion, 1x Planeshift), 4 rounds; Booster Draft, 3 rounds; cut to 12 points",
+        "Day 2: Booster Draft, 4 rounds; Booster Draft, 3 rounds; cut to Top 8",
+        "Day 3: Booster Draft; Bo5 single elimination",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-barcelona-2001",
     "location": "Barcelona, Spain",
+    "site": "La Farga (L'Hospitalet)",
     "logo": "ptlogo",
     "name": "Pro Tour Barcelona",
     "standings": [
         {
             "money": 30000,
             "name": "Kai Budde",
-            "propoints": 32
+            "propoints": 32,
+            "deck": "P47rz5kltk-8fnoOHPYB8A"
         },
         {
             "money": 20000,
             "name": "Alan Comer",
-            "propoints": 24
+            "propoints": 24,
+            "deck": "p6rpFo-TvU2J5WMFGd4w-Q"
         },
         {
             "money": 15000,
             "name": "Daniel Clegg",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "cNKzDaBnb0O3e995OrSHYA"
         },
         {
             "money": 13000,
             "name": "Patrick Mello",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "dQg6wYIGAk6dg9hMWoc0iA"
         },
         {
             "money": 9000,
             "name": "Brad Swan",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "iJjpJ6ZNkU6IU2knWZdXbQ"
         },
         {
             "money": 8500,
             "name": "Albertus Law",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "WPAVhxaTwE2I4KVveasf3w"
         },
         {
             "money": 8000,
             "name": "Yuri Kolomeyko",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "lflNGbIw3kinVINcAL0BMw"
         },
         {
             "money": 7500,
             "name": "Chad Ellis",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "o4frWI9OwUG4e_4jESkoRQ"
         },
         {
             "money": 5600,

@@ -16,13 +16,34 @@
             "name": "Sebastian Suter"
         },
         {
-            "name": "Andres Camargo"
+            "name": "Andres Camargo",
+            "money": 1000
         },
         {
-            "name": "Juan Escobar Reyes"
+            "name": "Juan Escobar Reyes",
+            "money": 600,
+            "report": "https://web.archive.org/web/20020726213311/http://www.necromagic.com/reportes/standard/010502_escobar.asp"
         },
         {
-            "name": "Walter Witt"
+            "name": "Walter Witt",
+            "money": 500
+        },
+        {
+            "name": "Felipe Silva",
+            "money": 350,
+            "report": "https://web.archive.org/web/20010524044613/http://magictemuco.tripod.com/reportes/felipe_silva.htm"
+        },
+        {
+            "name": "Maxiliano Cereceda Almarza",
+            "rank": "T8"
+        },
+        {
+            "name": "Jose Luis Echeverria Paredes",
+            "rank": "T8"
+        },
+        {
+            "name": "Pablo Moreira",
+            "rank": "T8"
         }
     ],
     "teamsize": 1

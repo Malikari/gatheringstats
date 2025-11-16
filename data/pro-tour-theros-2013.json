@@ -2,55 +2,75 @@
     "type": "Pro Tour",
     "coverage": "https://web.archive.org/web/20131029022856/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/ptths13/welcome",
     "date": "October 11-13, 2013",
+    "season": "2013-14",
     "formats": [
-        "Draft",
-        "Standard"
+        "Standard",
+        "Booster Draft"
+    ],
+    "structure": [
+        "Day 1: Booster Draft (3x Theros), 3 rounds; 5 rounds (Standard); cut to 12 points",
+        "Day 2: Booster Draft, 3 rounds; 5 rounds (Standard); cut to Top 8",
+        "Day 3: Bo5 single elimination",
+        "---",
+        "Standard legal sets: Return to Ravnica – Theros, Magic 2014 (5 sets)",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-theros-2013",
     "location": "Dublin, Ireland",
+    "site": "Royal Dublin Society",
+    "metadiversity": 17.0,
     "logo": "ptths",
     "name": "Pro Tour Theros",
     "standings": [
         {
             "money": 40000,
             "name": "Jeremy Dezani",
-            "propoints": 30
+            "propoints": 30,
+            "deck": "85yIPK75LEGV1_R3LOWLnQ"
         },
         {
             "money": 20000,
             "name": "Pierre Dagen",
-            "propoints": 24
+            "propoints": 24,
+            "deck": "7P1fKj7juUe-lc6WkGz7lg"
         },
         {
             "money": 12500,
             "name": "Samuel Black",
-            "propoints": 22
+            "propoints": 22,
+            "deck": "EsuuVhTqHUCfhJk3mYbj3w"
         },
         {
             "money": 12500,
             "name": "Makihito Mihara",
-            "propoints": 22
+            "propoints": 22,
+            "deck": "R3DFlguPC0eim98FV302AQ"
         },
         {
             "money": 10000,
             "name": "Guillaume Wafo-Tapa",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "Y_3y7NGB10mPFPpfjzjYZA"
         },
         {
             "money": 10000,
             "name": "Paul Rietzl",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "VwPmKuTeFE2JT5joH-Fqqw"
         },
         {
             "money": 10000,
             "name": "Kentaro Yamamoto",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "yczaWoEzJkW5QkbcgHxZmw"
         },
         {
             "money": 10000,
             "name": "Kamiel Cornelissen",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "uXzDTissy0au_pxYj55o6w"
         },
         {
             "money": 5000,

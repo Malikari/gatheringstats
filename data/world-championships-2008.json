@@ -2,56 +2,79 @@
     "type": "Pro Tour",
     "coverage": "http://web.archive.org/web/20081216010602/http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/worlds08/welcome",
     "date": "December 11-14, 2008",
+    "season": "2008",
     "formats": [
         "Standard",
-        "Draft",
+        "Booster Draft",
         "Extended"
+    ],
+    "structure": [
+        "Day 1: 6 rounds (Standard), 2 rounds of National Teams (Standard / Extended / Legacy Team Trios)",
+        "Day 2: 2 Booster Drafts (3x Shards of Alara) each followed by 3 rounds",
+        "Day 3: 2 rounds of National Teams; cut to Top 4 teams; 6 rounds (Extended); cut to Top 8",
+        "Day 4: Single elimination Team competition; Bo5 single elimination (Standard decks from day 1)",
+        "---",
+        "Standard legal sets: Lorwyn – Shards of Alara, Tenth Edition (5 sets)",
+        "Extended legal sets: Onslaught – Shards of Alara, Eighth Edition – Tenth Edition (21 sets)",
+        "Legacy legal sets: All sets up to and including Shards of Alara (57 sets)",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "world-championships-2008",
     "location": "Memphis, Tennessee, United States",
+    "site": "Memphis Cook Convention Center",
+    "metadiversity": 7.4,
     "logo": "ptlogo",
     "name": "2008 World Championships",
     "standings": [
         {
             "money": 45000,
             "name": "Antti Malin",
-            "propoints": 25
+            "propoints": 25,
+            "deck": "nY0dz89NR0qdB497B-KOHA"
         },
         {
             "money": 24000,
             "name": "Jamie Parke",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "v8g-RVcUFES4qlUmxEwNbw"
         },
         {
             "money": 15000,
             "name": "Tsuyoshi Ikeda",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "1YqMPEpGKkWKJOogiDoTeg"
         },
         {
             "money": 14000,
             "name": "Hannes Kerem",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "XA9NMDP8iUSIeWeLHlG4Hw"
         },
         {
             "money": 11000,
             "name": "Paulo Vitor Damo da Rosa",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "YSGicdbNH0Ko41idy-PH-g"
         },
         {
             "money": 10500,
             "name": "Kenji Tsumura",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "SzwbwoBw5UyyUKZY2QqsYw"
         },
         {
             "money": 10000,
             "name": "Frank Karsten",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "P-BKrbff8EmpMe9C2CaXMA"
         },
         {
             "money": 9500,
             "name": "Akira Asahara",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "965EwZ2Z9EWWZA1GRc0PCA"
         },
         {
             "money": 7000,

@@ -2,54 +2,71 @@
     "type": "Pro Tour",
     "coverage": "https://web.archive.org/web/20000303030704/http://www.wizards.com/sideboard/eventarticle.asp?event=PTLA00&name=welcome",
     "date": "February 4-6, 2000",
+    "season": "1999-2000",
     "formats": [
-        "Draft"
+        "Booster Draft"
+    ],
+    "structure": [
+        "Day 1: Booster Draft (3x Mercadian Masques), 4 rounds; Booster Draft, 3 rounds; cut to Top 96",
+        "Day 2: Booster Draft, 4 rounds; Booster Draft, 3 rounds; cut to Top 8",
+        "Day 3: Booster Draft, Bo5 single elimination",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-los-angeles-2000",
-    "location": "Los Angeles, California, United States",
+    "location": "Long Beach, California, United States",
+    "site": "RMS Queen Mary",
     "logo": "ptlogo",
     "name": "Pro Tour Los Angeles",
     "standings": [
         {
             "money": 25000,
             "name": "Trevor Blackwell",
-            "propoints": 32
+            "propoints": 32,
+            "deck": "QaSGeHjxXkmf1b0BlXigvw"
         },
         {
             "money": 15000,
             "name": "Chris Benafel",
-            "propoints": 24
+            "propoints": 24,
+            "deck": "60IUq9Njo0GKhabVaYzFGQ"
         },
         {
             "money": 10000,
             "name": "Kurt Burgner",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "kyFMl2-ztUGxES3NwT49-A"
         },
         {
             "money": 8000,
             "name": "Michael Long",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "lTm6xru8XU-SWdApcQvRMw"
         },
         {
             "money": 6500,
             "name": "Erno Ekebom",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "Po1sL5T4OkGwvfDYWgMFqQ"
         },
         {
             "money": 5500,
             "name": "Bruce Cowley",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "qwHrOTXzYEG98O7MMADzCQ"
         },
         {
             "money": 4800,
             "name": "Andrew Nishioka",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "m4-ngCuZyU28LUu6C8w8Vw"
         },
         {
             "money": 4300,
             "name": "Brian Selden",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "dA1vf9PFAEKai-0hUK7tKw"
         },
         {
             "money": 4000,

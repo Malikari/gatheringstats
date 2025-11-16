@@ -2,55 +2,75 @@
     "type": "Pro Tour",
     "coverage": "http://web.archive.org/web/20080526171634/http://www.wizards.com/default.asp?x=mtgevent/pthol08/welcome",
     "date": "May 23-25, 2008",
+    "season": "2008",
     "formats": [
         "Standard"
+    ],
+    "structure": [
+        "Day 1: 8 rounds (Standard); cut to 15 points",
+        "Day 2: 8 rounds; cut to Top 8",
+        "Day 3: Bo5 single elimination",
+        "---",
+        "Legal sets: Time Spiral – Shadowmoor, Tenth Edition (8 sets)",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-hollywood-2008",
     "location": "Hollywood, California, United States",
+    "site": "Hyatt Regency Century Plaza",
+    "metadiversity": 8.0,
     "logo": "ptlogo",
     "name": "Pro Tour Hollywood",
     "standings": [
         {
             "money": 40000,
             "name": "Charles Gindy",
-            "propoints": 25
+            "propoints": 25,
+            "deck": "6A3o-Oizl02KcPKs1mc5Dw"
         },
         {
             "money": 20000,
             "name": "Jan Ruess",
             "propoints": 20,
-            "report": ["http://www.planetmtg.de/articles/artikel.html?id=3992", "http://www.planetmtg.de/articles/artikel.html?id=3993"]
+            "report": ["http://www.planetmtg.de/articles/artikel.html?id=3992", "http://www.planetmtg.de/articles/artikel.html?id=3993"],
+            "deck": "wy47x1EPh0yOtmrwyKTwmA"
         },
         {
             "money": 15000,
             "name": "Shuhei Nakamura",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "RyAhfr_8kk-Bo3CkAV_VYA"
         },
         {
             "money": 13000,
             "name": "Yong Han Choo",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "oaDxjbrFmkqTpax1XuSdVQ"
         },
         {
             "money": 11000,
             "name": "Nico Bohny",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "uq1elasf1kC0qVHZNfm_ww"
         },
         {
             "money": 10500,
             "name": "Marijn Lybaert",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "m0rgPp0Y-kWl4d_Epz8Ywg"
         },
         {
             "money": 10000,
             "name": "Makihito Mihara",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "STj4nqzJjUesxUIJeR8t9w"
         },
         {
             "money": 9500,
             "name": "Paulo Vitor Damo da Rosa",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "IRjPEc7TqEmZxDVBx2-jpQ"
         },
         {
             "money": 7000,

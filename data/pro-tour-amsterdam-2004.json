@@ -2,54 +2,71 @@
     "type": "Pro Tour",
     "coverage": "https://web.archive.org/web/20040201213645/http://www.wizards.com/default.asp?x=sideboard/events/ptams04",
     "date": "January 16-18, 2004",
+    "season": "2003-04",
     "formats": [
         "Rochester Draft"
+    ],
+    "structure": [
+        "Day 1: Rochester Draft (3x Mirrodin), 3 rounds; Rochester Draft, 3 rounds; cut to 12 points; Rochester Draft, 1 round",
+        "Day 2: 2 rounds (decks from the previous day's 3rd draft); Rochester Draft, 3 rounds; Rochester Draft, 3 rounds; cut to Top 8",
+        "Day 3: Rochester Draft, Bo5 single elimination",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-amsterdam-2004",
     "location": "Amsterdam, Netherlands",
+    "site": "RAI Convention Center",
     "logo": "ptlogo",
     "name": "Pro Tour Amsterdam",
     "standings": [
         {
             "money": 30000,
             "name": "Nicolai Herzog",
-            "propoints": 32
+            "propoints": 32,
+            "deck": "5eM6a1JtxEyp48xn22Nt5Q"
         },
         {
             "money": 20000,
             "name": "Osamu Fujita",
-            "propoints": 24
+            "propoints": 24,
+            "deck": "wnMiKHUTdEaXUaFCc_E6sg"
         },
         {
             "money": 15000,
             "name": "Anton Jonsson",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "rr7Nf7TbFEKNCXvqnx3yPA"
         },
         {
             "money": 13000,
             "name": "Olivier Ruel",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "HauHiwCVjUuGYQM32Z8XyA"
         },
         {
             "money": 9500,
             "name": "Kamiel Cornelissen",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "-N14EH5_K0qr2aY1SwMrsA"
         },
         {
             "money": 8500,
             "name": "Aeo Paquette",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "Q-B8wE9QvE-daqDfcXZAGA"
         },
         {
             "money": 7500,
             "name": "Farid Meraghni",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "1rTgipleYEaTlysChd8W6Q"
         },
         {
             "money": 6500,
             "name": "Michael Turian",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "cnbcTUm5SkSMow7ETK_Y_Q"
         },
         {
             "money": 6000,

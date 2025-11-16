@@ -16,18 +16,28 @@ const Page = props => (
         </div>
         <ul className="nav navbar-nav">
           <li>
+            <Link to="/worlds">
+              Worlds
+            </Link>
+          </li>
+          <li>
             <Link to="/grand-prix">
-              Grand Prix
+              GPs / Spotlights
             </Link>
           </li>
           <li>
             <Link to="/nationals">
-              Nationals
+              Nationals / Continentals
             </Link>
           </li>
           <li>
             <Link to="/arena">
               Arena
+            </Link>
+          </li>
+          <li>
+            <Link to="/magic-online">
+              MTGO 
             </Link>
           </li>
           <li>
@@ -43,6 +53,11 @@ const Page = props => (
           <li>
             <Link to="/hall-of-fame/year">
               Hall of Fame
+            </Link>
+          </li>
+          <li>
+            <Link to="/about">
+              About
             </Link>
           </li>
         </ul>

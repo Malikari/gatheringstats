@@ -2,12 +2,21 @@
     "type": "Pro Tour",
     "coverage": "https://web.archive.org/web/20030811181610/http://www.wizards.com/default.asp?x=sideboard/events/ptchi03",
     "date": "January 17-19, 2003",
+    "season": "2002-03",
     "formats": [
         "Rochester Draft"
+    ],
+    "structure": [
+        "Day 1: Rochester Draft (3x Onslaught), 4 rounds; Rochester Draft, 3 rounds; cut to 13 points",
+        "Day 2: Rochester Draft, 4 rounds; Rochester Draft, 3 rounds; cut to Top 8",
+        "Day 3: Rochester Draft, Bo5 single elimination",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-chicago-2003",
     "location": "Chicago, Illinois, United States",
+    "site": "Hyatt Regency",
     "logo": "ptlogo",
     "name": "Pro Tour Chicago",
     "standings": [
@@ -15,44 +24,52 @@
             "money": 30000,
             "name": "Kai Budde",
             "propoints": 32,
-            "report": "https://web.archive.org/web/20030805042406/http://www.wizards.com/default.asp?x=sideboard/strategy/20030130a"
+            "report": "https://web.archive.org/web/20030805042406/http://www.wizards.com/default.asp?x=sideboard/strategy/20030130a",
+            "deck": "ths7agewIUybCN8RJk6QTw"
         },
         {
             "money": 20000,
             "name": "Nicolai Herzog",
             "propoints": 24,
-            "report": "http://magic.tcgplayer.com/db/article.asp?ID=2798"
+            "report": "http://magic.tcgplayer.com/db/article.asp?ID=2798",
+            "deck": "2IHgauj4Y0qPk_1Rz7h7Jw"
         },
         {
             "money": 15000,
             "name": "Jon Finkel",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "P2MtCWKRV02O5EvNfeMhvA"
         },
         {
             "money": 13000,
             "name": "Dustin Stern",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "p53sHHnY-0KN6nGpxZzgUA"
         },
         {
             "money": 9500,
             "name": "Eugene Harvey",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "CW1u6O_4-0meaQq47dCzxQ"
         },
         {
             "money": 8500,
             "name": "Fabio Reinhardt",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "eh6M59Ihl02ih7rD8z7iUQ"
         },
         {
             "money": 7500,
             "name": "Bram Snepvangers",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "XrM_82lsfkajpf_OD8ckqQ"
         },
         {
             "money": 6500,
             "name": "William Jensen",
             "propoints": 12,
-            "report": "http://magic.tcgplayer.com/db/article.asp?ID=2716"
+            "report": "http://magic.tcgplayer.com/db/article.asp?ID=2716",
+            "deck": "WWKgmOqPCU-TW5foF2C6Vg"
         },
         {
             "money": 6000,

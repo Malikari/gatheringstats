@@ -3,7 +3,7 @@
     "date": "May 12-13, 2001",
     "formats": [
         "Standard",
-        "? Draft"
+        "Rochester Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-uruguay-2001",
@@ -12,16 +12,20 @@
     "name": "Nationals Uruguay 2001",
     "standings": [
         {
-            "name": "Rodrigo Asuaga"
+            "name": "Rodrigo Asuaga",
+            "money": 500
         },
         {
-            "name": "Alexander Westerley"
+            "name": "Alexander Westerley",
+            "money": 250
         },
         {
-            "name": "Guzman Villanova"
+            "name": "Guzman Villanova",
+            "money": 125
         },
         {
-            "name": "Victor Pintos"
+            "name": "Victor Pintos",
+            "money": 125
         },
         {
             "name": "Damian Brown-Santirso"

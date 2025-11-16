@@ -1,6 +1,7 @@
 {
     "type": "Nationals - Venezuela",
-    "date": "January 1-September 30, 2010",
+    "coverage": "https://web.archive.org/web/20100908212845/http://www.deckcheck.net/event.php?event=Nationals+2010+-+Venezuela",
+    "date": "August 22, 2010",
     "season": "2010",
     "formats": [
         "Standard",
@@ -8,24 +9,45 @@
     ],
     "medium": "Tabletop",
     "id": "nationals-venezuela-2010",
-    "location": "Venezuela",
+    "location": "Barquisimeto, Venezuela",
     "logo": "nationals",
     "name": "Nationals Venezuela 2010",
     "standings": [
         {
+            "name": "Jesus Enrique Somaza Mendoza",
+            "propoints": 10
+        },
+        {
             "name": "Daniel Fior",
-            "rank": 2,
             "propoints": 8
         },
         {
             "name": "Luis Luks",
-            "rank": 3,
             "propoints": 6
         },
         {
-            "name": "Jose Barreiro",
-            "rank": 8,
+            "name": "Rogerio Moya",
+            "propoints": 6
+        },
+        {
+            "name": "Alfredo Torres",
             "propoints": 4
+        },
+        {
+            "name": "Jose Adolfo Cejas",
+            "propoints": 4
+        },
+        {
+            "name": "Alejandro Sanchez",
+            "propoints": 4
+        },
+        {
+            "name": "Jose Barreiro",
+            "propoints": 4
+        },
+        {
+            "name": "Sergio Vegas",
+            "rank": "NT"
         }
     ],
     "teamsize": 1   

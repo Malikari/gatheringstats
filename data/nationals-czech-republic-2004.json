@@ -1,27 +1,53 @@
 {
     "type": "Nationals - Czech Republic",
-    "date": "June 9-11, 2004",
+    "date": "June 12-13, 2004",
     "formats": [
         "Standard",
-        "? Draft"
+        "Booster Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-czech-republic-2004",
-    "location": "Czech Republic",
+    "location": "Prague, Czech Republic",
     "logo": "nationals",
     "name": "Nationals Czech Republic 2004",
     "standings": [
         {
-            "name": "Ondrej Baudys"
+            "name": "Ondrej Baudys",
+            "report": "https://web.archive.org/web/20040908210643/http://www.cmus.cz/rs/view.php?cisloclanku=2004061901"
         },
         {
-            "name": "Evzen Boura"
+            "name": "Evzen Boura",
+            "report": "https://web.archive.org/web/20040908210711/http://www.cmus.cz/rs/view.php?cisloclanku=2004071302"
         },
         {
             "name": "Jan Skampa"
         },
         {
             "name": "Adam Fajkus"
+        },
+        {
+            "name": "Martin Juza",
+            "rank": 6
+        },
+        {
+            "name": "Stanislav Cifka",
+            "rank": "T8"
+        },
+        {
+            "name": "Rostislav Jošek",
+            "rank": "T8"
+        },
+        {
+            "name": "Tomáš Cifek",
+            "rank": "T8"
+        },
+        {
+            "name": "Michael Cerny",
+            "report": "https://web.archive.org/web/20040908210647/http://www.cmus.cz/rs/view.php?cisloclanku=2004062201"
+        },
+        {
+            "name": "Lubos Platzer",
+            "report": "https://web.archive.org/web/20040908211151/http://www.cmus.cz/rs/view.php?cisloclanku=2004070701"
         }
     ],
     "teamsize": 1

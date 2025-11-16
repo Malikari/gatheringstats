@@ -161,3 +161,77 @@
     width: 360px; // 1.
   }
 }
+
+
+/*
+ * Collapsible box
+ */
+
+
+.collapsible-box {
+  padding: 10px;
+  border: none;
+}
+
+.collapsible-button {
+  background: transparent;
+  cursor: pointer;
+  border: none;
+  font-weight: 300;
+  color: #6f6f6f;
+}
+
+.collapsible-content {
+  margin-top: 10px;
+  font-size: 1.5em;
+  font-weight: 300;
+  color: #6f6f6f;
+}
+
+.collapsible-iframebutton {
+  background: transparent;
+  cursor: pointer;
+  border: none;
+  font-weight: 300;
+  color: #6f6f6f;
+}
+
+
+.reports {
+  padding-left:3px; 
+}
+
+
+.nation-filter {
+  width: fit-content;
+  margin: 0 auto;  
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: 1.7rem;
+  margin-bottom: 1rem;
+}
+
+
+.nation-filter label {
+  font-size: 1.7rem;
+}
+
+.nation-filter select {
+  appearance: none;
+  background-image: url("data:image/svg+xml;utf8,<svg fill='gray' height='10' viewBox='0 0 20 20' xmlns='http://www.w3.org/2000/svg'><path d='M5 7l5 5 5-5H5z'/></svg>");
+  background-repeat: no-repeat;
+  background-position: right 0.5rem center;
+  background-size: 0.8rem;
+  padding-right: 1.5rem;
+  font-size: 1.7rem;
+  position: relative;
+  top: -2px;
+  border: 1px solid #ddd;
+  padding: 4px 8px 4px 6px;
+}
+
+.nation-filter select:focus {
+  border-color: #999;
+  outline: none;
+}

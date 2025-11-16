@@ -14,7 +14,8 @@
     "standings": [
         {
             "money": 1700,
-            "name": "Rob Nadebaum"
+            "name": "Rob Nadebaum",
+            "report": "https://web.archive.org/web/20020319195455/http://www.mtgparadise.com/reports/may2001/2205nadebaum_nats.shtml"
         },
         {
             "money": 1100,
@@ -27,7 +28,8 @@
         },
         {
             "money": 500,
-            "name": "Cael McGann"
+            "name": "Cael McGann",
+            "report": "https://web.archive.org/web/20021122122823/http://www.mtgparadise.com/reports/may2001/2105mcgann_nats.shtml"
         },
         {
             "money": 250,
@@ -44,6 +46,21 @@
         {
             "money": 250,
             "name": "Andrew Grain"
+        },
+        {
+            "name": "Daniel Turner",
+            "rank": 12,
+            "report": "https://web.archive.org/web/20010603020128/http://www.mtgparadise.com/reports/may2001/1005turner_nats.shtml"
+        },
+        {
+            "name": "Peter Pohlman",
+            "rank": 13,
+            "report": "https://web.archive.org/web/20010603013602/http://www.mtgparadise.com/reports/may2001/0705pohlman_nats.shtml"
+        },
+        {
+            "name": "Pang-Ming Wee",
+            "rank": 19,
+            "report": "https://web.archive.org/web/20010710063957/http://www.mtgparadise.com/reports/may2001/3005wee_nats.shtml"
         }
     ],
     "teamsize": 1

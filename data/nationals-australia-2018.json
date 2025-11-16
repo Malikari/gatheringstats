@@ -15,31 +15,39 @@
     "standings": [
         {
             "name": "Matthew Garnham",
-            "propoints": 3
+            "propoints": 3,
+            "money": 3000
         },
         {
             "name": "Benaya Lie",
-            "propoints": 3
+            "propoints": 3,
+            "money": 2500
         },
         {
             "name": "Ben Yuill",
-            "propoints": 1
+            "propoints": 1,
+            "money": 1750
         },
         {
             "name": "Shimeng Yao",
-            "propoints": 1
+            "propoints": 1,
+            "money": 1750
         },
         {
-            "name": "Kynan Pell"
+            "name": "Kynan Pell",
+            "money": 750
         },
         {
-            "name": "Jack Walton"
+            "name": "Jack Walton",
+            "money": 750
         },
         {
-            "name": "David Huang"
+            "name": "David Huang",
+            "money": 750
         },
         {
-            "name": "Simon Linabury"
+            "name": "Simon Linabury",
+            "money": 750
         }
     ],
     "teamsize": 1

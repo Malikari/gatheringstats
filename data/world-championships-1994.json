@@ -6,24 +6,44 @@
     "formats": [
         "Vintage"
     ],
+    "structure": [
+        "Day 1: Qualfiying tournaments with the top 16 in each advancing to the next stage",
+        "Day 2: Bo3 single elimination (players could change their deck from the qualifier)",
+        "Day 3: Top 4 played Bo3 single elimination (same decks as day 2)",
+        "---",
+        "Mulligan: Original (once when 0 or 7 lands)"
+    ],
     "medium": "Tabletop",
     "id": "world-championships-1994",
     "location": "Milwaukee, Wisconsin, United States",
+    "site": "MECCA",
     "logo": "worldslogo",
     "name": "1994 World Championships",
     "standings": [
         {
-            "name": "Zak Dolan"
+            "name": "Zak Dolan",
+            "deck": "sUINlEN28E2x9bpTIpsMtw",
+            "report": "https://web.archive.org/web/20150106142352/http://magic.wizards.com/en/articles/archive/zak-dolans-worlds-diary-2004-08-26"
         },
         {
-            "name": "Bertrand Lestree"
+            "name": "Bertrand Lestree",
+            "deck": "Nfw08YpkP0CLjOInYZ_yMA"
         },
         {
-            "name": "Dominic Symens"
+            "name": "Dominic Symens",
+            "deck": "QGkvYBCDSkSKPU9tE56bSw"
         },
         {
-            "name": "Cyrille de Foucaud"
+            "name": "Cyrille de Foucaud",
+            "deck": "8VixFV7QIkmVzMNea02kIg"
+        },
+        {
+            "name": "Mark Rosewater",
+            "deck": "2CqOL11elUa27pNCSfvvLg",
+            "rank": "P"
         }
+
     ],
-    "teamsize": 1
+    "teamsize": 1,
+    "topn": 4
 }

@@ -2,45 +2,60 @@
     "type": "Pro Tour",
     "coverage": "https://web.archive.org/web/20020808041035/http://www.wizards.com/sideboard/event.asp?event=ptny01",
     "date": "September 7-9, 2001",
+    "season": "2001-02",
     "formats": [
         "Team Sealed",
         "Team Rochester Draft"
     ],
+    "structure": [
+        "Day 1: Team Sealed (Invasion, Planeshift, Apocalypse), 7 rounds; cut to 15 points",
+        "Day 2: 5 times each team does a Team Rochester Draft (Invasion, Planeshift, Apocalypse) against another team, playing with corresponding seats paired against each other; cut to top 4 teams",
+        "Day 3: In the semis and the final teams do a Team Rochester Draft against each other and afterwards play Bo3 with corresponding seats paired against each other with the winner advancing",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
+    ],
     "medium": "Tabletop",
     "id": "pro-tour-new-york--team--2001",
     "location": "New York, New York, United States",
+    "site": "Madison Square Garden",
     "logo": "ptlogo",
     "name": "Pro Tour New York (Team)",
     "standings": [
         {
             "money": 20000,
             "name": "Dirk Baberowski",
-            "propoints": 24
+            "propoints": 24,
+            "deck": "ePFhlACj-UWGcwpD9ZJjNw"
         },
         {
             "money": 20000,
             "name": "Kai Budde",
-            "propoints": 24
+            "propoints": 24,
+            "deck": "WL0j0C_6Y06IODPHLZSFbA"
         },
         {
             "money": 20000,
             "name": "Marco Blume",
-            "propoints": 24
+            "propoints": 24,
+            "deck": "81MfjO14UU2vGpdz3exsVQ"
         },
         {
             "money": 10000,
             "name": "Amiel Tenenbaum",
-            "propoints": 18
+            "propoints": 18,
+            "deck": "1oQEp4PNhkmex_PdmKVhvA"
         },
         {
             "money": 10000,
             "name": "Gabriel Nassif",
-            "propoints": 18
+            "propoints": 18,
+            "deck": "41x7i821tE-NUi4XUSPBfg"
         },
         {
             "money": 10000,
             "name": "Nicolas Olivieri",
-            "propoints": 18
+            "propoints": 18,
+            "deck": "FwolSxax_0uivNV4EDzeZg"
         },
         {
             "money": 6000,
@@ -545,7 +560,7 @@
             "propoints": 2
         },
         {
-            "name": "Chris Gartman",
+            "name": "Christopher Gartman",
             "propoints": 2
         },
         {

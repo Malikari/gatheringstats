@@ -2,12 +2,24 @@
     "type": "Pro Tour",
     "coverage": "https://web.archive.org/web/20021015214256/http://www.wizards.com/sideboard/event.asp?event=PTTOK01",
     "date": "March 16-18, 2001",
+    "season": "2000-01",
     "formats": [
-        "Block Constructed"
+        "Invasion Block Constructed"
+    ],
+    "structure": [
+        "Day 1: 7 rounds (Invasion Block Constructed); cut to 12 points",
+        "Day 2: 7 rounds; cut to Top 8",
+        "Day 3: Bo5 single elimination",
+        "---",
+        "Block Constructed legal sets: Invasion, Planeshift (2 sets)",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-tokyo-2001",
     "location": "Tokyo, Japan",
+    "site": "Tokyo Big Sight",
+    "metadiversity": 5.6,
     "logo": "ptlogo",
     "name": "Pro Tour Tokyo",
     "standings": [
@@ -15,43 +27,51 @@
             "money": 30000,
             "name": "Zvi Mowshowitz",
             "propoints": 32,
-            "report": "http://web.archive.org/web/20010427193759/http://magic.mindripper.com/Index.cfm?ArticleID=1402&SectionID=3&Show=All"
+            "report": "http://web.archive.org/web/20010427193759/http://magic.mindripper.com/Index.cfm?ArticleID=1402&SectionID=3&Show=All",
+            "deck": "wCcHs0JMq0OrOV6rizyzrw"
         },
         {
             "money": 20000,
             "name": "Tsuyoshi Fujita",
-            "propoints": 24
+            "propoints": 24,
+            "deck": "Iz7K3H6O0kCebHXe2M1gig"
         },
         {
             "money": 15000,
             "name": "Lucas Hager",
             "propoints": 16,
-            "report": "http://web.archive.org/web/20010405102103/http://www.brainburst.com/reports/010402Hager.html"
+            "report": "http://web.archive.org/web/20010405102103/http://www.brainburst.com/reports/010402Hager.html",
+            "deck": "0HRSS2dqIk-6UJbydLxr7Q"
         },
         {
             "money": 13000,
             "name": "Chris Benafel",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "GF-Zn4suL0W8FyJa5PwIiQ"
         },
         {
             "money": 9000,
             "name": "Ryan Fuller",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "jIoVLXOBF0Kq8Xxp-ZkOgQ"
         },
         {
             "money": 8500,
             "name": "Phil Freneau",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "xvQFmsPT_kKcHn0AGpUu_Q"
         },
         {
             "money": 8000,
             "name": "David Williams",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "Rsue2TP1XEWkXp2mqGHm1w"
         },
         {
             "money": 7500,
             "name": "Frederico Bastos",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "FCjFypbRWUyoJQ3EJNRyKw"
         },
         {
             "money": 5600,
@@ -415,8 +435,7 @@
         },
         {
             "name": "Kai Budde",
-            "propoints": 3,
-            "report": "https://groups.google.com/forum/#!topic/fido7.ru.magic.the.gathering/-552aBgA680"
+            "propoints": 3
         },
         {
             "name": "Scott Richards",

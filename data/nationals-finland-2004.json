@@ -1,17 +1,44 @@
 {
     "type": "Nationals - Finland",
-    "date": "January 1-August 31, 2004",
+    "date": "June 19-20, 2004",
     "formats": [
-        "unknown"
+        "Standard",
+        "Booster Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-finland-2004",
-    "location": "Finland",
+    "location": "Espoo, Finland",
     "logo": "nationals",
     "name": "Nationals Finland 2004",
     "standings": [
         {
             "name": "Jussi Timonen"
+        },
+        {
+            "name": "Max Lehtinen"
+        },
+        {
+            "name": "Andrei Häyrynen"
+        },
+        {
+            "name": "Pasi Karjalainen"
+        },
+        {
+            "name": "Joni Ukkola",
+            "rank": "5-8",
+            "report": "http://web.archive.org/web/20040803024755/http://mtg.bore.org/article.php?id=473"
+        },
+        {
+            "name": "Jussi Perälä",
+            "rank": "5-8"
+        },
+        {
+            "name": "Kotis",
+            "rank": "5-8"
+        },
+        {
+            "name": "Jussi",
+            "rank": "5-8"
         }
     ],
     "teamsize": 1

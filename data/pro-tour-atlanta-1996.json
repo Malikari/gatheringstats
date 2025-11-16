@@ -4,9 +4,16 @@
     "date": "September 13-15, 1996",
     "season": "1996-97",
     "formats": [
-        "Sealed"
+        "Mirage Sealed Deck"
     ],
     "medium": "Tabletop",
+    "structure": [
+        "Day 1: Sealed Deck (1x Mirage Starter, 2x Mirage Booster), 9 rounds; cut to Top 8",
+        "Day 2: Sealed Deck, single elimination (Bo3 quarterfinals, Bo5 thereafter)",
+        "---",
+        "Mulligan: Original (once when 0 or 7 lands)",
+        "Special incidents: The Pro Tour was also the Prerelease for Mirage, so none of the contestants knew any of the cards in advance."
+    ],
     "id": "pro-tour-atlanta-1996",
     "location": "Atlanta, Georgia, United States",
     "logo": "ptlogo",
@@ -16,12 +23,14 @@
             "money": 26000,
             "name": "Frank Adler",
             "propoints": 30,
-            "report": "http://web.archive.org/web/19991011103437/http://thedojo.net/tourney96/pt3.960924fa.txt"
+            "report": "http://web.archive.org/web/19991011103437/http://thedojo.net/tourney96/pt3.960924fa.txt",
+            "deck": "uT2zJv8i5kGmH-SGLj8_FA"
         },
         {
             "money": 16000,
             "name": "Darwin Kastle",
-            "propoints": 25
+            "propoints": 25,
+            "deck": "LIxEUZCH5kqZCrqaH6E6tw"
         },
         {
             "money": 9000,
@@ -500,7 +509,8 @@
             "name": "Max Suver"
         },
         {
-            "name": "Thomas Guevin"
+            "name": "Thomas Guevin",
+            "report": "https://groups.google.com/g/rec.games.trading-cards.magic.misc/c/jrqbwYYu444/m/MmGiKqA0AtgJ"
         },
         {
             "name": "Uri Margalit"
@@ -530,7 +540,8 @@
             "name": "Andrew Nishioka"
         },
         {
-            "name": "Aziz Al-Doory"
+            "name": "Aziz Al-Doory",
+            "report": "https://groups.google.com/g/rec.games.trading-cards.magic.misc/c/pbxZ8OCz208/m/5vWcEbgUgEwJ"
         },
         {
             "name": "Aaron Snapke"

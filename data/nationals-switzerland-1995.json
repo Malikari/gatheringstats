@@ -1,29 +1,30 @@
 {
     "type": "Nationals - Switzerland",
-    "date": "January 1-July 27, 1995",
+    "date": "June 10-11, 1995",
     "formats": [
-        "unknown"
+        "Standard"
     ],
     "medium": "Tabletop",
     "id": "nationals-switzerland-1995",
-    "location": "Switzerland",
+    "location": "Biel, Switzerland",
     "logo": "nationals",
     "name": "Nationals Switzerland 1995",
+    "structure": [
+        "Day 1: 5 matches",
+        "Day 2: ?"
+    ],
     "standings": [
         {
             "name": "Amiel Feldman"
         },
         {
-            "name": "Donat Hauser",
-            "rank": "2-3"
+            "name": "Donat Hauser"
         },
         {
-            "name": "Thomas Robertson",
-            "rank": "2-3"
+            "name": "Thomas Robertson"
         },
         {
-            "name": "Alexander Blumke",
-            "rank": 4
+            "name": "Alexander Blumke"
         }
     ],
     "teamsize": 1

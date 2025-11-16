@@ -2,54 +2,74 @@
     "type": "Pro Tour",
     "coverage": "http://web.archive.org/web/20060314145200/http://www.wizards.com/default.asp?x=mtgevent/pthon06/welcome",
     "date": "March 3-5, 2006",
+    "season": "2006",
     "formats": [
         "Standard"
+    ],
+    "structure": [
+        "Day 1: 8 rounds (Standard); cut to 15 points",
+        "Day 2: 8 rounds; cut to Top 8",
+        "Day 3: Bo5 single elimination",
+        "---",
+        "Standard legal sets: Champions of Kamigawa – Guildpact, Ninth Edition (6 sets)",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-honolulu-2006",
     "location": "Honolulu, Hawaii, United States",
+    "site": "Hawaii Convention Center",
+    "metadiversity": 15.5,
     "logo": "ptlogo",
     "name": "Pro Tour Honolulu",
     "standings": [
         {
             "money": 40000,
             "name": "Mark Herberholz",
-            "propoints": 25
+            "propoints": 25,
+            "deck": "iYyFtLlB90-il9Y5xGxq0A"
         },
         {
             "money": 22000,
             "name": "Craig Jones",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "2gvejKduj0KPmFLlMgqc9g"
         },
         {
             "money": 15000,
             "name": "Tiago Chan",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "ohvMU-DVMUGF-zad9cqd9g"
         },
         {
             "money": 14000,
             "name": "Olivier Ruel",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "EZKYZAvfOUCvWQkLr9blTw"
         },
         {
             "money": 11500,
             "name": "Osyp Lebedowicz",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "0xysGcMs_UitdoEPE9l6Zw"
         },
         {
             "money": 11000,
             "name": "Maximilian Bracht",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "z2WR6_JfvESO8A1q5vjT_A"
         },
         {
             "money": 10500,
             "name": "Ruud Warmenhoven",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "gEE1B0E7p0u6K-InLdnCkg"
         },
         {
             "money": 10000,
             "name": "Antoine Ruel",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "rc2ssuWZXkKLEaJ2L6C0Ag"
         },
         {
             "money": 7000,

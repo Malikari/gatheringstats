@@ -1,28 +1,44 @@
 {
     "type": "Nationals - Mexico",
-    "date": "May 1-June 11, 2003",
+    "coverage": "https://web.archive.org/web/20030623233309/http://www.necrotower.com/articulos/06122003nacional2003decks.htm",
+    "date": "June 8, 2003",
     "formats": [
         "Standard",
         "Rochester Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-mexico-2003",
-    "location": "Mexico",
+    "location": "Juarez, Mexico",
     "logo": "nationals",
     "name": "Nationals Mexico 2003",
     "standings": [
         {
-            "name": "Gustavo Chapela"
+            "name": "Gustavo Chapela",
+            "money": 1250
         },
         {
-            "name": "Ivan Cortes"
+            "name": "Ivan Cortes",
+            "money": 750
         },
         {
-            "name": "Jose Luis Leal"
+            "name": "Sergio Pena",
+            "money": 500
         },
         {
-            "name": "Carlos Medina",
-            "rank": "4-8"
+            "name": "Jose Luis Leal",
+            "money": 500
+        },
+        {
+            "name": "Luis Ramos"
+        },
+        {
+            "name": "Carlos Medina"
+        },
+        {
+            "name": "Alexander Sacal"
+        },
+        {
+            "name": "Francisco Barboza"
         }
     ],
     "teamsize": 1

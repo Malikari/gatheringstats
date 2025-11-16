@@ -2,8 +2,16 @@
     "type": "Pro Tour",
     "coverage": "https://web.archive.org/web/20020808015113/http://www.wizards.com/sideboard/event.asp?event=ptsd02",
     "date": "January 11-13, 2002",
+    "season": "2001-02",
     "formats": [
         "Rochester Draft"
+    ],
+    "structure": [
+        "Day 1: Rochester Draft (3x Odyssey), 4 rounds; Rochester Draft, 3 rounds; cut to 13 points",
+        "Day 2: Rochester Draft, 4 rounds; Rochester Draft, 3 rounds; cut to Top 8",
+        "Day 3: Rochester Draft, Bo5 single elimination",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-san-diego-2002",
@@ -14,43 +22,51 @@
         {
             "money": 30000,
             "name": "Farid Meraghni",
-            "propoints": 32
+            "propoints": 32,
+            "deck": "9byBdRhLZU6LLss1PoG9Og"
         },
         {
             "money": 20000,
             "name": "Jens Thorén",
-            "propoints": 24
+            "propoints": 24,
+            "deck": "fKb2K_Uy3UCD91WoQ933_w"
         },
         {
             "money": 15000,
             "name": "Donald Gallitz",
-            "propoints": 16
+            "propoints": 16,
+            "deck": "3n53laYVZ027sJyAGQTaQQ"
         },
         {
             "money": 13000,
             "name": "Andrew Wolf",
             "propoints": 16,
-            "report": ["http://web.archive.org/web/20020422042609/http://www.brainburst.com/reports/limited/020130.asp", "http://web.archive.org/web/20020219145351/http://www.brainburst.com/reports/limited/020201.asp"]
+            "report": ["http://web.archive.org/web/20020422042609/http://www.brainburst.com/reports/limited/020130.asp", "http://web.archive.org/web/20020219145351/http://www.brainburst.com/reports/limited/020201.asp"],
+            "deck": "ZYuA7CvoakmpYSYjUS-Q1Q"
         },
         {
             "money": 9500,
             "name": "Jeff Cunningham",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "Hi0vT8xIrk6l2sGFJ30xVA"
         },
         {
             "money": 8500,
             "name": "Frederico Bastos",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "rXcJOiUpv0WFku9Xpfbr2w"
         },
         {
             "money": 7500,
             "name": "Neil Reeves",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "QjV_TQkkEkSzsk8H7EIEPw"
         },
         {
             "money": 6500,
             "name": "Eric Froehlich",
-            "propoints": 12
+            "propoints": 12,
+            "deck": "ygTPE7PvXE6rqtU7nbKz7Q"
         },
         {
             "money": 6000,

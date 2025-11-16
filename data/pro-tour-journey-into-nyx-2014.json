@@ -2,55 +2,75 @@
     "type": "Pro Tour",
     "coverage": "https://web.archive.org/web/20140615225845/http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/ptjou14/welcome",
     "date": "May 16-18, 2014",
+    "season": "2013-14",
     "formats": [
-        "Draft",
-        "Block Constructed"
+        "Theros Block Constructed",
+        "Booster Draft"
+    ],
+    "structure": [
+        "Day 1: Booster Draft (Journey into Nyx, Born of the Gods, Theros), 3 rounds; 5 rounds (Theros Block Constructed); cut to 12 points",
+        "Day 2: Booster Draft, 3 rounds; 5 rounds (Block Constructed); cut to Top 8",
+        "Day 3: Single elimination: Bo3 quarter- and semi-finals, Bo5 final",
+        "---",
+        "Block Constructed legal sets: Theros – Journey into Nyx (3 sets)",
+        "---",
+        "Mulligan: Paris (any number of times, always draw one card less)"
     ],
     "medium": "Tabletop",
     "id": "pro-tour-journey-into-nyx-2014",
     "location": "Atlanta, Georgia, United States",
+    "site": "Cobb Galleria Centre",
     "logo": "ptjou",
     "name": "Pro Tour Journey into Nyx",
     "standings": [
         {
             "money": 40000,
             "name": "Patrick Chapin",
-            "propoints": 30
+            "propoints": 30,
+            "report": ["https://articles.starcitygames.com/articles/pro-tour-journey-into-nyx-1st-part-one/", "https://articles.starcitygames.com/articles/pro-tour-journey-into-nyx-1st-part-two/"],
+            "deck": "G2Zjpllbd0SLY3r8IhRKTw"
         },
         {
             "money": 20000,
             "name": "Nam Sung Wook",
-            "propoints": 24
+            "propoints": 24,
+            "deck": "rbTXKq-g4Uyde9yXl5XECw"
         },
         {
             "money": 12500,
             "name": "Josh Utter-Leyton",
-            "propoints": 22
+            "propoints": 22,
+            "deck": "NiLE3jwjkUuRL7uGWpaL2A"
         },
         {
             "money": 12500,
             "name": "Yuuki Ichikawa",
-            "propoints": 22
+            "propoints": 22,
+            "deck": "3g4lUnG-OkCLI39iC0vYRQ"
         },
         {
             "money": 10000,
             "name": "Reid Duke",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "QIE3ZYmmiEOsk1rlxVodag"
         },
         {
             "money": 10000,
             "name": "Andrea Mengucci",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "4XwFrzFuwkOfWpktw8R7qg"
         },
         {
             "money": 10000,
             "name": "Stanislav Cifka",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "5JeJxUuX1E2TjHqRphAO6A"
         },
         {
             "money": 10000,
             "name": "Jamie Parke",
-            "propoints": 20
+            "propoints": 20,
+            "deck": "XgsNb1P1ukewvR9s5ByRyg"
         },
         {
             "money": 5000,

@@ -2,13 +2,26 @@
   "type": "Pro Tour",
   "coverage": "https://www.magic.gg/events/pro-tour-phyrexia",
   "date": "February 17-19, 2023",
+  "season": "2022-23",
+  "teamsize": 1,
   "formats": [
-    "Draft",
-    "Pioneer"
+    "Pioneer",
+    "ONE Booster Draft"
   ],
   "medium": "Tabletop",
   "id": "pro-tour-phyrexia-2023",
   "location": "Philadelphia, Pennsylvania, United States",
+  "site": "Pennsylvania Convention Center",
+  "structure": [
+        "Day 1: Booster Draft (3x Phyrexia: All Will Be One); 3 rounds of in-pod Swiss play; 5 rounds of Swiss (Pioneer); cut to 12 points",
+        "Day 2: Booster Draft; 3 rounds of in-pod Swiss play; 5 rounds of Swiss (Pioneer); cut to Top 8",
+        "Day 3: Bo5 single elimination (Pioneer)",
+        "---",
+        "Pioneer legal sets: Return to Ravnica – Phyrexia: All Will Be One, Magic 2014 – Core Set 2021 (43 sets)",
+        "---",
+        "Mulligan: London (any number of times, always draw seven cards, then return cards to the bottom equal to the number of mulligans taken)"
+    ],
+  "metadiversity": 12.6,
   "logo": "ptlogo",
   "name": "Pro Tour Phyrexia",
   "standings": [
@@ -17,49 +30,57 @@
       "amp": 42,
       "matchpoints": 39,
       "money": 50000,
-      "report": "https://infinite.tcgplayer.com/article/My-Road-to-Winning-the-MTG-Pro-Tour/aadbb6be-e1fd-4d60-83ee-15ed5595ea78/"
+      "report": "https://infinite.tcgplayer.com/article/My-Road-to-Winning-the-MTG-Pro-Tour/aadbb6be-e1fd-4d60-83ee-15ed5595ea78/",
+      "deck": "FaJmzpmhWU2SB64ACltqXA"
     },
     {
       "name": "Benton Madsen",
       "amp": 42,
       "matchpoints": 39,
-      "money": 30000
+      "money": 30000,
+      "deck": "Ug3bqK7xxECRM_rz4jlC-A"
     },
     {
       "name": "Takumi Matsuura",
       "amp": 42,
       "matchpoints": 39,
-      "money": 15000
+      "money": 15000,
+      "deck": "BaZvTdzkN0GCUdtrKrI3hw"
     },
     {
       "name": "Derrick Davis",
       "amp": 39,
       "matchpoints": 36,
-      "money": 15000
+      "money": 15000,
+      "deck": "qfugsmelRUaGs8sUEns8Gg"
     },
     {
       "name": "Shota Yasooka",
       "amp": 48,
       "matchpoints": 45,
-      "money": 10000
+      "money": 10000,
+      "deck": "bUzsNNTiU0SG2e63gr1TDQ"
     },
     {
       "name": "Nathan Steuer",
       "amp": 40,
       "matchpoints": 37,
-      "money": 10000
+      "money": 10000,
+      "deck": "ZykTg97-iE2RGx-pv23oVQ"
     },
     {
       "name": "Christopher Ferber",
       "amp": 39,
       "matchpoints": 36,
-      "money": 10000
+      "money": 10000,
+      "deck": "ZaWSegV-sUW1XwBu70CgfQ"
     },
     {
       "name": "Gabriel Nassif",
       "amp": 39,
       "matchpoints": 36,
-      "money": 10000
+      "money": 10000,
+      "deck": "gT2kCmavlkyl3KE5LvBr_A"
     },
     {
       "name": "David Inglis",
@@ -596,7 +617,7 @@
       "money": 1500
     },
     {
-      "name": "Nicholas Malcom Preston",
+      "name": "Nicholas Malcolm Preston",
       "amp": 15,
       "matchpoints": 24,
       "money": 1500

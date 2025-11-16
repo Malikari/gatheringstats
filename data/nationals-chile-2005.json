@@ -1,8 +1,9 @@
 {
     "type": "Nationals - Chile",
-    "date": "January 1-December 31, 2005",
+    "date": "September 3-4, 2005",
     "formats": [
-        "unknown"
+        "Standard",
+        "Booster Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-chile-2005",
@@ -11,11 +12,20 @@
     "name": "Nationals Chile 2005",
     "standings": [
         {
-            "name": "Jose Luis Capdevila"
+            "name": "Jose Luis Capdevila",
+            "money": 1700
         },
         {
             "name": "Leandro Valencia",
-            "rank": "2-8"
+            "money": 1000
+        },
+        {
+            "name": "Fernando Toledo",
+            "money": 650
+        },
+        {
+            "name": "Victor Mendez",
+            "money": 650
         }
     ],
     "teamsize": 1

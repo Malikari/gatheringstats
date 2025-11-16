@@ -3,13 +3,25 @@
   "coverage": "https://magic.gg/events/pro-tour-the-lord-of-the-rings",
   "date": "July 28-30, 2023",
   "season": "2022-23",
+  "teamsize": 1,
   "formats": [
     "Modern",
-    "Draft"
+    "LTR Booster Draft"
   ],
   "medium": "Tabletop",
   "id": "pro-tour-lord-of-the-rings-2023",
   "location": "Barcelona, Spain",
+  "site": "Fira de Barcelona",
+  "structure": [
+        "Day 1: Booster Draft (3x Lord of the Rings); 3 rounds of in-pod Swiss play; 5 rounds of Swiss (Modern); cut to 12 points",
+        "Day 2: Booster Draft; 3 rounds of in-pod Swiss play; 5 rounds of Swiss (Modern); cut to Top 8",
+        "Day 3: Bo5 single elimination (Modern)",
+        "---",
+        "Modern legal sets: Mirrodin – Lord of the Rings, Eighth Edition – Core Set 2021 (84 sets)",
+        "---",
+        "Mulligan: London (any number of times, always draw seven cards, then return cards to the bottom equal to the number of mulligans taken)"
+  ],
+  "metadiversity": 11.6,
   "logo": "ptlogo",
   "name": "Pro Tour Lord of the Rings",
   "standings": [
@@ -17,49 +29,57 @@
         "name": "Jake Beardsley",
         "matchpoints": 37,
         "money": 50000,
-        "amp": 40
+        "amp": 40,
+        "deck": "pO1ylxSFdE6ROYdso0pXUg"
     },
     {
         "name": "Christian Calcano",
         "matchpoints": 37,
         "money": 30000,
-        "amp": 40
+        "amp": 40,
+        "deck": "THj-vDa5ukC3L_b7gFYcSA"
     },
     {
         "name": "Simon Nielsen",
         "matchpoints": 37,
         "money": 15000,
-        "amp": 40
+        "amp": 40,
+        "deck": "cByFNzqvrUCMt9fomW8NuQ"
     },
     {
         "name": "Dominic Harvey",
         "matchpoints": 36,
         "money": 15000,
-        "amp": 39
+        "amp": 39,
+        "deck": "W-quuzTSaEmPBcjjjt4CKA"
     },
     {
         "name": "Javier Dominguez",
         "matchpoints": 42,
         "money": 10000,
-        "amp": 45
+        "amp": 45,
+        "deck": "m0_UIG_NhU-ROaCM7g1izA"
     },
     {
         "name": "Marco Del Pivo",
         "matchpoints": 36,
         "money": 10000,
-        "amp": 39
+        "amp": 39,
+        "deck": "QUOnCOeOtUaer7V0idzs1A"
     },
     {
         "name": "Stefano Vinci",
         "matchpoints": 36,
         "money": 10000,
-        "amp": 39
+        "amp": 39,
+        "deck": "afJr2B2hC0GaFydPZU_Etw"
     },
     {
         "name": "Kai Budde",
         "matchpoints": 36,
         "money": 10000,
-        "amp": 39
+        "amp": 39,
+        "deck": "zYUKggUrg0SDPeoC_1rXPw"
     },
     {
         "name": "Alexander Hayne",
@@ -1022,7 +1042,7 @@
         "amp": 1
     },
     {
-        "name": "Antonio Guzman",
+        "name": "Jose Antonio Guzman Vazquez",
         "matchpoints": 10,
         "money": 1250,
         "amp": 1
