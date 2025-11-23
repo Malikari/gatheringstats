@@ -1318,7 +1318,10 @@
         "nationality": "FRA"
     },
     "benjamin-seck": {
-        "nationality": "AUS"
+        "nationality": "AUS",
+        "website": {
+            "mtgwiki": "https://mtg.wiki/page/Ben_Seck"
+        }
     },
     "gerardo-godinez-estrada": {
         "nationality": "MEX"
@@ -1991,7 +1994,10 @@
         "nationality": "USA"
     },
     "jeremy-neeman": {
-        "nationality": "AUS"
+        "nationality": "AUS",
+        "website": {
+            "mtgwiki": "https://mtg.wiki/page/Jeremy_Neeman"
+        }
     },
     "julien-de-graat": {
         "nationality": "DEU"
@@ -4411,7 +4417,10 @@
         "nationality": "USA"
     },
     "tom-chanpheng": {
-        "nationality": "AUS"
+        "nationality": "AUS",
+        "website": {
+            "mtgwiki": "https://mtg.wiki/page/Tom_Chanpheng"
+        }
     },
     "mark-chalice": {
         "nationality": "USA"
@@ -8264,9 +8273,8 @@
             }
         ]
     },
-    "ricardo-sanchez": {
-        "nationality": "ESP",
-        "fullname": "Ricardo Garrido Sanchez"
+    "ricardo-sanchez-garrido": {
+        "nationality": "ESP"
     },
     "artem-razumov": {
         "nationality": "RUS"
@@ -9015,6 +9023,9 @@
                 "team": "Hareruya Latin"
             }
         ],
+        "website": {
+            "mtgwiki": "https://mtg.wiki/page/Sebasti%C3%A1n_Pozzo"
+        },
         "fullname": "Sebastián Pozzo"
     },
     "ziming-chen": {
@@ -9808,7 +9819,10 @@
         "nationality": "USA"
     },
     "justin-cheung": {
-        "nationality": "AUS"
+        "nationality": "AUS",
+        "website": {
+            "mtgwiki": "https://mtg.wiki/page/Justin_Cheung"
+        }
     },
     "samuel-marti": {
         "nationality": "CHE"
@@ -11184,7 +11198,8 @@
         "nationality": "BRA"
     },
     "alex-bakopoulos": {
-        "nationality": "GRC"
+        "nationality": "GRC",
+        "natname": "ΑΛΕΞ ΜΠΑΚΟΠΟΥΛΟΣ"
     },
     "gines-hernandez": {
         "nationality": "ESP"
@@ -14399,7 +14414,10 @@
         "nationality": "USA"
     },
     "rod-ho": {
-        "nationality": "AUS"
+        "nationality": "AUS",
+        "website": {
+            "mtgwiki": "https://mtg.wiki/page/Rod_Ho"
+        }
     },
     "geoff-kwan": {
         "nationality": "AUS"
@@ -19326,9 +19344,6 @@
     "chan-sze-hang": {
         "nationality": "HKG"
     },
-    "ricardo-sanchez-garrido": {
-        "nationality": "ESP"
-    },
     "carlos-becerra-reyes": {
         "nationality": "MEX"
     },
@@ -19765,7 +19780,10 @@
         "rvl": [
             2020,
             2021
-        ]
+        ],
+        "website": {
+            "mtgwiki": "https://mtg.wiki/page/Matias_Leveratto"
+        }
     },
     "peter-steinaa": {
         "nationality": "DNK"
@@ -21667,7 +21685,8 @@
         "nationality": "JPN"
     },
     "theodoros-liapatis": {
-        "nationality": "GRC"
+        "nationality": "GRC",
+        "natname": "ΘΟΔΩΡΗΣ ΛΙΑΠΑΤΗΣ"
     },
     "brian-larson": {
         "nationality": "USA"
@@ -30005,7 +30024,10 @@
                 "season": 2018,
                 "team": "Hareruya Latin"
             }
-        ]
+        ],
+        "website": {
+            "mtgwiki": "https://mtg.wiki/page/Luis_Salvatto"
+        }
     },
     "robert-pisano": {
         "nationality": "USA",
@@ -30176,7 +30198,10 @@
                 "season": 2017,
                 "team": "Snapcardster"
             }
-        ]
+        ],
+        "website": {
+            "mtgwiki": "https://mtg.wiki/page/Ryan_Cubit"
+        }
     },
     "samuel-bodily": {
         "nationality": "ENG"
@@ -33335,7 +33360,8 @@
         "nationality": "HKG"
     },
     "harry-yarhas": {
-        "nationality": "GRC"
+        "nationality": "GRC",
+        "natname": "ΧΑΡΗΣ ΓΙΑΡΧΑΣ"
     },
     "calum-stephenson": {
         "nationality": "ENG"
@@ -41277,7 +41303,10 @@
             2020,
             2021
         ],
-        "fullname": "Jessica Catherine Estephan"
+        "fullname": "Jessica Catherine Estephan",
+        "website": {
+            "mtgwiki": "https://mtg.wiki/page/Jessica_Estephan"
+        }
     },
     "gervaise-pechler": {
         "nationality": "NLD"
@@ -43792,7 +43821,7 @@
     "bodlaender": {
         "nationality": "NLD"
     },
-    "anderson": {
+    "johan-andersson": {
         "nationality": "SWE"
     },
     "michael-vivet": {
@@ -44829,7 +44858,10 @@
     },
     "jarrod-bright": {},
     "timothy-he": {
-        "nationality": "AUS"
+        "nationality": "AUS",
+        "website": {
+            "mtgwiki": "https://mtg.wiki/page/Timothy_He"
+        }
     },
     "jim-bandas": {
         "nationality": "AUS"
@@ -86279,7 +86311,6 @@
     },
     "michael-hautzer": {},
     "per-lundstrom": {},
-    "george-mavroudis": {},
     "eder-fernandez": {},
     "ryan-haddad": {
         "nationality": "USA"
@@ -90201,7 +90232,9 @@
     "kosti-nevanlinna": {},
     "milos-miletic": {},
     "miguel-adaixo": {},
-    "georgios-mavroudis": {},
+    "georgios-mavroudis": {
+        "nationality": "GRC"
+    },
     "camille-bretagnon": {},
     "pawel-aksamit": {},
     "nicola-conati": {},
@@ -103052,5 +103085,48 @@
     "cesar-coelho": {
         "nationality": "BRA"
     },
-    "luis-eduardo-de-souza": {}
+    "luis-eduardo-de-souza": {},
+    "eemeli-rantala": {
+        "nationality": "FIN"
+    },
+    "asko-k--maatta": {
+        "nationality": "FIN"
+    },
+    "anderson": {},
+    "pelmritz": {
+        "nationality": "GRC"
+    },
+    "panagiotis-dimitrakopoulos": {
+        "nationality": "GRC"
+    },
+    "konstantinos-chrisafopoulos": {
+        "nationality": "GRC"
+    },
+    "diego-garcia": {
+        "nationality": "ESP"
+    },
+    "ares-jimenez": {
+        "nationality": "ESP"
+    },
+    "mattias-svendsen": {
+        "nationality": "SWE"
+    },
+    "robert-thomson": {
+        "nationality": "SWE"
+    },
+    "hakan-oswaldsson": {
+        "nationality": "SWE"
+    },
+    "jens-agby": {
+        "nationality": "SWE"
+    },
+    "daniel-carling": {
+        "nationality": "SWE"
+    },
+    "magnus-ritzen": {
+        "nationality": "SWE"
+    },
+    "christoffer-cutlipp": {
+        "nationality": "SWE"
+    }
 }
