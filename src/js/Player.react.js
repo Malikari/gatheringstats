@@ -72,7 +72,7 @@ const Player = () => {
       </Helmet>
       <div className="page-header pageHeader">
         <h1>
-          <PlayerLink player={player} linkUrl={player.website && player.website.mtgwiki} />
+          <PlayerLink player={player} noDefLink linkUrl={player.website && player.website.mtgwiki}  />
           {player.natname ? <text>&nbsp;(</text> : null}
           {player.natname ? player.natname : null}
           {player.natname ? <text>)</text> : null}
