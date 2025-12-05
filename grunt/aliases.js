@@ -23,7 +23,6 @@ module.exports = function(grunt) {
     grunt.file.recurse('./data/', function(abspath, rootdir, subdir, filename) {
       if (
         filename.endsWith('.json') &&
-      //  !filename.startsWith('grand-prix') && // This was excluding Grand Prix. Turned on for now.
         filename !== 'players.json' &&
         filename !== 'countries.json'
       ) {
@@ -114,13 +113,24 @@ module.exports = function(grunt) {
               mythicpoints: 0,
               playerspoints: 0,
               amp: 0,
+              poy: 0,
               total: 0,
               t1: 0,
               t8: 0,
               t16: 0,
               gptotal: 0,
               gpt1: 0,
-              gpt8: 0
+              gpt8: 0,
+              moneybyyear: {},
+              pointsbyyear: {},
+              ampbyyear: {},
+              poybyyear: {},
+              totalbyyear: {},
+              t1byyear: {},
+              t8byyear: {},
+              t16byyear: {},
+              gpt1byyear: {},
+              gpt8byyear: {}
             }
           };
         }
@@ -131,49 +141,73 @@ module.exports = function(grunt) {
           mythicpoints: standing.mythicpoints,
           playerspoints: standing.playerspoints,
           amp: standing.amp,
+          poy: standing.poy,
           tid: tournament.id,
           money: standing.money,
-          type: tournament.type || ''
+          type: tournament.type || '',
+          season: tournament.season
         };
         if (standing.rank) {
           t.rank = standing.rank;
         }
+        const stat = players[standing.id].stats;
         players[standing.id].tournaments.push(t);
         players[standing.id].stats.money += standing.money || 0;
         players[standing.id].stats.points += standing.propoints || 0;
         players[standing.id].stats.mythicpoints += standing.mythicpoints || 0;
         players[standing.id].stats.amp += standing.amp || 0;
+        players[standing.id].stats.poy += standing.poy || 0;
         players[standing.id].stats.playerspoints += standing.playerspoints || 0;
+        if (t.season) {
+          if (standing.money) {
+            stat.moneybyyear[t.season] = (stat.moneybyyear[t.season] || 0) + (standing.money);
+          }
+          if (standing.propoints) {
+            stat.pointsbyyear[t.season] = (stat.pointsbyyear[t.season] || 0) + (standing.propoints);
+          }
+          if (standing.amp) {
+            stat.ampbyyear[t.season] = (stat.ampbyyear[t.season] || 0) + (standing.amp);
+          }
+          if (standing.poy) {
+            stat.poybyyear[t.season] = (stat.poybyyear[t.season] || 0) + (standing.poy);
+          }
+        }
 
         // Only PTs are included in the stats below (count, T1, T8, T16)
         if (tournament.type == 'Pro Tour') {
           ++players[standing.id].stats.total;
+          stat.totalbyyear[t.season] = (stat.totalbyyear[t.season] || 0) + 1;
           if (finish === 1) {
             ++players[standing.id].stats.t1;
+            stat.t1byyear[t.season] = (stat.t1byyear[t.season] || 0) + 1;
           }
           if (
             (tournament.teamsize > 1 && finish <= 4) ||
             (tournament.teamsize == 1 && finish <= 8)
           ) {
             ++players[standing.id].stats.t8;
+            stat.t8byyear[t.season] = (stat.t8byyear[t.season] || 0) + 1;
           }
           if (
             (tournament.teamsize > 1 && finish <= 8) ||
             (tournament.teamsize == 1 && finish <= 16)
           ) {
             ++players[standing.id].stats.t16;
+            stat.t16byyear[t.season] = (stat.t16byyear[t.season] || 0) + 1;
           }
         }
         else if (tournament.type == 'Grand Prix' || tournament.type == 'Magic Spotlight') {
           ++players[standing.id].stats.gptotal;
           if (finish === 1) {
             ++players[standing.id].stats.gpt1;
+            stat.gpt1byyear[t.season] = (stat.gpt1byyear[t.season] || 0) + 1;
           }
           if (
             (tournament.teamsize > 1 && finish <= 4) ||
             (tournament.teamsize == 1 && finish <= 8)
           ) {
             ++players[standing.id].stats.gpt8;
+            stat.gpt8byyear[t.season] = (stat.gpt8byyear[t.season] || 0) + 1;
           }
         }
         else {
