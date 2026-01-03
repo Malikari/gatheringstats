@@ -15,11 +15,21 @@ export const filterOnlyNationals = item => (/Nationals/.test(item.type) || item.
 
 export const filterOnlyGrandPrix = item => (item.type === 'Grand Prix' || item.type === 'Magic Spotlight');
 
-export const filterOnlyOtherTournaments = item => (item.type !== 'Pro Tour' && item.type !== 'World Championships' && item.type !== 'WMC' && item.type !== 'Magic Spotlight' && item.type !== 'Grand Prix' && !/Nationals/.test(item.type) && item.medium !== 'Arena' && item.medium !== 'Magic Online' && item.type !== 'Asia Pacific Championship' && item.type !== 'European Championship' && item.type !== 'Latin America Championship');
+export const filterOnlyMasters = item => item.type === 'Masters';
+
+export const filterOnlyJuniors = item => ['Junior Super Series', 'Junior Pro Tour'].includes(item.type);
+
+export const filterOnlyOtherTournaments = item => (item.type !== 'Pro Tour' && item.type !== 'World Championships' && item.type !== 'Masters' && item.type !== 'Invitational'  && item.type !== 'Junior Pro Tour' && item.type !== 'Junior Super Series' && item.type !== 'WMC' && item.type !== 'Magic Spotlight' && item.type !== 'Grand Prix' && !/Nationals/.test(item.type) && item.medium !== 'Arena' && item.medium !== 'Magic Online' && item.type !== 'Asia Pacific Championship' && item.type !== 'European Championship' && item.type !== 'Latin America Championship' && item.type !== 'Regional Championship' && item.type !== 'Eternal Championships - Legacy' && item.type !== 'Eternal Championships - Vintage');
 
 export const filterOnlyArena = item => item.medium === 'Arena';
 
 export const filterOnlyMagicOnline = item => item.medium === 'Magic Online';
+
+export const filterOnlyRegionals = item => item.type === 'Regional Championship';
+
+export const filterOnlyInvitational = item => item.type === 'Invitational';
+
+export const filterOnlyEternals = item => ['Eternal Championships - Legacy', 'Eternal Championships - Vintage'].includes(item.type);
 
 export const nationGroups = {
   "Argentina": ['Argentina'],
