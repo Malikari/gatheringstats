@@ -56,6 +56,7 @@ export const nationGroups = {
   "Estonia": ['Estonia'],
   "Finland": ['Finland'],
   "France": ['France'],
+  "Georgia": ['Georgia'],
   "Germany": ['Germany'],
   "Greece": ['Greece'],
   "Guatemala": ['Guatemala'],
@@ -72,6 +73,7 @@ export const nationGroups = {
   "Lithuania": ['Lithuania'],
   "Luxembourg": ['Luxembourg'],
   "Macedonia": ['Macedonia (the former Yugoslav Republic of)'],
+  "Macau": ['Macao'],
   "Malaysia": ['Malaysia'],
   "Mexico": ['Mexico'],
   "Netherlands": ['Netherlands'],
@@ -107,11 +109,11 @@ export const nationGroups = {
   "Wales": ['Wales'],
   
   "Americas": ['Argentina', 'Bolivia (Plurinational State of)', 'Brazil', 'Canada', 'Chile', 'Colombia', 'Costa Rica', 'Dominican Republic', 'Ecuador', 'El Salvador', 'Guatemala', 'Mexico', 'Panama', 'Peru', 'Puerto Rico', 'United States of America', 'Uruguay', 'Venezuela (Bolivarian Republic of)'],
-  "Asia": ['China', 'Hong Kong', 'Indonesia', 'Kazakhstan', 'Malaysia', 'Philippines', 'Singapore', 'Korea (Republic of)', 'Taiwan, Province of China', 'Thailand', 'United Arab Emirates'],
+  "Asia": ['China', 'Hong Kong', 'Indonesia', 'Kazakhstan', 'Macao', 'Malaysia', 'Philippines', 'Singapore', 'Korea (Republic of)', 'Taiwan, Province of China', 'Thailand', 'United Arab Emirates'],
   "North America": ['Canada', 'United States of America'],
   "Central America": ['Costa Rica', 'El Salvador', 'Guatemala', 'Panama'],
   "South America": ['Argentina', 'Bolivia (Plurinational State of)', 'Brazil', 'Chile', 'Colombia', 'Ecuador', 'Peru', 'Uruguay', 'Venezuela (Bolivarian Republic of)'],
-  "Europe": ['Austria', 'Belarus', 'Belgium', 'Bulgaria', 'Croatia', 'Cyprus', 'Czech Republic', 'Denmark', 'England', 'Estonia', 'Finland', 'France', 'Germany', 'Greece', 'Hungary', 'Iceland', 'Ireland', 'Italy', 'Latvia', 'Lithuania', 'Luxembourg', 'Macedonia (the former Yugoslav Republic of)', 'Netherlands', 'Northern Ireland', 'Norway', 'Poland', 'Portugal', 'Romania', 'Russian Federation', 'Scotland', 'Serbia', 'Slovakia', 'Slovenia', 'Spain', 'Sweden', 'Switzerland', 'Turkey', 'Ukraine', 'Wales'],
+  "Europe": ['Austria', 'Belarus', 'Belgium', 'Bulgaria', 'Croatia', 'Cyprus', 'Czech Republic', 'Denmark', 'England', 'Estonia', 'Finland', 'France', 'Georgia', 'Germany', 'Greece', 'Hungary', 'Iceland', 'Ireland', 'Italy', 'Latvia', 'Lithuania', 'Luxembourg', 'Macedonia (the former Yugoslav Republic of)', 'Netherlands', 'Northern Ireland', 'Norway', 'Poland', 'Portugal', 'Romania', 'Russian Federation', 'Scotland', 'Serbia', 'Slovakia', 'Slovenia', 'Spain', 'Sweden', 'Switzerland', 'Turkey', 'Ukraine', 'Wales'],
 
   "EU": ['Austria', 'Belgium', 'Bulgaria', 'Croatia', 'Cyprus', 'Czech Republic', 'Denmark', 'Estonia', 'Finland', 'France', 'Germany', 'Greece', 'Hungary', 'Ireland', 'Italy', 'Latvia', 'Lithuania', 'Luxembourg', 'Netherlands', 'Poland', 'Portugal', 'Romania', 'Slovakia', 'Slovenia', 'Spain', 'Sweden'],
   "Latin America": ['Argentina', 'Bolivia (Plurinational State of)', 'Brazil', 'Chile', 'Colombia', 'Costa Rica', 'Dominican Republic', 'Ecuador', 'El Salvador', 'Guatemala', 'Mexico', 'Panama', 'Peru', 'Puerto Rico', 'Uruguay', 'Venezuela (Bolivarian Republic of)'],
@@ -154,5 +156,6 @@ export const seasons = [
   "2021-22",
   "2022-23",
   "2023-24",
-  "2024-25"
+  "2024-25",
+  "2025-26"
 ];
