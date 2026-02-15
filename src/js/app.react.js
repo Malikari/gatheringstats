@@ -28,6 +28,10 @@ import NotFound from "./NotFound.react";
 import history from "./browserhistory";
 import ScrollToTop from "./ScrollToTop";
 import AboutPage from "./About.js";
+import Peip from "./../../data/documents/Peip.jsx";
+import FactSheets from "./../../data/documents/FactSheets.jsx";
+import LifeTimeProPoints from "./../../data/documents/LifetimeProPoints.jsx";
+import ProPointsBySeason from "./../../data/documents/ProPointsBySeason.jsx";
 
 render(
   <Router history={history}>
@@ -50,6 +54,10 @@ render(
       <Route path="/eternal" component={Eternals} />
       <Route path="/invitational" component={Invitational} />
       <Route path="/magic-online" component={MagicOnline} />
+      <Route path="/peip" component={Peip} />
+      <Route path="/facts" component={FactSheets} />
+      <Route path="/lifetimepropoints" component={LifeTimeProPoints} />
+      <Route path="/propointsbyseason" component={ProPointsBySeason} />
       <Route path="/hall-of-fame/:col" component={HallOfFame} />
       <Route path="/about" component={AboutPage} />
       <Route path="*" component={NotFound} />
