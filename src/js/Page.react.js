@@ -5,8 +5,21 @@ import {Link} from 'react-router-dom';
 import SearchInput from './SearchInput.react.js';
 import PropTypes from "prop-types";
 
-const Page = props => {
+function Dropdown({ children }) {
   const [open, setOpen] = React.useState(false);
+
+  return (
+    <li
+      className={`dropdown ${open ? 'open' : ''}`}
+      onMouseEnter={() => setOpen(true)}
+      onMouseLeave={() => setOpen(false)}
+    >
+      {children}
+    </li>
+  );
+}
+
+const Page = props => {
   return (
     <div>
       <div className="navbar navbar-default">
@@ -22,39 +35,25 @@ const Page = props => {
                 Worlds
               </Link>
             </li>
-            <li>
-              <Link to="/grand-prix">
-                GPs / Spotlights
-              </Link>
-            </li>
-            <li>
-              <Link to="/nationals">
-                Nationals / Continentals
-              </Link>
-            </li>
-            <li 
-              className={`dropdown ${open ? 'open' : ''}`}
-              onMouseEnter={() => setOpen(true)}
-              onMouseLeave={() => setOpen(false)}
-            >
+            <Dropdown>
               <a href="#">
                 Other <span className="caret" />
               </a>
-              {open && (
-                <ul className="dropdown-menu">
-                  <li><Link to="/regionals">Regional Championships</Link></li>
-                  <li><Link to="/eternal">Eternal Championships</Link></li>
-                  <li><Link to="/masters">Masters Series</Link></li>
-                  <li><Link to="/invitational">Invitational</Link></li>
-                  <li><Link to="/juniors">Junior tournaments</Link></li>
-                  <li><Link to="/arena">Arena</Link></li>
-                  <li><Link to="/magic-online">MTGO</Link></li>
-                  <li><Link to="/other-tournaments">Uncategorized</Link></li>
-                </ul>
-              )}
-            </li>
+              <ul className="dropdown-menu">
+                <li><Link to="/grand-prix">GPs / Spotlights</Link></li>
+                <li><Link to="/regionals">Regional Championships</Link></li>
+                <li><Link to="/nationals">Nationals / Continentals</Link></li>
+                <li><Link to="/eternal">Eternal Championships</Link></li>
+                <li><Link to="/masters">Masters Series</Link></li>
+                <li><Link to="/invitational">Invitational</Link></li>
+                <li><Link to="/juniors">Junior tournaments</Link></li>
+                <li><Link to="/arena">Arena</Link></li>
+                <li><Link to="/magic-online">MTGO</Link></li>
+                <li><Link to="/other-tournaments">Uncategorized</Link></li>
+              </ul>
+            </Dropdown>
             <li>
-              <Link to="/rankings/t8">
+              <Link to="/rankings/topfinish">
                 Player Rankings
               </Link>
             </li>
@@ -63,6 +62,17 @@ const Page = props => {
                 Hall of Fame
               </Link>
             </li>
+            <Dropdown>
+              <a href="#">
+                Sources <span className="caret" />
+              </a>
+              <ul className="dropdown-menu">
+                <li><Link to="/peip">Premier Event Invitation Policy</Link></li>
+                <li><Link to="/facts">Event Fact Sheets</Link></li>
+                <li><Link to="/lifetimepropoints">Lifetime Pro Points</Link></li>
+                <li><Link to="/propointsbyseason">Pro Points by Season</Link></li>
+              </ul>
+            </Dropdown>
             <li>
               <Link to="/about">
                 About
@@ -81,6 +91,10 @@ const Page = props => {
 
 Page.propTypes = {
   children: PropTypes.any
+};
+
+Dropdown.propTypes = {
+  children: PropTypes.node.isRequired,
 };
 
 export default Page;
