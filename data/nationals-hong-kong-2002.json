@@ -1,6 +1,7 @@
 {
     "type": "Nationals - Hong Kong",
     "date": "April 20-21, 2002",
+    "season": "2001-02",
     "formats": [
         "Standard",
         "Booster Draft"
@@ -9,7 +10,7 @@
     "id": "nationals-hong-kong-2002",
     "location": "Hong Kong, Hong Kong",
     "logo": "nationals",
-    "name": "Nationals Hong Kong 2002",
+    "name": "Nationals Hong Kong / Macau SAR 2002",
     "standings": [
         {
             "name": "Kai Cheong Tang"
@@ -24,6 +25,10 @@
         },
         {
             "name": "Kai Yip Lee"
+        },
+        {
+            "name": "Cheuk-Yin Li",
+            "rank": "NT"
         }
     ],
     "teamsize": 1   

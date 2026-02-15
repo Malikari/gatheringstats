@@ -1,13 +1,14 @@
 {
     "type": "Nationals - Sweden",
     "date": "May 21-22, 2004",
+    "season": "2003-04",
     "formats": [
         "Standard",
         "Booster Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-sweden-2004",
-    "location": "Linkoping, Sweden",
+    "location": "Linköping, Sweden",
     "logo": "nationals",
     "name": "Nationals Sweden 2004",
     "standings": [
@@ -34,6 +35,10 @@
         },
         {
             "name": "David Linder"
+        },
+        {
+            "name": "Mattias Waglin",
+            "report": "https://web.archive.org/web/20050407231952/http://www.manapool.dk/nyheder.asp?id=260"
         }
     ],
     "teamsize": 1

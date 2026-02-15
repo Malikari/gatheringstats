@@ -1,6 +1,6 @@
 {
     "type": "Grand Prix",
-    "coverage": "https://magic.wizards.com/en/events/coverage/gpkc99",
+    "coverage": "https://web.archive.org/web/20001017084931/http://www.wizards.com/grandprix/GP_KC_Results.asp",
     "date": "March 27-28, 1999",
     "season": "1998-99",
     "formats": [
@@ -83,6 +83,31 @@
         {
             "money": 500,
             "name": "Robert Koschak"
+        },
+        {
+            "money": 500,
+            "name": "Cory Ferguson",
+            "rank": 17
+        },
+        {
+            "money": 400,
+            "name": "Devon Herron",
+            "rank": 18
+        },
+        {
+            "money": 300,
+            "name": "Robert J. Smith",
+            "rank": 19
+        },
+        {
+            "money": 200,
+            "name": "Justin Holt",
+            "rank": 20
+        },
+        {
+            "money": 100,
+            "name": "Jack Stanton",
+            "rank": 21
         }
     ],
     "teamsize": 1

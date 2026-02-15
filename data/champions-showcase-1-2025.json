@@ -1,8 +1,10 @@
 {
     "type": "Champions Showcase",
+    "topfinish": true,
+    "topn": 2,
     "coverage": "https://magic.gg/events/2025-magic-online-champions-showcase-season-1",
     "date": "May 11, 2025",
-    "season": "2024",
+    "season": "2024-25",
     "formats": [
         "Vintage Cube Draft",
         "Modern"
@@ -15,7 +17,7 @@
     "standings": [
         {"money": 13000, "name": "Ryan Waligora", "matchpoints": 12},
         {"money": 9000, "name": "Yuuki Ichikawa", "matchpoints": 12},
-        {"money": 7000, "name": "Lauri Törnström", "matchpoints": 12},
+        {"money": 7000, "name": "Lauri Toernstroem", "matchpoints": 12},
         {"money": 5000, "name": "Eduardo Sajgalik", "matchpoints": 9},
         {"money": 5000, "name": "Jesse Hampton", "matchpoints": 9},
         {"money": 5000, "name": "Nathan Goldberg", "matchpoints": 9},

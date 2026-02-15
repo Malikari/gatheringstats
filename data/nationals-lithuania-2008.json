@@ -13,14 +13,30 @@
     "name": "Nationals Lithuania 2008",
     "standings": [
         {
+            "name": "Tadas Savicius",
+            "propoints": 10
+        },
+        {
+            "name": "Aurimas Juodis",
+            "propoints": 8
+        },
+        {
             "name": "Petras Ratkevicius",
-            "rank": 3,
             "propoints": 6
         },
         {
             "name": "Andrius Jautakis",
-            "rank": 4,
             "propoints": 6
+        },
+        {
+            "name": "Imantas Civilis",
+            "rank": "QF",
+            "propoints": 4
+        },
+        {
+            "name": "Povilas Zemkajus",
+            "rank": "QF",
+            "propoints": 4
         },
         {
             "name": "Gaudenis Vidugiris",
@@ -31,6 +47,47 @@
             "name": "Darius Kosiakas",
             "rank": 8,
             "propoints": 4
+        },
+        {
+            "name": "Giedrus Druzinas",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Tamir Shalev",
+            "rank": "9-12",
+            "nationality": "LTU",
+            "propoints": 2
+        },
+        {
+            "name": "Ignas Stasevicius",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Arturas Zinovjevas",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Valdas Kalvis",
+            "rank": "13-16",
+            "propoints": 1
+        },
+        {
+            "name": "Dominykas Mikolaitis",
+            "rank": "13-16",
+            "propoints": 1
+        },
+        {
+            "name": "Robertas Murza",
+            "rank": "13-16",
+            "propoints": 1
+        },
+        {
+            "name": "Rimvydas Sinkunas",
+            "rank": "13-16",
+            "propoints": 1
         }
     ],
     "teamsize": 1

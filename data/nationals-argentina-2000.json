@@ -1,13 +1,14 @@
 {
     "type": "Nationals - Argentina",
     "date": "May 27-June 24, 2000",
+    "season": "1999-2000",
     "formats": [
         "Standard",
-        "? Draft"
+        "Booster Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-argentina-2000",
-    "location": "Argentina",
+    "location": "Buenos Aires, Argentina",
     "logo": "nationals",
     "name": "Nationals Argentina 2000",
     "standings": [
@@ -16,19 +17,17 @@
         },
         {
             "name": "Jose Barbero",
-            "rank": "NT"
-        },
-        {
-            "name": "Nicolas Enjamio",
-            "rank": "NT"
+            "report": "https://web.archive.org/web/20010729033619/http://www.necromagic.com:80/torneos/nacionales/nacional00/000620_barbero.asp"
         },
         {
             "name": "Diego Ostrovich",
-            "rank": "NT"
+            "report": "https://web.archive.org/web/20010729041117/http://www.necromagic.com:80/torneos/nacionales/nacional00/000613_ostrovich.asp"
+        },
+        {
+            "name": "Nicolas Enjamio"
         },
         {
             "name": "Miguel Rafael",
-            "rank": 5,
             "report": "https://web.archive.org/web/20010307191119/http://www.mtgros.com/www/reportes/repmiguelnacional.shtml"
         },
         {

@@ -1,6 +1,8 @@
 {
     "type": "Nationals - South Korea",
+    "coverage": "https://cafe.daum.net/magin/JUX/10680",
     "date": "June 26-27, 2004",
+    "season": "2003-04",
     "formats": [
         "Standard",
         "Booster Draft"
@@ -12,22 +14,33 @@
     "name": "Nationals South Korea 2004",
     "standings": [
         {
-            "name": "Kkyoung Geun Nam"
+            "name": "Kkyoung-Geun Nam",
+            "money": 1200,
+            "deck": "DL2Qf7nYNUi5wAV6vf_N6w"
         },
         {
             "name": "Park Jun-Young",
-            "rank": "2-4"
+            "money": 800
         },
         {
             "name": "Min-Soo Kim",
-            "rank": "2-4"
+            "money": 600
         },
         {
-            "name": "Wonsuk Choi"
+            "name": "Wonsuk Choi",
+            "money": 400
         },
         {
-            "name": "Jun-Young Lee",
-            "rank": 8
+            "name": "Yo-Han Gwak"
+        },
+        {
+            "name": "Hyun-Woo Jeong"
+        },
+        {
+            "name": "Ga-Ram Jeong"
+        },
+        {
+            "name": "Jun-Young Lee"
         },
         {
             "name": "Sang-Ryeol Lee",

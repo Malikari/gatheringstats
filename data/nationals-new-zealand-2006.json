@@ -1,6 +1,7 @@
 {
     "type": "Nationals - New Zealand",
     "date": "August 5-6, 2006",
+    "season": "2006",
     "formats": [
         "Standard",
         "Booster Draft"
@@ -12,17 +13,32 @@
     "name": "Nationals New Zealand 2006",
     "standings": [
         {
-            "name": "Timothy Aitchison"
+            "name": "Timothy Aitchison",
+            "report": "https://web.archive.org/web/20081014141119/http://www.gameplayer.co.nz/content/tradingcardgames/magicthegathering/contentmtg/20/champion-nationals.aspx",
+            "deck": "YjslGq5DbE-tcC0F2FnbuQ",
+            "money": 2000
         },
         {
-            "name": "Luke Tsavousis"
+            "name": "Luke Tsavousis",
+            "money": 1600
         },
         {
-            "name": "Kerel Laycock"
+            "name": "Kerel Laycock",
+            "money": 1200
+        },
+        {
+            "name": "David Marshall",
+            "money": 1200
         },
         {
             "name": "Ray Walkinshaw",
-            "rank": "NT"
+            "rank": "NT",
+            "money": 250
+        },
+        {
+            "name": "Clint Laws",
+            "rank": "QF",
+            "money": 250
         }
     ],
     "teamsize": 1

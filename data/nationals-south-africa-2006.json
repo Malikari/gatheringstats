@@ -1,6 +1,7 @@
 {
     "type": "Nationals - South Africa",
     "date": "August 19-20, 2006",
+    "season": "2006",
     "formats": [
         "Standard",
         "Booster Draft"
@@ -12,13 +13,16 @@
     "name": "Nationals South Africa 2006",
     "standings": [
         {
-            "name": "Michael Nurse"
+            "name": "Michael Nurse",
+            "money": 1500
         },
         {
-            "name": "Kaloyan Petkov"
+            "name": "Kaloyan Petkov",
+            "money": 750
         },
         {
-            "name": "Marthinus J. Koekemoer"
+            "name": "Marthinus J. Koekemoer",
+            "money": 500
         },
         {
             "name": "David Hofmeyr",

@@ -1,7 +1,11 @@
 {
     "type": "Mocs",
+    "topfinish": true,
+    "teamsize": 1,
+    "topn": 4,
     "coverage": "https://magic.wizards.com/en/events/coverage/mtgochamp18",
     "date": "May 17-19, 2019",
+    "season": "2018-19",
     "formats": [
         "Draft",
         "Standard",
@@ -109,7 +113,5 @@
             "money": 5000,
             "name": "Dmitriy Butakov"
         }
-    ],
-    "teamsize": 1,
-    "topn": 4
+    ]
 }

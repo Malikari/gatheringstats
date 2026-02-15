@@ -1,6 +1,8 @@
 {
     "type": "Nationals - Poland",
+    "coverage": "https://web.archive.org/web/20041021203808/http://www.isa.pl/magic/tekst.php?id=87",
     "date": "June 5-6, 2004",
+    "season": "2003-04",
     "formats": [
         "Standard",
         "Booster Draft"
@@ -12,7 +14,8 @@
     "name": "Nationals Poland 2004",
     "standings": [
         {
-            "name": "Sebastian Gulinski"
+            "name": "Sebastian Gulinski",
+            "deck": "BAK8fnFQ6UyLOEq6ptCODA"
         },
         {
             "name": "Krzysztof Domaszewski"
@@ -22,6 +25,18 @@
         },
         {
             "name": "Michal Swietek"
+        },
+        {
+            "name": "Damian Grabeus"
+        },
+        {
+            "name": "Adam Urban"
+        },
+        {
+            "name": "Marcin Goral Horecki"
+        },
+        {
+            "name": "Marcin Lichniak"
         }
     ],
     "teamsize": 1

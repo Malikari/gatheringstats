@@ -1,7 +1,8 @@
 {
     "type": "Grand Prix",
-    "coverage": "https://magic.wizards.com/en/events/coverage/gpcuri01",
+    "coverage": "https://web.archive.org/web/20011217231034/http://www.wizards.com/sideboard/event.asp?event=GPCUR01",
     "date": "December 8-9, 2001",
+    "season": "2001-02",
     "formats": [
         "Extended"
     ],
@@ -27,22 +28,23 @@
             "propoints": 4
         },
         {
-            "money": 1000,
+            "money": 2500,
             "name": "Leopoldo Martins Moreira Neto",
-            "propoints": 4
+            "propoints": 4,
+            "report": "https://web.archive.org/web/20030504083004/http://portalmtg.com/reports/reports2001/report077.htm"
         },
         {
-            "money": 800,
+            "money": 1800,
             "name": "Raphael Gunther",
             "propoints": 3
         },
         {
-            "money": 800,
+            "money": 1500,
             "name": "Jose Barbero",
             "propoints": 3
         },
         {
-            "money": 800,
+            "money": 1500,
             "name": "José Francisco Silva",
             "propoints": 3
         },
@@ -62,17 +64,17 @@
             "propoints": 2
         },
         {
-            "money": 500,
+            "money": 900,
             "name": "Celso Zampere Junior",
             "propoints": 2
         },
         {
-            "money": 500,
+            "money": 900,
             "name": "Dawton Possato",
             "propoints": 2
         },
         {
-            "money": 500,
+            "money": 900,
             "name": "Matheus Chaud Quinta",
             "propoints": 2
         },
@@ -87,7 +89,7 @@
             "propoints": 2
         },
         {
-            "money": 500,
+            "money": 900,
             "name": "Eduardo Poplawski Brandao",
             "propoints": 2
         },
@@ -97,22 +99,22 @@
             "propoints": 1
         },
         {
-            "money": 250,
+            "money": 500,
             "name": "Rodrigo Aguilar Nascimento",
             "propoints": 1
         },
         {
-            "money": 250,
+            "money": 500,
             "name": "Leandro Vieira",
             "propoints": 1
         },
         {
-            "money": 250,
+            "money": 500,
             "name": "Bernardo da Costa Cabral",
             "propoints": 1
         },
         {
-            "money": 250,
+            "money": 500,
             "name": "William Possato",
             "propoints": 1
         },
@@ -127,7 +129,7 @@
             "propoints": 1
         },
         {
-            "money": 250,
+            "money": 500,
             "name": "Diego Pereira Gimenes",
             "propoints": 1
         },
@@ -137,17 +139,17 @@
             "propoints": 1
         },
         {
-            "money": 250,
+            "money": 500,
             "name": "Tiago Fernando Souza Araujo",
             "propoints": 1
         },
         {
-            "money": 250,
+            "money": 500,
             "name": "Vagner Casatti",
             "propoints": 1
         },
         {
-            "money": 250,
+            "money": 500,
             "name": "Sergio Fialho Martins",
             "propoints": 1
         },
@@ -170,6 +172,14 @@
             "money": 250,
             "name": "Jose Luis Echeverria Paredes",
             "propoints": 1
+        },
+        {
+            "name": "Rui Oliveira",
+            "rank": "Coverage",
+            "report": [
+                "https://web.archive.org/web/20030128041808/http://portalmtg.com/reports/report079.htm",
+                "https://web.archive.org/web/20030128042534/http://portalmtg.com/reports/report081.htm"
+            ]
         }
     ],
     "teamsize": 1

@@ -1,6 +1,8 @@
 {
     "type": "Nationals - Iceland",
+    "coverage": "https://www.svenskamagic.com/nyheter/index.php?ID=1032&manad=09&ar=2006",
     "date": "September 17, 2006",
+    "season": "2006",
     "formats": [
         "Standard",
         "Booster Draft"
@@ -12,7 +14,29 @@
     "name": "Nationals Iceland 2006",
     "standings": [
         {
-            "name": "Jon Sverrisson"
+            "name": "Jon Sverrisson",
+            "deck": "8XJdAVc070ydzCRSK0P4kQ"
+        },
+        {
+            "name": "Einar Agust Baldvinsson"
+        },
+        {
+            "name": "Jakob Jonasson"
+        },
+        {
+            "name": "Geir Gudbrandsson"
+        },
+        {
+            "name": "Gudbjoern Einarsson"
+        },
+        {
+            "name": "Julius Einarsson"
+        },
+        {
+            "name": "Marteinn Fridriksson"
+        },
+        {
+            "name": "Halldor Sigurdur Kjartansson"
         }
     ],
     "teamsize": 1

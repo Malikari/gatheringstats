@@ -2,6 +2,7 @@
     "type": "Grand Prix",
     "coverage": "https://magic.wizards.com/en/events/coverage/gpvie01",
     "date": "October 6-7, 2001",
+    "season": "2001-02",
     "formats": [
         "Sealed Deck",
         "Rochester Draft"
@@ -172,6 +173,10 @@
             "money": 250,
             "name": "Bart Genders",
             "propoints": 1
+        },
+        {
+            "name": "Tiago Chan",
+            "report": "https://web.archive.org/web/20030504083004/http://portalmtg.com/reports/reports2001/report070.htm"
         }
     ],
     "teamsize": 1

@@ -14,11 +14,13 @@
     "standings": [
         {
             "name": "Jang-Hong Kim",
-            "propoints": 10
+            "propoints": 10,
+            "report": "https://cafe.daum.net/magin/Ick/241"
         },
         {
             "name": "Kyoung-Soo Kim",
-            "propoints": 8
+            "propoints": 8,
+            "report": "https://cafe.daum.net/magin/Ick/240"
         },
         {
             "name": "Dong-Hee Han",
@@ -26,7 +28,70 @@
         },
         {
             "name": "Hojae Han",
-            "propoints": 6
+            "propoints": 6,
+            "report": "https://cafe.daum.net/magin/Ick/244"
+        },
+        {
+            "name": "Yo-Han Gwak",
+            "propoints": 4
+        },
+        {
+            "name": "Filip Hajduk",
+            "rank": "QF",
+            "nationality": "KOR",
+            "propoints": 4
+        },
+        {
+            "name": "Seo-Young Park",
+            "rank": "QF",
+            "propoints": 4,
+            "report": "https://cafe.daum.net/magin/Ick/242"
+        },
+        {
+            "name": "Jeong-Woo Cho",
+            "propoints": 4,
+            "rank": "QF",
+            "report": "https://cafe.daum.net/magin/Ick/243"
+        },
+        {
+            "name": "Cynic Kim",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Hyun-Woo Jeong",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Ju-Min Lee",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Tae-Sun Yoon",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Hee-Jai Choi",
+            "rank": "13-16",
+            "propoints": 1
+        },
+        {
+            "name": "Kil-Ho Lee",
+            "rank": "13-16",
+            "propoints": 1
+        },
+        {
+            "name": "Myung-Won Lee",
+            "rank": "13-16",
+            "propoints": 1
+        },
+        {
+            "name": "Yeunjin Kong",
+            "rank": "13-16",
+            "propoints": 1
         }
     ],
     "teamsize": 1   

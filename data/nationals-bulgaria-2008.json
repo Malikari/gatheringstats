@@ -13,24 +13,75 @@
     "name": "Nationals Bulgaria 2008",
     "standings": [
         {
+            "name": "Nikolay Bogdev",
+            "propoints": 10
+        },
+        {
             "name": "Kiril Stoichkov",
-            "rank": 2,
             "propoints": 8
         },
         {
             "name": "Dimityr Erinin",
-            "rank": 3,
             "propoints": 6
         },
         {
             "name": "Alexander Lefterov",
-            "rank": 4,
             "propoints": 6
         },
         {
             "name": "Konstantin Grozev",
             "rank": 6,
             "propoints": 4
+        },
+        {
+            "name": "Hristo Tzekov",
+            "rank": "QF",
+            "propoints": 4
+        },
+        {
+            "name": "Hristo Hristov",
+            "rank": "QF",
+            "propoints": 4
+        },
+        {
+            "name": "Kostadin Golev",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Pavel Hadjiev",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Martin Marinov",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Ilko Velikov",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Ivko Stanilov",
+            "rank": "13-16",
+            "propoints": 1
+        },
+        {
+            "name": "Miroslav Slavov",
+            "rank": "13-16",
+            "propoints": 1
+        },
+        {
+            "name": "Momchil Stefanov",
+            "rank": "13-16",
+            "propoints": 1
+        },
+        {
+            "name": "Deian Terziev",
+            "rank": "13-16",
+            "propoints": 1
         }
     ],
     "teamsize": 1

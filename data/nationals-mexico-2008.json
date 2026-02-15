@@ -14,19 +14,84 @@
     "standings": [
         {
             "name": "Axel Martinez",
-            "propoints": 10
+            "money": 1250,
+            "propoints": 10,
+            "report": "https://web.archive.org/web/20080821192201/http://www.necrotower.com:80/articulos/2008/08082008axel.htm"
         },
         {
             "name": "Cristiam Padilla Vargas",
+            "money": 750,
             "propoints": 8
         },
         {
             "name": "David Hernandez",
+            "money": 500,
+            "propoints": 6
+        },
+        {
+            "name": "Walter Castro Garcia",
+            "money": 500,
             "propoints": 6
         },
         {
             "name": "Jorge Padilla Chinas",
-            "propoints": 6
+            "rank": "QF",
+            "propoints": 4
+        },
+        {
+            "name": "Jose Mondragon",
+            "rank": "QF",
+            "propoints": 4
+        },
+        {
+            "name": "Jesus Solano",
+            "rank": "QF",
+            "propoints": 4
+        },
+        {
+            "name": "Amadiz Valle",
+            "rank": "QF",
+            "propoints": 4
+        },
+        {
+            "name": "Mario Flores",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Luis Ricardo Macias Aguilar",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Emmanuel Ramirez Sanchez",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Miguel Zuniga Garcia",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Fernando Dominguez Roldan",
+            "rank": "13-16",
+            "propoints": 1
+        },
+        {
+            "name": "Gerardo Godinez Estrada",
+            "rank": "13-16",
+            "propoints": 1
+        },
+        {
+            "name": "Roman Carrillo",
+            "rank": "13-16",
+            "propoints": 1
+        },
+        {
+            "name": "Adad Quintero",
+            "rank": "13-16",
+            "propoints": 1
         }
     ],
     "teamsize": 1   

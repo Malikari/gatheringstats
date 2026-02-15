@@ -1,7 +1,11 @@
 {
     "type": "Mocs",
+    "topfinish": true,
+    "teamsize": 1,
+    "topn": 4,
     "coverage": "https://magic.gg/events/2019-magic-online-championship",
     "date": "November 13-15, 2020",
+    "season": "2020-21",
     "formats": [
         "Cube Draft",
         "Pioneer",
@@ -109,7 +113,5 @@
             "money": 5000,
             "name": "Jamie Schoneveld"
         }
-    ],
-    "teamsize": 1,
-    "topn": 4
+    ]
 }

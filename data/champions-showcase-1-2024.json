@@ -1,8 +1,10 @@
 {
     "type": "Champions Showcase",
+    "topfinish": true,
+    "topn": 2,
     "coverage": "https://magic.gg/events/2024-magic-online-champions-showcase-season-1",
     "date": "May 18, 2024",
-    "season": "2024",
+    "season": "2023-24",
     "formats": [
         "Vintage Cube Draft",
         "Modern"
@@ -13,7 +15,7 @@
     "logo": "mtg-yellow",
     "name": "2024 Magic Online Champions Showcase 1",
     "standings": [
-        {"money": 20000, "name": "Stefan Schütz", "matchpoints": 12},
+        {"money": 20000, "name": "Stefan Schuetz", "matchpoints": 12},
         {"money": 15000, "name": "Sam Rolph", "matchpoints": 12},
         {"money": 7000, "name": "Benny Zeoli", "matchpoints": 12},
         {"money": 6500, "name": "Jan-Moritz Merkel", "matchpoints": 9},

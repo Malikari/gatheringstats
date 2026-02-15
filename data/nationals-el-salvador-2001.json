@@ -1,6 +1,7 @@
 {
     "type": "Nationals - El Salvador",
     "date": "May 12-13, 2001",
+    "season": "2000-01",
     "formats": [
         "Standard",
         "Rochester Draft"
@@ -12,19 +13,24 @@
     "name": "Nationals El Salvador 2001",
     "standings": [
         {
-            "name": "Raul Chavez"
+            "name": "Raul Chavez",
+            "rank": "T8"
         },
         {
-            "name": "Carlos Flores"
+            "name": "Carlos Flores",
+            "rank": "T8"
         },
         {
-            "name": "Rodrigo Guerra"
+            "name": "Rodrigo Guerra",
+            "rank": "T8"
         },
         {
-            "name": "Rafael Ibarra"
+            "name": "Rafael Ibarra",
+            "rank": "T8"
         },
         {
-            "name": "Mario Pacheco"
+            "name": "Mario Pacheco",
+            "rank": "T8"
         }
     ],
     "teamsize": 1   

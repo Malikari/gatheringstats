@@ -1,5 +1,6 @@
 {
     "type": "Nationals - South Africa",
+    "coverage": "https://web.archive.org/web/20090724113932/http://www.mtgsa.co.za/decks.asp",
     "date": "July 11-12, 2009",
     "season": "2009",
     "formats": [
@@ -13,24 +14,80 @@
     "name": "Nationals South Africa 2009",
     "standings": [
         {
+            "name": "Claude Hulimaar",
+            "propoints": 10
+        },
+        {
             "name": "Seraj Haroun",
-            "rank": 2,
             "propoints": 8
         },
         {
             "name": "Theuns Prinsloo",
-            "rank": 3,
             "propoints": 6
         },
         {
             "name": "Dean Hatton",
-            "rank": 4,
-            "propoints": 6
+            "propoints": 6,
+            "report": "https://web.archive.org/web/20090916061459/http://www.mtgsa.co.za/"
         },
         {
             "name": "David Hofmeyr",
-            "rank": 5,
             "propoints": 4
+        },
+        {
+            "name": "Adam Katz (ZAF)",
+            "rank": "QF",
+            "propoints": 4
+        },
+        {
+            "name": "Russell Tanchel",
+            "rank": "QF",
+            "propoints": 4
+        },
+        {
+            "name": "Michael Redford",
+            "rank": "QF",
+            "propoints": 4
+        },
+        {
+            "name": "Michael Nurse",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Clint van Alten",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Brendan Dunn",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Herman Venter",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Peter Lee",
+            "rank": "13-16",
+            "propoints": 1
+        },
+        {
+            "name": "Marthinus J. Koekemoer",
+            "rank": "13-16",
+            "propoints": 1
+        },
+        {
+            "name": "Anthony Hodgson",
+            "rank": "13-16",
+            "propoints": 1
+        },
+        {
+            "name": "Paul Verkerk",
+            "rank": "13-16",
+            "propoints": 1
         }
     ],
     "teamsize": 1   

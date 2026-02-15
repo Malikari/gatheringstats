@@ -1,7 +1,8 @@
 {
     "type": "Grand Prix",
-    "coverage": "https://magic.wizards.com/en/events/coverage/gpbost05",
+    "coverage": "https://web.archive.org/web/20050404005603/http://www.wizards.com/default.asp?x=mtgevent/gpbost05/welcome",
     "date": "February 4-5, 2005",
+    "season": "2005",
     "formats": [
         "Extended"
     ],
@@ -27,7 +28,7 @@
             "propoints": 4
         },
         {
-            "money": 1000,
+            "money": 2500,
             "name": "Benjamin Dempsey",
             "propoints": 4
         },
@@ -62,27 +63,27 @@
             "propoints": 2
         },
         {
-            "money": 500,
+            "money": 1500,
             "name": "Jeff Novekoff",
             "propoints": 2
         },
         {
-            "money": 500,
+            "money": 1200,
             "name": "Vincent Chow",
             "propoints": 2
         },
         {
-            "money": 500,
+            "money": 1200,
             "name": "John Fiorillo",
             "propoints": 2
         },
         {
-            "money": 500,
+            "money": 900,
             "name": "Stephane Faure",
             "propoints": 2
         },
         {
-            "money": 500,
+            "money": 900,
             "name": "Jesse Marczyk",
             "propoints": 2
         },
@@ -92,12 +93,12 @@
             "propoints": 2
         },
         {
-            "money": 250,
+            "money": 650,
             "name": "Phil Cape",
             "propoints": 1
         },
         {
-            "money": 250,
+            "money": 650,
             "name": "Ron White",
             "propoints": 1
         },
@@ -107,12 +108,12 @@
             "propoints": 1
         },
         {
-            "money": 250,
+            "money": 500,
             "name": "Frank Zheng",
             "propoints": 1
         },
         {
-            "money": 250,
+            "money": 500,
             "name": "Josh Cicio",
             "propoints": 1
         },
@@ -127,17 +128,17 @@
             "propoints": 1
         },
         {
-            "money": 250,
+            "money": 500,
             "name": "Warren Parad",
             "propoints": 1
         },
         {
-            "money": 250,
+            "money": 500,
             "name": "Chris Gosselin",
             "propoints": 1
         },
         {
-            "money": 250,
+            "money": 500,
             "name": "Jon Pazona",
             "propoints": 1
         },
@@ -157,8 +158,8 @@
             "propoints": 1
         },
         {
-            "money": 250,
-            "name": "Jason Oritz",
+            "money": 500,
+            "name": "Jason Ortiz",
             "propoints": 1
         },
         {
@@ -170,6 +171,14 @@
             "money": 250,
             "name": "Chris Prochak",
             "propoints": 1
+        },
+        {
+            "money": 250,
+            "name": "Jordan Gaudard"
+        },
+        {
+            "money": 250,
+            "name": "Edward Stewart"
         }
     ],
     "teamsize": 1

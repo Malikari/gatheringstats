@@ -1,10 +1,14 @@
 {
     "type": "Grand Prix",
-    "coverage": "https://magic.wizards.com/en/events/coverage/gpneo01",
+    "coverage": "https://web.archive.org/web/20010619193906/http://www.wizards.com/sideboard/event.asp?event=GPBOS01",
     "date": "February 24-25, 2001",
+    "season": "2000-01",
     "formats": [
         "Sealed Deck",
         "Booster Draft"
+    ],
+    "structure": [
+        "1700 Rating Flag Prizes: $1500 (1), $1000 (2), $700 (3-4), $400 (5-8), $250 (9-16)"
     ],
     "medium": "Tabletop",
     "id": "grand-prix-boston-2001",
@@ -23,7 +27,7 @@
             "propoints": 5
         },
         {
-            "money": 1200,
+            "money": 2700,
             "name": "Kurtis Hahn",
             "propoints": 4
         },
@@ -68,7 +72,7 @@
             "propoints": 2
         },
         {
-            "money": 500,
+            "money": 1500,
             "name": "Patrick Qian",
             "propoints": 2
         },
@@ -171,6 +175,76 @@
             "money": 250,
             "name": "Nick Little",
             "propoints": 1
+        },
+        {
+            "money": 700,
+            "name": "Dave Eastman",
+            "rank": 33
+        },
+        {
+            "money": 700,
+            "name": "Paul Willemstein",
+            "rank": 36
+        },
+        {
+            "money": 400,
+            "name": "Anthony DiLorenzo",
+            "rank": 39
+        },
+        {
+            "money": 400,
+            "name": "John Clougherty",
+            "rank": 44
+        },
+        {
+            "money": 400,
+            "name": "Steve Foster",
+            "rank": 55
+        },
+        {
+            "money": 400,
+            "name": "Jason Miller",
+            "rank": 72
+        },
+        {
+            "money": 250,
+            "name": "Pasquale Ruggiero",
+            "rank": 77
+        },
+        {
+            "money": 250,
+            "name": "Melissa DeTora",
+            "rank": 78
+        },
+        {
+            "money": 250,
+            "name": "Barrett Hathaway",
+            "rank": 80
+        },
+        {
+            "money": 250,
+            "name": "Shawn Owen",
+            "rank": 85
+        },
+        {
+            "money": 250,
+            "name": "Matty Evans",
+            "rank": 91
+        },
+        {
+            "money": 250,
+            "name": "Zhanna Davydova",
+            "rank": 93
+        },
+        {
+            "money": 250,
+            "name": "Max McGuffin",
+            "rank": 94
+        },
+        {
+            "money": 250,
+            "name": "Geremy Prosise",
+            "rank": 95
         }
     ],
     "teamsize": 1

@@ -1,6 +1,8 @@
 {
     "type": "Nationals - Philippines",
+    "coverage": "https://web.archive.org/web/20031008120840/http://www.neutralgrounds.net/top8.htm",
     "date": "June 14-15, 2003",
+    "season": "2002-03",
     "formats": [
         "Standard",
         "Rochester Draft"
@@ -13,7 +15,8 @@
     "standings": [
         {
             "name": "Gerald Camangon",
-            "money": 1200
+            "money": 1200,
+            "deck": "AVc2ezmLy0i4ZAYMZ66RgA"
         },
         {
             "name": "Francis Robert Profeta",
@@ -26,6 +29,22 @@
         {
             "name": "Dominic Ortega",
             "money": 400
+        },
+        {
+            "name": "Philip Jason Lopez",
+            "rank": "T8"
+        },
+        {
+            "name": "Jojo Francisco",
+            "rank": "T8"
+        },
+        {
+            "name": "Felix Gonzales",
+            "rank": "T8"
+        },
+        {
+            "name": "Roy Luyun",
+            "rank": "T8"
         }
     ],
     "teamsize": 1

@@ -2,7 +2,7 @@
     "type": "Regional Championship",
     "coverage": "https://magic.gg/events/central-america-magic-series-regional-championship-mexico-city-november-2024",
     "date": "November 29-December 1, 2024",
-    "season": "2024",
+    "season": "2024-25",
     "formats": [
         "Pioneer"
     ],
@@ -88,7 +88,7 @@
         {"name": "Pedro Bustos", "matchpoints": 11},
         {"name": "Juan Jimenez", "matchpoints": 10},
         {"name": "Itziar Cardona", "matchpoints": 10},
-        {"name": "Carlos Martinez", "matchpoints": 10},
+        {"name": "Carlos Martinez Silhy", "matchpoints": 10},
         {"name": "Ricardo Hernandez", "matchpoints": 10},
         {"name": "Jose Manuel Ponce Franco", "matchpoints": 10},
         {"name": "Alejandro Gonzalez", "matchpoints": 9},
@@ -154,6 +154,5 @@
         {"name": "Mauro Pérez", "matchpoints": 0},
         {"name": "Uriel Cuitlahuac Reyna Valencia", "matchpoints": 0}
     ],
-    "teamsize": 1
-    
+    "teamsize": 1   
 }

@@ -2,6 +2,7 @@
     "type": "Nationals - Denmark",
     "coverage": "https://www.danskmagic.com/artiklar/index.php?ID=737&user=27433",
     "date": "September 20-21, 2008",
+    "season": "2008",
     "formats": [
         "Standard",
         "Booster Draft"
@@ -14,7 +15,8 @@
     "standings": [
         {
             "name": "Janus Bossow",
-            "propoints": 10
+            "propoints": 10,
+            "deck": "vY8c3A-zMUSTtIpSVjuGrg"
         },
         {
             "name": "Rune Martens Andersen",
@@ -43,6 +45,45 @@
         {
             "name": "Sebastian Mygh",
             "propoints": 4
+        },
+        {
+            "name": "Lasse Hansen",
+            "propoints": 2
+        },
+        {
+            "name": "Tim Rasmussen",
+            "rank": "10-12",
+            "propoints": 2
+        },
+        {
+            "name": "Palle Poulsen",
+            "rank": "10-12",
+            "propoints": 2
+        },
+        {
+            "name": "Malte Holm",
+            "rank": "10-12",
+            "propoints": 2
+        },
+        {
+            "name": "Christoffer Larsen",
+            "rank": "13-16",
+            "propoints": 1
+        },
+        {
+            "name": "Kim Stroeh",
+            "rank": "13-16",
+            "propoints": 1
+        },
+        {
+            "name": "Ulf Baldrian Harbo",
+            "rank": "13-16",
+            "propoints": 1
+        },
+        {
+            "name": "Michael Bonde",
+            "rank": "13-16",
+            "propoints": 1
         }
     ],
     "teamsize": 1

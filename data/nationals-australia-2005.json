@@ -1,6 +1,7 @@
 {
     "type": "Nationals - Australia",
     "date": "August 20-21, 2005",
+    "season": "2005",
     "formats": [
         "Standard",
         "Booster Draft"
@@ -26,6 +27,26 @@
         {
             "name": "Jason Whitby",
             "money": 1750
+        },
+        {
+            "name": "John-Paul Kelly",
+            "rank": "QF",
+            "money": 750
+        },
+        {
+            "name": "James Pirie",
+            "rank": "QF",
+            "money": 750
+        },
+        {
+            "name": "Justin Cheung",
+            "rank": "QF",
+            "money": 750
+        },
+        {
+            "name": "Will Copeman",
+            "rank": "QF",
+            "money": 750
         }
     ],
     "teamsize": 1

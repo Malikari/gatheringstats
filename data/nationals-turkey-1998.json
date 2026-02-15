@@ -2,12 +2,14 @@
     "type": "Nationals - Turkey",
     "coverage": "https://web.archive.org/web/19980627042043/http://www.wizards.be/MTG_DCI/Tournaments/Results_Turk.html",
     "date": "May 16-17, 1998",
+    "season": "1997-98",
     "formats": [
-        "unknown"
+        "Standard",
+        "Booster Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-turkey-1998",
-    "location": "Turkey",
+    "location": "Istanbul, Turkey",
     "logo": "nationals",
     "name": "Nationals Turkey 1998",
     "standings": [
@@ -15,16 +17,19 @@
             "name": "Mert Özatak"
         },
         {
-            "name": "Eray Ozturk"
-        },
-        {
-            "name": "Basar Coskunoglu"
-        },
-        {
-            "name": "Yusuf Kemal Vefa"
+            "name": "Yusuf Kemal Vefa",
+            "rank": "T4"
         },
         {
             "name": "Sahin Yalabik",
+            "rank": "T4"
+        },
+        {
+            "name": "Basar Coskunoglu",
+            "rank": "T4"
+        },
+        {
+            "name": "Eray Ozturk",
             "rank": "T8"
         },
         {

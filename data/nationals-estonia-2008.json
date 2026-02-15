@@ -1,6 +1,7 @@
 {
     "type": "Nationals - Estonia",
     "date": "August 2-3, 2008",
+    "season": "2008",
     "formats": [
         "Standard",
         "Booster Draft"
@@ -20,14 +21,72 @@
             "propoints": 8
         },
         {
-            "name": "Joonas Orav",
-            "rank": 4,
+            "name": "Erkki Sisask",
             "propoints": 6
+        },
+        {
+            "name": "Joonas Orav",
+            "propoints": 6
+        },
+        {
+            "name": "Aare Klooster",
+            "rank": "QF",
+            "propoints": 4
+        },
+        {
+            "name": "Raul Kask",
+            "rank": "QF",
+            "propoints": 4
+        },
+        {
+            "name": "Mart Pechter",
+            "rank": "QF",
+            "propoints": 4
         },
         {
             "name": "Kaur Kohv",
             "rank": 8,
             "propoints": 4
+        },
+        {
+            "name": "Jueri Salupere",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Sander Sepp",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Rasmus Sinivee",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Mart Veliste",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Siim Laanemaee",
+            "rank": "13-16",
+            "propoints": 1
+        },
+        {
+            "name": "Paeaern Paiste",
+            "rank": "13-16",
+            "propoints": 1
+        },
+        {
+            "name": "Karl Sarap",
+            "rank": "13-16",
+            "propoints": 1
+        },
+        {
+            "name": "Kristjan Vilgo",
+            "rank": "13-16",
+            "propoints": 1
         }
     ],
     "teamsize": 1

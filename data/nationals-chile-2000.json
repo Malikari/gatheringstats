@@ -1,8 +1,11 @@
 {
     "type": "Nationals - Chile",
-    "date": "January 1-December 31, 2000",
+    "date": "April 8-9, 2000",
+    "season": "1999-2000",
+    "coverage": "https://web.archive.org/web/20010209010428/http://www.necro.com.ar/torneos/nacionales/nacionalchile00/000416_mazos.shtml",
     "formats": [
-        "unknown"
+        "Standard",
+        "Booster Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-chile-2000",
@@ -11,7 +14,8 @@
     "name": "Nationals Chile 2000",
     "standings": [
         {
-            "name": "Juan Reutter"
+            "name": "Juan Reutter",
+            "deck": "OPfpFzIdI0CYp9xd5YUdYA"
         },
         {
             "name": "Andres Pablo Hojman Cruz",
@@ -24,6 +28,22 @@
         {
             "name": "Mario Luncumilla",
             "rank": "NT"
+        },
+        {
+            "name": "Cristian Undurraga",
+            "rank": "T8"
+        },
+        {
+            "name": "Rafael Le-saux",
+            "rank": "T8"
+        },
+        {
+            "name": "Rodrigo Sanchez",
+            "rank": "T8"
+        },
+        {
+            "name": "Fernando Alvarez",
+            "rank": "T8"
         }
     ],
     "teamsize": 1

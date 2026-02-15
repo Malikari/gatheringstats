@@ -1,13 +1,14 @@
 {
     "type": "Nationals - Philippines",
     "date": "July 3-4, 2004",
+    "season": "2003-04",
     "formats": [
         "Standard",
         "Booster Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-philippines-2004",
-    "location": "Philippines",
+    "location": "Muntinlupa City, Philippines",
     "logo": "nationals",
     "name": "Nationals Philippines 2004",
     "standings": [
@@ -20,7 +21,8 @@
             "rank": "2-4"
         },
         {
-            "name": "Rico Vincent Perez"
+            "name": "Rico Vincent Perez",
+            "money": 600
         },
         {
             "name": "Williamson Ong",

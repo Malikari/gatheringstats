@@ -1,5 +1,6 @@
 {
     "type": "Arena Championship",
+    "topfinish": true,
     "coverage": "https://magic.gg/events/arena-championship-2",
     "date": "March 18-19, 2023",
     "season": "2022-23",
@@ -11,163 +12,163 @@
     "id": "arena-championship-2-2023",
     "location": "Global",
     "logo": "mtg-yellow",
-    "name": "2023 Arena Championship 2",
+    "name": "Arena Championship 2",
     "standings": [
-{
-"name": "Hiroshi Onizuka",
-"matchpoints": 24,
-"money": 30000
-},
-{
-"name": "Alexey Paulot",
-"matchpoints": 24,
-"money": 20000
-},
-{
-"name": "Jan-Moritz Merkel",
-"matchpoints": 27,
-"money": 15000
-},
-{
-"name": "Ondrej Strasky",
-"matchpoints": 21,
-"money": 15000
-},
-{
-"name": "Matti Kuisma",
-"matchpoints": 24,
-"money": 10000
-},
-{
-"name": "Jeff Lin",
-"matchpoints": 18,
-"money": 10000
-},
-{
-"name": "Yuuki Ichikawa",
-"matchpoints": 18,
-"money": 10000
-},
-{
-"name": "Karl Stelzner",
-"matchpoints": 15,
-"money": 10000
-},
-{
-"name": "Simon Nielsen",
-"matchpoints": 15,
-"money": 7000
-},
-{
-"name": "Anssi Alkio",
-"matchpoints": 15,
-"money": 7000
-},
-{
-"name": "Kazuya Murakami",
-"matchpoints": 15,
-"money": 7000
-},
-{
-"name": "Yuta Takahashi",
-"matchpoints": 15,
-"money": 7000
-},
-{
-"name": "Vincent Chu",
-"matchpoints": 15,
-"money": 5000
-},
-{
-"name": "Akio Matsuzaki",
-"matchpoints": 15,
-"money": 5000
-},
-{
-"name": "Adam Chambers",
-"matchpoints": 15,
-"money": 5000
-},
-{
-"name": "Noriyuki Mori",
-"matchpoints": 15,
-"money": 5000
-},
-{
-"name": "Kirill Tsarkov",
-"matchpoints": 12,
-"money": 2500
-},
-{
-"name": "Leo Lahonen",
-"matchpoints": 12,
-"money": 2500
-},
-{
-"name": "Takafumi Oyama",
-"matchpoints": 12,
-"money": 2500
-},
-{
-"name": "Liang Chen",
-"matchpoints": 12,
-"money": 2500
-},
-{
-"name": "Benjamin Jeschke",
-"matchpoints": 12,
-"money": 2500
-},
-{
-"name": "Zach Barrett",
-"matchpoints": 12,
-"money": 2500
-},
-{
-"name": "Stefan Schütz",
-"matchpoints": 12,
-"money": 2500
-},
-{
-"name": "Elias Watsfeldt",
-"matchpoints": 12,
-"money": 2500
-},
-{
-"name": "Daniel Brodie",
-"matchpoints": 9,
-"money": 1500
-},
-{
-"name": "Dien Nguyen",
-"matchpoints": 9,
-"money": 1500
-},
-{
-"name": "Luca Magni",
-"matchpoints": 9,
-"money": 1500
-},
-{
-"name": "Liam Etelson",
-"matchpoints": 9,
-"money": 1500
-},
-{
-"name": "Michele Papini",
-"matchpoints": 9,
-"money": 1500
-},
-{
-"name": "Benton Madsen",
-"matchpoints": 9,
-"money": 1500
-},
-{
-"name": "Bradley Javner",
-"matchpoints": 6,
-"money": 1500
-}
+        {
+        "name": "Hiroshi Onizuka",
+        "matchpoints": 24,
+        "money": 30000
+        },
+        {
+        "name": "Alexey Paulot",
+        "matchpoints": 24,
+        "money": 20000
+        },
+        {
+        "name": "Jan-Moritz Merkel",
+        "matchpoints": 27,
+        "money": 15000
+        },
+        {
+        "name": "Ondrej Strasky",
+        "matchpoints": 21,
+        "money": 15000
+        },
+        {
+        "name": "Matti Kuisma",
+        "matchpoints": 24,
+        "money": 10000
+        },
+        {
+        "name": "Jeff Lin",
+        "matchpoints": 18,
+        "money": 10000
+        },
+        {
+        "name": "Yuuki Ichikawa",
+        "matchpoints": 18,
+        "money": 10000
+        },
+        {
+        "name": "Karl Stelzner",
+        "matchpoints": 15,
+        "money": 10000
+        },
+        {
+        "name": "Simon Nielsen",
+        "matchpoints": 15,
+        "money": 7000
+        },
+        {
+        "name": "Anssi Alkio",
+        "matchpoints": 15,
+        "money": 7000
+        },
+        {
+        "name": "Kazuya Murakami",
+        "matchpoints": 15,
+        "money": 7000
+        },
+        {
+        "name": "Yuta Takahashi",
+        "matchpoints": 15,
+        "money": 7000
+        },
+        {
+        "name": "Vincent Chu",
+        "matchpoints": 15,
+        "money": 5000
+        },
+        {
+        "name": "Akio Matsuzaki",
+        "matchpoints": 15,
+        "money": 5000
+        },
+        {
+        "name": "Adam Chambers",
+        "matchpoints": 15,
+        "money": 5000
+        },
+        {
+        "name": "Noriyuki Mori",
+        "matchpoints": 15,
+        "money": 5000
+        },
+        {
+        "name": "Kirill Tsarkov",
+        "matchpoints": 12,
+        "money": 2500
+        },
+        {
+        "name": "Leo Lahonen",
+        "matchpoints": 12,
+        "money": 2500
+        },
+        {
+        "name": "Takafumi Oyama",
+        "matchpoints": 12,
+        "money": 2500
+        },
+        {
+        "name": "Liang Chen",
+        "matchpoints": 12,
+        "money": 2500
+        },
+        {
+        "name": "Benjamin Jeschke",
+        "matchpoints": 12,
+        "money": 2500
+        },
+        {
+        "name": "Zach Barrett",
+        "matchpoints": 12,
+        "money": 2500
+        },
+        {
+        "name": "Stefan Schuetz",
+        "matchpoints": 12,
+        "money": 2500
+        },
+        {
+        "name": "Elias Watsfeldt",
+        "matchpoints": 12,
+        "money": 2500
+        },
+        {
+        "name": "Daniel Brodie",
+        "matchpoints": 9,
+        "money": 1500
+        },
+        {
+        "name": "Dien Nguyen",
+        "matchpoints": 9,
+        "money": 1500
+        },
+        {
+        "name": "Luca Magni",
+        "matchpoints": 9,
+        "money": 1500
+        },
+        {
+        "name": "Liam Etelson",
+        "matchpoints": 9,
+        "money": 1500
+        },
+        {
+        "name": "Michele Papini",
+        "matchpoints": 9,
+        "money": 1500
+        },
+        {
+        "name": "Benton Madsen",
+        "matchpoints": 9,
+        "money": 1500
+        },
+        {
+        "name": "Bradley Javner",
+        "matchpoints": 6,
+        "money": 1500
+        }
     ],
     "teamsize": 1
     

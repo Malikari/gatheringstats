@@ -1,7 +1,8 @@
 {
     "type": "Grand Prix",
-    "coverage": "https://magic.wizards.com/en/events/coverage/gpcol04",
+    "coverage": "https://web.archive.org/web/20040405132536/http://www.wizards.com/default.asp?x=mtgevent/gpcol04/welcome",
     "date": "March 27-28, 2004",
+    "season": "2003-04",
     "formats": [
         "Sealed Deck",
         "Booster Draft"
@@ -33,7 +34,7 @@
             "propoints": 4
         },
         {
-            "money": 800,
+            "money": 2300,
             "name": "Kate Stavola",
             "propoints": 3
         },
@@ -43,7 +44,7 @@
             "propoints": 3
         },
         {
-            "money": 800,
+            "money": 1800,
             "name": "Brandon Rickard",
             "propoints": 3
         },
@@ -58,7 +59,7 @@
             "propoints": 2
         },
         {
-            "money": 500,
+            "money": 1200,
             "name": "Brad Taulbee",
             "propoints": 2
         },
@@ -73,7 +74,7 @@
             "propoints": 2
         },
         {
-            "money": 500,
+            "money": 1200,
             "name": "Jason Gaudard",
             "propoints": 2
         },
@@ -171,6 +172,66 @@
             "money": 250,
             "name": "Gadiel Szleifer",
             "propoints": 1
+        },
+        {
+            "money": 400,
+            "name": "Jeremy Shapiro",
+            "rank": 34
+        },
+        {
+            "money": 400,
+            "name": "Paul Russell",
+            "rank": 35
+        },
+        {
+            "money": 400,
+            "name": "Lance Bohac",
+            "rank": 36
+        },
+        {
+            "money": 400,
+            "name": "JeanMarc Babin",
+            "rank": 37
+        },
+        {
+            "money": 250,
+            "name": "Josiah Skallerup",
+            "rank": 38
+        },
+        {
+            "money": 250,
+            "name": "Vincent Gaglio",
+            "rank": 39
+        },
+        {
+            "money": 250,
+            "name": "Sean-Michael Ryder",
+            "rank": 47
+        },
+        {
+            "money": 250,
+            "name": "Jeff Duval",
+            "rank": 48
+        },
+        {
+            "money": 250,
+            "name": "Brian Phillips",
+            "rank": 51
+        },
+        {
+            "money": 250,
+            "name": "Mike Tedeschi",
+            "rank": 53
+        },
+        {
+            "money": 250,
+            "name": "Allen Jackson",
+            "rank": 56
+        },
+        {
+            "money": 250,
+            "name": "Robbie Auchter",
+            "rank": 60
         }
     ],
     "teamsize": 1

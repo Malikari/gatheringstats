@@ -1,7 +1,8 @@
 {
     "type": "Grand Prix",
-    "coverage": "https://magic.wizards.com/en/events/coverage/gpbos03",
+    "coverage": "https://web.archive.org/web/20030811173053/http://www.wizards.com/default.asp?x=sideboard/events/gpbos03",
     "date": "February 22-23, 2003",
+    "season": "2002-03",
     "formats": [
         "Sealed Deck",
         "Booster Draft"
@@ -22,7 +23,7 @@
             ]
         },
         {
-            "money": 1700,
+            "money": 3200,
             "name": "Matthew Cory",
             "propoints": 5
         },
@@ -42,7 +43,7 @@
             "propoints": 3
         },
         {
-            "money": 800,
+            "money": 1800,
             "name": "Joshua Wagener",
             "propoints": 3
         },
@@ -97,12 +98,12 @@
             "propoints": 2
         },
         {
-            "money": 250,
+            "money": 950,
             "name": "Matt Larson",
             "propoints": 1
         },
         {
-            "money": 250,
+            "money": 950,
             "name": "Michael Gilmore",
             "propoints": 1
         },
@@ -117,7 +118,7 @@
             "propoints": 1
         },
         {
-            "money": 250,
+            "money": 650,
             "name": "Jerry Freedman",
             "propoints": 1
         },
@@ -132,7 +133,7 @@
             "propoints": 1
         },
         {
-            "money": 250,
+            "money": 650,
             "name": "Melissa DeTora",
             "propoints": 1
         },
@@ -172,9 +173,45 @@
             "propoints": 1
         },
         {
-            "money": 250,
+            "money": 650,
             "name": "Michael Chapman",
             "propoints": 1
+        },
+        {
+            "money": 400,
+            "name": "Martin-Eric Gauthier"
+        },
+        {
+            "money": 250,
+            "name": "Anthony Impellizzieri"
+        },
+        {
+            "money": 250,
+            "name": "Jordan Christensen"
+        },
+        {
+            "money": 250,
+            "name": "Paul Russell"
+        },
+        {
+            "money": 250,
+            "name": "Andrew Benanzer"
+        },
+        {
+            "money": 250,
+            "name": "Bryan Heal"
+        },
+        {
+            "money": 250,
+            "name": "Jeremy White"
+        },
+        {
+            "money": 250,
+            "name": "Erik Rodriguez"
+        },
+        {
+            "money": 250,
+            "name": "Jason Imperiale"
         }
     ],
     "teamsize": 1

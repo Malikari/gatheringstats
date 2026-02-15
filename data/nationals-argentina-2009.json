@@ -2,6 +2,7 @@
     "type": "Nationals - Argentina",
     "coverage": "http://nacionalmagic2009.blogspot.com/",
     "date": "August 8-9, 2009",
+    "season": "2009",
     "formats": [
         "Standard",
         "Booster Draft"
@@ -14,7 +15,8 @@
     "standings": [
         {
             "name": "Alejo Zagalsky",
-            "propoints": 10
+            "propoints": 10,
+            "deck": "VbDGFWbqhU-XXzUdgD45JQ"
         },
         {
             "name": "Fernando Orge",
@@ -43,6 +45,38 @@
         {
             "name": "Sebastian Pozzo",
             "propoints": 4
+        },
+        {
+            "name": "Matias Bollati",
+            "propoints": 2
+        },
+        {
+            "name": "Matias Chiappe",
+            "propoints": 2
+        },
+        {
+            "name": "Ariel Nagy",
+            "propoints": 2
+        },
+        {
+            "name": "Diego Frojan",
+            "propoints": 2
+        },
+        {
+            "name": "Javier Cassoni",
+            "propoints": 1
+        },
+        {
+            "name": "Alejandro Carrizo",
+            "propoints": 1
+        },
+        {
+            "name": "Jose Gutierrez",
+            "propoints": 1
+        },
+        {
+            "name": "Adrian Saredo",
+            "propoints": 1
         }
     ],
     "teamsize": 1 

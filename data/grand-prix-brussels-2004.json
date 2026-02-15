@@ -1,7 +1,8 @@
 {
     "type": "Grand Prix",
-    "coverage": "https://magic.wizards.com/en/events/coverage/gpbru04",
+    "coverage": "https://web.archive.org/web/20040607094749/http://wizards.com/default.asp?x=mtgevent/gpbru04/welcome",
     "date": "May 29-30, 2004",
+    "season": "2003-04",
     "formats": [
         "Standard"
     ],
@@ -52,7 +53,7 @@
             "propoints": 3
         },
         {
-            "money": 500,
+            "money": 2000,
             "name": "Johan Dewez",
             "propoints": 2
         },
@@ -62,7 +63,7 @@
             "propoints": 2
         },
         {
-            "money": 500,
+            "money": 1500,
             "name": "Pierre Chanioux",
             "propoints": 2
         },
@@ -72,7 +73,7 @@
             "propoints": 2
         },
         {
-            "money": 500,
+            "money": 1200,
             "name": "Geron Nissim",
             "propoints": 2
         },
@@ -87,7 +88,7 @@
             "propoints": 2
         },
         {
-            "money": 500,
+            "money": 1200,
             "name": "Roelof Sasburg",
             "propoints": 2
         },
@@ -102,7 +103,7 @@
             "propoints": 1
         },
         {
-            "money": 250,
+            "money": 650,
             "name": "Klaus-Michael Bredt",
             "propoints": 1
         },
@@ -117,7 +118,7 @@
             "propoints": 1
         },
         {
-            "money": 250,
+            "money": 650,
             "name": "Thierry Tregaro",
             "propoints": 1
         },
@@ -170,6 +171,56 @@
             "money": 250,
             "name": "Manuel Bevand",
             "propoints": 1
+        },
+        {
+            "money": 400,
+            "name": "Stijn Hensen",
+            "rank": 38
+        },
+        {
+            "money": 400,
+            "name": "Sjoerd Willems",
+            "rank": 42
+        },
+        {
+            "money": 250,
+            "name": "Salaun Thomas",
+            "rank": 43
+        },
+        {
+            "money": 250,
+            "name": "Julien Pontonnier",
+            "rank": 45
+        },
+        {
+            "money": 250,
+            "name": "Ruben Sanchez",
+            "rank": 46
+        },
+        {
+            "money": 250,
+            "name": "Matthijs Groothuizen",
+            "rank": 47
+        },
+        {
+            "money": 250,
+            "name": "Machal Marcinsiszyn",
+            "rank": 52
+        },
+        {
+            "money": 250,
+            "name": "Benjamin Goossens",
+            "rank": 53
+        },
+        {
+            "money": 250,
+            "name": "Patrick Ponstein",
+            "rank": 55
+        },
+        {
+            "money": 250,
+            "name": "Tristan Gally",
+            "rank": 56
         }
     ],
     "teamsize": 1

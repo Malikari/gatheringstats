@@ -13,16 +13,42 @@
     "name": "Nationals China 2009",
     "standings": [
         {
+            "name": "Liang Zhu",
+            "propoints": 10,
+            "money": 2045
+        },
+        {
+            "name": "Jun Li",
+            "propoints": 8,
+            "money": 1460
+        },
+        {
             "name": "Bo Li",
             "propoints": 6,
-            "rank": 3,
             "money": 1170
         },
         {
             "name": "Wu Tong",
             "propoints": 6,
-            "rank": 4,
             "money": 880
+        },
+        {
+            "name": "Liang Xu",
+            "propoints": 4,
+            "rank": "QF",
+            "money": 365
+        },
+        {
+            "name": "Qiang Lei",
+            "propoints": 4,
+            "rank": "QF",
+            "money": 365
+        },
+        {
+            "name": "Yang K18",
+            "propoints": 4,
+            "rank": "QF",
+            "money": 365
         },
         {
             "name": "Zhang Zhiyang",
@@ -31,9 +57,44 @@
             "money": 365
         },
         {
+            "name": "Bin Jia",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Chao Lu",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
             "name": "Bo Sun",
             "propoints": 2,
             "rank": 11
+        },
+        {
+            "name": "Liu Xing",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Xuan-Ji Wang",
+            "rank": "13-16",
+            "propoints": 1
+        },
+        {
+            "name": "Hua-Chao Song",
+            "rank": "13-16",
+            "propoints": 1
+        },
+        {
+            "name": "Cheng Guo",
+            "rank": "13-16",
+            "propoints": 1
+        },
+        {
+            "name": "Xu Liu",
+            "rank": "13-16",
+            "propoints": 1
         }
     ],
     "teamsize": 1

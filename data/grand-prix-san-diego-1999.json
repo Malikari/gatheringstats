@@ -2,6 +2,7 @@
     "type": "Grand Prix",
     "coverage": "https://magic.wizards.com/en/events/coverage/gpsd99",
     "date": "November 20-21, 1999",
+    "season": "1999-2000",
     "formats": [
         "Sealed Deck",
         "Booster Draft"
@@ -51,6 +52,33 @@
             "money": 800,
             "name": "Eric James",
             "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Sammy Barkho",
+            "propoints": 1,
+            "rank": 31
+        },
+        {
+            "money": 400,
+            "name": "Peter Szigeti",
+            "propoints": 1,
+            "rank": 32
+        },
+        {
+            "money": 300,
+            "name": "Jeff Seifert",
+            "rank": 35
+        },
+        {
+            "money": 200,
+            "name": "Paul Baron",
+            "rank": 36
+        },
+        {
+            "money": 100,
+            "name": "Conan Blackwell",
+            "rank": 43
         }
     ],
     "teamsize": 1

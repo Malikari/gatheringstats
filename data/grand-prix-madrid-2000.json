@@ -2,6 +2,7 @@
     "type": "Grand Prix",
     "coverage": "http://web.archive.org/web/20000824074803/http://www.wizards.com:80/international/sideboard/gpmadrid00/coverage.asp",
     "date": "January 29-30, 2000",
+    "season": "1999-2000",
     "formats": [
         "Extended"
     ],
@@ -14,7 +15,8 @@
         {
             "money": 2000,
             "name": "Carlos Barrado",
-            "propoints": 6
+            "propoints": 6,
+            "deck": "nNFboI-6oUaNdqCRhxkHog"
         },
         {
             "money": 1600,
@@ -24,7 +26,8 @@
         {
             "money": 1300,
             "name": "Alex Shvartsman",
-            "propoints": 4
+            "propoints": 4,
+            "report": "https://web.archive.org/web/20031206235539/http://newwave.org/strategy/reports/feb00/alsh0224.html"
         },
         {
             "money": 1300,
@@ -44,12 +47,14 @@
         {
             "money": 500,
             "name": "Rui Mariani",
-            "propoints": 3
+            "propoints": 3,
+            "report": "https://web.archive.org/web/20031206141157/http://newwave.org/strategy/reports/feb00/ruma0107.html"
         },
         {
             "money": 500,
             "name": "Patrick Mello",
-            "propoints": 3
+            "propoints": 3,
+            "report": "https://web.archive.org/web/20040215100036/http://www.newwave.org/strategy/reports/feb00/pame0107.html"
         },
         {
             "money": 350,

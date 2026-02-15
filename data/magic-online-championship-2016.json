@@ -1,7 +1,11 @@
 {
     "type": "Mocs",
+    "topfinish": true,
+    "teamsize": 1,
+    "topn": 4,
     "coverage": "https://i.wizards.com/en/events/coverage/mtgochamp16",
     "date": "March 3-5, 2017",
+    "season": "2016-17",
     "formats": [
         "Draft",
         "Standard"
@@ -76,7 +80,5 @@
             "money": 4000,
             "name": "Niels Noorlander"
         }
-    ],
-    "teamsize": 1,
-    "topn": 4
+    ]
 }

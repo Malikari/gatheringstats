@@ -1,7 +1,8 @@
 {
     "type": "Grand Prix",
-    "coverage": "https://magic.wizards.com/en/events/coverage/grand-prix-copenhagen-2000",
+    "coverage": "https://web.archive.org/web/20010410010555/http://www.wizards.com/sideboard/article.asp?x=GPCOPENHAGEN00/welcome",
     "date": "June 17-18, 2000",
+    "season": "1999-2000",
     "formats": [
         "Sealed Deck",
         "Rochester Draft"
@@ -80,7 +81,8 @@
         {
             "money": 350,
             "name": "Alex Shvartsman",
-            "propoints": 2
+            "propoints": 2,
+            "report": "https://web.archive.org/web/20031206174412/http://newwave.org/strategy/reports/jun00/gpcopenhagen/alsh00621.html"
         },
         {
             "money": 350,
@@ -159,7 +161,7 @@
         },
         {
             "money": 250,
-            "name": "Øyvind Ødegaard",
+            "name": "Oyvind Odegaard",
             "propoints": 1
         },
         {

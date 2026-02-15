@@ -8,29 +8,73 @@
     ],
     "medium": "Tabletop",
     "id": "nationals-mexico-2010",
-    "location": "Queretaro, Mexico",
+    "location": "Querétaro, Mexico",
     "logo": "nationals",
     "name": "Nationals Mexico 2010",
     "standings": [
         {
+            "name": "Marcelino Freeman",
+            "propoints": 10
+        },
+        {
             "name": "Mario Alejandro Flores Silva",
-            "rank": 2,
             "propoints": 8
         },
         {
             "name": "Christian Delia Sanchez",
-            "rank": 3,
             "propoints": 6
         },
         {
             "name": "Adad Quintero",
-            "rank": 4,
             "propoints": 6
         },
         {
             "name": "Gerardo Godinez Estrada",
-            "rank": 5,
             "propoints": 4
+        },
+        {
+            "name": "Archibal Sanchez Peralta",
+            "propoints": 4
+        },
+        {
+            "name": "Carlos Martinez Silhy",
+            "propoints": 4
+        },
+        {
+            "name": "Alfredo Chavez",
+            "propoints": 4
+        },
+        {
+            "name": "Jesus Solano",
+            "propoints": 2
+        },
+        {
+            "name": "Jose Luis Nolacea Lopez",
+            "propoints": 2
+        },
+        {
+            "name": "Tony Lin",
+            "propoints": 2
+        },
+        {
+            "name": "Joel de Santos",
+            "propoints": 2
+        },
+        {
+            "name": "Vicente Ruiz Carrera",
+            "propoints": 1
+        },
+        {
+            "name": "Cesar Olvera Castellanos",
+            "propoints": 1
+        },
+        {
+            "name": "Miguel Cortes Tiscareno",
+            "propoints": 1
+        },
+        {
+            "name": "Juan Vazquez",
+            "propoints": 1
         }
     ],
     "teamsize": 1   

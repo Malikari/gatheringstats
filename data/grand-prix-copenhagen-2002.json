@@ -1,7 +1,8 @@
 {
     "type": "Grand Prix",
-    "coverage": "https://magic.wizards.com/en/events/coverage/gpcop02",
+    "coverage": "https://web.archive.org/web/20021021122004/http://www.wizards.com/default.asp?x=sideboard/events/gpcop02",
     "date": "October 12-13, 2002",
+    "season": "2002-03",
     "formats": [
         "Sealed Deck",
         "Rochester Draft"
@@ -79,8 +80,8 @@
             "propoints": 2
         },
         {
-            "money": 500,
-            "name": "Mats Högdahl",
+            "money": 2000,
+            "name": "Mats Hoegdahl",
             "propoints": 2
         },
         {
@@ -104,12 +105,12 @@
             "propoints": 1
         },
         {
-            "money": 250,
-            "name": "René Appel",
+            "money": 1250,
+            "name": "Rene Appel",
             "propoints": 1
         },
         {
-            "money": 250,
+            "money": 950,
             "name": "Daniel Eriksson",
             "propoints": 1
         },
@@ -124,7 +125,7 @@
             "propoints": 1
         },
         {
-            "money": 250,
+            "money": 950,
             "name": "Marko Ukskoski",
             "propoints": 1
         },
@@ -169,9 +170,69 @@
             "propoints": 1
         },
         {
-            "money": 250,
+            "money": 650,
             "name": "Mikael Polgary",
             "propoints": 1
+        },
+        {
+            "money": 400,
+            "name": "Andre Olsson",
+            "rank": 37
+        },
+        {
+            "money": 400,
+            "name": "Andreas Behrens",
+            "rank": 38
+        },
+        {
+            "money": 400,
+            "name": "Tuomas Vanhanen",
+            "rank": 40
+        },
+        {
+            "money": 250,
+            "name": "Kim Robin Lund",
+            "rank": 43
+        },
+        {
+            "money": 250,
+            "name": "Marcus Lagerstroem",
+            "rank": 45
+        },
+        {
+            "money": 250,
+            "name": "Stefan Petersen",
+            "rank": 46
+        },
+        {
+            "money": 250,
+            "name": "Markus Kolb",
+            "rank": 47
+        },
+        {
+            "money": 250,
+            "name": "No Netterstroem",
+            "rank": 50
+        },
+        {
+            "money": 250,
+            "name": "Sami Liukka",
+            "rank": 51
+        },
+        {
+            "money": 250,
+            "name": "Pascal Hilker",
+            "rank": 54
+        },
+        {
+            "money": 250,
+            "name": "Alexander Olsen",
+            "rank": 55
+        },
+        {
+            "name": "Tiago Chan",
+            "rank": 93,
+            "report": "https://web.archive.org/web/20021223012213/http://www.portalmtg.com/reports/report118.htm"
         }
     ],
     "teamsize": 1

@@ -2,6 +2,7 @@
     "type": "Grand Prix",
     "coverage": "https://magic.wizards.com/en/events/coverage/gpmem99",
     "date": "September 18-19, 1999",
+    "season": "1999-2000",
     "formats": [
         "Block Constructed"
     ],
@@ -44,12 +45,45 @@
         {
             "money": 800,
             "name": "Ric Watts",
-            "propoints": 3
+            "propoints": 3,
+            "report": "https://web.archive.org/web/19991009092307/http://www.thedojo.com/t992/ptq.990924rwa.shtml"
         },
         {
             "money": 800,
             "name": "Matthew Rauseo",
             "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Ron Sutton",
+            "propoints": 1,
+            "rank": 30
+        },
+        {
+            "money": 400,
+            "name": "Reginald Carlton James",
+            "propoints": 1,
+            "rank": 31
+        },
+        {
+            "money": 300,
+            "name": "Samuel Jarod Burt",
+            "rank": "P"
+        },
+        {
+            "money": 200,
+            "name": "Brent George",
+            "rank": "P"
+        },
+        {
+            "money": 100,
+            "name": "Roberth Markstrom",
+            "rank": "P"
+        },
+        {
+            "name": "Bill Melvin",
+            "rank": 56,
+            "report": "https://web.archive.org/web/20000118102428/http://www.thedojo.com/t992/ptq.990927bme.shtml"
         }
     ],
     "teamsize": 1

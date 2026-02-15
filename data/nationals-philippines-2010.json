@@ -1,5 +1,6 @@
 {
     "type": "Nationals - Philippines",
+    "coverage": "https://web.archive.org/web/20111013134400/http://www.neutralgrounds.net/index.php/post/index/256",
     "date": "August 28-29, 2010",
     "season": "2010",
     "formats": [
@@ -13,23 +14,36 @@
     "name": "Nationals Philippines 2010",
     "standings": [
         {
+            "name": "Caesar Famorcan",
+            "propoints": 10,
+            "deck": "hHIAMrT6UU6SUnczHh5u-Q"
+        },
+        {
             "name": "Rommel Asiong",
-            "rank": 2,
             "propoints": 8
         },
         {
             "name": "Jan Ang",
-            "rank": 3,
             "propoints": 6
         },
         {
             "name": "Christian Joseph Lim",
-            "rank": 4,
             "propoints": 6
         },
         {
             "name": "Joselito Alberto Jamir",
-            "rank": 5,
+            "propoints": 4
+        },
+        {
+            "name": "Francis Robert Profeta",
+            "propoints": 4
+        },
+        {
+            "name": "Jastin Macalalad",
+            "propoints": 4
+        },
+        {
+            "name": "Jan Vincent Tan",
             "propoints": 4
         }
     ],

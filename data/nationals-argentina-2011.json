@@ -1,5 +1,6 @@
 {
     "type": "Nationals - Argentina",
+    "coverage": "https://web.archive.org/web/20170621012207/http://tcdecks.net/deck.php?id=6728",
     "date": "August 20-21, 2011",
     "season": "2011",
     "formats": [
@@ -14,7 +15,8 @@
     "standings": [
         {
             "name": "Nicolas de Nicola",
-            "propoints": 10
+            "propoints": 10,
+            "deck": "jJ9LxxkMnkmydrXcHB0CYw"
         },
         {
             "name": "Juan Pablo Alcalde",
@@ -29,12 +31,59 @@
             "propoints": 6
         },
         {
+            "name": "Leonardo Calcagno",
+            "propoints": 4
+        },
+        {
+            "name": "Martin Quiroga",
+            "propoints": 4
+        },
+        {
+            "name": "Esteban Moschini",
+            "propoints": 4
+        },
+        {
+            "name": "Luis Salvatto",
+            "propoints": 4
+        },
+        {
             "name": "Pedro de Diego",
-            "rank": 9
+            "propoints": 2
+        },
+        {
+            "name": "Bruno Lombardelli",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Enzo Hernan Cabrera",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Jorge Rafael",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Damian Buckley",
+            "rank": "13-16",
+            "propoints": 1
         },
         {
             "name": "Alejo Zagalsky",
-            "rank": 14
+            "rank": 14,
+            "propoints": 1
+        },
+        {
+            "name": "Pablo Olejavetzsky",
+            "rank": "13-16",
+            "propoints": 1
+        },
+        {
+            "name": "Patricio Mariscal",
+            "rank": "13-16",
+            "propoints": 1
         }
     ],
     "teamsize": 1

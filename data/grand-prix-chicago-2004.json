@@ -1,7 +1,8 @@
 {
     "type": "Grand Prix",
-    "coverage": "https://magic.wizards.com/en/events/coverage/gpchi04",
+    "coverage": "https://web.archive.org/web/20041227191512/http://www.wizards.com/default.asp?x=mtgevent/gpchic04/welcome",
     "date": "December 18-19, 2004",
+    "season": "2005",
     "formats": [
         "Team Sealed",
         "Team Rochester"
@@ -191,6 +192,78 @@
             "money": 200,
             "name": "Eugene Harvey",
             "propoints": 1
+        },
+        {
+            "money": 500,
+            "name": "Greg Lowe"
+        },
+        {
+            "money": 500,
+            "name": "Johnny Adkins"
+        },
+        {
+            "money": 500,
+            "name": "Carl McCormick"
+        },
+        {
+            "money": 416,
+            "name": "Jimmie Linville",
+            "rank": 15
+        },
+        {
+            "money": 416,
+            "name": "Seth Hellenbrand",
+            "rank": 15
+        },
+        {
+            "money": 416,
+            "name": "Corey Carlson",
+            "rank": 15
+        },
+        {
+            "money": 333,
+            "name": "Kevin Dulin",
+            "rank": 17
+        },
+        {
+            "money": 333,
+            "name": "Joshua Hastings",
+            "rank": 17
+        },
+        {
+            "money": 333,
+            "name": "Jason O'Rourke",
+            "rank": 17
+        },
+        {
+            "money": 250,
+            "name": "John Parks",
+            "rank": 18
+        },
+        {
+            "money": 250,
+            "name": "Jason Bush",
+            "rank": 18
+        },
+        {
+            "money": 250,
+            "name": "Larry Waymon",
+            "rank": 18
+        },
+        {
+            "money": 166,
+            "name": "Fish Food one",
+            "rank": 21
+        },
+        {
+            "money": 166,
+            "name": "Fish Food two",
+            "rank": 21
+        },
+        {
+            "money": 166,
+            "name": "Fish Food three",
+            "rank": 21
         }
     ],
     "teamsize": 3

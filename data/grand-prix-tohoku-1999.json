@@ -2,6 +2,7 @@
     "type": "Grand Prix",
     "coverage": "https://magic.wizards.com/en/events/coverage/gptoh99",
     "date": "September 11-12, 1999",
+    "season": "1999-2000",
     "formats": [
         "Sealed Deck",
         "Booster Draft"
@@ -51,6 +52,30 @@
             "money": 800,
             "name": "Yuichi Taguchi",
             "propoints": 3
+        },
+        {
+            "money": 500,
+            "name": "Hideki Ando",
+            "propoints": 1,
+            "rank": 17
+        },
+        {
+            "money": 400,
+            "name": "Masaki Narumiya",
+            "propoints": 1,
+            "rank": 18
+        },
+        {
+            "money": 300,
+            "name": "Kazufumi Abe",
+            "propoints": 1,
+            "rank": 19
+        },
+        {
+            "money": 200,
+            "name": "Nobuaki Miyagawa",
+            "propoints": 1,
+            "rank": 29
         }
     ],
     "teamsize": 1

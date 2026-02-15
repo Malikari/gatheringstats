@@ -1,6 +1,7 @@
 {
     "type": "Nationals - Mexico",
     "date": "June 12-13, 2004",
+    "season": "2003-04",
     "formats": [
         "Standard",
         "Booster Draft"
@@ -13,7 +14,8 @@
     "standings": [
         {
             "name": "Enric Rodamilans",
-            "money": 1700
+            "money": 1700,
+            "deck": "JmAtVlyWsEumoJThayJZuQ"
         },
         {
             "name": "Luis Ramos",
@@ -34,6 +36,14 @@
         {
             "name": "Abraham Sosa",
             "money": 350
+        },
+        {
+            "name": "Ivan Cortes",
+            "money": 250
+        },
+        {
+            "name": "Juan Francisco Chavez Licona",
+            "money": 250
         }
     ],
     "teamsize": 1

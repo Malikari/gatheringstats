@@ -1,108 +1,827 @@
 {
-    "type": "Regional Championship",
-    "coverage": "https://magic.gg/events/champions-cup-japan-and-korea-tokoname",
-    "date": "November 26-27, 2022",
-    "season": "2022-23",
-    "formats": [
-        "Pioneer"
-    ],
-    "medium": "Tabletop",
-    "id": "regional-championship-tokoname-2022",
-    "location": "Tokoname, Japan",
-    "logo": "mtg-yellow",
-    "name": "Champions Cup Japan and Korea: Tokoname",
-    "standings": [
-        {
-            "money": 8800,
-            "name": "Rei Hirayama",
-            "matchpoints": 29
-        },
-        {
-            "money": 3600,
-            "name": "Kyosuke Kyogoku",
-            "matchpoints": 27
-        },
-        {
-            "money": 2400,
-            "name": "Shota Yasooka",
-            "matchpoints": 29
-        },
-        {
-            "money": 2400,
-            "name": "Ryuji Murae",
-            "matchpoints": 28
-        },
-        {
-            "money": 1200,
-            "name": "Shuhei Nakamura",
-            "matchpoints": 30
-        },
-        {
-            "money": 1200,
-            "name": "Kenji Sego",
-            "matchpoints": 28
-        },
-        {
-            "money": 1200,
-            "name": "Kazuya Kiyofuji",
-            "matchpoints": 27
-        },
-        {
-            "money": 1200,
-            "name": "Toru Kono",
-            "matchpoints": 27
-        },
-        {
-            "money": 800,
-            "name": "Yoshihiko Ikawa",
-            "matchpoints": 26
-        },
-        {
-            "money": 800,
-            "name": "Riki Kamo",
-            "matchpoints": 26
-        },
-        {
-            "money": 800,
-            "name": "Tomoaki Ogasawara",
-            "matchpoints": 25
-        },
-        {
-            "money": 800,
-            "name": "Hidenari Ikeda",
-            "matchpoints": 25
-        },
-        {
-            "money": 800,
-            "name": "Riku Kumagai",
-            "matchpoints": 25
-        },
-        {
-            "money": 800,
-            "name": "Takumi Matsuura",
-            "matchpoints": 25
-        },
-        {
-            "money": 800,
-            "name": "Kazuhiro Kamata",
-            "matchpoints": 25
-        },
-        {
-            "money": 800,
-            "name": "Yuuji Ida",
-            "matchpoints": 25
-        },
-        {
-            "money": 800,
-            "name": "Keisuke Ebitani",
-            "matchpoints": 25
-        },
-        {
-            "money": 800,
-            "name": "Yoshiro Mikami",
-            "matchpoints": 25
-        }
-    ],
-    "teamsize": 1
-    
+  "type": "Regional Championship",
+  "coverage": "https://magic.gg/events/champions-cup-japan-and-korea-tokoname",
+  "date": "November 26-27, 2022",
+  "season": "2022-23",
+  "formats": [
+    "Pioneer"
+  ],
+  "medium": "Tabletop",
+  "id": "regional-championship-tokoname-2022",
+  "location": "Tokoname, Japan",
+  "logo": "mtg-yellow",
+  "name": "Champions Cup Japan and Korea: Tokoname",
+  "standings": [
+    {
+      "money": 8800,
+      "name": "Rei Hirayama",
+      "matchpoints": 29
+    },
+    {
+      "money": 3600,
+      "name": "Kyosuke Kyogoku",
+      "matchpoints": 27
+    },
+    {
+      "money": 2400,
+      "name": "Shota Yasooka",
+      "matchpoints": 29
+    },
+    {
+      "money": 2400,
+      "name": "Ryuji Murae",
+      "matchpoints": 28
+    },
+    {
+      "money": 1200,
+      "name": "Shuhei Nakamura",
+      "matchpoints": 30
+    },
+    {
+      "money": 1200,
+      "name": "Kenji Sego",
+      "matchpoints": 28
+    },
+    {
+      "money": 1200,
+      "name": "Kazuya Kiyofuji",
+      "matchpoints": 27
+    },
+    {
+      "money": 1200,
+      "name": "Toru Kono",
+      "matchpoints": 27
+    },
+    {
+      "money": 800,
+      "name": "Yoshihiko Ikawa",
+      "matchpoints": 26
+    },
+    {
+      "money": 800,
+      "name": "Riki Kamo",
+      "matchpoints": 26
+    },
+    {
+      "money": 800,
+      "name": "Tomoaki Ogasawara",
+      "matchpoints": 25
+    },
+    {
+      "money": 800,
+      "name": "Hidenari Ikeda",
+      "matchpoints": 25
+    },
+    {
+      "money": 800,
+      "name": "Riku Kumagai",
+      "matchpoints": 25
+    },
+    {
+      "money": 800,
+      "name": "Takumi Matsuura",
+      "matchpoints": 25
+    },
+    {
+      "money": 800,
+      "name": "Kazuhiro Kamata",
+      "matchpoints": 25
+    },
+    {
+      "money": 800,
+      "name": "Yuuji Ida",
+      "matchpoints": 25
+    },
+    {
+      "money": 800,
+      "name": "Keisuke Ebitani",
+      "matchpoints": 25
+    },
+    {
+      "money": 800,
+      "name": "Yoshiro Mikami",
+      "matchpoints": 25
+    },
+    {
+      "name": "Hayato Hashizume",
+      "matchpoints": 24
+    },
+    {
+      "name": "Shogo Kondo",
+      "matchpoints": 24
+    },
+    {
+      "name": "Kouichi Ishiwata",
+      "matchpoints": 24
+    },
+    {
+      "name": "Kenta Masukado",
+      "matchpoints": 24
+    },
+    {
+      "name": "Taiga Tsujikawa",
+      "matchpoints": 24
+    },
+    {
+      "name": "Takumi Utsunomiya",
+      "matchpoints": 24
+    },
+    {
+      "name": "Kazuki Yada",
+      "matchpoints": 24
+    },
+    {
+      "name": "Yosuke Oka",
+      "matchpoints": 24
+    },
+    {
+      "name": "Takeshi Ozawa",
+      "matchpoints": 24
+    },
+    {
+      "name": "Yoshiki Yamashita",
+      "matchpoints": 22
+    },
+    {
+      "name": "Marei Okamura",
+      "matchpoints": 22
+    },
+    {
+      "name": "Onoda Kenji",
+      "matchpoints": 22
+    },
+    {
+      "name": "Koki Kondo",
+      "matchpoints": 22
+    },
+    {
+      "name": "Shintarou Yoshida",
+      "matchpoints": 21
+    },
+    {
+      "name": "Keisuke Sato",
+      "matchpoints": 21
+    },
+    {
+      "name": "Tomoya Tsubouchi",
+      "matchpoints": 21
+    },
+    {
+      "name": "Yuuki Ichikawa",
+      "matchpoints": 21
+    },
+    {
+      "name": "Masataka Hori",
+      "matchpoints": 21
+    },
+    {
+      "name": "Akira Homma",
+      "matchpoints": 21
+    },
+    {
+      "name": "Satoshi Nakayama",
+      "matchpoints": 21
+    },
+    {
+      "name": "Hiromu Kato",
+      "matchpoints": 21
+    },
+    {
+      "name": "Takeshi Kuwabara",
+      "matchpoints": 21
+    },
+    {
+      "name": "Ryohei Kobayashi",
+      "matchpoints": 21
+    },
+    {
+      "name": "Shou Yoshimori",
+      "matchpoints": 21
+    },
+    {
+      "name": "Kai Takeo",
+      "matchpoints": 20
+    },
+    {
+      "name": "Geon-Wook Park",
+      "matchpoints": 20
+    },
+    {
+      "name": "Kazuhiro Noine",
+      "matchpoints": 19
+    },
+    {
+      "name": "Hiroki Miyata",
+      "matchpoints": 18
+    },
+    {
+      "name": "Kouichi Miyabe",
+      "matchpoints": 18
+    },
+    {
+      "name": "Ken'ichirou Omori",
+      "matchpoints": 18
+    },
+    {
+      "name": "Ryouji Hirokawa",
+      "matchpoints": 18
+    },
+    {
+      "name": "Ryutaro Tomita",
+      "matchpoints": 18
+    },
+    {
+      "name": "Masakuni Hamaguchi",
+      "matchpoints": 18
+    },
+    {
+      "name": "Akira Kobayashi",
+      "matchpoints": 18
+    },
+    {
+      "name": "Atsushi Hasegawa",
+      "matchpoints": 18
+    },
+    {
+      "name": "Takashi Inui",
+      "matchpoints": 18
+    },
+    {
+      "name": "Tomohiro Matsumoto",
+      "matchpoints": 18
+    },
+    {
+      "name": "Hikaru Ishikawa",
+      "matchpoints": 16
+    },
+    {
+      "name": "Hayao Suzuki",
+      "matchpoints": 16
+    },
+    {
+      "name": "Shun Asano",
+      "matchpoints": 15
+    },
+    {
+      "name": "Rintaro Honda",
+      "matchpoints": 15
+    },
+    {
+      "name": "Kazune Kosaka",
+      "matchpoints": 15
+    },
+    {
+      "name": "Yu Tanaka",
+      "matchpoints": 13
+    },
+    {
+      "name": "Toru Inoue",
+      "matchpoints": 13
+    },
+    {
+      "name": "Naoya Sakata",
+      "matchpoints": 12
+    },
+    {
+      "name": "Tomoya Umetsubo",
+      "matchpoints": 12
+    },
+    {
+      "name": "Yuuta Katou",
+      "matchpoints": 12
+    },
+    {
+      "name": "Shohei Kiyota",
+      "matchpoints": 12
+    },
+    {
+      "name": "Kim Jeongheon",
+      "matchpoints": 12
+    },
+    {
+      "name": "Yusuke Maeda",
+      "matchpoints": 12
+    },
+    {
+      "name": "Do Hyung Kim",
+      "matchpoints": 12
+    },
+    {
+      "name": "Yoshinobu Satou",
+      "matchpoints": 12
+    },
+    {
+      "name": "Hiroki Nagase",
+      "matchpoints": 12
+    },
+    {
+      "name": "Jaeseok Cho",
+      "matchpoints": 12
+    },
+    {
+      "name": "Naoto Yamane",
+      "matchpoints": 12
+    },
+    {
+      "name": "Hideyuki Ichikawa",
+      "matchpoints": 12
+    },
+    {
+      "name": "Tomohito Otsuka",
+      "matchpoints": 12
+    },
+    {
+      "name": "Masamichi Takahashi",
+      "matchpoints": 12
+    },
+    {
+      "name": "Atsuki Kihara",
+      "matchpoints": 12
+    },
+    {
+      "name": "Sangjoon Kong",
+      "matchpoints": 12
+    },
+    {
+      "name": "Hiroki Yamagata",
+      "matchpoints": 12
+    },
+    {
+      "name": "Yuma Tanimura",
+      "matchpoints": 12
+    },
+    {
+      "name": "Daisuke Watanabe",
+      "matchpoints": 12
+    },
+    {
+      "name": "Takashi Sugimoto",
+      "matchpoints": 12
+    },
+    {
+      "name": "Yuta Takahashi",
+      "matchpoints": 12
+    },
+    {
+      "name": "Kazuki Kawata",
+      "matchpoints": 12
+    },
+    {
+      "name": "Kazuki Tatta",
+      "matchpoints": 12
+    },
+    {
+      "name": "Naoto Shimizu",
+      "matchpoints": 12
+    },
+    {
+      "name": "Toru Horie",
+      "matchpoints": 12
+    },
+    {
+      "name": "Tsuyoshi Nakamura",
+      "matchpoints": 12
+    },
+    {
+      "name": "Kazuya Murakami",
+      "matchpoints": 12
+    },
+    {
+      "name": "Tatsuumi Kobayashi",
+      "matchpoints": 10
+    },
+    {
+      "name": "Daisuke Nakamichi",
+      "matchpoints": 10
+    },
+    {
+      "name": "Hideaki Muraoka",
+      "matchpoints": 10
+    },
+    {
+      "name": "Sun SiHong",
+      "matchpoints": 10
+    },
+    {
+      "name": "Yuu Fukudome",
+      "matchpoints": 10
+    },
+    {
+      "name": "Makihito Mihara",
+      "matchpoints": 10
+    },
+    {
+      "name": "Hideki Yoshioka",
+      "matchpoints": 9
+    },
+    {
+      "name": "Naohito Tanaka",
+      "matchpoints": 9
+    },
+    {
+      "name": "Hyun-Jung Bang",
+      "matchpoints": 9
+    },
+    {
+      "name": "Atsushi Ushio",
+      "matchpoints": 9
+    },
+    {
+      "name": "Wongill Park",
+      "matchpoints": 9
+    },
+    {
+      "name": "Kazuma Isogami",
+      "matchpoints": 9
+    },
+    {
+      "name": "Atsuo Honda",
+      "matchpoints": 9
+    },
+    {
+      "name": "Horiuchi Makoto",
+      "matchpoints": 9
+    },
+    {
+      "name": "Toshihiro Saida",
+      "matchpoints": 9
+    },
+    {
+      "name": "Kenji Ishikawa",
+      "matchpoints": 9
+    },
+    {
+      "name": "Toru Motoya",
+      "matchpoints": 9
+    },
+    {
+      "name": "Noriyuki Mori",
+      "matchpoints": 9
+    },
+    {
+      "name": "Yuuki Usuzawa",
+      "matchpoints": 9
+    },
+    {
+      "name": "Tomoki Nakai",
+      "matchpoints": 9
+    },
+    {
+      "name": "Yuta Funabashi",
+      "matchpoints": 9
+    },
+    {
+      "name": "Lee Jinsoo",
+      "matchpoints": 9
+    },
+    {
+      "name": "Hyeon Seong Jo",
+      "matchpoints": 9
+    },
+    {
+      "name": "Ryo Takahashi",
+      "matchpoints": 9
+    },
+    {
+      "name": "Shunsuke Sugizaki",
+      "matchpoints": 9
+    },
+    {
+      "name": "Masanari Fukasawa",
+      "matchpoints": 9
+    },
+    {
+      "name": "Yoshifumi Karatsu",
+      "matchpoints": 9
+    },
+    {
+      "name": "Yoshinori Hashimoto",
+      "matchpoints": 9
+    },
+    {
+      "name": "Yuki Kawashima",
+      "matchpoints": 9
+    },
+    {
+      "name": "Toshikazu Matsumura",
+      "matchpoints": 9
+    },
+    {
+      "name": "Tomoyasu Nishio",
+      "matchpoints": 9
+    },
+    {
+      "name": "Motohiro Suzuki",
+      "matchpoints": 9
+    },
+    {
+      "name": "Masahide Moriyama",
+      "matchpoints": 9
+    },
+    {
+      "name": "Ken Yukuhiro",
+      "matchpoints": 9
+    },
+    {
+      "name": "Masaya Nagata",
+      "matchpoints": 9
+    },
+    {
+      "name": "Chan Park",
+      "matchpoints": 9
+    },
+    {
+      "name": "Yuusuke Kio",
+      "matchpoints": 9
+    },
+    {
+      "name": "Youkou Kubota",
+      "matchpoints": 9
+    },
+    {
+      "name": "Kento Shiina",
+      "matchpoints": 7
+    },
+    {
+      "name": "Yoshihiko Tokuyama",
+      "matchpoints": 6
+    },
+    {
+      "name": "Naohiko Adachi",
+      "matchpoints": 6
+    },
+    {
+      "name": "Eisuke Kubo",
+      "matchpoints": 6
+    },
+    {
+      "name": "Hyun-Kyu Kim",
+      "matchpoints": 6
+    },
+    {
+      "name": "Ryosuke Ine",
+      "matchpoints": 6
+    },
+    {
+      "name": "Akinori Hishida",
+      "matchpoints": 6
+    },
+    {
+      "name": "Takahiro Uemoto",
+      "matchpoints": 6
+    },
+    {
+      "name": "Kazuhiro Nakamura",
+      "matchpoints": 6
+    },
+    {
+      "name": "Koutarou Yamaguchi",
+      "matchpoints": 6
+    },
+    {
+      "name": "Kyohei Murayama",
+      "matchpoints": 6
+    },
+    {
+      "name": "Go Kondo",
+      "matchpoints": 6
+    },
+    {
+      "name": "No-Ah Ma",
+      "matchpoints": 6
+    },
+    {
+      "name": "Rei Sato",
+      "matchpoints": 6
+    },
+    {
+      "name": "Kensuke Tanji",
+      "matchpoints": 6
+    },
+    {
+      "name": "Yushi Uzuki",
+      "matchpoints": 6
+    },
+    {
+      "name": "Yasuo Matsui",
+      "matchpoints": 6
+    },
+    {
+      "name": "Yuki Matsuda",
+      "matchpoints": 6
+    },
+    {
+      "name": "Hisamichi Yoshigoe",
+      "matchpoints": 6
+    },
+    {
+      "name": "Keisuke Naitou",
+      "matchpoints": 6
+    },
+    {
+      "name": "Shunsuke Sato",
+      "matchpoints": 6
+    },
+    {
+      "name": "Koki Nakamura",
+      "matchpoints": 6
+    },
+    {
+      "name": "Hidekazu Maki",
+      "matchpoints": 6
+    },
+    {
+      "name": "Yuuki Sasaki",
+      "matchpoints": 6
+    },
+    {
+      "name": "Gohki Yokomizo",
+      "matchpoints": 6
+    },
+    {
+      "name": "Souta Nakamura",
+      "matchpoints": 6
+    },
+    {
+      "name": "Toru Saito",
+      "matchpoints": 6
+    },
+    {
+      "name": "Manabu Fujiyoshi",
+      "matchpoints": 6
+    },
+    {
+      "name": "Atsushi Nakashima",
+      "matchpoints": 6
+    },
+    {
+      "name": "Sejeong Cho",
+      "matchpoints": 6
+    },
+    {
+      "name": "Hiroyuki Ishii",
+      "matchpoints": 6
+    },
+    {
+      "name": "Kouta Kanno",
+      "matchpoints": 6
+    },
+    {
+      "name": "Yamato Hannya",
+      "matchpoints": 6
+    },
+    {
+      "name": "Kosuke Homma",
+      "matchpoints": 6
+    },
+    {
+      "name": "Tetsushi Sawada",
+      "matchpoints": 3
+    },
+    {
+      "name": "Hiroyuki Kaga",
+      "matchpoints": 3
+    },
+    {
+      "name": "Yuta Yokokawa",
+      "matchpoints": 3
+    },
+    {
+      "name": "Ga-Ram Jeong",
+      "matchpoints": 3
+    },
+    {
+      "name": "Kouki Hara",
+      "matchpoints": 3
+    },
+    {
+      "name": "Yuichiro Shirakawa",
+      "matchpoints": 3
+    },
+    {
+      "name": "Yuki Tsutsui",
+      "matchpoints": 3
+    },
+    {
+      "name": "Zhi Jie Foo",
+      "matchpoints": 3
+    },
+    {
+      "name": "Mizuki Fujiwara",
+      "matchpoints": 3
+    },
+    {
+      "name": "Keita Kawasaki",
+      "matchpoints": 3
+    },
+    {
+      "name": "Yojiro Futamata",
+      "matchpoints": 3
+    },
+    {
+      "name": "Masayasu Tanahashi",
+      "matchpoints": 3
+    },
+    {
+      "name": "Daisuke Sekiya",
+      "matchpoints": 3
+    },
+    {
+      "name": "Sho Kamezaki",
+      "matchpoints": 3
+    },
+    {
+      "name": "Nobuaki Jinba",
+      "matchpoints": 3
+    },
+    {
+      "name": "Hirotaka Kawasaki",
+      "matchpoints": 3
+    },
+    {
+      "name": "Hiroyuki Kai",
+      "matchpoints": 3
+    },
+    {
+      "name": "Hajime Kagami",
+      "matchpoints": 3
+    },
+    {
+      "name": "Takuya Kurosawa",
+      "matchpoints": 3
+    },
+    {
+      "name": "Takeshi Miyawaki",
+      "matchpoints": 3
+    },
+    {
+      "name": "Hyun-Woo Jeong",
+      "matchpoints": 3
+    },
+    {
+      "name": "Junichi Takayama",
+      "matchpoints": 3
+    },
+    {
+      "name": "Takeshi Senoo",
+      "matchpoints": 3
+    },
+    {
+      "name": "Yamashita Kazuki",
+      "matchpoints": 3
+    },
+    {
+      "name": "Masashiro Kuroda",
+      "matchpoints": 0
+    },
+    {
+      "name": "Daisuke Yamaguchi",
+      "matchpoints": 0
+    },
+    {
+      "name": "Kenta Harane",
+      "matchpoints": 0
+    },
+    {
+      "name": "Takuya Kasahara",
+      "matchpoints": 0
+    },
+    {
+      "name": "Yuma Koizumi",
+      "matchpoints": 0
+    },
+    {
+      "name": "Takuya Kita",
+      "matchpoints": 0
+    },
+    {
+      "name": "Jun Takahashi",
+      "matchpoints": 0
+    },
+    {
+      "name": "Sang-woong Yoon",
+      "matchpoints": 0
+    },
+    {
+      "name": "Shintaro Ishimura",
+      "matchpoints": 0
+    },
+    {
+      "name": "Yohei Nomiya",
+      "matchpoints": 0
+    },
+    {
+      "name": "Tomoya Kobayashi",
+      "matchpoints": 0
+    },
+    {
+      "name": "Yuki Usui",
+      "matchpoints": 0
+    },
+    {
+      "name": "Ryou Kasuga",
+      "matchpoints": 0
+    }
+  ],
+  "teamsize": 1
 }

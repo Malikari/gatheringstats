@@ -2,6 +2,7 @@
     "type": "Women's Invitational",
     "coverage": "https://www.leslie-turek.com/NYPT/NYPT.html",
     "date": "April 12, 2000",
+    "season": "1999-2000",
     "formats": [
         "Constructed",
         "Booster Draft"
@@ -19,27 +20,33 @@
             "name": "Michelle Bush"
         },
         {
+            "name": "Lauren Passmore",
+            "matchpoints": 12,
+            "rank": "P",
+            "report": "https://web.archive.org/web/20031223125423/http://newwave.org/strategy/articles/apr00/femaleinvitational/reports/laurenpassmore.html"
+        },
+        {
             "name": "Alice Coggins",
-            "rank": "P"
+            "matchpoints": 12,
+            "rank": "P",
+            "report": "https://web.archive.org/web/20031223125129/http://newwave.org/strategy/articles/apr00/femaleinvitational/reports/alicecoggins.html"
         },
         {
             "name": "Laurie Dunning",
-            "rank": "P"
-        },
-        {
-            "name": "Rebecca Hiebert",
-            "rank": "P"
+            "rank": "P",
+            "report": "https://web.archive.org/web/20040215054526/http://www.newwave.org/strategy/articles/apr00/femaleinvitational/reports/lauriedunning.html"
         },
         {
             "name": "Sonia Oliveira",
             "rank": "P"
         },
         {
-            "name": "Lauren Passmore",
-            "rank": "P"
+            "name": "Marie-Laure Saulnier"
         },
         {
-            "name": "Marie-Laure Saulnier"
+            "name": "Rebecca Hiebert",
+            "matchpoints": 0,
+            "report": "https://web.archive.org/web/20040215054704/http://www.newwave.org/strategy/articles/apr00/femaleinvitational/reports/rebeccahiebert.html"
         }
     ],
     "teamsize": 1,

@@ -1,5 +1,6 @@
-{
+    {
     "type": "Nationals - Denmark",
+    "coverage": "https://www.danskmagic.com/artiklar/index.php?ID=748",
     "date": "July 18-19, 2009",
     "season": "2009",
     "formats": [
@@ -14,7 +15,8 @@
     "standings": [
         {
             "name": "Thomas Enevoldsen",
-            "propoints": 10
+            "propoints": 10,
+            "deck": "4uTKuBNh5EmMvz_3WIO8SA"
         },
         {
             "name": "Kenneth Hansen",
@@ -33,7 +35,7 @@
             "propoints": 4
         },
         {
-            "name": "Lasse Nørgaard",
+            "name": "Lasse Norgaard",
             "propoints": 4
         },
         {
@@ -43,6 +45,38 @@
         {
             "name": "Andreas Vigen",
             "propoints": 4
+        },
+        {
+            "name": "Morten Winterø",
+            "propoints": 2
+        },
+        {
+            "name": "Yan Knudtskov Nielsen",
+            "propoints": 2
+        },
+        {
+            "name": "Karl-Emil Drenck",
+            "propoints": 2
+        },
+        {
+            "name": "Janus Kofoed",
+            "propoints": 2
+        },
+        {
+            "name": "Niels Christian Bonde",
+            "propoints": 1
+        },
+        {
+            "name": "Rasmus Sibast",
+            "propoints": 1
+        },
+        {
+            "name": "Janus Bossow",
+            "propoints": 1
+        },
+        {
+            "name": "Anders Kaag",
+            "propoints": 1
         }
     ],
     "teamsize": 1

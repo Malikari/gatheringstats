@@ -2,6 +2,7 @@
     "type": "Nationals - Belgium",
     "report": "https://magic.wizards.com/en/articles/archive/week-was/belgium-and-argentina-nationals-2008-09-11",
     "date": "September 5-6, 2008",
+    "season": "2008",
     "formats": [
         "Standard",
         "Booster Draft"
@@ -48,7 +49,47 @@
         {
             "name": "Bram Meulders",
             "propoints": 4
-        }   
+        },
+        {
+            "name": "Marijn Lybaert",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Pavlos Akritas",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Tim Pillards",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Steven van Wortswinkel",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Tom de Wael",
+            "rank": "13-16",
+            "propoints": 1
+        },
+        {
+            "name": "Julien Bernard",
+            "rank": "13-16",
+            "propoints": 1
+        },
+        {
+            "name": "Jan de Coster",
+            "rank": "13-16",
+            "propoints": 1
+        },
+        {
+            "name": "Jean Philippe Skocek",
+            "rank": "13-16",
+            "propoints": 1
+        }
     ],
     "teamsize": 1
 }

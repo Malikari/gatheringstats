@@ -1,6 +1,7 @@
 {
     "type": "Nationals - New Zealand",
     "date": "July 3-4, 2004",
+    "season": "2003-04",
     "formats": [
         "Standard",
         "Booster Draft"
@@ -16,10 +17,12 @@
             "money": 1600
         },
         {
-            "name": "Roger Miller"
+            "name": "Roger Miller",
+            "money": 1100
         },
         {
-            "name": "James White"
+            "name": "James White",
+            "money": 800
         },
         {
             "name": "Cole Swannack",

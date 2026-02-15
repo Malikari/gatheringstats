@@ -1,6 +1,6 @@
 {
     "type": "Grand Prix",
-    "coverage": "https://magic.wizards.com/en/events/coverage/gpbos98",
+    "coverage": "https://web.archive.org/web/20031009144712/http://www.wizards.com/sideboard/article.asp?x=results/GPBOSTON98",
     "date": "September 5-6, 1998",
     "season": "1998-99",
     "formats": [
@@ -20,7 +20,8 @@
         {
             "money": 1700,
             "name": "Randy Buehler",
-            "propoints": 5
+            "propoints": 5,
+            "report": "https://classicdojo.org/t983/gp.980916rbu.html"
         },
         {
             "money": 1200,
@@ -30,7 +31,8 @@
         {
             "money": 1000,
             "name": "Zvi Mowshowitz",
-            "propoints": 4
+            "propoints": 4,
+            "report": "https://classicdojo.org/t983/gp.980907zmo.txt"
         },
         {
             "money": 800,
@@ -40,12 +42,14 @@
         {
             "money": 800,
             "name": "Mike Bregoli",
-            "propoints": 3
+            "propoints": 3,
+            "report": "https://classicdojo.org/t983/gp.980909mbr.txt"
         },
         {
             "money": 800,
             "name": "Matthew Calhoun",
-            "propoints": 3
+            "propoints": 3,
+            "report": "https://classicdojo.org/t983/gp.980908mca.txt"
         },
         {
             "money": 800,
@@ -70,7 +74,8 @@
         },
         {
             "money": 500,
-            "name": "Alex Shvartsman"
+            "name": "Alex Shvartsman",
+            "report": "https://classicdojo.org/t983/gp.980907ash.txt"
         },
         {
             "money": 500,
@@ -78,11 +83,35 @@
         },
         {
             "money": 500,
-            "name": "Dennis Leventhal"
+            "name": "Dennis Leventhal",
+            "report": "https://classicdojo.org/t983/gp.980909dle.txt"
         },
         {
             "money": 500,
             "name": "Nick Chen"
+        },
+        {
+            "money": 500,
+            "name": "William Morgan"
+        },
+        {
+            "money": 400,
+            "name": "Joel Frank"
+        },
+        {
+            "money": 300,
+            "name": "Mike Sigrist",
+            "rank": 27
+        },
+        {
+            "money": 200,
+            "name": "Eric Mason",
+            "rank": 40
+        },
+        {
+            "money": 100,
+            "name": "Michael Farrell",
+            "rank": 42
         }
     ],
     "teamsize": 1
