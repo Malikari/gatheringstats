@@ -13,29 +13,31 @@ function getPlayerStats(player, activeSeason) {
 
   if (activeSeason) {
     playerStats = {
-      total:  (player.stats.totalbyyear  && player.stats.totalbyyear[activeSeason])  || 0,
-      t1:     (player.stats.t1byyear     && player.stats.t1byyear[activeSeason])     || 0,
-      t8:     (player.stats.t8byyear     && player.stats.t8byyear[activeSeason])     || 0,
-      t16:    (player.stats.t16byyear    && player.stats.t16byyear[activeSeason])    || 0,
-      points: (player.stats.pointsbyyear && player.stats.pointsbyyear[activeSeason]) || 0,
-      amp:    (player.stats.ampbyyear    && player.stats.ampbyyear[activeSeason])    || 0,
-      poy:    (player.stats.poybyyear    && player.stats.poybyyear[activeSeason])    || 0,
-      gpt1:   (player.stats.gpt1byyear   && player.stats.gpt1byyear[activeSeason])   || 0,
-      gpt8:   (player.stats.gpt8byyear   && player.stats.gpt8byyear[activeSeason])   || 0,
-      money:  (player.stats.moneybyyear  && player.stats.moneybyyear[activeSeason])  || 0
+      total:      (player.stats.totalbyyear   && player.stats.totalbyyear[activeSeason])      || 0,
+      t1:         (player.stats.t1byyear      && player.stats.t1byyear[activeSeason])         || 0,
+      t8:         (player.stats.t8byyear      && player.stats.t8byyear[activeSeason])         || 0,
+      t16:        (player.stats.t16byyear     && player.stats.t16byyear[activeSeason])        || 0,
+      points:     (player.stats.pointsbyyear  && player.stats.pointsbyyear[activeSeason])     || 0,
+      amp:        (player.stats.ampbyyear     && player.stats.ampbyyear[activeSeason])        || 0,
+      poy:        (player.stats.poybyyear     && player.stats.poybyyear[activeSeason])        || 0,
+      gpt1:       (player.stats.gpt1byyear    && player.stats.gpt1byyear[activeSeason])       || 0,
+      gpt8:       (player.stats.gpt8byyear    && player.stats.gpt8byyear[activeSeason])       || 0,
+      money:      (player.stats.moneybyyear   && player.stats.moneybyyear[activeSeason])      || 0,
+      topfinish:  (player.stats.topfinishbyyear && player.stats.topfinishbyyear[activeSeason])  || 0
     };
   } else {
     playerStats = {
-      total:  player.stats.total,
-      t1:     player.stats.t1,
-      t8:     player.stats.t8,
-      t16:    player.stats.t16,
-      points: player.stats.points,
-      amp:    player.stats.amp,
-      poy:    player.stats.poy,
-      gpt1:   player.stats.gpt1,
-      gpt8:   player.stats.gpt8,
-      money:  player.stats.money
+      total:     player.stats.total,
+      t1:        player.stats.t1,
+      t8:        player.stats.t8,
+      t16:       player.stats.t16,
+      points:    player.stats.points,
+      amp:       player.stats.amp,
+      poy:       player.stats.poy,
+      gpt1:      player.stats.gpt1,
+      gpt8:      player.stats.gpt8,
+      money:     player.stats.money,
+      topfinish: player.stats.topfinish
     };
   }
 
@@ -55,7 +57,6 @@ const Rankings = () => {
   const preparedPlayers = _.map(window.Players, function(player) {
   var stats = getPlayerStats(player, activeSeason);
 
-  // Wichtig: nicht player mutieren, sondern neues Objekt bauen
   return Object.assign({}, player, {
     _playerStats: stats,
     _sortValue: stats[col] || 0
@@ -77,7 +78,7 @@ const Rankings = () => {
 
   const sortedPlayers = _.chain(filteredPlayers)
     .sortBy(function(player) {
-      return -player._sortValue; // Minus für descending
+      return -player._sortValue; // Minus for descending
     })
     .value();
 
@@ -137,6 +138,10 @@ const Rankings = () => {
           <tr>
             <th />
             <th>Player</th>
+            <th className="sortableHeader">
+              <Link to="/rankings/topfinish">Top Finishes</Link>
+              {col === 'topfinish' ? sortImage : null}
+            </th>
             <th className="sortableHeader">
               <Link to="/rankings/total">Total PTs</Link>
               {col === 'total' ? sortImage : null}
@@ -206,7 +211,8 @@ const Rankings = () => {
                 poy:    (player.stats.poybyyear    && player.stats.poybyyear[activeSeason])    || 0,
                 gpt1:   (player.stats.gpt1byyear   && player.stats.gpt1byyear[activeSeason])   || 0,
                 gpt8:   (player.stats.gpt8byyear   && player.stats.gpt8byyear[activeSeason])   || 0,
-                money:  (player.stats.moneybyyear  && player.stats.moneybyyear[activeSeason])  || 0
+                money:  (player.stats.moneybyyear  && player.stats.moneybyyear[activeSeason])  || 0,
+                topfinish:  (player.stats.topfinishbyyear  && player.stats.topfinishbyyear[activeSeason])  || 0
               };
             } else {
               playerStats = {
@@ -219,7 +225,8 @@ const Rankings = () => {
                 poy:    player.stats.poy,
                 gpt1:   player.stats.gpt1,
                 gpt8:   player.stats.gpt8,
-                money:  player.stats.money
+                money:  player.stats.money,
+                topfinish: player.stats.topfinish
               };
             }
 
@@ -229,6 +236,7 @@ const Rankings = () => {
                 <td>
                   <PlayerLink player={Players.byID(player.id)} />
                 </td>
+                <td>{playerStats.topfinish}</td>
                 <td>{playerStats.total}</td>
                 <td>{playerStats.t1}</td>
                 <td>{playerStats.t8}</td>

@@ -121,6 +121,7 @@ module.exports = function(grunt) {
               gptotal: 0,
               gpt1: 0,
               gpt8: 0,
+              topfinish: 0,
               moneybyyear: {},
               pointsbyyear: {},
               ampbyyear: {},
@@ -130,7 +131,8 @@ module.exports = function(grunt) {
               t8byyear: {},
               t16byyear: {},
               gpt1byyear: {},
-              gpt8byyear: {}
+              gpt8byyear: {},
+              topfinishbyyear: {}
             }
           };
         }
@@ -145,12 +147,14 @@ module.exports = function(grunt) {
           tid: tournament.id,
           money: standing.money,
           type: tournament.type || '',
-          season: tournament.season
+          season: tournament.season,
+          teamsize: tournament.teamsize
         };
         if (standing.rank) {
           t.rank = standing.rank;
         }
         const stat = players[standing.id].stats;
+
         players[standing.id].tournaments.push(t);
         players[standing.id].stats.money += standing.money || 0;
         players[standing.id].stats.points += standing.propoints || 0;
@@ -158,6 +162,12 @@ module.exports = function(grunt) {
         players[standing.id].stats.amp += standing.amp || 0;
         players[standing.id].stats.poy += standing.poy || 0;
         players[standing.id].stats.playerspoints += standing.playerspoints || 0;
+
+
+        if ((tournament.type == 'Pro Tour' && ((tournament.teamsize == 1 && finish <= 8) || (tournament.teamsize > 1 && finish <= 4))) || (tournament.topfinish && ((!tournament.topn && (finish <= 8)) || (tournament.topn && !tournament.topfinishcut && (finish <= tournament.topn)) || (tournament.topn && tournament.topfinishcut && (finish <= tournament.topfinishcut))))) {
+            ++players[standing.id].stats.topfinish;
+        }
+
         if (t.season) {
           if (standing.money) {
             stat.moneybyyear[t.season] = (stat.moneybyyear[t.season] || 0) + (standing.money);
@@ -171,7 +181,11 @@ module.exports = function(grunt) {
           if (standing.poy) {
             stat.poybyyear[t.season] = (stat.poybyyear[t.season] || 0) + (standing.poy);
           }
+          if ((tournament.type == 'Pro Tour' && ((tournament.teamsize == 1 && finish <= 8) || (tournament.teamsize > 1 && finish <= 4))) || (tournament.topfinish && ((!tournament.topn && (finish <= 8)) || (tournament.topn && !tournament.topfinishcut && (finish <= tournament.topn)) || (tournament.topn && tournament.topfinishcut && (finish <= tournament.topfinishcut))))) {
+            players[standing.id].stats.topfinishbyyear[t.season] = (players[standing.id].stats.topfinishbyyear[t.season] || 0) + 1;
+          }
         }
+
 
         // Only PTs are included in the stats below (count, T1, T8, T16)
         if (tournament.type == 'Pro Tour') {
@@ -213,6 +227,8 @@ module.exports = function(grunt) {
         else {
           return;
         }
+
+
       });
     });
     players = _.mapObject(players, function(player) {
