@@ -1,9 +1,11 @@
 {
     "type": "Nationals - South Africa",
-    "coverage": "https://web.archive.org/web/20000902230409/http://www.wizards.com/international/europe/nationals.results.southafrica.asp",
+    "coverage": "https://www.nag.co.za/wp-content/archives/1999/007NAG%20JULY%201999.pdf#:~:text=with%20Gauteng's%20Michael%20Nurse%20taking%20the%20title,four%20players%20who%20will%20be%20taking%20on",
     "date": "June 5-6, 1999",
+    "season": "1998-99",
     "formats": [
-        "unknown"
+        "Standard",
+        "Rochester Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-south-africa-1999",
@@ -22,6 +24,22 @@
         },
         {
             "name": "Jonathan Tsao"
+        },
+        {
+            "name": "Gavin Meek",
+            "rank": "T8"
+        },
+        {
+            "name": "Russel Lunt",
+            "rank": "T8"
+        },
+        {
+            "name": "Daniel Messem",
+            "rank": "T8"
+        },
+        {
+            "name": "David Irvine",
+            "rank": "T8"
         }
     ],
     "teamsize": 1

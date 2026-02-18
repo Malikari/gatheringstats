@@ -2,7 +2,7 @@
     "type": "Regional Championship",
     "coverage": "https://magic.gg/events/f2f-tour-championship-ottawa-january-2025",
     "date": "January 25-26, 2025",
-    "season": "2025",
+    "season": "2024-25",
     "formats": [
         "Modern"
     ],
@@ -81,7 +81,7 @@
         {"name": "Benjamin Travaglini", "matchpoints": 24},
         {"name": "Maxime Choquette", "matchpoints": 24},
         {"name": "Brandon Colwell", "matchpoints": 24},
-        {"name": "Sébastien Lachance", "matchpoints": 24},
+        {"name": "Sebastien Lachance", "matchpoints": 24},
         {"name": "Phillip Hurst", "matchpoints": 24},
         {"name": "Bert Joseph-Paré", "matchpoints": 24},
         {"name": "Ben Joslin", "matchpoints": 24},
@@ -232,7 +232,7 @@
         {"name": "Thomas Ainsborough", "matchpoints": 10},
         {"name": "Hudson Morash", "matchpoints": 10},
         {"name": "Steven Miclette", "matchpoints": 10},
-        {"name": "Clément Harvey", "matchpoints": 10},
+        {"name": "Clement Harvey", "matchpoints": 10},
         {"name": "Liam Hoban", "matchpoints": 10},
         {"name": "Daniel Kao", "matchpoints": 10},
         {"name": "Chris Bekmesian", "matchpoints": 9},
@@ -283,7 +283,7 @@
         {"name": "Alexandru Tibirna", "matchpoints": 9},
         {"name": "Jonathan Guttman", "matchpoints": 9},
         {"name": "Daniel Arsenault", "matchpoints": 9},
-        {"name": "Chris McGuire", "matchpoints": 9},
+        {"name": "Christopher McGuire", "matchpoints": 9},
         {"name": "Isaac Ma", "matchpoints": 8},
         {"name": "Randall Litman", "matchpoints": 7},
         {"name": "Patrick Sherwood", "matchpoints": 7},
@@ -399,7 +399,7 @@
         {"name": "Daryl Gnann", "matchpoints": 3},
         {"name": "Nicolas Bourque", "matchpoints": 3},
         {"name": "Ben Kolisnyk", "matchpoints": 3},
-        {"name": "Kenny Darlington", "matchpoints": 3},
+        {"name": "Ken Darlington", "matchpoints": 3},
         {"name": "Dylan Zahari", "matchpoints": 3},
         {"name": "Geoffrey Tompkins", "matchpoints": 3},
         {"name": "Ethan Sears", "matchpoints": 3},
@@ -438,6 +438,5 @@
         {"name": "Aaron Raine", "matchpoints": 0},
         {"name": "Alexandre Furstenberger", "matchpoints": 0}
     ],
-    "teamsize": 1
-    
+    "teamsize": 1   
 }

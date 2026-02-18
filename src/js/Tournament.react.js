@@ -78,6 +78,7 @@ const Tournament = () => {
             {(t.type === 'Pro Tour' && t.season < '2022' && (t.name > 'N' || t.name < 'Mythic Championship III')) || t.type === 'Grand Prix' || t.type === 'WMC' || (t.type === 'World Championships' && t.name > '1996') || /Nationals/.test(t.type) ? <th>Pro Points</th> : null}
             {t.type === 'Players Tour' || t.type === 'Players Tour Finals' ? <th>Players Points</th> : null}
             {t.type === 'Pro Tour' && t.season > '2022' ? <th>AMP</th> : null}
+            {t.type === 'World Championships' || t.type === 'Pro Tour' && t.season > '2022' ? <th>POY</th> : null}
             <th>Prize Money</th>
             <th>Match Points</th>
           </tr>
@@ -97,6 +98,7 @@ const Tournament = () => {
                 {(t.type === 'Pro Tour' && t.season < '2022' && (t.name > 'N' || t.name < 'Mythic Championship III')) || t.type === 'Grand Prix' || t.type === 'WMC' || (t.type === 'World Championships' && t.name > '1996') || /Nationals/.test(t.type) ? <td>{p.propoints}</td> : null}
                 {t.type === 'Players Tour' || t.type === 'Players Tour Finals' ? <td>{p.playerspoints}</td> : null}
                 {t.type === 'Pro Tour' && t.season > '2022' ? <td>{p.amp}</td> : null}
+                {t.type === 'World Championships' || t.type === 'Pro Tour' && t.season > '2022' ? <td>{p.poy}</td> : null}
                 <td>{formatMoney(p.money)}</td>
                 <td>{p.matchpoints}</td>
               </tr>

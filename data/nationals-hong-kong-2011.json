@@ -10,27 +10,82 @@
     "id": "nationals-hong-kong-2011",
     "location": "Hong Kong, Hong Kong",
     "logo": "nationals",
-    "name": "Nationals Hong Kong and Macau 2011",
+    "name": "Nationals Hong Kong / Macau 2011",
     "standings": [
         {
+            "name": "Kai Yip Lee",
+            "propoints": 10
+        },
+        {
             "name": "Tsz Yeung Lam",
-            "rank": 2,
             "propoints": 8
         },
         {
             "name": "Zhang Meng Qiu",
-            "rank": 3,
             "propoints": 6
         },
         {
             "name": "Yu Yeung Lee",
-            "rank": 4,
             "propoints": 6
         },
         {
-            "name": "Thomas Lee",
-            "rank": 5,
+            "name": "Cheuk Yin Li",
+            "propoints": 4,
+            "rank": "QF"
+        },
+        {
+            "name": "Derek Tsang",
             "propoints": 4
+        },
+        {
+            "name": "Hong Fei Yeung",
+            "propoints": 4,
+            "rank": "QF"
+        },
+        {
+            "name": "Thomas Jim Lee",
+            "rank": "QF",
+            "propoints": 4
+        },
+        {
+            "name": "Chan Sze-Hang",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Lee Shi Tian",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Kevin Chi Ho Tse",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Kon-Fai Wu",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Kam-Wing Ng",
+            "rank": "13-16",
+            "propoints": 1
+        },
+        {
+            "name": "King Yim Kingston Tong",
+            "rank": "13-16",
+            "propoints": 1
+        },
+        {
+            "name": "Steven Yuen",
+            "rank": "13-16",
+            "propoints": 1
+        },
+        {
+            "name": "Wing-Lok Tam",
+            "rank": "13-16",
+            "propoints": 1
         }
     ],
     "teamsize": 1   

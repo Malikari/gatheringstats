@@ -1,7 +1,12 @@
 {
     "type": "Mocs",
+    "topfinish": true,
+    "teamsize": 1,
+    "topn": 2,
+    "topfinishcut": 4,
     "coverage": "http://magic.wizards.com/en/eventcoverage/mtgochamp12",
     "date": "March 22-23, 2013",
+    "season": "2012-13",
     "formats": [
         "Standard",
         "Cube Draft",
@@ -77,7 +82,5 @@
             "money": 4000,
             "name": "Christopher Hartman"
         }
-    ],
-    "teamsize": 1,
-    "topn": 2
+    ]
 }

@@ -1,6 +1,7 @@
 {
     "type": "Nationals - South Korea",
     "date": "June 7-8, 2003",
+    "season": "2002-03",
     "formats": [
         "Standard",
         "Rochester Draft"
@@ -13,19 +14,32 @@
     "standings": [
         {
             "name": "Ji-Hoon Lee",
-            "money": 1200
-        },
-        {
-            "name": "Sang-Ryeol Lee",
-            "rank": "2-3"
-        },
-        {
-            "name": "Eu-Seung Jung",
-            "rank": "2-3"
+            "money": 1200,
+            "report": "https://cafe.daum.net/magin/JUX/5867"
         },
         {
             "name": "Ji-Sang Kang",
+            "money": 800
+        },
+        {
+            "name": "Sang-Woong Yoon",
+            "money": 600
+        },
+        {
+            "name": "Sang-Ryeol Lee",
             "money": 400
+        },
+        {
+            "name": "Ga-Ram Jeong"
+        },
+        {
+            "name": "Sang-Seok Lee"
+        },
+        {
+            "name": "Gyeong-Geun Nam"
+        },
+        {
+            "name": "Eu-Seung Jung"
         }
     ],
     "teamsize": 1

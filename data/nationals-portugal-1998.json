@@ -1,8 +1,11 @@
 {
     "type": "Nationals - Portugal",
     "date": "June 20-21, 1998",
+    "season": "1997-98",
     "formats": [
-        "unknown"
+        "Booster Draft",
+        "Block Constructed",
+        "Rochester Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-portugal-1998",
@@ -14,16 +17,22 @@
             "name": "Eduardo Martins"
         },
         {
-            "name": "Rui Sequeira",
-            "rank": "NT"
+            "name": "Rui Sequeira"
+        },
+        {
+            "name": "Joaquin Rafael"
+        },
+        {
+            "name": "Rui Simoes",
+            "rank": "T4"
         },
         {
             "name": "Fernando Figueiredo",
-            "rank": "NT"
+            "rank": 7
         },
         {
-            "name": "Joaquin Rafael",
-            "rank": "NT"
+            "name": "Marcelo Santos",
+            "rank": "QF"
         }
     ],
     "teamsize": 1

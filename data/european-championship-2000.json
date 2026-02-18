@@ -2,6 +2,7 @@
     "type": "European Championship",
     "coverage": "https://magic.wizards.com/en/events/coverage/euro00",
     "date": "July 14-16, 2000",
+    "season": "1999-2000",
     "formats": [
         "Standard",
         "Booster Draft"
@@ -18,7 +19,8 @@
         },
         {
             "money": 7000,
-            "name": "Raphael Levy"
+            "name": "Raphael Levy",
+            "report": "https://web.archive.org/web/20040203094458/http://www.newwave.org/strategy/reports/jul00/rale0724.html"
         },
         {
             "money": 4600,
@@ -186,7 +188,8 @@
         },
         {
             "money": 325,
-            "name": "Daniel Paskins"
+            "name": "Daniel Paskins",
+            "report": "https://web.archive.org/web/20031206155840/http://newwave.org/strategy/reports/jul00/dapa0719.html"
         },
         {
             "money": 315,
@@ -317,10 +320,11 @@
             "name": "Yngvi Omar Sighvatsson"
         },
         {
-            "name": "Øyvind Ødegaard"
+            "name": "Oyvind Odegaard"
         },
         {
-            "name": "Aras Senyuz"
+            "name": "Aras Senyuz",
+            "report": "https://web.archive.org/web/20040218065439/http://www.newwave.org/strategy/reports/jul00/arse0721.html"
         },
         {
             "name": "Rui Mariani"
@@ -639,7 +643,7 @@
             "name": "Ralph Martin"
         },
         {
-            "name": "Andras Suveges"
+            "name": "Andras Sueveges"
         },
         {
             "name": "Ralph Ristedt"

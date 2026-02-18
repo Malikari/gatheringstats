@@ -2,6 +2,7 @@
     "type": "Nationals - Mexico",
     "coverage": "https://web.archive.org/web/20080919185851/http://necrotower.com/nacional2007/top8decks.htm",
     "date": "July 21-22, 2007",
+    "season": "2007",
     "formats": [
         "Standard",
         "Booster Draft"
@@ -13,28 +14,36 @@
     "name": "Nationals Mexico 2007",
     "standings": [
         {
-            "name": "Sabas Barriga Rojas"
+            "name": "Sabas Barriga Rojas",
+            "money": 1250
         },
         {
-            "name": "Salatiel Lopez"
+            "name": "Salatiel Lopez",
+            "money": 750
         },
         {
-            "name": "Gerardo Godinez Estrada"
+            "name": "Gerardo Godinez Estrada",
+            "money": 500
         },
         {
-            "name": "Moises Gallegos"
+            "name": "Moises Gallegos",
+            "money": 500
         },
         {
-            "name": "Luis Enrique Moreno Ventura"
+            "name": "Luis Enrique Moreno Ventura",
+            "money": 500
         },
         {
-            "name": "Alfredo Dominguez Roldan"
+            "name": "Alfredo Dominguez Roldan",
+            "money": 500
         },
         {
-            "name": "Carlos Martinez"
+            "name": "Carlos Martinez Silhy",
+            "money": 500
         },
         {
-            "name": "Emmanuel Ramirez Sanchez"
+            "name": "Emmanuel Ramirez Sanchez",
+            "money": 500
         }
     ],
     "teamsize": 1

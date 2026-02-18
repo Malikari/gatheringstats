@@ -1,10 +1,10 @@
 {
     "type": "Grand Prix",
-    "coverage": "https://magic.wizards.com/en/events/coverage/gpaustin98",
+    "coverage": "https://web.archive.org/web/20031009142258/http://www.wizards.com/sideboard/article.asp?x=results/GPAUSTIN98",
     "date": "October 10-11, 1998",
     "season": "1998-99",
     "formats": [
-        "Standard or Block Constructed"
+        "Block Constructed"
     ],
     "medium": "Tabletop",
     "id": "grand-prix-austin-1998",
@@ -15,7 +15,8 @@
         {
             "money": 2400,
             "name": "Gary Krakower",
-            "propoints": 6
+            "propoints": 6,
+            "deck": "7fK-USfPI0G-xb_zGMg2Hg"
         },
         {
             "money": 1700,
@@ -50,7 +51,52 @@
         {
             "money": 800,
             "name": "Jonathan Pechon",
-            "propoints": 3
+            "propoints": 3,
+            "report": "https://classicdojo.org/t984/gp.981014gpe.txt"
+        },
+        {
+            "money": 500,
+            "name": "Adrian Sayers"
+        },
+        {
+            "money": 500,
+            "name": "Steven O'Mahoney-Schwartz"
+        },
+        {
+            "money": 500,
+            "name": "James Stroud"
+        },
+        {
+            "money": 500,
+            "name": "David Weitz",
+            "report": "https://classicdojo.org/t984/gp.981014dwe.txt"
+        },
+        {
+            "money": 500,
+            "name": "Pierre Malherbaud"
+        },
+        {
+            "money": 500,
+            "name": "Ben Bleiweiss",
+            "report": "https://classicdojo.org/t984/gp.981012bbl.txt"
+        },
+        {
+            "money": 500,
+            "name": "Jeff Taylor"
+        },
+        {
+            "money": 500,
+            "name": "Brian Ogilbee"
+        },
+        {
+            "money": 500,
+            "name": "Ryan Fischbeck",
+            "report": "https://classicdojo.org/t984/gp.981012rfi.txt"
+        },
+        {
+            "name": "Tim Stoltzfus",
+            "rank": 38,
+            "report": "https://classicdojo.org/t984/gp.981013tst.txt"
         }
     ],
     "teamsize": 1

@@ -2,6 +2,7 @@
     "type": "Grand Prix",
     "coverage": "https://magic.wizards.com/en/events/coverage/gpman00",
     "date": "October 28-29, 2000",
+    "season": "2000-01",
     "formats": [
         "Sealed Deck",
         "Rochester Draft"
@@ -20,12 +21,14 @@
         {
             "money": 1700,
             "name": "Erno Ekebom",
-            "propoints": 5
+            "propoints": 5,
+            "report": "https://web.archive.org/web/20040203112436/http://www.newwave.org/strategy/reports/nov00/erek1108.html"
         },
         {
             "money": 1200,
             "name": "Arto Hiltunen",
-            "propoints": 4
+            "propoints": 4,
+            "report": "https://web.archive.org/web/20031206140122/http://newwave.org/strategy/reports/nov00/arhi1109.html"
         },
         {
             "money": 1000,
@@ -119,7 +122,7 @@
         },
         {
             "money": 250,
-            "name": "Øyvind Ødegaard",
+            "name": "Oyvind Odegaard",
             "propoints": 1
         },
         {

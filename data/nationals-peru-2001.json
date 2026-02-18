@@ -1,6 +1,7 @@
 {
     "type": "Nationals - Peru",
     "date": "May 6, 2001",
+    "season": "2000-01",
     "formats": [
         "Standard",
         "Rochester Draft"
@@ -12,35 +13,29 @@
     "name": "Nationals Peru 2001",
     "standings": [
         {
-            "name": "Jorge Melgar"
+            "name": "Jorge Melgar",
+            "deck": "EXmdHepD-EeYv9j9XQqibg"
         },
         {
-            "name": "Giorgios Theodolun",
-            "rank": "NT"
+            "name": "Alan Steve Chang Yong"
         },
         {
-            "name": "Steve Vidalon Hoyos",
-            "rank": "NT"
+            "name": "Steve Vidalon Hoyos"
         },
         {
-            "name": "Eduardo Albareda",
-            "rank": "NTA"
+            "name": "Giorgios Theodolun"
         },
         {
-            "name": "Vidal Helmut Azañero Rojas",
-            "rank": "T8"
+            "name": "Fernando Lopez Mazzotti"
         },
         {
-            "name": "Christian Campos",
-            "rank": "T8"
+            "name": "Eduardo Albareda"
         },
         {
-            "name": "Alan Steve Chang Yong",
-            "rank": "T8"
+            "name": "Christian Campos"
         },
         {
-            "name": "Fernando Lopez Mazzotti",
-            "rank": "T8"
+            "name": "Vidal Helmut Azañero Rojas"
         }
     ],
     "teamsize": 1

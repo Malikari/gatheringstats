@@ -1,7 +1,8 @@
 {
     "type": "Grand Prix",
-    "coverage": "https://magic.wizards.com/en/events/coverage/gpcle02",
+    "coverage": "https://web.archive.org/web/20021014133019/http://www.wizards.com/default.asp?x=sideboard/events/gpcle02",
     "date": "September 7-8, 2002",
+    "season": "2002-03",
     "formats": [
         "Block Constructed"
     ],
@@ -12,7 +13,7 @@
     "name": "Grand Prix Cleveland 2002",
     "standings": [
         {
-            "money": 2400,
+            "money": 3900,
             "name": "Valentin Moskovich",
             "propoints": 6
         },
@@ -27,12 +28,12 @@
             "propoints": 4
         },
         {
-            "money": 1000,
+            "money": 2000,
             "name": "Matthew Schempp",
             "propoints": 4
         },
         {
-            "money": 800,
+            "money": 1500,
             "name": "Adam Prosak",
             "propoints": 3
         },
@@ -72,7 +73,7 @@
             "propoints": 2
         },
         {
-            "money": 500,
+            "money": 1200,
             "name": "Matthew Navy",
             "propoints": 2
         },
@@ -102,17 +103,17 @@
             "propoints": 1
         },
         {
-            "money": 250,
+            "money": 650,
             "name": "Matt Schmaltz",
             "propoints": 1
         },
         {
-            "money": 250,
+            "money": 650,
             "name": "Cedric Phillips",
             "propoints": 1
         },
         {
-            "money": 250,
+            "money": 650,
             "name": "Josh Shroll",
             "propoints": 1
         },
@@ -122,7 +123,7 @@
             "propoints": 1
         },
         {
-            "money": 250,
+            "money": 650,
             "name": "Brandon Miller",
             "propoints": 1
         },
@@ -132,7 +133,7 @@
             "propoints": 1
         },
         {
-            "money": 250,
+            "money": 500,
             "name": "Kiet Ngo",
             "propoints": 1
         },
@@ -162,14 +163,39 @@
             "propoints": 1
         },
         {
-            "money": 250,
+            "money": 500,
             "name": "Tim Sjoberg",
             "propoints": 1
         },
         {
-            "money": 250,
+            "money": 500,
             "name": "Shaun Doran",
             "propoints": 1
+        },
+        {
+            "money": 250,
+            "name": "Jin-Choon Ng",
+            "rank": 38
+        },
+        {
+            "money": 250,
+            "name": "Cale Halley",
+            "rank": 39
+        },
+        {
+            "money": 250,
+            "name": "Mike C. White",
+            "rank": 40
+        },
+        {
+            "money": 250,
+            "name": "Chris Chin",
+            "rank": 41
+        },
+        {
+            "money": 250,
+            "name": "David Irvine",
+            "rank": 43
         }
     ],
     "teamsize": 1

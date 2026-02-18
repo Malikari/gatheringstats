@@ -2,6 +2,7 @@
     "type": "Nationals - Slovenia",
     "coverage": "https://web.archive.org/web/20040805082043/http://www.irts.si/magic/html/turnirji/nats2004top8_04_07_04.htm",
     "date": "July 3-4, 2004",
+    "season": "2003-04",
     "formats": [
         "Standard",
         "Booster Draft"
@@ -39,6 +40,11 @@
         {
             "name": "Matic Gerbec",
             "rank": "T8"
+        },
+        {
+            "name": "Martin Robic",
+            "rank": 12,
+            "report": "https://web.archive.org/web/20050920224843/http://www.irts.si/magic/html/reporti/robic_nats2004.htm"
         }
     ],
     "teamsize": 1

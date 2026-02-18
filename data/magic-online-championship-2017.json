@@ -1,7 +1,11 @@
 {
     "type": "Mocs",
+    "topfinish": true,
+    "teamsize": 1,
+    "topn": 4,
     "coverage": "https://magic.wizards.com/en/events/coverage/mtgochamp17",
     "date": "March 2-4, 2018",
+    "season": "2017-18",
     "formats": [
         "Draft", 
         "Modern"
@@ -108,7 +112,5 @@
             "money": 5000,
             "name": "Vincent Lemoine"
         }
-    ],
-    "teamsize": 1,
-    "topn": 4
+    ]
 }

@@ -1,5 +1,6 @@
 {
     "type": "Nationals - Singapore",
+    "coverage": "https://web.archive.org/web/20090724152911/http://www.top8magic.com/2009/07/singapore-nationals-top-8-decklists/",
     "date": "July 18-19, 2009",
     "season": "2009",
     "formats": [
@@ -14,7 +15,8 @@
     "standings": [
         {
             "name": "Aik Seng Khoo",
-            "propoints": 10
+            "propoints": 10,
+            "deck": "0N_bmGQIvkC9dJLAGkeZTA"
         },
         {
             "name": "Teng Chi Lim",
@@ -43,6 +45,46 @@
         {
             "name": "Kok Seng Ong",
             "propoints": 4
+        },
+        {
+            "name": "Yong Han Choo",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Sam Lei Kang Lau",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Mark Yaocheng",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Kev Jia Ming Choo",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Ming Huang Royce Chai",
+            "rank": "13-16",
+            "propoints": 1
+        },
+        {
+            "name": "Steven Tan",
+            "rank": "13-16",
+            "propoints": 1
+        },
+        {
+            "name": "Joshua Yang",
+            "rank": "13-16",
+            "propoints": 1
+        },
+        {
+            "name": "Ryan Luo",
+            "rank": "13-16",
+            "propoints": 1
         }
     ],
     "teamsize": 1

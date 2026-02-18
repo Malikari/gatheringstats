@@ -1,13 +1,17 @@
 {
     "type": "Nationals - Iceland",
     "date": "January 1-June 21, 1998",
+    "season": "1997-98",
     "formats": [
         "Standard",
-        "? Draft"
+        "Booster Draft"
+    ],
+    "structure": [
+        "Cut to Top 16"
     ],
     "medium": "Tabletop",
     "id": "nationals-iceland-1998",
-    "location": "Iceland",
+    "location": "Reykjavik, Iceland",
     "logo": "nationals",
     "name": "Nationals Iceland 1998",
     "standings": [
@@ -15,15 +19,63 @@
             "name": "Alvin Orri Gislason"
         },
         {
-            "name": "Asgeir"
+            "name": "Asgeir Halldórsson"
         },
         {
-            "name": "Hogni Gylfason",
+            "name": "Hogni Thor Gylfason",
             "report": "https://web.archive.org/web/20000711085207/http://www.thedojo.com/t983/reg.980623hgy.txt"
         },
         {
             "name": "Reynir",
             "rank": "5-8"
+        },
+        {
+            "name": "Marteinn Fridriksson",
+            "rank": "T16"
+        },
+        {
+            "name": "Stefan Fridriksson",
+            "rank": "T16"
+        },
+        {
+            "name": "Gunnar Mar",
+            "rank": "T16"
+        },
+        {
+            "name": "Bolli",
+            "rank": "T16"
+        },
+        {
+            "name": "Bjarki",
+            "rank": "T16"
+        },
+        {
+            "name": "Egill Vignir Stefansson",
+            "rank": "T16"
+        },
+        {
+            "name": "Arni Steingrimur",
+            "rank": "T16"
+        },
+        {
+            "name": "David Gunnarsson",
+            "rank": "T16"
+        },
+        {
+            "name": "Stefan Alfsson",
+            "rank": "9-13"
+        },
+        {
+            "name": "Robert Ulfarsson",
+            "rank": "10-14"
+        },
+        {
+            "name": "Gudmundur Viggosson",
+            "rank": "11-15"
+        },
+        {
+            "name": "Arnar Oskar",
+            "rank": "15-16"
         }
     ],
     "teamsize": 1

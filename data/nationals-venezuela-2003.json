@@ -1,6 +1,8 @@
 {
     "type": "Nationals - Venezuela",
+    "coverage": "https://web.archive.org/web/20030801175026/http://magicvenezuela.com/torneos/resnacional2003.htm",
     "date": "June 14, 2003",
+    "season": "2002-03",
     "formats": [
         "Standard",
         "Rochester Draft"
@@ -17,15 +19,27 @@
         },
         {
             "name": "Edgar Morillo",
-            "rank": "NT"
+            "money": 750
         },
         {
             "name": "Daniel Fior",
-            "rank": "NT"
+            "money": 500
         },
         {
             "name": "Adalberto Palencia",
-            "rank": "NT"
+            "money": 500
+        },
+        {
+            "name": "Alejandro Tesch"
+        },
+        {
+            "name": "Marlon Garcia"
+        },
+        {
+            "name": "Juan Carlos Mejias"
+        },
+        {
+            "name": "Randy Rosales"
         }
     ],
     "teamsize": 1

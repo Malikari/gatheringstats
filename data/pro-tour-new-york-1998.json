@@ -11,14 +11,15 @@
         "Day 2: Booster Draft, 4 rounds; Booster Draft, 3 rounds; cut to Top 8",
         "Day 3: Booster Draft, Bo5 single elimination",
         "---",
-        "Mulligan: Paris (any number of times, always draw one card less)"
+        "Mulligan: Paris (any number of times, always draw one card less)",
+        "---",
+        "Note: The exact placement of players in places 65+ (everybody without prizes) is unknown. Wizards published the Top 64 in various places, but never the full final standings. The web archive version is also mostly defunct for day two. Even for players who did not make day two their ranking is not completely accurate as at the time Wizards was still in the habit of calculating tiebreakers based on the final results of a player's opponents. Normal procedure would be to fix a player's tiebreakers once they are no longer in the tournament. The standings for players ranked 65+ are given here as they were at the end of day one, but as a result of the way tiebreakers were calculated Lenny Collins for example must have moved into the Top 128, whereas Adrian Leon Wee Teoh moved out of Top 128 (based on their final Pro Point count for the season)."
     ],
     "medium": "Tabletop",
     "id": "pro-tour-new-york-1998",
     "location": "New York, New York, United States",
     "logo": "ptlogo",
     "name": "Pro Tour New York",
-    "comment": "the exact placement of players in places 65+ (everybody without prizes) is unknown",
     "standings": [
         {
             "money": 25000,
@@ -157,43 +158,43 @@
         {
             "money": 1580,
             "name": "Itaru Ishida",
-            "propoints": 7,
+            "propoints": 6,
             "report": "https://web.archive.org/web/20040222233149/http://www.wizards.com/default.asp?x=sideboard/jpstrategy/20030419a"
         },
         {
             "money": 1500,
             "name": "John Scarth",
-            "propoints": 7
+            "propoints": 6
         },
         {
             "money": 1430,
             "name": "Alan Comer",
-            "propoints": 7
+            "propoints": 6
         },
         {
             "money": 1360,
             "name": "Daniel Clegg",
-            "propoints": 7
+            "propoints": 6
         },
         {
             "money": 1290,
             "name": "Svend Sparre Geertsen",
-            "propoints": 7
+            "propoints": 6
         },
         {
             "money": 1230,
             "name": "Justin Gary",
-            "propoints": 7
+            "propoints": 6
         },
         {
             "money": 1170,
             "name": "Arho Toikka",
-            "propoints": 7
+            "propoints": 6
         },
         {
             "money": 1110,
             "name": "Sturla Bingen",
-            "propoints": 7
+            "propoints": 6
         },
         {
             "money": 1060,
@@ -615,7 +616,7 @@
         },
         {
             "name": "Adrian Leong Wee Teoh",
-            "propoints": 3
+            "propoints": 2
         },
         {
             "name": "Christopher Manning",
@@ -647,7 +648,7 @@
         },
         {
             "name": "Lenny Collins",
-            "propoints": 2
+            "propoints": 3
         },
         {
             "name": "Steven Gilpin",
@@ -1267,7 +1268,7 @@
             "propoints": 2
         },
         {
-            "name": "Richard Nielsson",
+            "name": "Richard Nilsson",
             "propoints": 2
         },
         {
@@ -1328,7 +1329,7 @@
         },
         {
             "name": "Rob Chapnick",
-            "propoints": 2
+            "rank": "DQ?"
         },
         {
             "name": "Massimiliano Esposito",

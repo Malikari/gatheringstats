@@ -1,6 +1,7 @@
 {
     "type": "Nationals - Chile",
     "date": "June 15-16, 2002",
+    "season": "2001-02",
     "formats": [
         "Standard",
         "Booster Draft"
@@ -12,7 +13,8 @@
     "name": "Nationals Chile 2002",
     "standings": [
         {
-            "name": "Juan Reutter"
+            "name": "Juan Reutter",
+            "money": 2300
         },
         {
             "name": "Francisco Cereceda",
@@ -23,7 +25,8 @@
             "rank": "NT"
         },
         {
-            "name": "Jose Luis Echeverria Paredes"
+            "name": "Jose Luis Echeverria Paredes",
+            "money": 700
         }
     ],
     "teamsize": 1

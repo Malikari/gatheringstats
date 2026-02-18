@@ -1,6 +1,6 @@
 {
     "type": "Grand Prix",
-    "coverage": "https://magic.wizards.com/en/events/coverage/gpsf99",
+    "coverage": "https://web.archive.org/web/20000930122955/http://www.wizards.com/grandprix/GP_SF_Results.asp",
     "date": "January 23-24, 1999",
     "season": "1998-99",
     "formats": [
@@ -84,6 +84,31 @@
         {
             "money": 500,
             "name": "Ryan Fuller"
+        },
+        {
+            "money": 500,
+            "name": "Gabriel Wilson",
+            "rank": 23
+        },
+        {
+            "money": 400,
+            "name": "Walter Louie",
+            "rank": 27
+        },
+        {
+            "money": 300,
+            "name": "Jeremy Nguyen",
+            "rank": 31
+        },
+        {
+            "money": 200,
+            "name": "Kory Dunham",
+            "rank": 46
+        },
+        {
+            "money": 100,
+            "name": "Colin Mayfield",
+            "rank": 47
         }
     ],
     "teamsize": 1

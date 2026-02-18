@@ -1,6 +1,8 @@
 {
     "type": "Nationals - Mexico",
+    "coverage": "https://web.archive.org/web/20071021082639/http://necrotower.com:80/nacional2005/index.html",
     "date": "August 13-14, 2005",
+    "season": "2005",
     "formats": [
         "Standard",
         "Booster Draft"
@@ -28,16 +30,20 @@
             "money": 500
         },
         {
-            "name": "Fernando Dominguez Roldan",
-            "rank": "5-8"
+            "name": "Jorge Alberto Lopez",
+            "money": 350
         },
         {
-            "name": "Mario Fuentes Lopez",
-            "rank": "5-8"
+            "name": "Luis Alberto Lopez",
+            "money": 350
         },
         {
-            "name": "Francisco Leon Valencia",
-            "rank": "5-8"
+            "name": "Jose Manuel Ponce Franco",
+            "money": 250
+        },
+        {
+            "name": "Eduardo Caabeiro",
+            "money": 250
         }
     ],
     "teamsize": 1

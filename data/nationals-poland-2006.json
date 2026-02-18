@@ -1,13 +1,14 @@
 {
     "type": "Nationals - Poland",
     "date": "September 16-17, 2006",
+    "season": "2006",
     "formats": [
         "Standard",
         "Booster Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-poland-2006",
-    "location": "Poland",
+    "location": "Warsaw, Poland",
     "logo": "nationals",
     "name": "Nationals Poland 2006",
     "standings": [
@@ -22,6 +23,22 @@
         },
         {
             "name": "Mateusz Kopec"
+        },
+        {
+            "name": "Jakub Wudarski",
+            "rank": "T8"
+        },
+        {
+            "name": "Lukasz Kotowicz",
+            "rank": "T8"
+        },
+        {
+            "name": "Przemyslaw Bok",
+            "rank": "T8"
+        },
+        {
+            "name": "Wojciech Zuber",
+            "rank": "T8"
         }
     ],
     "teamsize": 1

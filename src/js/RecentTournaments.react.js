@@ -4,7 +4,8 @@ import React from 'react';
 import {Link} from 'react-router-dom';
 import Players from './Players.js';
 import PlayerLink from './PlayerLink.react.js';
-import {filterOnlyProTours, filterOnlyWorlds, filterOnlyProLeagues, filterOnlyNationals, filterOnlyGrandPrix, filterOnlyOtherTournaments, filterOnlyArena, filterOnlyMagicOnline} from './utils.js';
+import {filterOnlyProTours, filterOnlyWorlds, filterOnlyProLeagues, filterOnlyNationals, filterOnlyGrandPrix, filterOnlyOtherTournaments,
+ filterOnlyArena, filterOnlyMagicOnline, filterOnlyRegionals, filterOnlyEternals, filterOnlyMasters, filterOnlyJuniors, filterOnlyInvitational} from './utils.js';
 import { Helmet } from "react-helmet";
 import PropTypes from 'prop-types';
 
@@ -133,6 +134,24 @@ export const GrandPrix = (props) => {
   );
 };
 
+export const Masters = (props) => {
+  return (
+    <RecentTournaments
+      filter={filterOnlyMasters}
+      {...props}
+    />
+  );
+};
+
+export const Juniors = (props) => {
+  return (
+    <RecentTournaments
+      filter={filterOnlyJuniors}
+      {...props}
+    />
+  );
+};
+
 export const OtherTournaments = (props) => {
   return (
     <RecentTournaments
@@ -155,6 +174,33 @@ export const MagicOnline = (props) => {
   return (
     <RecentTournaments
       filter={filterOnlyMagicOnline}
+      {...props}
+    />
+  );
+};
+
+export const Regionals = (props) => {
+  return (
+    <RecentTournaments
+      filter={filterOnlyRegionals}
+      {...props}
+    />
+  );
+};
+
+export const Eternals = (props) => {
+  return (
+    <RecentTournaments
+      filter={filterOnlyEternals}
+      {...props}
+    />
+  );
+};
+
+export const Invitational = (props) => {
+  return (
+    <RecentTournaments
+      filter={filterOnlyInvitational}
       {...props}
     />
   );

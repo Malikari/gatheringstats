@@ -1,7 +1,8 @@
 {
     "type": "Grand Prix",
-    "coverage": "https://magic.wizards.com/en/events/coverage/gpbia01",
+    "coverage": "https://web.archive.org/web/20031211134232/http://www.wizards.com/sideboard/event.asp?event=GPBIA01",
     "date": "November 24-25, 2001",
+    "season": "2001-02",
     "formats": [
         "Sealed Deck",
         "Rochester Draft"
@@ -125,7 +126,8 @@
         {
             "money": 250,
             "name": "Hugo Machado",
-            "propoints": 1
+            "propoints": 1,
+            "report": "https://web.archive.org/web/20030504083004/http://portalmtg.com/reports/reports2001/report075.htm"
         },
         {
             "money": 250,
@@ -171,6 +173,11 @@
             "money": 250,
             "name": "Alex Menal",
             "propoints": 1
+        },
+        {
+            "name": "Renato Graca",
+            "rank": "P",
+            "report": "https://web.archive.org/web/20030504083004/http://portalmtg.com/reports/reports2001/report076.htm"
         }
     ],
     "teamsize": 1

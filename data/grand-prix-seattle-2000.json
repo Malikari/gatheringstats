@@ -2,6 +2,7 @@
     "type": "Grand Prix",
     "coverage": "https://magic.wizards.com/en/events/coverage/gpsea00",
     "date": "January 15-16, 2000",
+    "season": "1999-2000",
     "formats": [
         "Extended"
     ],
@@ -14,7 +15,8 @@
         {
             "money": 2400,
             "name": "Robert Maher",
-            "propoints": 6
+            "propoints": 6,
+            "deck": "fctJs9RDjESZuu3OvTb_zA"
         },
         {
             "money": 1700,
@@ -34,12 +36,14 @@
         {
             "money": 800,
             "name": "Alex Shvartsman",
-            "propoints": 3
+            "propoints": 3,
+            "report": "https://web.archive.org/web/20031206142301/http://newwave.org/strategy/reports/jan00/alsh0121.html"
         },
         {
             "money": 800,
             "name": "Jasar Elarar",
-            "propoints": 3
+            "propoints": 3,
+            "report": "https://web.archive.org/web/20040215090745/http://www.newwave.org/strategy/reports/jan00/jael0121.html"
         },
         {
             "money": 800,
@@ -54,7 +58,8 @@
         {
             "money": 500,
             "name": "Mike Thompson",
-            "propoints": 2
+            "propoints": 2,
+            "report": "https://web.archive.org/web/20000601182445/http://www.thedojo.com/t001/ptq.000119mth.shtml"
         },
         {
             "money": 500,

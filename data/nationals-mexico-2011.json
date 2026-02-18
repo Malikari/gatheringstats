@@ -1,5 +1,6 @@
 {
     "type": "Nationals - Mexico",
+    "coverage": "https://web.archive.org/web/20110925014312/http://www.necrotower.com/nats2011/blog.html",
     "date": "August 27-28, 2011",
     "season": "2011",
     "formats": [
@@ -8,7 +9,7 @@
     ],
     "medium": "Tabletop",
     "id": "nationals-mexico-2011",
-    "location": "Queretaro, Mexico",
+    "location": "Puebla, Mexico",
     "logo": "nationals",
     "name": "Nationals Mexico 2011",
     "standings": [
@@ -27,6 +28,41 @@
         {
             "name": "Alfredo Dominguez Roldan",
             "propoints": 6
+        },
+        {
+            "name": "Fernando Dominguez Roldan",
+            "propoints": 4
+        },
+        {
+            "name": "Alejandro Rivera",
+            "propoints": 4
+        },
+        {
+            "name": "Mario Flores",
+            "propoints": 4
+        },
+        {
+            "name": "Raul Diaz",
+            "propoints": 4
+        },
+        {
+            "name": "Roberto Pedrero",
+            "propoints": 2
+        },
+        {
+            "name": "Angel Gomez",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Marcelino Freeman",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Vicente Ruiz Carrera",
+            "rank": "9-12",
+            "propoints": 2
         }
     ],
     "teamsize": 1   

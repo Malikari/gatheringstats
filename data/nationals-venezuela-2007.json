@@ -2,6 +2,7 @@
     "type": "Nationals - Venezuela",
     "coverage": "https://web.archive.org/web/20080701215932/http://www.magicvenezuela.com/2007/09/21/algo-de-lo-que-paso-en-el-nacional-por-andres-perez/",
     "date": "September 16-17, 2007",
+    "season": "2007",
     "formats": [
         "Standard",
         "Booster Draft"
@@ -13,18 +14,23 @@
     "name": "Nationals Venezuela 2007",
     "standings": [
         {
-            "name": "Marlon Garcia"
+            "name": "Marlon Garcia",
+            "money": 500,
+            "deck": "sEyC5xNrV0qjavTbTB5JGA"
         },
         {
-            "name": "Sergio Saldivia"
+            "name": "Sergio Saldivia",
+            "money": 250
         },
         {
             "name": "David Rada",
-            "rank": "3-4"
+            "rank": "3-4",
+            "money": 125
         },
         {
             "name": "Jesus Enrique Somaza Mendoza",
-            "rank": "3-4"
+            "rank": "3-4",
+            "money": 125
         },
         {
             "name": "Daniele D'Aversa",

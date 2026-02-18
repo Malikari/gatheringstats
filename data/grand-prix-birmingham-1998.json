@@ -2,6 +2,7 @@
     "type": "Grand Prix",
     "coverage": "http://web.archive.org/web/19990220121350/http://www.wizards.com:80/Grand_Prix/GP_Birmingham_Results.html",
     "date": "October 17-18, 1998",
+    "season": "1998-99",
     "formats": [
         "Block Constructed"
     ],
@@ -14,12 +15,14 @@
         {
             "money": 2000,
             "name": "Craig Jones",
-            "propoints": 6
+            "propoints": 6,
+            "deck": "zCZeWCEWRkq6gSMtNEo19w"
         },
         {
             "money": 1600,
             "name": "Kai Budde",
-            "propoints": 5
+            "propoints": 5,
+            "report": "https://classicdojo.org/t984/gp.981020kbu.txt"
         },
         {
             "money": 1300,
@@ -57,7 +60,8 @@
         },
         {
             "money": 350,
-            "name": "Aras Senyuz"
+            "name": "Aras Senyuz",
+            "report": "https://classicdojo.org/t984/gp.981021ase.txt"
         },
         {
             "money": 350,
@@ -82,6 +86,89 @@
         {
             "money": 350,
             "name": "Jakob Steinaa"
+        },
+        {
+            "name": "Jon Finkel",
+            "money": 250
+        },
+        {
+            "name": "Daniel Nuttall",
+            "report": "https://classicdojo.org/t984/gp.981023dnu.txt",
+            "money": 250
+        },
+        {
+            "name": "David Price",
+            "money": 250
+        },
+        {
+            "name": "Daniel Paskins",
+            "report": "https://classicdojo.org/t984/gp.981020bpa.html",
+            "money": 250
+        },
+        {
+            "name": "Joackim Falk",
+            "money": 250
+        },
+        {
+            "name": "Tommi Hovi",
+            "money": 250
+        },
+        {
+            "name": "Manuel Bevand",
+            "money": 250
+        },
+        {
+            "name": "Giovanni Ognibene",
+            "money": 250
+        },
+        {
+            "name": "Guy Bowles",
+            "money": 250
+        },
+        {
+            "name": "Micha Schulte-Middelich",
+            "money": 250
+        },
+        {
+            "name": "Randy Buehler",
+            "money": 250
+        },
+        {
+            "name": "Richard Edbury",
+            "money": 250
+        },
+        {
+            "name": "Thomas Andersson",
+            "report": "https://classicdojo.org/t984/gp.981102tan.html",
+            "money": 250
+        },
+        {
+            "name": "Patrick Mello",
+            "report": "https://classicdojo.org/t984/gp.981021pme.txt",
+            "money": 250
+        },
+        {
+            "name": "Pepijn van Abbe",
+            "money": 250
+        },
+        {
+            "name": "Dominic Symens",
+            "money": 250
+        },
+        {
+            "name": "David Maher",
+            "rank": 38,
+            "report": "https://classicdojo.org/t984/gp.981026dma.html"
+        },
+        {
+            "name": "Dave Bax",
+            "rank": 44,
+            "report": "https://classicdojo.org/t984/gp.981022dba.txt"
+        },
+        {
+            "name": "Eric Hanuise",
+            "rank": 70,
+            "report": "https://classicdojo.org/t984/gp.981019eha.txt"
         }
     ],
     "teamsize": 1

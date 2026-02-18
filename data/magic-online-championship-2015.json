@@ -1,7 +1,11 @@
 {
     "type": "Mocs",
+    "topfinish": true,
+    "teamsize": 1,
+    "topn": 4,
     "coverage": "http://magic.wizards.com/en/events/coverage/mtgochamp15",
     "date": "May 13-15, 2016",
+    "season": "2015-16",
     "formats": [
         "Legacy",
         "Standard",
@@ -66,7 +70,5 @@
             "money": 4000,
             "name": "Mike Sigrist"
         }
-    ],
-    "teamsize": 1,
-    "topn": 4
+    ]
 }

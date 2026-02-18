@@ -72,13 +72,18 @@ const Player = () => {
       </Helmet>
       <div className="page-header pageHeader">
         <h1>
-          <PlayerLink player={player} />
-          {player.natname ? <text>&nbsp;(</text> : null}
-          {player.natname ? player.natname : null}
-          {player.natname ? <text>)</text> : null}
+          <PlayerLink player={player} noDefLink linkUrl={player.website && player.website.mtgwiki}  />
         </h1>
       </div>
       <div className="Stat">
+        <div className="Stat-alert alert alert-info">
+          <div className="Stat-value">{player.stats.topfinish}</div>
+          <div>
+            <Link className="Stat-link" to="/rankings/points">
+              Top Finishes
+            </Link>
+          </div>
+        </div>
         <div className="Stat-alert alert alert-info">
           <div className="Stat-value">
             {player.stats.t1} / {player.stats.t8} / {player.stats.t16} /{' '}
@@ -108,7 +113,7 @@ const Player = () => {
           </div>
           <div>
             <Link className="Stat-link" to="/rankings/gpt1">
-              GP Wins
+              GP & SLS Wins
             </Link>
             {' / '}
             <Link className="Stat-link" to="/rankings/gpt8">
@@ -117,16 +122,16 @@ const Player = () => {
           </div>
         </div>
         <div className="Stat-alert alert alert-info">
-          <div className="Stat-value">{player.stats.amp}</div>
-          <Link className="Stat-link" to="/rankings/amp">
-            Total AMP
+          <div className="Stat-value">{player.stats.poy}</div>
+          <Link className="Stat-link" to="/rankings/poy">
+            PoY
           </Link>
         </div>
         <div className="Stat-alert alert alert-info">
           <div className="Stat-value">{player.stats.points}</div>
           <div>
             <Link className="Stat-link" to="/rankings/points">
-              Total Pro Points
+              Pro Points
             </Link>
           </div>
         </div>
@@ -134,7 +139,7 @@ const Player = () => {
           <div className="Stat-value">{player.getMoney()}</div>
           <div>
             <Link className="Stat-link" to="/rankings/money">
-              Total Money
+              Money
             </Link>
           </div>
         </div>

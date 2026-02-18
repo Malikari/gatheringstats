@@ -1,6 +1,8 @@
 {
     "type": "Nationals - New Zealand",
+    "coverage": "https://web.archive.org/web/20081014111305/http://www.gameplayer.co.nz/content/tradingcardgames/magicthegathering/decklibrarymtg/154/national-championship.aspx",
     "date": "August 12-14, 2005",
+    "season": "2005",
     "formats": [
         "Standard",
         "Booster Draft"
@@ -13,7 +15,8 @@
     "standings": [
         {
             "name": "Glenn Patel",
-            "money": 2000
+            "money": 2000,
+            "deck": "Cd1t2Dd_XEqMbHVb34mVHg"
         },
         {
             "name": "Julian Brown-Santirso",
@@ -26,6 +29,27 @@
         {
             "name": "Ray Walkinshaw",
             "money": 1200
+        },
+        {
+            "name": "Darryn Ying",
+            "money": 250
+        },
+        {
+            "name": "Jon Manuuli",
+            "money": 250
+        },
+        {
+            "name": "Andrew McIntyre",
+            "money": 250
+        },
+        {
+            "name": "Martin Jeffreys",
+            "money": 250
+        },
+        {
+            "name": "Gene Brumby",
+            "rank": 12,
+            "report": "https://web.archive.org/web/20060308110244/http://www.gameplayer.co.nz/article.aspx?id=122"
         }
     ],
     "teamsize": 1

@@ -1,12 +1,17 @@
 {
     "type": "Nationals - New Zealand",
-    "date": "January 1-July 31, 1997",
+    "date": "May 30-June 2, 1997",
+    "season": "1996-97",
     "formats": [
-        "unknown"
+        "Standard",
+        "Rochester Draft"
+    ],
+    "structure": [
+        "Cut to Top 16"
     ],
     "medium": "Tabletop",
     "id": "nationals-new-zealand-1997",
-    "location": "New Zealand",
+    "location": "Wellington, New Zealand",
     "logo": "nationals",
     "name": "Nationals New Zealand 1997",
     "standings": [
@@ -15,7 +20,11 @@
         },
         {
             "name": "Roger Miller",
-            "rank": "T4"
+            "rank": 3
+        },
+        {
+            "name": "Allan Grooby",
+            "rank": 4
         },
         {
             "name": "Damian Brown-Santirso",
@@ -26,8 +35,16 @@
             "rank": "NT"
         },
         {
-            "name": "Allan Grooby",
-            "rank": "NT"
+            "name": "Mark Simpson",
+            "rank": "T16"
+        },
+        {
+            "name": "Jonathan Aumonier",
+            "rank": "T16"
+        },
+        {
+            "name": "David Bullock",
+            "rank": "T16"
         }
     ],
     "teamsize": 1

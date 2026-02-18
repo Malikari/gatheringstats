@@ -15,39 +15,88 @@
     "standings": [
         {
             "name": "Daniel Bretherton",
-            "propoints": 10
+            "propoints": 10,
+            "money": 2000,
+            "deck": "xFS0nWE48UmMl-dFMYXmHw"
         },
         {
             "name": "Matthew Ogier",
-            "propoints": 8
+            "propoints": 8,
+            "money": 1600
         },
         {
             "name": "Jason Chung",
-            "propoints": 6
+            "propoints": 6,
+            "money": 1200
         },
         {
             "name": "Digby Carter",
-            "propoints": 6
+            "propoints": 6,
+            "money": 1200
         },
         {
             "name": "Cole Swannack",
             "propoints": 4,
-            "rank": "5-7"
+            "rank": "5-7",
+            "money": 250
         },
         {
             "name": "Gene Brumby",
             "propoints": 4,
-            "rank": "5-7"
+            "rank": 6,
+            "money": 250
         },
         {
             "name": "Scott Richards",
             "propoints": 4,
-            "rank": "5-7"
+            "rank": "5-7",
+            "money": 250
         },
         {
             "name": "Nick Tung",
             "rank": 8,
-            "propoints": 4
+            "propoints": 4,
+            "money": 250
+        },
+        {
+            "name": "Max Botkov",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Skye Li",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Andrew McIntyre",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Ivan Schroder",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Hassan Kamel",
+            "rank": "13-16",
+            "propoints": 1
+        },
+        {
+            "name": "Kelly Laird",
+            "rank": "13-16",
+            "propoints": 1
+        },
+        {
+            "name": "Eaden McKee",
+            "rank": "13-16",
+            "propoints": 1
+        },
+        {
+            "name": "Hamish Reeve",
+            "rank": "13-16",
+            "propoints": 1
         }
     ],
     "teamsize": 1   

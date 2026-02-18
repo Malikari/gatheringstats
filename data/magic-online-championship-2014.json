@@ -1,7 +1,11 @@
 {
     "type": "Mocs",
+    "topfinish": true,
+    "teamsize": 1,
+    "topn": 4,
     "coverage": "https://magic.wizards.com/en/events/coverage/mtgochamp14",
     "date": "May 15-17, 2015",
+    "season": "2014-15",
     "formats": [
         "Vintage",
         "Modern",
@@ -78,7 +82,5 @@
             "money": 4000,
             "name": "Lukas Dusek"
         }
-    ],
-    "teamsize": 1,
-    "topn": 4
+    ]
 }

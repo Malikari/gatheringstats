@@ -1,6 +1,7 @@
 {
     "type": "Nationals - South Korea",
     "date": "July 28-29, 2007",
+    "season": "2007",
     "formats": [
         "Standard",
         "Booster Draft"
@@ -13,23 +14,36 @@
     "standings": [
         {
             "money": 1200,
-            "name": "Hyun-Woo Jeong"
+            "name": "Hyun-Woo Jeong",
+            "report": [
+                "https://cafe.daum.net/magin/Ick/90",
+                "https://cafe.daum.net/magin/Ick/94",
+                "https://cafe.daum.net/magin/Ick/95"
+            ]
         },
         {
             "name": "Ji-Sang Kang",
-            "rank": "NT"
+            "money": 800
         },
         {
-            "name": "Jae-Hoon Jung",
-            "rank": "NT"
+            "name": "Jun-Hee Kang",
+            "money": 600
         },
         {
-            "name": "Ji-Young Song",
-            "rank": "NT"
+            "name": "Young-Min Yoo",
+            "money": 400
         },
         {
-            "name": "Cynic Kim",
-            "rank": "NT"
+            "name": "Bradley Yoo"
+        },
+        {
+            "name": "Sang-Woong Yoon"
+        },
+        {
+            "name": "Jae-Hoon Jeong"
+        },
+        {
+            "name": "Hyun-Il Jang"
         }
     ],
     "teamsize": 1

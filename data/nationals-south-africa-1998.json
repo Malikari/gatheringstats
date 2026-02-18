@@ -1,9 +1,14 @@
 {
     "type": "Nationals - South Africa",
+    "coverage": "https://web.archive.org/web/20010504160700/http://users.lia.net/onick/magic/r-nat98r.htm",
     "date": "June 13-14, 1998",
+    "season": "1997-98",
     "formats": [
         "Standard",
         "Sealed Deck"
+    ],
+    "structure": [
+        "sources disagree on the national champion although the one linked seems to be clear, maybe these are standings before top 8; in that case Nurse would have won and apparently the other T4 stay T4"
     ],
     "medium": "Tabletop",
     "id": "nationals-south-africa-1998",
@@ -12,20 +17,29 @@
     "name": "Nationals South Africa 1998",
     "standings": [
         {
-            "name": "Michael Nurse",
-            "rank": "NT"
-        },
-        {
-            "name": "Ruaan Marais",
-            "rank": "NT"
-        },
-        {
-            "name": "John Bromberger",
-            "rank": "NT"
+            "name": "Ruaan Marais"
         },
         {
             "name": "Kelvin Bosch",
-            "rank": "NT"
+            "report": "https://web.archive.org/web/20001002013807/http://www.thedojo.com/t983/reg.980616kbo.txt"
+        },
+        {
+            "name": "John Bromberger"
+        },
+        {
+            "name": "Michael Nurse"
+        },
+        {
+            "name": "Christopher Gibbons"
+        },
+        {
+            "name": "Andrew Monteith"
+        },
+        {
+            "name": "Joel Turner"
+        },
+        {
+            "name": "Shawn Rumble"
         }
     ],
     "teamsize": 1

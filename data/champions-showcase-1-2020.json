@@ -1,5 +1,7 @@
 {
     "type": "Champions Showcase",
+    "topfinish": true,
+    "topn": 2,
     "coverage": "https://magic.gg/events/2020-magic-online-champions-showcase-1",
     "date": "November 28, 2020",
     "season": "2020-21",
@@ -50,7 +52,7 @@
         },
         {
             "money": 5000,
-            "name": "Kim Ströh",
+            "name": "Kim Stroeh",
             "matchpoints": 3
         }
     ],

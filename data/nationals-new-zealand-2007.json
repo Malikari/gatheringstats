@@ -2,6 +2,7 @@
     "type": "Nationals - New Zealand",
     "coverage": "https://web.archive.org/web/20110724193028/http://www.gameplayer.co.nz/831a1.page",
     "date": "August 10-11, 2007",
+    "season": "2007",
     "formats": [
         "Standard",
         "Booster Draft"
@@ -13,28 +14,36 @@
     "name": "Nationals New Zealand 2007",
     "standings": [
         {
-            "name": "Kerel Laycock"
+            "name": "Kerel Laycock",
+            "money": 2000
         },
         {
-            "name": "James White"
+            "name": "James White",
+            "money": 1600
         },
         {
-            "name": "Andrew Plinston"
+            "name": "Andrew Plinston",
+            "money": 1200
         },
         {
-            "name": "Douglas Wilson"
+            "name": "Douglas Wilson",
+            "money": 1200
         },
         {
-            "name": "Charles Lee"
+            "name": "Charles Lee",
+            "money": 250
         },
         {
-            "name": "Max Botkov"
+            "name": "Max Botkov",
+            "money": 250
         },
         {
-            "name": "Daniel Bretherton"
+            "name": "Daniel Bretherton",
+            "money": 250
         },
         {
-            "name": "Luke Tsavousis"
+            "name": "Luke Tsavousis",
+            "money": 250
         }
     ],
     "teamsize": 1

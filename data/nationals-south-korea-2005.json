@@ -1,6 +1,7 @@
 {
     "type": "Nationals - South Korea",
     "date": "August 27-28, 2005",
+    "season": "2005",
     "formats": [
         "Standard",
         "Booster Draft"
@@ -12,12 +13,13 @@
     "name": "Nationals South Korea 2005",
     "standings": [
         {
-            "name": "Jun Kang",
+            "name": "Jun-Hee Kang",
             "money": 1200
         },
         {
             "name": "Martin Keding",
-            "money": 800
+            "money": 800,
+            "nationality": "KOR"
         },
         {
             "name": "Yong-pil Kim",
@@ -26,6 +28,11 @@
         {
             "name": "Hyun-Woo Jeong",
             "money": 400
+        },
+        {
+            "name": "Su-Mu Baek",
+            "rank": 6,
+            "report": "https://cafe.daum.net/magin/JUX/14584"
         }
     ],
     "teamsize": 1

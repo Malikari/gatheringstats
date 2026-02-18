@@ -1,5 +1,6 @@
 {
     "type": "Nationals - South Africa",
+    "coverage": "https://web.archive.org/web/20081009031530/http://www.luckshack.co.za/article_info.php?articles_id=33",
     "date": "September 6-7, 2008",
     "season": "2008",
     "formats": [
@@ -13,22 +14,76 @@
     "name": "Nationals South Africa 2008",
     "standings": [
         {
-            "name": "Adam Katz",
+            "name": "Adam Katz (ZAF)",
             "propoints": 10
         },
         {
+            "name": "John Wood",
+            "propoints": 8
+        },
+        {
+            "name": "Michael Strauss",
+            "propoints": 6
+        },
+        {
+            "name": "Andrew Klein",
+            "propoints": 6
+        },
+        {
             "name": "Dale Fienberg",
-            "rank": 5,
+            "propoints": 4
+        },
+        {
+            "name": "Peter Lee",
             "propoints": 4
         },
         {
             "name": "Marvin Hsiao",
-            "rank": 7,
             "propoints": 4
         },
         {
-            "name": "Seraj Haroun",
+            "name": "Michael Nurse",
             "propoints": 4
+        },
+        {
+            "name": "Kaloyan Petkov",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Seraj Haroun",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Michael Redford",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Colin Bosman",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Christopher Gibbons",
+            "rank": "13-16",
+            "propoints": 1
+        },
+        {
+            "name": "Albie Janse van Rensburg",
+            "rank": "13-16",
+            "propoints": 1
+        },
+        {
+            "name": "Hang-Kin Leung",
+            "rank": "13-16",
+            "propoints": 1
+        },
+        {
+            "name": "Thinus Pieters",
+            "rank": "13-16",
+            "propoints": 1
         }
     ],
     "teamsize": 1   

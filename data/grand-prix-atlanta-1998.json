@@ -1,6 +1,6 @@
 {
     "type": "Grand Prix",
-    "coverage": "https://magic.wizards.com/en/events/coverage/gpatl98",
+    "coverage": "https://web.archive.org/web/20030818084906/http://www.wizards.com/sideboard/article.asp?x=results/GPATLANTA98",
     "date": "March 27-28, 1998",
     "season": "1997-98",
     "formats": [
@@ -16,7 +16,9 @@
         {
             "money": 1700,
             "name": "Randy Buehler",
-            "propoints": 6
+            "propoints": 6,
+            "report": "https://classicdojo.org/t982/gpa.980403rbu.txt",
+            "deck": "OmyOg7AFg0uPzcMWwuzYWA"
         },
         {
             "money": 1200,
@@ -51,7 +53,8 @@
         {
             "money": 375,
             "name": "Chris Donahoe",
-            "propoints": 3
+            "propoints": 3,
+            "report": "https://classicdojo.org/t982/gpa.980331cdo.txt"
         },
         {
             "money": 250,

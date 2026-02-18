@@ -1,12 +1,14 @@
 {
     "type": "Nationals - New Zealand",
-    "date": "January 1-July 31, 1998",
+    "date": "May 29-30, 1998",
+    "season": "1997-98",
     "formats": [
-        "unknown"
+        "Standard",
+        "Sealed Deck"
     ],
     "medium": "Tabletop",
     "id": "nationals-new-zealand-1998",
-    "location": "New Zealand",
+    "location": "Christchurch, New Zealand",
     "logo": "nationals",
     "name": "Nationals New Zealand 1998",
     "standings": [
@@ -14,19 +16,21 @@
             "name": "Mark Simpson"
         },
         {
-            "name": "Christopher Wilson",
-            "rank": "2-8"
+            "name": "Christopher Wilson"
         },
         {
-            "name": "David Bocock",
-            "rank": "2-8"
+            "name": "Jonathan Aumonier"
         },
         {
-            "name": "Jonathan Aumonier",
-            "rank": "2-8"
+            "name": "David Bocock"
         },
         {
             "name": "Eoin Gibb"
+        },
+        {
+            "name": "Simon Connell",
+            "rank": 19,
+            "report": "https://classicdojo.org/t983/reg.980606sco.txt"
         }
     ],
     "teamsize": 1

@@ -1,7 +1,8 @@
 {
     "type": "Grand Prix",
-    "coverage": "https://magic.wizards.com/en/events/coverage/gpbris04",
+    "coverage": "https://web.archive.org/web/20041204043312/http://www.wizards.com/default.asp?x=mtgevent/gpbris04/welcome",
     "date": "November 13-14, 2004",
+    "season": "2005",
     "formats": [
         "Sealed Deck",
         "Rochester Draft"
@@ -63,7 +64,7 @@
             "propoints": 2
         },
         {
-            "money": 500,
+            "money": 2000,
             "name": "Jim Bandas",
             "propoints": 2
         },
@@ -73,7 +74,7 @@
             "propoints": 2
         },
         {
-            "money": 500,
+            "money": 1500,
             "name": "Anthony Purdom",
             "propoints": 2
         },
@@ -83,7 +84,7 @@
             "propoints": 2
         },
         {
-            "money": 500,
+            "money": 1200,
             "name": "Daniel Piechnick",
             "propoints": 2
         },
@@ -93,7 +94,7 @@
             "propoints": 2
         },
         {
-            "money": 250,
+            "money": 950,
             "name": "Shaun Hayward",
             "propoints": 1
         },
@@ -113,12 +114,12 @@
             "propoints": 1
         },
         {
-            "money": 250,
+            "money": 650,
             "name": "Paul Batum",
             "propoints": 1
         },
         {
-            "money": 250,
+            "money": 650,
             "name": "Luke Bagnall",
             "propoints": 1
         },
@@ -128,7 +129,7 @@
             "propoints": 1
         },
         {
-            "money": 250,
+            "money": 650,
             "name": "Thomas Twigg",
             "propoints": 1
         },
@@ -138,7 +139,7 @@
             "propoints": 1
         },
         {
-            "money": 250,
+            "money": 650,
             "name": "Kris Goding",
             "propoints": 1
         },
@@ -148,7 +149,7 @@
             "propoints": 1
         },
         {
-            "money": 250,
+            "money": 500,
             "name": "Winston Yip",
             "propoints": 1
         },
@@ -158,7 +159,7 @@
             "propoints": 1
         },
         {
-            "money": 250,
+            "money": 500,
             "name": "David Crewe",
             "propoints": 1
         },
@@ -168,9 +169,33 @@
             "propoints": 1
         },
         {
-            "money": 250,
+            "money": 500,
             "name": "Early Nguyen",
             "propoints": 1
+        },
+        {
+            "money": 250,
+            "name": "James Pirie"
+        },
+        {
+            "money": 250,
+            "name": "Garth Lake",
+            "rank": 35
+        },
+        {
+            "money": 250,
+            "name": "Ryan Michel",
+            "rank": 37
+        },
+        {
+            "money": 250,
+            "name": "John-Paul Kelly",
+            "rank": 38
+        },
+        {
+            "money": 250,
+            "name": "Benjamin West",
+            "rank": 39
         }
     ],
     "teamsize": 1

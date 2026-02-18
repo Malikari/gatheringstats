@@ -1,9 +1,13 @@
 {
     "type": "Nationals - Sweden",
     "date": "May 16-19, 1997",
+    "season": "1996-97",
     "formats": [
         "Standard",
         "?"
+    ],
+    "structure": [
+        "Cut to Top 4"
     ],
     "medium": "Tabletop",
     "id": "nationals-sweden-1997",
@@ -22,6 +26,15 @@
         },
         {
             "name": "Johan Cedercrantz"
+        },
+        {
+            "name": "Leon Lindbäck"
+        },
+        {
+            "name": "Johan Disenborg"
+        },
+        {
+            "name": "Mikael Magnusson"
         }
     ],
     "teamsize": 1

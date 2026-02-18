@@ -2,6 +2,7 @@
     "type": "Nationals - Mexico",
     "coverage": "https://web.archive.org/web/20020302011728/http://www.wizards.com/sideboard/article.asp?x=sb20010411a",
     "date": "April 7-8, 2001",
+    "season": "2000-01",
     "formats": [
         "Standard",
         "Rochester Draft"
@@ -14,7 +15,8 @@
     "standings": [
         {
             "money": 1700,
-            "name": "Francisco Barboza"
+            "name": "Francisco Barboza",
+            "deck": "FP7DMoZnMEGaWh91TUg7CA"
         },
         {
             "money": 1000,
@@ -43,6 +45,11 @@
         {
             "money": 250,
             "name": "Yosef Abadi"
+        },
+        {
+            "name": "Enric Rodamilans",
+            "rank": "P",
+            "report": "https://web.archive.org/web/20010611072517/http://www.monkeymagic.com.mx/columnas/EN20010508Nacional.html"
         }
     ],
     "teamsize": 1

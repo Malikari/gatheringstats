@@ -2,6 +2,7 @@
     "type": "Grand Prix",
     "coverage": "https://magic.wizards.com/en/events/coverage/gplis02",
     "date": "January 19-20, 2002",
+    "season": "2001-02",
     "formats": [
         "Extended"
     ],
@@ -79,7 +80,8 @@
         {
             "money": 500,
             "name": "Tiago Chan",
-            "propoints": 2
+            "propoints": 2,
+            "report": "https://web.archive.org/web/20021222224417/http://www.portalmtg.com/reports/report090.htm"
         },
         {
             "money": 500,
@@ -94,7 +96,8 @@
         {
             "money": 250,
             "name": "Paulo Cardona",
-            "propoints": 1
+            "propoints": 1,
+            "report": "https://web.archive.org/web/20021222224417/http://www.portalmtg.com/reports/report087.htm"
         },
         {
             "money": 250,
@@ -170,6 +173,41 @@
             "money": 250,
             "name": "Jesus Bernabeu-Edo",
             "propoints": 1
+        },
+        {
+            "name": "Renato Graca",
+            "report": "https://web.archive.org/web/20021222224417/http://www.portalmtg.com/reports/report083.htm",
+            "rank": "P"
+        },
+        {
+            "name": "Carlos Paiva",
+            "report": "https://web.archive.org/web/20021107041020/http://www.portalmtg.com/reports/report089.htm",
+            "rank": "P"
+        },
+        {
+            "name": "Joao Duarte",
+            "report": "https://web.archive.org/web/20021107042237/http://www.portalmtg.com/reports/report091.htm",
+            "rank": "P"
+        },
+        {
+            "name": "Alexandre Braga",
+            "report": "https://web.archive.org/web/20021107042847/http://www.portalmtg.com/reports/report093.htm",
+            "rank": "P"
+        },
+        {
+            "name": "Duarte Fernendes",
+            "report": "https://web.archive.org/web/20020823001605/http://www.portalmtg.com/reports/report086.htm",
+            "rank": "P"
+        },
+        {
+            "name": "Jorge Guimaraes",
+            "report": "https://web.archive.org/web/20021222224417/http://www.portalmtg.com/reports/report088.htm",
+            "rank": "P"
+        },
+        {
+            "name": "Hugo Manteigueiro",
+            "report": "https://web.archive.org/web/20030129105110/http://portalmtg.com/reports/report092.htm",
+            "rank": "P"
         }
     ],
     "teamsize": 1

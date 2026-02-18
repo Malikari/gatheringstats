@@ -14,10 +14,13 @@
     "standings": [
         {
             "name": "Jun Hee Kang",
-            "propoints": 10
+            "propoints": 10,
+            "money": 1200,
+            "deck": "sDJ_GKunGESqGr_qfI4fQg"
         },
         {
             "name": "Hee-Jai Choi",
+            "money": 800,
             "propoints": 8
         },
         {
@@ -27,10 +30,11 @@
         },
         {
             "name": "Jun-Young Lee",
+            "money": 400,
             "propoints": 6
         },
         {
-            "name": "Jung Ga-Ram",
+            "name": "Ga-Ram Jeong",
             "propoints": 4
         },
         {
@@ -42,8 +46,47 @@
             "propoints": 4
         },
         {
+            "name": "Ji-Young Song",
+            "propoints": 4
+        },
+        {
+            "name": "Jin-Geol Jeong",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Jaegon Kim",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Min-Soo Kim",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Oh-Hong Kwon",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Park Jun-Young",
+            "rank": "13-16",
+            "propoints": 1
+        },
+        {
+            "name": "Jun-Hyup Kim",
+            "rank": "13-16",
+            "propoints": 1
+        },
+        {
             "name": "Nam Sung-Wook",
-            "rank": 11,
+            "rank": 15,
+            "propoints": 1
+        },
+        {
+            "name": "Min-Young Park",
+            "rank": "13-16",
             "propoints": 1
         }
     ],

@@ -1,18 +1,21 @@
 {
     "type": "Nationals - Switzerland",
+    "coverage": "https://web.archive.org/web/20030901123721/http://www.sammelkartenspiele.ch:80/sites_mitte/sm_mag/tournaments/2003/nationals/coverage.html",
     "date": "May 31-June 1, 2003",
+    "season": "2002-03",
     "formats": [
         "Standard",
         "Rochester Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-switzerland-2003",
-    "location": "Switzerland",
+    "location": "Yverdon, Switzerland",
     "logo": "nationals",
     "name": "Nationals Switzerland 2003",
     "standings": [
         {
-            "name": "Andrea Curti"
+            "name": "Andrea Curti",
+            "deck": "UudgOivBbUy98JlibPvQrQ"
         },
         {
             "name": "Yves Sele"
@@ -34,6 +37,11 @@
         },
         {
             "name": "Raphaël Gennari"
+        },
+        {
+            "name": "Roger Leu",
+            "rank": 19,
+            "report": "https://web.archive.org/web/20031106123048/http://www.sammelkartenspiele.ch/sites_mitte/sm_mag/stories/2003/leu/nationals%202003.html"
         }
     ],
     "teamsize": 1

@@ -15,11 +15,21 @@ export const filterOnlyNationals = item => (/Nationals/.test(item.type) || item.
 
 export const filterOnlyGrandPrix = item => (item.type === 'Grand Prix' || item.type === 'Magic Spotlight');
 
-export const filterOnlyOtherTournaments = item => (item.type !== 'Pro Tour' && item.type !== 'World Championships' && item.type !== 'WMC' && item.type !== 'Magic Spotlight' && item.type !== 'Grand Prix' && !/Nationals/.test(item.type) && item.medium !== 'Arena' && item.medium !== 'Magic Online' && item.type !== 'Asia Pacific Championship' && item.type !== 'European Championship' && item.type !== 'Latin America Championship');
+export const filterOnlyMasters = item => item.type === 'Masters';
+
+export const filterOnlyJuniors = item => ['Junior Super Series', 'Junior Pro Tour'].includes(item.type);
+
+export const filterOnlyOtherTournaments = item => (item.type !== 'Pro Tour' && item.type !== 'World Championships' && item.type !== 'Masters' && item.type !== 'Invitational'  && item.type !== 'Junior Pro Tour' && item.type !== 'Junior Super Series' && item.type !== 'WMC' && item.type !== 'Magic Spotlight' && item.type !== 'Grand Prix' && !/Nationals/.test(item.type) && item.medium !== 'Arena' && item.medium !== 'Magic Online' && item.type !== 'Asia Pacific Championship' && item.type !== 'European Championship' && item.type !== 'Latin America Championship' && item.type !== 'Regional Championship' && item.type !== 'Eternal Championships - Legacy' && item.type !== 'Eternal Championships - Vintage');
 
 export const filterOnlyArena = item => item.medium === 'Arena';
 
 export const filterOnlyMagicOnline = item => item.medium === 'Magic Online';
+
+export const filterOnlyRegionals = item => item.type === 'Regional Championship';
+
+export const filterOnlyInvitational = item => item.type === 'Invitational';
+
+export const filterOnlyEternals = item => ['Eternal Championships - Legacy', 'Eternal Championships - Vintage'].includes(item.type);
 
 export const nationGroups = {
   "Argentina": ['Argentina'],
@@ -46,6 +56,7 @@ export const nationGroups = {
   "Estonia": ['Estonia'],
   "Finland": ['Finland'],
   "France": ['France'],
+  "Georgia": ['Georgia'],
   "Germany": ['Germany'],
   "Greece": ['Greece'],
   "Guatemala": ['Guatemala'],
@@ -62,6 +73,7 @@ export const nationGroups = {
   "Lithuania": ['Lithuania'],
   "Luxembourg": ['Luxembourg'],
   "Macedonia": ['Macedonia (the former Yugoslav Republic of)'],
+  "Macau": ['Macao'],
   "Malaysia": ['Malaysia'],
   "Mexico": ['Mexico'],
   "Netherlands": ['Netherlands'],
@@ -97,11 +109,11 @@ export const nationGroups = {
   "Wales": ['Wales'],
   
   "Americas": ['Argentina', 'Bolivia (Plurinational State of)', 'Brazil', 'Canada', 'Chile', 'Colombia', 'Costa Rica', 'Dominican Republic', 'Ecuador', 'El Salvador', 'Guatemala', 'Mexico', 'Panama', 'Peru', 'Puerto Rico', 'United States of America', 'Uruguay', 'Venezuela (Bolivarian Republic of)'],
-  "Asia": ['China', 'Hong Kong', 'Indonesia', 'Kazakhstan', 'Malaysia', 'Philippines', 'Singapore', 'Korea (Republic of)', 'Taiwan, Province of China', 'Thailand', 'United Arab Emirates'],
+  "Asia": ['China', 'Hong Kong', 'Indonesia', 'Kazakhstan', 'Macao', 'Malaysia', 'Philippines', 'Singapore', 'Korea (Republic of)', 'Taiwan, Province of China', 'Thailand', 'United Arab Emirates'],
   "North America": ['Canada', 'United States of America'],
   "Central America": ['Costa Rica', 'El Salvador', 'Guatemala', 'Panama'],
   "South America": ['Argentina', 'Bolivia (Plurinational State of)', 'Brazil', 'Chile', 'Colombia', 'Ecuador', 'Peru', 'Uruguay', 'Venezuela (Bolivarian Republic of)'],
-  "Europe": ['Austria', 'Belarus', 'Belgium', 'Bulgaria', 'Croatia', 'Cyprus', 'Czech Republic', 'Denmark', 'England', 'Estonia', 'Finland', 'France', 'Germany', 'Greece', 'Hungary', 'Iceland', 'Ireland', 'Italy', 'Latvia', 'Lithuania', 'Luxembourg', 'Macedonia (the former Yugoslav Republic of)', 'Netherlands', 'Northern Ireland', 'Norway', 'Poland', 'Portugal', 'Romania', 'Russian Federation', 'Scotland', 'Serbia', 'Slovakia', 'Slovenia', 'Spain', 'Sweden', 'Switzerland', 'Turkey', 'Ukraine', 'Wales'],
+  "Europe": ['Austria', 'Belarus', 'Belgium', 'Bulgaria', 'Croatia', 'Cyprus', 'Czech Republic', 'Denmark', 'England', 'Estonia', 'Finland', 'France', 'Georgia', 'Germany', 'Greece', 'Hungary', 'Iceland', 'Ireland', 'Italy', 'Latvia', 'Lithuania', 'Luxembourg', 'Macedonia (the former Yugoslav Republic of)', 'Netherlands', 'Northern Ireland', 'Norway', 'Poland', 'Portugal', 'Romania', 'Russian Federation', 'Scotland', 'Serbia', 'Slovakia', 'Slovenia', 'Spain', 'Sweden', 'Switzerland', 'Turkey', 'Ukraine', 'Wales'],
 
   "EU": ['Austria', 'Belgium', 'Bulgaria', 'Croatia', 'Cyprus', 'Czech Republic', 'Denmark', 'Estonia', 'Finland', 'France', 'Germany', 'Greece', 'Hungary', 'Ireland', 'Italy', 'Latvia', 'Lithuania', 'Luxembourg', 'Netherlands', 'Poland', 'Portugal', 'Romania', 'Slovakia', 'Slovenia', 'Spain', 'Sweden'],
   "Latin America": ['Argentina', 'Bolivia (Plurinational State of)', 'Brazil', 'Chile', 'Colombia', 'Costa Rica', 'Dominican Republic', 'Ecuador', 'El Salvador', 'Guatemala', 'Mexico', 'Panama', 'Peru', 'Puerto Rico', 'Uruguay', 'Venezuela (Bolivarian Republic of)'],
@@ -112,3 +124,38 @@ export const nationGroups = {
   "Scandinavia": ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden'],
   "United Kingdom": ['England', 'Northern Ireland', 'Scotland', 'Wales']
 };
+
+export const seasons = [
+  "",
+  "1996",
+  "1996-97",
+  "1997-98",
+  "1998-99",
+  "1999-2000",
+  "2000-01",
+  "2001-02",
+  "2002-03",
+  "2003-04",
+  "2005",
+  "2006",
+  "2007",
+  "2008",
+  "2009",
+  "2010",
+  "2011",
+  "2012",
+  "2012-13",
+  "2013-14",
+  "2014-15",
+  "2015-16",
+  "2016-17",
+  "2017-18",
+  "2018-19",
+  "2020",
+  "2020-21",
+  "2021-22",
+  "2022-23",
+  "2023-24",
+  "2024-25",
+  "2025-26"
+];

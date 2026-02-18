@@ -5,7 +5,7 @@
     "season": "1997-98",
     "formats": [
         "Sealed Deck",
-        "Draft"
+        "Booster Draft"
     ],
     "medium": "Tabletop",
     "id": "grand-prix-indianapolis-1998",
@@ -16,12 +16,14 @@
         {
             "money": 1700,
             "name": "Eric Jordan",
-            "propoints": 6
+            "propoints": 6,
+            "deck": "5BP2FkZBXUeMyEfkELge4A"
         },
         {
             "money": 1200,
             "name": "Koby Kennison",
-            "propoints": 5
+            "propoints": 5,
+            "report": "https://classicdojo.org/t983/gp.980629kke.txt"
         },
         {
             "money": 600,
@@ -41,12 +43,14 @@
         {
             "money": 375,
             "name": "Michael Katz",
-            "propoints": 3
+            "propoints": 3,
+            "report": "https://classicdojo.org/t983/gp.980702mka.txt"
         },
         {
             "money": 375,
             "name": "Ryan Roe",
-            "propoints": 3
+            "propoints": 3,
+            "report": "https://classicdojo.org/t983/gp.980630rro.txt"
         },
         {
             "money": 375,

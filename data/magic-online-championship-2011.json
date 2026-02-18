@@ -1,7 +1,12 @@
 {
     "type": "Mocs",
+    "topfinish": true,
+    "teamsize": 1,
+    "topn": 2,
+    "topfinishcut": 4,
     "coverage": "https://magic.wizards.com/en/events/coverage/2011wc",
     "date": "December 18-20, 2011",
+    "season": "2011",
     "formats": [
         "Standard",
         "Draft",
@@ -61,7 +66,5 @@
             "money": 4000,
             "name": "Benny Soewanda"
         }
-    ],
-    "teamsize": 1,
-    "topn": 2
+    ]
 }

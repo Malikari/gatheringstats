@@ -2,6 +2,7 @@
     "type": "Grand Prix",
     "coverage": "https://magic.wizards.com/en/events/coverage/gppra03",
     "date": "April 12-13, 2003",
+    "season": "2002-03",
     "formats": [
         "Sealed Deck",
         "Booster Draft"
@@ -30,7 +31,8 @@
         {
             "money": 1000,
             "name": "David Jensen",
-            "propoints": 4
+            "propoints": 4,
+            "report": "https://web.archive.org/web/20050310045615/http://www.manapool.dk/nyheder.asp?id=48"
         },
         {
             "money": 800,

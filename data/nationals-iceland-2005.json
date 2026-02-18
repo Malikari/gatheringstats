@@ -1,18 +1,26 @@
 {
     "type": "Nationals - Iceland",
     "date": "January 1-September 11, 2005",
+    "season": "2005",
     "formats": [
         "Standard",
         "Booster Draft"
     ],
     "medium": "Tabletop",
     "id": "nationals-iceland-2005",
-    "location": "Iceland",
+    "location": "Reykjavik, Iceland",
     "logo": "nationals",
     "name": "Nationals Iceland 2005",
     "standings": [
         {
-            "name": "Guðbjörn Einarsson"
+            "name": "Gudbjoern Einarsson"
+        },
+        {
+            "name": "Ragnar Már Kjartansson"
+        },
+        {
+            "name": "Stefán Friðriksson",
+            "rank": "SF"
         }
     ],
     "teamsize": 1

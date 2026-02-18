@@ -2,6 +2,7 @@
     "type": "Nationals - Denmark",
     "coverage": "https://www.danskmagic.com/artiklar/index.php?ID=688&user=27433",
     "date": "May 31-June 1, 2003",
+    "season": "2002-03",
     "formats": [
         "Standard",
         "Rochester Draft"
@@ -13,10 +14,13 @@
     "name": "Nationals Denmark 2003",
     "standings": [
         {
-            "name": "Stefan Petersen"
+            "name": "Stefan Petersen",
+            "report": "https://web.archive.org/web/20050218164649/http://www.manapool.dk/nyheder.asp?id=120",
+            "deck": "3T4bWMRUhE6gGuzhgk7OTg"
         },
         {
-            "name": "Nis Berthelsen"
+            "name": "Nis Berthelsen",
+            "report": "https://web.archive.org/web/20050216212217/http://www.manapool.dk/nyheder.asp?id=112"
         },
         {
             "name": "Jonas Cleemann"
@@ -28,13 +32,20 @@
             "name": "Jakob Steinaa"
         },
         {
-            "name": "Lasse Nørgaard"
+            "name": "Lasse Norgaard"
         },
         {
-            "name": "Kasper Dahl"
+            "name": "Kasper Dahl",
+            "report": "https://web.archive.org/web/20041229190551/http://www.manapool.dk/nyheder.asp?id=125"
         },
         {
-            "name": "Magnus Christensen"
+            "name": "Magnus Christensen",
+            "report": "https://web.archive.org/web/20050214201031/http://www.manapool.dk/nyheder.asp?id=122"
+        },
+        {
+            "name": "Jakob Vestergaard",
+            "rank": 20,
+            "report": "https://web.archive.org/web/20041229190929/http://www.manapool.dk/nyheder.asp?id=130"
         }
     ],
     "teamsize": 1

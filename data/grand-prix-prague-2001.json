@@ -2,6 +2,7 @@
     "type": "Grand Prix",
     "coverage": "https://magic.wizards.com/en/events/coverage/gppra01",
     "date": "March 10-11, 2001",
+    "season": "2000-01",
     "formats": [
         "Sealed Deck",
         "Booster Draft"
@@ -70,7 +71,8 @@
         {
             "money": 500,
             "name": "Rui Mariani",
-            "propoints": 2
+            "propoints": 2,
+            "report": "https://web.archive.org/web/20020809005304fw_/http://www.clubealtamente.com/oldpage/magic/mtg-rprt009.htm"
         },
         {
             "money": 500,

@@ -1,5 +1,6 @@
 {
     "type": "Nationals - South Korea",
+    "coverage": "https://web.archive.org/web/20120924093431/http://www.zikuin.net/2010National.html",
     "date": "August 21-22, 2010",
     "season": "2010",
     "formats": [
@@ -14,19 +15,80 @@
     "standings": [
         {
             "name": "Hyun-Woo Jeong",
-            "propoints": 10
+            "money": 1000,
+            "propoints": 10,
+            "deck": "EDS1-J4LrkSWFA5VveBf7w"
         },
         {
             "name": "Tae-Sun Yoon",
+            "money": 500,
             "propoints": 8
         },
         {
             "name": "Park Jun-Young",
+            "money": 250,
             "propoints": 6
         },
         {
             "name": "Eric Klug",
+            "money": 250,
             "propoints": 6
+        },
+        {
+            "name": "Joe Waller",
+            "propoints": 4
+        },
+        {
+            "name": "Won Dae-hoon",
+            "propoints": 4
+        },
+        {
+            "name": "Ji-Young Song",
+            "propoints": 4
+        },
+        {
+            "name": "Ji-Hoon Lee",
+            "propoints": 4
+        },
+        {
+            "name": "Won-Seok Heo",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Yong-Pil Kim",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Jang-Hong Kim",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Ju-Min Lee",
+            "rank": "9-12",
+            "propoints": 2
+        },
+        {
+            "name": "Young-Jin Kim",
+            "rank": "13-16",
+            "propoints": 1
+        },
+        {
+            "name": "Ki-PPeum Lee",
+            "rank": "13-16",
+            "propoints": 1
+        },
+        {
+            "name": "Hojae Han",
+            "rank": "13-16",
+            "propoints": 1
+        },
+        {
+            "name": "Jeong-Woo Cho",
+            "rank": "13-16",
+            "propoints": 1
         }
     ],
     "teamsize": 1   

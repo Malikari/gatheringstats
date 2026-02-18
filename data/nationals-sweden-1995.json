@@ -1,29 +1,44 @@
 {
     "type": "Nationals - Sweden",
+    "coverage": "https://www.svenskamagic.com/lekladan/index.php?tour=6041",
     "date": "June 3-4, 1995",
+    "season": "formative era",
     "formats": [
-        "unknown"
+        "Standard"
     ],
     "medium": "Tabletop",
     "id": "nationals-sweden-1995",
-    "location": "Linköpping, Sweden",
+    "location": "Linköping, Sweden",
     "logo": "nationals",
     "name": "Nationals Sweden 1995",
     "standings": [
         {
-            "name": "Dan Horning"
+            "name": "Dan Hörning",
+            "deck": "-l0ErRkdE0ye3UninMV5tg"
         },
         {
-            "name": "Leon Lindbäck",
-            "rank": "NT"
+            "name": "Leon Lindbäck"
         },
         {
-            "name": "Neil Guthrie",
-            "rank": "NT"
+            "name": "Neil Guthrie"
         },
         {
-            "name": "Anderson",
-            "rank": "NT"
+            "name": "Johan Andersson"
+        },
+        {
+            "name": "Tomas Larsson"
+        },
+        {
+            "name": "Mattias Svendsen"
+        },
+        {
+            "name": "Robert Thomson"
+        },
+        {
+            "name": "Håkan Oswaldsson"
+        },
+        {
+            "name": "Olle Rade"
         }
     ],
     "teamsize": 1

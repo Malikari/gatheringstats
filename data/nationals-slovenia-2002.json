@@ -1,6 +1,7 @@
 {
     "type": "Nationals - Slovenia",
     "date": "May 4-5, 2002",
+    "season": "2001-02",
     "formats": [
         "Standard",
         "Booster Draft"
@@ -12,7 +13,36 @@
     "name": "Nationals Slovenia 2002",
     "standings": [
         {
-            "name": "Primoz Lavs"
+            "name": "Primoz Lavs",
+            "report": "https://web.archive.org/web/20070915090359/http://www.irts.si/magic/html/reporti/lavsnats2k2report.htm"
+        },
+        {
+            "name": "Anze Avsec"
+        },
+        {
+            "name": "Andrej Rizner",
+            "rank": "SF"
+        },
+        {
+            "name": "Andrej Renko",
+            "rank": "SF"
+        },
+        {
+            "name": "Andrej Brglez"
+        },
+        {
+            "name": "Rok Planinc"
+        },
+        {
+            "name": "Martin Flajs"
+        },
+        {
+            "name": "Matevs Asic"
+        },
+        {
+            "name": "Aljaz Ivancic",
+            "rank": 13,
+            "report": "https://web.archive.org/web/20031114150645/http://www.irts.si/magic/html/prispevki/featurearticles/faa43.htm"
         }
     ],
     "teamsize": 1

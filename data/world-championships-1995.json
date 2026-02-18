@@ -1,13 +1,15 @@
 {
     "type": "World Championships",
-    "_comment": "other competitors unknown",
     "coverage": "http://magic.wizards.com/en/events/coverage/1995wc",
     "date": "August 4-6, 1995",
+    "season": "formative era",
     "formats": [
         "Sealed Deck",
         "Standard"
     ],
     "structure": [
+        "Day 1: 5 rounds of Sealed Deck (2x 4th Edition Starter, 1x 4th Edition Booster, 4x Fallen Empires Booster, 1x Ice Age Booster)",
+        "Day 2: 5 rounds (Standard)",
         "Top 8: Bo5 Single Elimination"
     ],
     "medium": "Tabletop",
@@ -205,7 +207,7 @@
             "rank": "Attended (9+)"
         },
         {
-            "name": "Anderson",
+            "name": "Johan Andersson",
             "rank": "Attended (9+)"
         },
         {

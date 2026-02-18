@@ -1,6 +1,7 @@
 {
     "type": "Nationals - Dominican Republic",
     "date": "September 14, 2008",
+    "season": "2008",
     "formats": [
         "Standard",
         "Booster Draft"
@@ -12,13 +13,59 @@
     "name": "Nationals Dominican Republic 2008",
     "standings": [
         {
+            "name": "Ruddy Ivan Jimenez",
+            "propoints": 10
+        },
+        {
+            "name": "Luis Geara Reyes",
+            "propoints": 8
+        },
+        {
+            "name": "Felix Osvaldo Rodriguez Acosta",
+            "propoints": 6
+        },
+        {
+            "name": "Omar Bonilla",
+            "propoints": 6
+        },
+        {
             "name": "Michael Lopez",
             "rank": 6,
             "propoints": 4
         },
         {
+            "name": "Ricardo Cuesta",
+            "rank": "QF",
+            "propoints": 4
+        },
+        {
+            "name": "Argeni Lizardo",
+            "rank": "QF",
+            "propoints": 4
+        },
+        {
+            "name": "Etienne Martinez",
+            "rank": "QF",
+            "propoints": 4
+        },
+        {
             "name": "Leon Guzman",
             "rank": 9,
+            "propoints": 2
+        },
+        {
+            "name": "Maximo Contreras",
+            "rank": "10-12",
+            "propoints": 2
+        },
+        {
+            "name": "Cristofe Jimenez",
+            "rank": "10-12",
+            "propoints": 2
+        },
+        {
+            "name": "Manuel Parra Leger",
+            "rank": "10-12",
             "propoints": 2
         },
         {
@@ -29,6 +76,16 @@
         {
             "name": "Elvin Abreu",
             "rank": 14,
+            "propoints": 1
+        },
+        {
+            "name": "Jordan Lizardo",
+            "rank": "13-16",
+            "propoints": 1
+        },
+        {
+            "name": "Robert Alexander Sanchez Llaverias",
+            "rank": "13-16",
             "propoints": 1
         }
     ],
