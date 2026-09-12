@@ -36,7 +36,7 @@ function normalizeName(name, path) {
   let result = name;
 
   for (const rule of preparedRules) {
-    if (result.includes(rule.canonical)) {
+    if (result === rule.canonical) {
       continue;
     }
     for (const variant of rule.variants) {

@@ -1,5 +1,6 @@
 {
     "type": "Nationals - Chile",
+    "coverage": "https://web.archive.org/web/20040826123314/http://www.magicchile.cl/noticiashome/Nacional-Magic_04/1.htm",
     "date": "June 26-27, 2004",
     "season": "2003-04",
     "formats": [
@@ -14,7 +15,8 @@
     "standings": [
         {
             "name": "Waldemar Barrientos",
-            "money": 1700
+            "money": 1700,
+            "deck": "Tb3Mt76LrkSI1an3iVJ-Gw"
         },
         {
             "name": "Andres Pablo Hojman Cruz",
@@ -29,8 +31,19 @@
             "money": 650
         },
         {
-            "name": "Ignacio Sanchez",
-            "rank": 9
+            "name": "Francisco Varela"
+        },
+        {
+            "name": "Simon Quinteros"
+        },
+        {
+            "name": "Gonzalo Yunge"
+        },
+        {
+            "name": "Cristian Lagos"
+        },
+        {
+            "name": "Ignacio Sanchez"
         },
         {
             "name": "Rafael Le Saux",
