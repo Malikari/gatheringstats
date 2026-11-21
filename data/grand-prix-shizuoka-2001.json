@@ -1,11 +1,11 @@
 {
     "type": "Grand Prix",
-    "coverage": "https://magic.wizards.com/en/events/coverage/gpshi01",
+    "coverage": "https://web.archive.org/web/20031210071658/http://www.wizards.com/sideboard/event.asp?event=GPSHI01",
     "date": "October 13-14, 2001",
     "season": "2001-02",
     "formats": [
         "Sealed Deck",
-        "Booster Draft"
+        "Rochester Draft"
     ],
     "medium": "Tabletop",
     "id": "grand-prix-shizuoka-2001",
@@ -16,7 +16,8 @@
         {
             "money": 2400,
             "name": "Kouhei Yamadaya",
-            "propoints": 6
+            "propoints": 6,
+            "deck": "4m5OOBVrGUeQ8f29FrTpuA"
         },
         {
             "money": 1700,

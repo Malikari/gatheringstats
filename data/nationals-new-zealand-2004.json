@@ -1,5 +1,6 @@
 {
     "type": "Nationals - New Zealand",
+    "coverage": "https://web.archive.org/web/20070630210015/http://www.wizards.com/default.asp?x=mtgcom/daily/ash22",
     "date": "July 3-4, 2004",
     "season": "2003-04",
     "formats": [
@@ -14,7 +15,8 @@
     "standings": [
         {
             "name": "Richard Grace",
-            "money": 1600
+            "money": 1600,
+            "deck": "CVFpeSZ3_06Fub7ZMQPdyQ"
         },
         {
             "name": "Roger Miller",
@@ -27,6 +29,22 @@
         {
             "name": "Cole Swannack",
             "money": 500
+        },
+        {
+            "name": "Brett Rogers",
+            "rank": "QF"
+        },
+        {
+            "name": "Nico Johnston",
+            "rank": "QF"
+        },
+        {
+            "name": "Dion Stratford",
+            "rank": "QF"
+        },
+        {
+            "name": "Paul Carson",
+            "rank": "QF"
         }
     ],
     "teamsize": 1

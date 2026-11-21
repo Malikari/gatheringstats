@@ -5,7 +5,7 @@
     "season": "2001-02",
     "formats": [
         "Sealed Deck",
-        "Booster Draft"
+        "Rochester Draft"
     ],
     "medium": "Tabletop",
     "id": "grand-prix-hong-kong-2001",
@@ -16,7 +16,8 @@
         {
             "money": 2400,
             "name": "Jeffrey Fung",
-            "propoints": 6
+            "propoints": 6,
+            "deck": "MDQN8hmmM0ivJd14i0ueIw"
         },
         {
             "money": 1700,
@@ -175,15 +176,18 @@
         },
         {
             "name": "Siu Tung Ma",
-            "rank": "DQ"
+            "rank": "DQ",
+            "dq": "http://web.archive.org/web/20011204171348/http://www.wizards.com/sideboard/article.asp?x=GPHK01%5c650dq"
         },
         {
             "name": "Chi Fung Mok",
-            "rank": "DQ"
+            "rank": "DQ",
+            "dq": "http://web.archive.org/web/20011204194629/http://www.wizards.com/sideboard/article.asp?x=GPHK01%5c760dq"
         },
         {
             "name": "Yujian Zhou",
-            "rank": "DQ"
+            "rank": "DQ",
+            "dq": "http://web.archive.org/web/20011204194629/http://www.wizards.com/sideboard/article.asp?x=GPHK01%5c760dq"
         }
     ],
     "teamsize": 1

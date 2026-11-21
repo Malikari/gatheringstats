@@ -1,0 +1,800 @@
+  {
+  "type": "World Championships",
+  "topfinish": true,
+  "coverage": "https://magic.gg/events/magic-world-championship-32",
+  "date": "November 13-15, 2026",
+  "season": "2025-26",
+  "formats": [
+    "Standard",
+    "Booster Draft"
+  ],
+  "teamsize": 1,
+  "topn": 8,
+  "structure": [
+    "Day 1: Booster Draft (Star Trek) 3 rounds; 4 rounds (Standard); cut to 12 points",
+    "Day 2: Booster Draft, 3 rounds; 4 rounds (Standard); players with 30 points automatically advance to Top 8, remaining Top 8 slots decided after round 14",
+    "Day 3: Bo5 single elimination",
+    "---",
+    "Standard legal sets: Wilds of Eldraine – Star Trek (20 sets)",
+    "---",
+    "Mulligan: London (any number of times, always draw seven cards, then return cards to the bottom equal to the number of mulligans taken)"
+  ],
+  "medium": "Tabletop",
+  "id": "world-championships-2026",
+  "location": "Atlanta, Georgia, United States",
+  "site": "Georgia World Congress Center",
+  "logo": "worldslogo",
+  "name": "World Championship 32",
+  "standings": [
+    {
+      "name": "Stefan Schuetz",
+      "matchpoints": 33,
+      "money": 100000,
+      "poy": 27,
+      "deck": "yK5HbjEE8kC-6nKTbQx4GQ"
+    },
+    {
+      "name": "Eduardo Sajgalik",
+      "matchpoints": 30,
+      "money": 50000,
+      "poy": 23,
+      "deck": "FmZywKtLjEOH7YArmvi1Cw"
+    },
+    {
+      "name": "Kellen Pastore",
+      "matchpoints": 34,
+      "money": 25000,
+      "poy": 20,
+      "deck": "tm-hzFbZO0OO3sBcUTDCZQ"
+    },
+    {
+      "name": "James Drake",
+      "matchpoints": 30,
+      "money": 25000,
+      "poy": 20,
+      "deck": "0fxCMJm0PUWunqnIVVlm4g"
+    },
+    {
+      "name": "Charalampos Kikidis",
+      "matchpoints": 36,
+      "money": 20000,
+      "poy": 18,
+      "deck": "jo6aYUkNOkSSYSyxJgv9DQ"
+    },
+    {
+      "name": "Arne Huschenbeth",
+      "matchpoints": 34,
+      "money": 20000,
+      "poy": 18,
+      "deck": "SpHWsgh5IU6TAJlJNzPD7g"
+    },
+    {
+      "name": "Shuhei Nakamura",
+      "matchpoints": 31,
+      "money": 20000,
+      "poy": 18,
+      "deck": "eKMdO_kFtEW6K8vu4C7zhg"
+    },
+    {
+      "name": "Abe Schnake",
+      "matchpoints": 31,
+      "money": 20000,
+      "poy": 18,
+      "deck": "tSKbV8zDA0OFqSl-ZFUeaw"
+    },
+    {
+      "name": "Bernardo Torres",
+      "matchpoints": 30,
+      "money": 15000,
+      "poy": 16
+    },
+    {
+      "name": "Yuuki Ichikawa",
+      "matchpoints": 28,
+      "money": 15000,
+      "poy": 12
+    },
+    {
+      "name": "No-Ah Ma",
+      "matchpoints": 28,
+      "money": 15000,
+      "poy": 12
+    },
+    {
+      "name": "Rafael Kenji Marques Nishiyama",
+      "matchpoints": 28,
+      "money": 15000,
+      "poy": 12
+    },
+    {
+      "name": "Satoshi Nakayama",
+      "matchpoints": 27,
+      "money": 13000,
+      "poy": 11
+    },
+    {
+      "name": "Alexander Kans",
+      "matchpoints": 27,
+      "money": 13000,
+      "poy": 11
+    },
+    {
+      "name": "Marcelo Rodrigues Cavalcante",
+      "matchpoints": 27,
+      "money": 13000,
+      "poy": 11
+    },
+    {
+      "name": "Shaun Henry",
+      "matchpoints": 27,
+      "money": 13000,
+      "poy": 11
+    },
+    {
+      "name": "Zevin Faust",
+      "matchpoints": 27,
+      "money": 12000,
+      "poy": 11
+    },
+    {
+      "name": "Petr Sochurek",
+      "matchpoints": 27,
+      "money": 12000,
+      "poy": 11
+    },
+    {
+      "name": "Matt Xu",
+      "matchpoints": 27,
+      "money": 12000,
+      "poy": 11
+    },
+    {
+      "name": "Christoffer Larsen",
+      "matchpoints": 27,
+      "money": 12000,
+      "poy": 11
+    },
+    {
+      "name": "Tristan Wylde-LaRue",
+      "matchpoints": 26,
+      "money": 11000,
+      "poy": 8
+    },
+    {
+      "name": "Andy Garcia-Romo",
+      "matchpoints": 26,
+      "money": 11000,
+      "poy": 8
+    },
+    {
+      "name": "Yimin Zhi",
+      "matchpoints": 25,
+      "money": 11000,
+      "poy": 7
+    },
+    {
+      "name": "Matthew Nass",
+      "matchpoints": 25,
+      "money": 11000,
+      "poy": 7
+    },
+    {
+      "name": "Adam Edelson",
+      "matchpoints": 25,
+      "money": 8500,
+      "poy": 7
+    },
+    {
+      "name": "Mattia Oneto",
+      "matchpoints": 25,
+      "money": 8500,
+      "poy": 7
+    },
+    {
+      "name": "Lorenzo Gruppi",
+      "matchpoints": 25,
+      "money": 8500,
+      "poy": 7
+    },
+    {
+      "name": "Andrew Elenbogen",
+      "matchpoints": 25,
+      "money": 8500,
+      "poy": 7
+    },
+    {
+      "name": "Marc Peral",
+      "matchpoints": 24,
+      "money": 8500,
+      "poy": 6
+    },
+    {
+      "name": "Allen Wu",
+      "matchpoints": 24,
+      "money": 8500,
+      "poy": 6
+    },
+    {
+      "name": "Derrick Davis",
+      "matchpoints": 24,
+      "money": 8500,
+      "poy": 6
+    },
+    {
+      "name": "Toni Portolan",
+      "matchpoints": 24,
+      "money": 8500,
+      "poy": 6
+    },
+    {
+      "name": "Justin Chin",
+      "matchpoints": 24,
+      "money": 7500,
+      "poy": 6
+    },
+    {
+      "name": "Vinnie Fino",
+      "matchpoints": 24,
+      "money": 7500,
+      "poy": 6
+    },
+    {
+      "name": "Alexander Rohan",
+      "matchpoints": 24,
+      "money": 7500,
+      "poy": 6
+    },
+    {
+      "name": "Ian Robb",
+      "matchpoints": 24,
+      "money": 7500,
+      "poy": 6
+    },
+    {
+      "name": "Akira Shibata",
+      "matchpoints": 24,
+      "money": 7500,
+      "poy": 6
+    },
+    {
+      "name": "Marco Del Pivo",
+      "matchpoints": 24,
+      "money": 7500,
+      "poy": 6
+    },
+    {
+      "name": "Zachary Aymie",
+      "matchpoints": 24,
+      "money": 7500,
+      "poy": 6
+    },
+    {
+      "name": "Etai Kurtzman",
+      "matchpoints": 22,
+      "money": 7500,
+      "poy": 4
+    },
+    {
+      "name": "Jacob Mitchell-Rabaey",
+      "matchpoints": 22,
+      "money": 6000,
+      "poy": 4
+    },
+    {
+      "name": "Andrea Fortunati",
+      "matchpoints": 22,
+      "money": 6000,
+      "poy": 4
+    },
+    {
+      "name": "Alejandro Mora Romero",
+      "matchpoints": 21,
+      "money": 6000,
+      "poy": 3
+    },
+    {
+      "name": "Toru Horie",
+      "matchpoints": 21,
+      "money": 6000,
+      "poy": 3
+    },
+    {
+      "name": "Nicholas Odenheimer",
+      "matchpoints": 21,
+      "money": 6000,
+      "poy": 3
+    },
+    {
+      "name": "Mikey Bishara",
+      "matchpoints": 21,
+      "money": 6000,
+      "poy": 3
+    },
+    {
+      "name": "Masahide Moriyama",
+      "matchpoints": 21,
+      "money": 6000,
+      "poy": 3
+    },
+    {
+      "name": "Winston Chamora",
+      "matchpoints": 21,
+      "money": 6000,
+      "poy": 3
+    },
+    {
+      "name": "Samuel Pardee",
+      "matchpoints": 21,
+      "money": 6000,
+      "poy": 3
+    },
+    {
+      "name": "Nathan Goldberg",
+      "matchpoints": 21,
+      "money": 6000,
+      "poy": 3
+    },
+    {
+      "name": "Ken Yukuhiro",
+      "matchpoints": 21,
+      "money": 6000,
+      "poy": 3
+    },
+    {
+      "name": "Luis Salvatto",
+      "matchpoints": 21,
+      "money": 6000,
+      "poy": 3
+    },
+    {
+      "name": "Rasmus Enegren",
+      "matchpoints": 21,
+      "money": 5000,
+      "poy": 3
+    },
+    {
+      "name": "Ricardo Dias",
+      "matchpoints": 19,
+      "money": 5000,
+      "poy": 1
+    },
+    {
+      "name": "Noe Fauquenoi",
+      "matchpoints": 18,
+      "money": 5000,
+      "poy": 1
+    },
+    {
+      "name": "Quinn Tonole",
+      "matchpoints": 18,
+      "money": 5000,
+      "poy": 1
+    },
+    {
+      "name": "Arch Dota",
+      "matchpoints": 18,
+      "money": 5000,
+      "poy": 1
+    },
+    {
+      "name": "Maxime Rayvich",
+      "matchpoints": 18,
+      "money": 5000,
+      "poy": 1
+    },
+    {
+      "name": "Joao Quege",
+      "matchpoints": 18,
+      "money": 5000,
+      "poy": 1
+    },
+    {
+      "name": "Yuya Tase",
+      "matchpoints": 18,
+      "money": 5000,
+      "poy": 1
+    },
+    {
+      "name": "Marco Belacca",
+      "matchpoints": 16,
+      "money": 5000,
+      "poy": 1
+    },
+    {
+      "name": "Javier Dominguez",
+      "matchpoints": 15,
+      "money": 5000,
+      "poy": 1
+    },
+    {
+      "name": "Antonin Branis",
+      "matchpoints": 10,
+      "money": 5000,
+      "poy": 1
+    },
+    {
+      "name": "Christopher Kral",
+      "matchpoints": 10,
+      "money": 5000,
+      "poy": 1
+    },
+    {
+      "name": "Cyprien Tron",
+      "matchpoints": 9,
+      "money": 5000,
+      "poy": 1
+    },
+    {
+      "name": "Michael DeBenedetto-Plummer",
+      "matchpoints": 9,
+      "money": 5000,
+      "poy": 1
+    },
+    {
+      "name": "Anthony Lee",
+      "matchpoints": 9,
+      "money": 5000,
+      "poy": 1
+    },
+    {
+      "name": "Elijah Herr",
+      "matchpoints": 9,
+      "money": 5000,
+      "poy": 1
+    },
+    {
+      "name": "Nick Deriu",
+      "matchpoints": 9,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "Jean-Emmanuel Depraz",
+      "matchpoints": 9,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "Neilson Zhang",
+      "matchpoints": 9,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "Tom White",
+      "matchpoints": 9,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "Nam Dang",
+      "matchpoints": 9,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "Samuele Estratti",
+      "matchpoints": 9,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "Rui Zhang",
+      "matchpoints": 9,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "Owen Turcotte",
+      "matchpoints": 9,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "Davor Detecnik",
+      "matchpoints": 9,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "Aidan Mirabelli",
+      "matchpoints": 9,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "Shota Yasooka",
+      "matchpoints": 9,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "Yuta Hori",
+      "matchpoints": 9,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "Riley Beck",
+      "matchpoints": 9,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "Simon Linabury",
+      "matchpoints": 9,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "Francisco Sanchez",
+      "matchpoints": 9,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "Mateo Ferreira",
+      "matchpoints": 9,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "Timo Bertram",
+      "matchpoints": 9,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "Josep Sanfeliu",
+      "matchpoints": 9,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "Brady Munroe",
+      "matchpoints": 9,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "Samuel Chang",
+      "matchpoints": 9,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "John Puglisi Clark",
+      "matchpoints": 9,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "Kho Sek-un",
+      "matchpoints": 9,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "Thierry Ramboa",
+      "matchpoints": 9,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "Muhan Yu",
+      "matchpoints": 9,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "Joao Jorge Sales Junior",
+      "matchpoints": 6,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "Daniel Toledo",
+      "matchpoints": 6,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "Lee Shi Tian",
+      "matchpoints": 6,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "Joseph Puglisi Clark",
+      "matchpoints": 6,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "Will Krueger",
+      "matchpoints": 6,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "Julio Bejarano Espejo",
+      "matchpoints": 6,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "Nathan Steuer",
+      "matchpoints": 6,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "Seth Manfield",
+      "matchpoints": 6,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "Noah Michaud",
+      "matchpoints": 6,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "Daniel Weiss",
+      "matchpoints": 6,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "Ryan Condon",
+      "matchpoints": 6,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "January Adams",
+      "matchpoints": 6,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "Isael Feitosa",
+      "matchpoints": 6,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "Pierre Liebsch",
+      "matchpoints": 6,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "Ondrej Strasky",
+      "matchpoints": 6,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "Matthew Wright",
+      "matchpoints": 6,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "Guglielmo Lupi",
+      "matchpoints": 6,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "Dylan Nollen",
+      "matchpoints": 6,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "Maxx Kominowski",
+      "matchpoints": 6,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "Adria Martin",
+      "matchpoints": 3,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "Yuchen Liu",
+      "matchpoints": 3,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "Dawson Courson",
+      "matchpoints": 3,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "Robert Wagner-Krankel",
+      "matchpoints": 3,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "Matthew Stefansson",
+      "matchpoints": 3,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "Keiichirou Matsumoto",
+      "matchpoints": 3,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "Eli Kassis",
+      "matchpoints": 3,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "Francisco Avila",
+      "matchpoints": 3,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "Alexey Paulot",
+      "matchpoints": 3,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "Jordan Selesnick",
+      "matchpoints": 3,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "Nicholas Talbot",
+      "matchpoints": 3,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "Mason Buonadonna",
+      "matchpoints": 3,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "Jorge Lopez",
+      "matchpoints": 3,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "Liam Kane Meilleur",
+      "matchpoints": 0,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "Marco Cammilluzzi",
+      "matchpoints": 0,
+      "money": 4000,
+      "poy": 1
+    },
+    {
+      "name": "Richmond Tan",
+      "matchpoints": 0,
+      "money": 4000,
+      "poy": 1
+    }
+  ]
+}

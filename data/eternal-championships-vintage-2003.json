@@ -1,5 +1,6 @@
 {
     "type": "Eternal Championships - Vintage",
+    "coverage": "https://web.archive.org/web/20030806192323/http://www.starcitygames.com/coverage.php?Event=T1WORLDCHAMPS",
     "date": "July 24, 2003",
     "season": "2002-03",
     "formats": [
@@ -11,10 +12,14 @@
     "logo": "vintage-championship",
     "name": "Vintage Championships 2003",
     "standings": [
-        {"name": "Carl Winter", "report": "https://articles.starcitygames.com/articles/the-vintage-world-championships-report-winner/"},
+        {"name": "Carl Winter", "report": "https://articles.starcitygames.com/articles/the-vintage-world-championships-report-winner/", "deck": "hYqn5sXhIU2QRc04QneCTg"},
         {"name": "Steve Stoots"},
-        {"name": "Richard Mattiuzzo", "rank": "3-4"},
-        {"name": "David Allen", "rank": "5-8"}
+        {"name": "Ryan Austin"},
+        {"name": "Richard Mattiuzzo"},
+        {"name": "Kevin Cron"},
+        {"name": "Paul Rosenbeck"},
+        {"name": "Ian DeGraff"},
+        {"name": "David Allen"}
     ],
     "teamsize": 1
     

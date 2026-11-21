@@ -1,6 +1,6 @@
 {
     "type": "European Championship",
-    "coverage": "https://web.archive.org/web/20000307041731/http://www.wizards.com/sideboard/article.asp?sb19990711a",
+    "coverage": "https://web.archive.org/web/19991009154517/http://www.wizards.be:80/MAGAZINES/EC_1999/Final_Standings.html",
     "date": "July 9-11, 1999",
     "season": "1998-99",
     "formats": [
@@ -49,78 +49,192 @@
             "name": "Holger Meinecke"
         },
         {
+            "money": 1845,
+            "name": "Florian Dworak"
+        },
+        {
+            "money": 1715,
+            "name": "Hector Fuentes"
+        },
+        {
             "money": 1600,
             "name": "Ellis Romero",
-            "rank": 11,
             "report": "https://web.archive.org/web/20010118041500/http://www.thedojo.com/t991/t2.990713ero.shtml"
         },
         {
             "money": 1495,
-            "name": "Rune Espenhein",
-            "rank": 12
+            "name": "Rune Espenhein"
+        },
+        {
+            "money": 1400,
+            "name": "Svend Sparre Geertsen"
         },
         {
             "money": 1315,
-            "name": "Dominik Hothow",
-            "rank": 14
+            "name": "Dominik Hothow"
         },
         {
             "money": 1235,
-            "name": "Sam Waller",
-            "rank": 15
+            "name": "Sam Waller"
+        },
+        {
+            "money": 1160,
+            "name": "Claudio Negrini"
+        },
+        {
+            "money": 1090,
+            "name": "Andre Konstanczer"
+        },
+        {
+            "money": 1025,
+            "name": "Mark Dictus"
         },
         {
             "money": 965,
-            "name": "Gisle Salem",
-            "rank": 19
+            "name": "Gisle Salem"
+        },
+        {
+            "money": 910,
+            "name": "Pawel Mazierski"
         },
         {
             "money": 860,
-            "name": "Jakob Steinaa",
-            "rank": 21
+            "name": "Jakob Steinaa"
+        },
+        {
+            "money": 815,
+            "name": "Jussi Salovaara"
+        },
+        {
+            "money": 770,
+            "name": "John Larkin"
+        },
+        {
+            "money": 730,
+            "name": "Rickard Soderberg"
+        },
+        {
+            "money": 695,
+            "name": "Francisco Gonzalez"
+        },
+        {
+            "money": 660,
+            "name": "Markus Bell"
         },
         {
             "money": 630,
             "name": "Daniel Brickwell",
-            "rank": 27,
             "report": "https://web.archive.org/web/20010118043400/http://www.thedojo.com/t991/t2.990716dbr.shtml"
+        },
+        {
+            "money": 600,
+            "name": "Gregor Wollny"
+        },
+        {
+            "money": 575,
+            "name": "Michael Recht"
+        },
+        {
+            "money": 550,
+            "name": "Sarp Ovutmen"
+        },
+        {
+            "money": 525,
+            "name": "Wouter Witkam"
+        },
+        {
+            "money": 505,
+            "name": "Christer Ljones"
+        },
+        {
+            "money": 485,
+            "name": "Seppo Toikka"
         },
         {
             "money": 465,
             "name": "John Ormerod",
-            "rank": 34,
             "report": "https://web.archive.org/web/20010118043200/http://www.thedojo.com/t991/t2.990715jor.shtml"
         },
         {
             "money": 445,
-            "name": "Guy Bowles",
-            "rank": 35
+            "name": "Guy Bowles"
+        },
+        {
+            "money": 430,
+            "name": "Oliver Brigmann"
+        },
+        {
+            "money": 415,
+            "name": "Carlos Barrado"
+        },
+        {
+            "money": 400,
+            "name": "Jakub Slemr"
+        },
+        {
+            "money": 385,
+            "name": "Sasha Zorc"
         },
         {
             "money": 370,
-            "name": "Fabrice Rabhi",
-            "rank": 40
+            "name": "Fabrice Rabhi"
+        },
+        {
+            "money": 355,
+            "name": "Marco Duynisveld"
+        },
+        {
+            "money": 345,
+            "name": "Bas Postema"
+        },
+        {
+            "money": 335,
+            "name": "Alessandro Betti"
         },
         {
             "money": 325,
-            "name": "Mikko Snygg",
-            "rank": 44
+            "name": "Mikko Snygg"
         },
         {
             "name": "Stephan Valkyser",
-            "rank": 45,
             "money": 315,
             "report": "https://web.archive.org/web/19991008180607/http://www.dorf.rwth-aachen.de/~david/AachenFantastics/reports/Stephan_EC_99.html"
         },
         {
+            "money": 305,
+            "name": "Romain Glodt"
+        },
+        {
+            "money": 295,
+            "name": "Toni Rissanen"
+        },
+        {
+            "money": 285,
+            "name": "Tomi Walamies"
+        },
+        {
+            "money": 275,
+            "name": "Rosario Maij"
+        },
+        {
+            "money": 270,
+            "name": "David Brucker"
+        },
+        {
             "money": 265,
-            "name": "Michael Nessler",
-            "rank": 51
+            "name": "Michael Nessler"
+        },
+        {
+            "money": 260,
+            "name": "Filipe Girao"
         },
         {
             "money": 255,
-            "name": "Philip Card",
-            "rank": 53
+            "name": "Philip Card"
+        },
+        {
+            "money": 250,
+            "name": "Evan Van Lissum"
         },
         {
             "money": 245,
@@ -128,427 +242,234 @@
             "rank": 55
         },
         {
+            "money": 240,
+            "name": "Christian Lührs"
+        },
+        {
+            "money": 235,
+            "name": "Jim Herold"
+        },
+        {
+            "money": 230,
+            "name": "Robert Jurkovic"
+        },
+        {
+            "money": 225,
+            "name": "Dirk Roth"
+        },
+        {
+            "money": 220,
+            "name": "Ken Asp"
+        },
+        {
             "money": 215,
-            "name": "Benedikt Klauser",
-            "rank": 61
+            "name": "Benedikt Klauser"
         },
         {
             "money": 210,
-            "name": "Benedict Martin",
-            "rank": 62
+            "name": "Benedict Martin"
         },
         {
-            "name": "Ivan Garcia-Gonzalez",
-            "rank": 71
+            "money": 205,
+            "name": "Cyrille De Foucaud"
+        },
+        {
+            "money": 200,
+            "name": "Dominic Symens"
+        },
+        {
+            "name": "Klaus Gronbaek"
+        },
+        {
+            "name": "Alexander Witt"
+        },
+        {
+            "name": "Michiel Horemans"
+        },
+        {
+            "name": "Fernando Escribano"
+        },
+        {
+            "name": "Allan Mortensen"
+        },
+        {
+            "name": "Arelius Areliusarson"
+        },
+        {
+            "name": "Ivan Garcia-Gonzalez"
+        },
+        {
+            "name": "Bram Snepvangers"
         },
         {
             "name": "Daniel Paskins",
-            "rank": 73,
             "report": "https://web.archive.org/web/20010118042100/http://www.thedojo.com/t991/t2.990715dpa.shtml"
         },
         {
-            "name": "Emmanuel Vernay",
-            "rank": 87
+            "name": "Robert Karc"
         },
         {
-            "name": "Ivan Stanoev",
-            "rank": 88
+            "name": "Nicolas Olivieri"
         },
         {
-            "name": "Florent Jeudon",
-            "rank": 90
+            "name": "Pierre-Alain Laur"
+        },
+        {
+            "name": "Timme Nyegaard"
+        },
+        {
+            "name": "Sven Woehrle"
+        },
+        {
+            "name": "Michael Sochon"
+        },
+        {
+            "name": "Antoine Ruel"
+        },
+        {
+            "name": "Andreas Jonsson"
+        },
+        {
+            "name": "Konrad Zawadzki"
+        },
+        {
+            "name": "Sigurd Eskeland"
+        },
+        {
+            "name": "Beligiannis Taxiarhis"
+        },
+        {
+            "name": "Dirk Hein"
+        },
+        {
+            "name": "Andrej Renko"
+        },
+        {
+            "name": "Emmanuel Vernay"
+        },
+        {
+            "name": "Ivan Stanoev"
+        },
+        {
+            "name": "Olivier Ruel"
+        },
+        {
+            "name": "Florent Jeudon"
+        },
+        {
+            "name": "Ilias Zografos"
+        },
+        {
+            "name": "Claus Kleinow"
+        },
+        {
+            "name": "Franck Canu"
+        },
+        {
+            "name": "Frederico Bastos"
+        },
+        {
+            "name": "Lubos Lauer"
+        },
+        {
+            "name": "David Luhaer"
+        },
+        {
+            "name": "Martin Miller"
+        },
+        {
+            "name": "Marko Cikos"
+        },
+        {
+            "name": "Alexander Blumke"
+        },
+        {
+            "name": "Stefan Leppert"
+        },
+        {
+            "name": "Artur Ferreira"
+        },
+        {
+            "name": "Oyvind Odegaard"
+        },
+        {
+            "name": "Patrick Mello"
+        },
+        {
+            "name": "Bjoern Falenski"
+        },
+        {
+            "name": "Ivan Solaja"
+        },
+        {
+            "name": "Emmanuel Beltrando"
+        },
+        {
+            "name": "Stewart Shinkins"
+        },
+        {
+            "name": "Martin Deery"
+        },
+        {
+            "name": "Bjorn Jocumsen"
         },
         {
             "name": "Marcin Goral Horecki",
             "rank": 110
         },
         {
-            "name": "Florian Dworak",
-            "rank": "Day 2"
+            "name": "Hans-Ole Kronstrand"
         },
         {
-            "name": "Jussi Salovaara",
-            "rank": "Day 2"
+            "name": "Manuel Bevand"
         },
         {
-            "name": "Rickard Soderberg",
-            "rank": "Day 2"
+            "name": "Basar Coskunoglu"
         },
         {
-            "name": "Hector Fuentes",
-            "rank": "Day 2"
+            "name": "Orr Bildner"
         },
         {
-            "name": "Markus Bell",
-            "rank": "Day 2"
+            "name": "Piotr Chabalowski"
         },
         {
-            "name": "Sarp Ovutmen",
-            "rank": "Day 2"
+            "name": "Rui Sequeira"
         },
         {
-            "name": "Svend Sparre Geertsen",
-            "rank": "Day 2"
+            "name": "Eviatar Olpiner"
         },
         {
-            "name": "Jakub Slemr",
-            "rank": "Day 2"
+            "name": "Tommy Hammer"
         },
         {
-            "name": "Sasha Zorc",
-            "rank": "Day 2"
+            "name": "Felipe Saavedra"
         },
         {
-            "name": "Marco Duynisveld",
-            "rank": "Day 2"
+            "name": "Janosch Kühn"
         },
         {
-            "name": "Andre Konstanczer",
-            "rank": "Day 2"
+            "name": "Przemek Oberbek"
         },
         {
-            "name": "Claudio Negrini",
-            "rank": "Day 2"
+            "name": "Jens Holtz"
         },
         {
-            "name": "Alessandro Betti",
-            "rank": "Day 2"
+            "name": "Gabor Papp"
         },
         {
-            "name": "Mark Dictus",
-            "rank": "Day 2"
+            "name": "Victor Van Den Broek"
         },
         {
-            "name": "Rosario Maij",
-            "rank": "Day 2"
+            "name": "Daniel Gulyas"
         },
         {
-            "name": "Pawel Mazierski",
-            "rank": "Day 2"
+            "name": "Andrej Cibej"
         },
         {
-            "name": "John Larkin",
-            "rank": "Day 2"
+            "name": "Zsolt Tokoli"
         },
         {
-            "name": "Francisco Jose González Hidalgo",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Filipe Girao",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Gregor Wollny",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Michael Recht",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Evan Van Lissum",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Christian Lührs",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Wouter Witkam",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Seppo Toikka",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Christer Ljones",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Michiel Horemans",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Oliver Brigmann",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Allan Mortensen",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Carlos Barrado",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Arelius Areliusarson",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Bas Postema",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Bram Snepvangers",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Romain Glodt",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Nicolas Olivieri",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Pierre-Alain Laur",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Toni Rissanen",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Tomi Walamies",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Sigurd Eskeland",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Andreas Jonsson",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Dirk Hein",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Andrej Renko",
-            "rank": "Day 2"
-        },
-        {
-            "name": "David Brucker",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Jim Herold",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Dirk Roth",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Ken Asp",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Robert Jurkovic",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Ilias Zografos",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Claus Kleinow",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Cyrille De Foucaud",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Dominic Symens",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Franck Canu",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Klaus Grønbæk",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Martin Miller",
-            "rank": "Day 2"
-        },
-        {
-            "name": "David Luhær",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Alexander Witt",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Fernando Escribano",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Alexander Blumke",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Stefan Leppert",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Robert Karc",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Artur Ferreira",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Timme Nyegaard",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Antoine Ruel",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Sven Wöhrle",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Oyvind Odegaard",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Patrick Mello",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Björn Falenski",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Michael Sochon",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Konrad Zawadzki",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Taxiarhis Beligiannis",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Olivier Ruel",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Bjorn Jocumsen",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Manuel Bevand",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Lubos Lauer",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Hans-Ole Kronstrand",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Frederico Bastos",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Emmanuel Beltrando",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Stewart Shinkins",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Basar Coskunoglu",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Ivan Solaja",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Orr Bildner",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Rui Sequeira",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Marko Cikos",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Eviatar Olpiner",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Tommy Hammer",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Felipe Saavedra",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Janosch Kühn",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Przemek Oberbek",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Martin Deery",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Gabor Papp",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Victor Van Den Broek",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Daniel Gulyas",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Piotr Chabalowski",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Jens Holtz",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Andrej Cibej",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Zsolt Tokoli",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Philippe Jean",
-            "rank": "Day 2"
+            "name": "Philippe Jean"
         },
         {
             "name": "Dario Parazzoli",

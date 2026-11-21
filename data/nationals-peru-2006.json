@@ -1,5 +1,6 @@
 {
     "type": "Nationals - Peru",
+    "coverage": "https://web.archive.org/web/20080604191107/http://www.gamezoneperu.com/Magic/mg_nationals06_cobertura.htm",
     "date": "August 6, 2006",
     "season": "2006",
     "formats": [
@@ -13,14 +14,34 @@
     "name": "Nationals Peru 2006",
     "standings": [
         {
-            "name": "Luis Bonilla"
+            "name": "Luis Bonilla",
+            "money": 1250
         },
         {
-            "name": "Antonio Vargas"
+            "name": "Antonio Vargas",
+            "money": 750
+        },
+        {
+            "name": "Steve Vidalon Hoyos",
+            "rank": "SF",
+            "money": 500
+        },
+        {
+            "name": "Jorge Melgar",
+            "rank": "SF",
+            "money": 500
+        },
+        {
+            "name": "Jaime Li Wu",
+            "rank": "QF"
+        },
+        {
+            "name": "Javier Wong",
+            "rank": "QF"
         },
         {
             "name": "Juan Barzola",
-            "rank": "NT"
+            "rank": "QF"
         },
         {
             "name": "Julio Antonio Maravi Rasmussen",
