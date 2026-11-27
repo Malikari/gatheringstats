@@ -27,7 +27,7 @@
     "deploy": "grunt prod && gh-pages -d build"
   },
   "devDependencies": {
-    "@babel/core": "^7.9.0",
+    "@babel/core": "^7.29.13",
     "@babel/preset-env": "^7.9.0",
     "@babel/preset-react": "^7.9.4",
     "ava": "^3.6.0",
